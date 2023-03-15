@@ -1,0 +1,40 @@
+add_shortcode( 'pcs-UCL23WI3494', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179688" rel="179688">
+<input type="hidden" name="price||605a7a9954142dc55b49d6a913b8855cbe84d5dcd5eca954a45342ea0387bee4" id="fs_price_179688" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179688" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179688" />
+<input type="hidden" name="image||1e358cba4449e6af7799f5b5fa2bac043bd41f437d94b5715c39f7e1afe4542a||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/Lent2023-foxy-thumb.jpg" id="foxyshop_cart_product_image_179688" />
+<input type="hidden" name="url||5980b600eb23db0b79fd5e07ce1dcabcc81bf08e21d3c4ad27ac1a9e7041f600" value="https://crosscatholic.org/products/giving-water-to-those-in-need-5/" id="fs_url_179688" />
+<input type="hidden" name="quantity_min||2e5efd26a9870e0a57aba482811f6422737443671fbe93e724cea64ffc0d5ec9||open" value="0" id="fs_quantity_min_179688" />
+<input type="hidden" name="quantity_max||765d0ba0a5c00538522074b44e22ce7b5d0d07c3011e57cb5c7b9f3e332219ca||open" value="0" id="fs_quantity_max_179688" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179688" />
+<input type="hidden" name="name||c7980de81afda62d7b0a6301c416a705e2e6a466b488139abd49590cc9d5d72b" id="fs_name_179688" value="Giving Water to Those in Need" />
+<input type="hidden" name="code||46e0caef8734a4228fd4683ae4f8386256286576f4002954c9dbfbf07c207a5f" id="fs_code_179688" value="UCL23WI3494" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCL23WI3494_1" class="variation-donation">
+<option value="$250 blesses 10 people{p:250}||b2551a4fdd426c9a66bfaa68b9311b693b4d859986bf946fa75c356819bd5522" priceset="25000">$250 blesses 10 people</option>
+<option value="$125 blesses 5 people{p:125}||fd3fa5662aaa104e9572a1eceaef73f9f7c1f54dee1c4e45da951208ca321350" priceset="12500">$125 blesses 5 people</option>
+<option selected="" value="$50 blesses 2 people{p:50}||613089a535131dedb1dabfb12ebda43ea20258071c4e1dd7a2e005c06a1ed9ed" priceset="5000">$50 blesses 2 people</option>
+<option value="$25 blesses 1 person{p:25}||1e66085a9d88ba97e0c9175f76ff2867da148c3b03fe670068cb0ce9ce7264d9" priceset="2500">$25 blesses 1 person</option>
+<option value="Other{dkey:custom-price}||201fde34a6c386620083a5baf2a56e78b739013cb736c09feea1165dd373cbec" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="UCL23WI3494_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||899744a3ca11b4779b11c5f8854825d14698a7755230edfcae46fa1f93b250d0||open" id="UCL23WI3494_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||17c20d21c2651143ec108196da799a84a09c11cfff1bb799bd3d4cb3f77cb7c8" id="UCL23WI3494_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="UCL23WI3494_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||9c9ea4961643d215fc0bef5a31b5c7374f2bbb6e6e030ea4c35c58e856bcea89" id="UCL23WI3494_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="UCL23WI3494_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
