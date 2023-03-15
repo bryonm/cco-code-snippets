@@ -1,0 +1,75 @@
+add_shortcode( 'sp-imp-WCS23PLPG9005', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193395" rel="193395">
+<input type="hidden" name="price||7e8fc79b21c1d97353eac8a3d54ad40957c3f322ee98563db389ee12aba6a719" id="fs_price_193395" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193395" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193395" />
+<input type="hidden" name="image||865478c5ea15dc5d95504d31b7b2cbf9c91694c3c64ccea3997d2df47376362b||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/EducationImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193395" />
+<input type="hidden" name="url||21cd2fd0c74c008d31b723c474018e6ecbebbe3a1c156d84c6b3f8fc262bdda0" value="https://crosscatholic.org/products/donar-a-educacion-25-regalo/" id="fs_url_193395" />
+<input type="hidden" name="quantity_min||c4ed355426fb3b8a54744e4d7ec1ba7b39dd466d546b2648c79bc2d56b640077||open" value="0" id="fs_quantity_min_193395" />
+<input type="hidden" name="quantity_max||212ac7b11afe1f2e5443096abe8695aad4b025fd797761d47d452e8b00d1f0cd||open" value="0" id="fs_quantity_max_193395" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193395" />
+<input type="hidden" name="name||37a3728a0d576924fe534d8986c4811e80fc7ba4d3a90839874695549b51a097" id="fs_name_193395" value="Donar a Educación $25 regalo" />
+<input type="hidden" name="code||9243afd6856163a88775278fc3f765bd9f64e174f93e933486544fdc99e4029b" id="fs_code_193395" value="WCS23PLPG9005" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||dfdbdf9d75d022762507f0e64d4623cd02794a4e55d1f131aeb52f8016718383" id="WCS23PLPG9005_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193396" rel="193396">
+<input type="hidden" name="price||e162d7beca43fdfff1bc30de7c3a3ae5c5b3415dc4a7ae1507592a6d463902bc" id="fs_price_193396" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193396" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193396" />
+<input type="hidden" name="image||865478c5ea15dc5d95504d31b7b2cbf9c91694c3c64ccea3997d2df47376362b||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/EducationImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193396" />
+<input type="hidden" name="url||b001adf4b6f6a146a19941677b90f3c20d93bd9dca9515079984a036103f6955" value="https://crosscatholic.org/products/donar-a-educacion-50-regalo/" id="fs_url_193396" />
+<input type="hidden" name="quantity_min||c4ed355426fb3b8a54744e4d7ec1ba7b39dd466d546b2648c79bc2d56b640077||open" value="0" id="fs_quantity_min_193396" />
+<input type="hidden" name="quantity_max||212ac7b11afe1f2e5443096abe8695aad4b025fd797761d47d452e8b00d1f0cd||open" value="0" id="fs_quantity_max_193396" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193396" />
+<input type="hidden" name="name||56b7478286ee60c6ea0b72f87db3c46f6bed411f20c56dd92df577aa48df5a77" id="fs_name_193396" value="Donar a Educación $50 regalo" />
+<input type="hidden" name="code||9243afd6856163a88775278fc3f765bd9f64e174f93e933486544fdc99e4029b" id="fs_code_193396" value="WCS23PLPG9005" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||c394bbbab3683ff40e3f7a60016034f36a91b035732ea817f78388db1d8f7a7e" id="WCS23PLPG9005_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193397" rel="193397">
+<input type="hidden" name="price||5210cab83119a662761dec4cda282dbe15fbf893b0f61c1546390e90c4dd4dc4" id="fs_price_193397" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193397" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193397" />
+<input type="hidden" name="image||865478c5ea15dc5d95504d31b7b2cbf9c91694c3c64ccea3997d2df47376362b||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/EducationImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193397" />
+<input type="hidden" name="url||366b742383e4e849a7943eea532e7201164006150361186d27335ec45d8ea369" value="https://crosscatholic.org/products/donar-a-educacion-100-regalo/" id="fs_url_193397" />
+<input type="hidden" name="quantity_min||c4ed355426fb3b8a54744e4d7ec1ba7b39dd466d546b2648c79bc2d56b640077||open" value="0" id="fs_quantity_min_193397" />
+<input type="hidden" name="quantity_max||212ac7b11afe1f2e5443096abe8695aad4b025fd797761d47d452e8b00d1f0cd||open" value="0" id="fs_quantity_max_193397" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193397" />
+<input type="hidden" name="name||c7e45787cc9b9d608d8cf2f252d5322e3da2822db292045a000dddbafbea13f1" id="fs_name_193397" value="Donar a Educación $100 regalo" />
+<input type="hidden" name="code||9243afd6856163a88775278fc3f765bd9f64e174f93e933486544fdc99e4029b" id="fs_code_193397" value="WCS23PLPG9005" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||d8bc5ce26e4b31c2cea31a1a874f415bc429a9b1512b6fcd18b8b1e1329bcda0" id="WCS23PLPG9005_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193398" rel="193398">
+<input type="hidden" name="price||fd51219faf2a5b3d86f3994146ef647d20cb90e47a87d4a311ddc9194a4c31bf" id="fs_price_193398" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193398" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193398" />
+<input type="hidden" name="image||865478c5ea15dc5d95504d31b7b2cbf9c91694c3c64ccea3997d2df47376362b||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/EducationImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193398" />
+<input type="hidden" name="url||aa4ffa798a918a94b7d411bf0cea9d2563651377cf80ba0a1a7f3c53b7718c73" value="https://crosscatholic.org/products/donar-a-educacion/" id="fs_url_193398" />
+<input type="hidden" name="quantity_min||c4ed355426fb3b8a54744e4d7ec1ba7b39dd466d546b2648c79bc2d56b640077||open" value="0" id="fs_quantity_min_193398" />
+<input type="hidden" name="quantity_max||212ac7b11afe1f2e5443096abe8695aad4b025fd797761d47d452e8b00d1f0cd||open" value="0" id="fs_quantity_max_193398" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193398" />
+<input type="hidden" name="name||f9e2c043db29dbca535041cf985c3534531a27cb056a64ae7c07597258fade02" id="fs_name_193398" value="Donar a Educación" />
+<input type="hidden" name="code||9243afd6856163a88775278fc3f765bd9f64e174f93e933486544fdc99e4029b" id="fs_code_193398" value="WCS23PLPG9005" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9850f6b44fac6d451a62dc2bd49268fa176e3cc2227904374f92a9d0a3401f8d||open" id="WCS23PLPG9005_1" value="" class="variation-price foxyshop_required" required placeholder="$$"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
