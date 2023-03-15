@@ -1,0 +1,75 @@
+add_shortcode( 'sp-imp-WCS23PLPG9012', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193453" rel="193453">
+<input type="hidden" name="price||7c83dc68d33b390e095e89f0ee8f3c7dce2b5266ac813131571aba47ef2920cd" id="fs_price_193453" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193453" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193453" />
+<input type="hidden" name="image||784a89eb0b447053a7569fa14181b552abbc53664f98eedaf71043f0b6514bab||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/MicroEntImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193453" />
+<input type="hidden" name="url||68196bf2c090a765adc53c315affb1268500805e476ef225c22c7e2121d7846f" value="https://crosscatholic.org/products/donar-a-la-microempresa-25-regalo/" id="fs_url_193453" />
+<input type="hidden" name="quantity_min||67fab2c23af7b72e99f4d89eebd9c284aa1f8133a51ecb6b152bcad399bdcf3d||open" value="0" id="fs_quantity_min_193453" />
+<input type="hidden" name="quantity_max||09135151413bc4e0121792240244ca0f7215a210213b65ecf402063f02a267b0||open" value="0" id="fs_quantity_max_193453" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193453" />
+<input type="hidden" name="name||394652ff0149ebdfc758ba5c545cf1ce0994eeefdeb8efc3b96bae13fb9424fc" id="fs_name_193453" value="Donar a la microempresa $25 regalo" />
+<input type="hidden" name="code||7a2975e9b57e5640ae140085c96dc1497743bf0343327fc91f88db9551ac909e" id="fs_code_193453" value="WCS23PLPG9012" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||9807479fb991bed75f1768ffc78d2356b9245b5c206648246b06b602a6c90230" id="WCS23PLPG9012_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193454" rel="193454">
+<input type="hidden" name="price||ecde4125c8ad1114105d8cad5f4cb17e3babaf5edde0c5f9c56490b283fc31bf" id="fs_price_193454" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193454" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193454" />
+<input type="hidden" name="image||784a89eb0b447053a7569fa14181b552abbc53664f98eedaf71043f0b6514bab||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/MicroEntImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193454" />
+<input type="hidden" name="url||c29c355afe4423003afaac821bfc58ce211b61975bc1086f9842d84cf9606989" value="https://crosscatholic.org/products/donar-a-la-microempresa-50-regalo/" id="fs_url_193454" />
+<input type="hidden" name="quantity_min||67fab2c23af7b72e99f4d89eebd9c284aa1f8133a51ecb6b152bcad399bdcf3d||open" value="0" id="fs_quantity_min_193454" />
+<input type="hidden" name="quantity_max||09135151413bc4e0121792240244ca0f7215a210213b65ecf402063f02a267b0||open" value="0" id="fs_quantity_max_193454" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193454" />
+<input type="hidden" name="name||4512af3781a827a2ae5eabce2bd7ae9e1d417e6194f9275678db3efc47ab4392" id="fs_name_193454" value="Donar a la microempresa $50 regalo" />
+<input type="hidden" name="code||7a2975e9b57e5640ae140085c96dc1497743bf0343327fc91f88db9551ac909e" id="fs_code_193454" value="WCS23PLPG9012" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||086157d76c4dce7ab0697335772ca3ea79401983e55eb1cf100c5e2f8b374a0f" id="WCS23PLPG9012_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193455" rel="193455">
+<input type="hidden" name="price||563167a048651ed587946e55465588044148774c812ec8c52c48df2342d3a8b8" id="fs_price_193455" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193455" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193455" />
+<input type="hidden" name="image||784a89eb0b447053a7569fa14181b552abbc53664f98eedaf71043f0b6514bab||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/MicroEntImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193455" />
+<input type="hidden" name="url||1b34b530f19c9c7886781bd58188a033f2b3343b53df1c9519fc278e19810f56" value="https://crosscatholic.org/products/donar-a-la-microempresa-100-regalo/" id="fs_url_193455" />
+<input type="hidden" name="quantity_min||67fab2c23af7b72e99f4d89eebd9c284aa1f8133a51ecb6b152bcad399bdcf3d||open" value="0" id="fs_quantity_min_193455" />
+<input type="hidden" name="quantity_max||09135151413bc4e0121792240244ca0f7215a210213b65ecf402063f02a267b0||open" value="0" id="fs_quantity_max_193455" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193455" />
+<input type="hidden" name="name||e6584a948d122816313feb1091934ea89d03d68ed31f722fec9edaf7aecd2399" id="fs_name_193455" value="Donar a la microempresa $100 regalo" />
+<input type="hidden" name="code||7a2975e9b57e5640ae140085c96dc1497743bf0343327fc91f88db9551ac909e" id="fs_code_193455" value="WCS23PLPG9012" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||af7e23342cfa1ae2997da4292d3c98ca151d4517b57762c6cf6ddfdda2887126" id="WCS23PLPG9012_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193456" rel="193456">
+<input type="hidden" name="price||fd94da4c2f8b89e20cd6383d257df3a2fc38637d3a942539924efab61de69d6b" id="fs_price_193456" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193456" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193456" />
+<input type="hidden" name="image||784a89eb0b447053a7569fa14181b552abbc53664f98eedaf71043f0b6514bab||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/MicroEntImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193456" />
+<input type="hidden" name="url||0687d60e1efd1c662f14a91803689d2b6244ca38496e04bdce2aa1cf5f594a18" value="https://crosscatholic.org/products/donar-a-la-microempresa/" id="fs_url_193456" />
+<input type="hidden" name="quantity_min||67fab2c23af7b72e99f4d89eebd9c284aa1f8133a51ecb6b152bcad399bdcf3d||open" value="0" id="fs_quantity_min_193456" />
+<input type="hidden" name="quantity_max||09135151413bc4e0121792240244ca0f7215a210213b65ecf402063f02a267b0||open" value="0" id="fs_quantity_max_193456" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193456" />
+<input type="hidden" name="name||3863445eeda68ff0b8170636c2cd97c03e437d9e580dd5ce4423ab1090bf1d33" id="fs_name_193456" value="Donar a la microempresa" />
+<input type="hidden" name="code||7a2975e9b57e5640ae140085c96dc1497743bf0343327fc91f88db9551ac909e" id="fs_code_193456" value="WCS23PLPG9012" />
+<div class="foxyshop_variations">
+<input type="text" name="price||3573b1e506bc8601f73177eff32f3a7440cda1722acc5a8da8ceaa927834bc62||open" id="WCS23PLPG9012_1" value="" class="variation-price foxyshop_required" required placeholder="$$"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
