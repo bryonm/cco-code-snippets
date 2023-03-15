@@ -1,0 +1,75 @@
+add_shortcode( 'sp-imp-WCS23PLPG9002', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193467" rel="193467">
+<input type="hidden" name="price||7a40a5286a89c0dfc639121712cefdf9a8efe9d5938fec7a3d2a4b13751ff045" id="fs_price_193467" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193467" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193467" />
+<input type="hidden" name="image||7467c8454974d2831292c995b27a2dee278d0f47baaff801ee9a520d96f08083||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/HealthCareImpact-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_193467" />
+<input type="hidden" name="url||ad9bebefa7109fc081203eb8cb383f28df9787f45caed9f5da4ef91c8ab859d2" value="https://crosscatholic.org/products/donar-a-la-salud-25-regalo/" id="fs_url_193467" />
+<input type="hidden" name="quantity_min||38ba657852692b46067564218dfaed9e7654f8df864705b79d71766e6e6dd7d0||open" value="0" id="fs_quantity_min_193467" />
+<input type="hidden" name="quantity_max||64221e9b4a2da1322bf28542cbd1abfddd621b27f56cf375fbc60dd97e0d95b3||open" value="0" id="fs_quantity_max_193467" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193467" />
+<input type="hidden" name="name||d4ffb912ac9eb2e461d5adb47cb231d1737ccbfc6d1cd471141bae911b7b6663" id="fs_name_193467" value="Donar a la salud $25 regalo" />
+<input type="hidden" name="code||3b23fc7410517714adf1bbb23ce8618a7f16ea58797bd95d7da3ca5eb7b9f96e" id="fs_code_193467" value="WCS23PLPG9002" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||9c990b4b90039f9305fe6c042619a703ec2744fb1878373ed836c8fed16600e2" id="WCS23PLPG9002_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193468" rel="193468">
+<input type="hidden" name="price||69380f45035a39dd60dfc6473217fdc020c5f6d884d27265c21b40487ede9b05" id="fs_price_193468" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193468" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193468" />
+<input type="hidden" name="image||7467c8454974d2831292c995b27a2dee278d0f47baaff801ee9a520d96f08083||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/HealthCareImpact-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_193468" />
+<input type="hidden" name="url||03eb96f7230b884f64a82a88f0e6991882a113f0aa86a4fd16b8c1d016796d5c" value="https://crosscatholic.org/products/donar-a-la-salud-50-regalo/" id="fs_url_193468" />
+<input type="hidden" name="quantity_min||38ba657852692b46067564218dfaed9e7654f8df864705b79d71766e6e6dd7d0||open" value="0" id="fs_quantity_min_193468" />
+<input type="hidden" name="quantity_max||64221e9b4a2da1322bf28542cbd1abfddd621b27f56cf375fbc60dd97e0d95b3||open" value="0" id="fs_quantity_max_193468" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193468" />
+<input type="hidden" name="name||2e4fa451b38c1aaf960ba9d54c8f6f75da5a7cf2f922a6533719fb1765dcbf9b" id="fs_name_193468" value="Donar a la salud $50 regalo" />
+<input type="hidden" name="code||3b23fc7410517714adf1bbb23ce8618a7f16ea58797bd95d7da3ca5eb7b9f96e" id="fs_code_193468" value="WCS23PLPG9002" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||8b39ebd65acc1429eddc739fa6865b33e2acea29bf5d0a3cfb0e3403c05a6272" id="WCS23PLPG9002_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193469" rel="193469">
+<input type="hidden" name="price||feb2b45a1d9b6172ddc3e2aacd57e6ea30e91d28fcb1dc825d17e06a6cf4c48c" id="fs_price_193469" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193469" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193469" />
+<input type="hidden" name="image||7467c8454974d2831292c995b27a2dee278d0f47baaff801ee9a520d96f08083||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/HealthCareImpact-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_193469" />
+<input type="hidden" name="url||b37229f73d7227596228ed33691b80cd1a490c9d6e4b28dfd32e445465919e02" value="https://crosscatholic.org/products/donar-a-la-salud-100-regalo/" id="fs_url_193469" />
+<input type="hidden" name="quantity_min||38ba657852692b46067564218dfaed9e7654f8df864705b79d71766e6e6dd7d0||open" value="0" id="fs_quantity_min_193469" />
+<input type="hidden" name="quantity_max||64221e9b4a2da1322bf28542cbd1abfddd621b27f56cf375fbc60dd97e0d95b3||open" value="0" id="fs_quantity_max_193469" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193469" />
+<input type="hidden" name="name||f5b904208baf5789c5342b2cb07383892fdfae2896a4200a064515850d627636" id="fs_name_193469" value="Donar a la salud $100 regalo" />
+<input type="hidden" name="code||3b23fc7410517714adf1bbb23ce8618a7f16ea58797bd95d7da3ca5eb7b9f96e" id="fs_code_193469" value="WCS23PLPG9002" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||6193f94c3ea6affdfe36c0125a71e4343cd8ec9d0dd0699fe97d0035ff59aaba" id="WCS23PLPG9002_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_193470" rel="193470">
+<input type="hidden" name="price||225b29fcb020159af72194e40f36b4a8e832c0470464a29e3f6d0476e0812381" id="fs_price_193470" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193470" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193470" />
+<input type="hidden" name="image||7467c8454974d2831292c995b27a2dee278d0f47baaff801ee9a520d96f08083||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/HealthCareImpact-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_193470" />
+<input type="hidden" name="url||55c0b4451d77da232449e8116b6387d0d2689bfc1a745388ab28066a2e0994f3" value="https://crosscatholic.org/products/donar-a-la-salud/" id="fs_url_193470" />
+<input type="hidden" name="quantity_min||38ba657852692b46067564218dfaed9e7654f8df864705b79d71766e6e6dd7d0||open" value="0" id="fs_quantity_min_193470" />
+<input type="hidden" name="quantity_max||64221e9b4a2da1322bf28542cbd1abfddd621b27f56cf375fbc60dd97e0d95b3||open" value="0" id="fs_quantity_max_193470" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_193470" />
+<input type="hidden" name="name||2d1d67c0271cc265af67ceb0ab8ab4961a05c8d2b40f582dfdb63ff8d553fd8e" id="fs_name_193470" value="Donar a la salud" />
+<input type="hidden" name="code||3b23fc7410517714adf1bbb23ce8618a7f16ea58797bd95d7da3ca5eb7b9f96e" id="fs_code_193470" value="WCS23PLPG9002" />
+<div class="foxyshop_variations">
+<input type="text" name="price||dcf120230b1dacd09839d7432b78fd11d34c113ff758dd219dc555f1adbdccc2||open" id="WCS23PLPG9002_1" value="" class="variation-price foxyshop_required" required placeholder="$$"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
