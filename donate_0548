@@ -69,6 +69,7 @@ add_shortcode( 'donate_0548', function () {
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_33927" />
 <input type="hidden" name="name||a10ee47f9e36cff61a5c84d503acd38aca62525a7c799a9caf5ebf7d648154e0" id="fs_name_33927" value="0548 – Salesian Chicos Calle" />
 <input type="hidden" name="code||13dddef6b6cf685bdb13e06655481c02a68cc7f0070521fb42ac91b71a3602f9" id="fs_code_33927" value="WCPROJ0548" />
+<div class="foxyshop_variations">
 <input type="text" name="price||550e2e3ea41ee7549878bf4abe5fab172c7be09d8736ae0b08f8927165222de2||open" id="WCPROJ0548_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
