@@ -1,0 +1,78 @@
+add_shortcode( 'donate_0568', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35783" rel="35783">
+<input type="hidden" name="price||068d48cf72d977135142fb53232aa16e74e5cf938e135bac55e61502785d11c6" id="fs_price_35783" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35783" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35783" />
+<input type="hidden" name="image||ab34f2044cd1b814500b254cf04f60675575efd2512525cc901597fff9e69579||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0568-foxy-thumb.jpg" id="foxyshop_cart_product_image_35783" />
+<input type="hidden" name="url||81cdbf8736c1855a527bbc23d2d5f03e51baf18269cb7065e74714768744b3be" value="https://crosscatholic.org/products/0568-st-john-bosco-rehab-center/" id="fs_url_35783" />
+<input type="hidden" name="quantity_min||c792bd7df203efba077cb3eab64409e8331ec8d8c56a152cafdd343acc24b564||open" value="0" id="fs_quantity_min_35783" />
+<input type="hidden" name="quantity_max||2918f1f48864225b29f13b1208f92bf69c5339c4a33c23d64158510350c854ac||open" value="0" id="fs_quantity_max_35783" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35783" />
+<input type="hidden" name="name||90e6ce07b80fe95dad5de0c8185f82bea51dd5f4be38ba7b2ba8fd42608271d7" id="fs_name_35783" value="0568 - St. John Bosco Rehab Center" />
+<input type="hidden" name="code||746eccf4121b999b662d8768970b29efa4004035f043a6dd3765eee97c7cfd63" id="fs_code_35783" value="WCPROJ0568" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||19ad7e98eb281f3e49070fd7c5b1408abd5a4ba4fb467d58b4afa260c50b4c20" id="WCPROJ0568_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35786" rel="35786">
+<input type="hidden" name="price||0441b6f8807239180e62999f4915bd10fa34a187a49df3f666b16e0cf28be7ba" id="fs_price_35786" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35786" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35786" />
+<input type="hidden" name="image||ab34f2044cd1b814500b254cf04f60675575efd2512525cc901597fff9e69579||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0568-foxy-thumb.jpg" id="foxyshop_cart_product_image_35786" />
+<input type="hidden" name="url||8a3a3218d39c6ff1eadcbd1124798c568cd1c14f6929089a22c4789e90256ccf" value="https://crosscatholic.org/products/0568-st-john-bosco-rehab-center-2/" id="fs_url_35786" />
+<input type="hidden" name="quantity_min||c792bd7df203efba077cb3eab64409e8331ec8d8c56a152cafdd343acc24b564||open" value="0" id="fs_quantity_min_35786" />
+<input type="hidden" name="quantity_max||2918f1f48864225b29f13b1208f92bf69c5339c4a33c23d64158510350c854ac||open" value="0" id="fs_quantity_max_35786" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35786" />
+<input type="hidden" name="name||90e6ce07b80fe95dad5de0c8185f82bea51dd5f4be38ba7b2ba8fd42608271d7" id="fs_name_35786" value="0568 - St. John Bosco Rehab Center" />
+<input type="hidden" name="code||746eccf4121b999b662d8768970b29efa4004035f043a6dd3765eee97c7cfd63" id="fs_code_35786" value="WCPROJ0568" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||a6b4a43f59e286c8d5471cfc2b429a7fd5c878525197c5c85c16519f3cb68de5" id="WCPROJ0568_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35789" rel="35789">
+<input type="hidden" name="price||a5745c780097e114dc6c5cfe9eab1bbe663be932d894310712bcb09a1b6bc68d" id="fs_price_35789" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35789" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35789" />
+<input type="hidden" name="image||ab34f2044cd1b814500b254cf04f60675575efd2512525cc901597fff9e69579||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0568-foxy-thumb.jpg" id="foxyshop_cart_product_image_35789" />
+<input type="hidden" name="url||7467e6c537f7ebf506cf253c639667f0a3236712a30df943dd38a4c8be5244a9" value="https://crosscatholic.org/products/0568-st-john-bosco-rehab-center-3/" id="fs_url_35789" />
+<input type="hidden" name="quantity_min||c792bd7df203efba077cb3eab64409e8331ec8d8c56a152cafdd343acc24b564||open" value="0" id="fs_quantity_min_35789" />
+<input type="hidden" name="quantity_max||2918f1f48864225b29f13b1208f92bf69c5339c4a33c23d64158510350c854ac||open" value="0" id="fs_quantity_max_35789" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35789" />
+<input type="hidden" name="name||90e6ce07b80fe95dad5de0c8185f82bea51dd5f4be38ba7b2ba8fd42608271d7" id="fs_name_35789" value="0568 - St. John Bosco Rehab Center" />
+<input type="hidden" name="code||746eccf4121b999b662d8768970b29efa4004035f043a6dd3765eee97c7cfd63" id="fs_code_35789" value="WCPROJ0568" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||bbf228557a18f3117ce013971faa96e87ae5af5e9fc1215b88a5d5a4f071ac6d" id="WCPROJ0568_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35792" rel="35792">
+<input type="hidden" name="price||b4bb345846cb2682613a0e1f340f94ff1daa6e02dd703c6b7236fa86ede6a58b" id="fs_price_35792" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35792" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35792" />
+<input type="hidden" name="image||ab34f2044cd1b814500b254cf04f60675575efd2512525cc901597fff9e69579||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0568-foxy-thumb.jpg" id="foxyshop_cart_product_image_35792" />
+<input type="hidden" name="url||adf63c6cbb87f4abdcf541f1889904483d138ff41399c13606b870293c879694" value="https://crosscatholic.org/products/0568-st-john-bosco-rehab-center-4/" id="fs_url_35792" />
+<input type="hidden" name="quantity_min||c792bd7df203efba077cb3eab64409e8331ec8d8c56a152cafdd343acc24b564||open" value="0" id="fs_quantity_min_35792" />
+<input type="hidden" name="quantity_max||2918f1f48864225b29f13b1208f92bf69c5339c4a33c23d64158510350c854ac||open" value="0" id="fs_quantity_max_35792" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35792" />
+<input type="hidden" name="name||90e6ce07b80fe95dad5de0c8185f82bea51dd5f4be38ba7b2ba8fd42608271d7" id="fs_name_35792" value="0568 - St. John Bosco Rehab Center" />
+<input type="hidden" name="code||746eccf4121b999b662d8768970b29efa4004035f043a6dd3765eee97c7cfd63" id="fs_code_35792" value="WCPROJ0568" />
+<div class="foxyshop_variations">
+<input type="text" name="price||29e8e29582d8f1db2ff2cdff4d50690c89421b684638ba00c5f6d87b0336f116||open" id="WCPROJ0568_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
