@@ -1,0 +1,78 @@
+add_shortcode( 'donate_0594', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52625" rel="52625">
+<input type="hidden" name="price||4305b19ba38aac1ae8351b57027c1f2c6ace6a8a0f355580d25a11a7bef1c191" id="fs_price_52625" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52625" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52625" />
+<input type="hidden" name="image||71a0cf30ec6c629167078990ce5d9817964c48855945000b7075b0f7d3e0ace0||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0594-foxy-thumb.jpg" id="foxyshop_cart_product_image_52625" />
+<input type="hidden" name="url||c0b2b288324936d6f5484a25b21fb9f134dfca1117fbcba84d677e891ecfb561" value="https://crosscatholic.org/products/0594-impaputo-childrens-center/" id="fs_url_52625" />
+<input type="hidden" name="quantity_min||79bf74ee62263b8d7f8b21559c69f491b277af95777bff7ee59773712e413098||open" value="0" id="fs_quantity_min_52625" />
+<input type="hidden" name="quantity_max||bea78b1c79768ef32e5698c7ac0123491f54879c6f1cc903e849ac9e82bcfaa6||open" value="0" id="fs_quantity_max_52625" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52625" />
+<input type="hidden" name="name||ce642cebc6a2f91c05d76b1cafebdb155ea48bc27637eaff233729941b05746b" id="fs_name_52625" value="0594 - Impaputo Children’s Center" />
+<input type="hidden" name="code||d7b44c870d288e27a8d039e7c98ffb60623c1cee89ebcf5e338e033a1443398b" id="fs_code_52625" value="WCPROJ0594" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||4e486481a69c6e49422050a1815bfd69843952a48cc80b6d19be79e603a4a699" id="WCPROJ0594_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52636" rel="52636">
+<input type="hidden" name="price||1fbe774ce2c2a4943480088db66c9f4009d89c0c848c1e450355d708d7549858" id="fs_price_52636" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52636" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52636" />
+<input type="hidden" name="image||71a0cf30ec6c629167078990ce5d9817964c48855945000b7075b0f7d3e0ace0||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0594-foxy-thumb.jpg" id="foxyshop_cart_product_image_52636" />
+<input type="hidden" name="url||046eb82deb417e1d4fbdb24581a559ae5939b550a7c95995c9c99f38221ceb45" value="https://crosscatholic.org/products/0594-impaputo-childrens-center-3/" id="fs_url_52636" />
+<input type="hidden" name="quantity_min||79bf74ee62263b8d7f8b21559c69f491b277af95777bff7ee59773712e413098||open" value="0" id="fs_quantity_min_52636" />
+<input type="hidden" name="quantity_max||bea78b1c79768ef32e5698c7ac0123491f54879c6f1cc903e849ac9e82bcfaa6||open" value="0" id="fs_quantity_max_52636" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52636" />
+<input type="hidden" name="name||ce642cebc6a2f91c05d76b1cafebdb155ea48bc27637eaff233729941b05746b" id="fs_name_52636" value="0594 - Impaputo Children’s Center" />
+<input type="hidden" name="code||d7b44c870d288e27a8d039e7c98ffb60623c1cee89ebcf5e338e033a1443398b" id="fs_code_52636" value="WCPROJ0594" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||9f979b1c1975d91fca97aaa0add50869974fa48c8620803e22b548741e34d9af" id="WCPROJ0594_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52639" rel="52639">
+<input type="hidden" name="price||2e82e36278dd1d59b1e25a7432d304b2759b204954da6d96531dfb1ea4554bf1" id="fs_price_52639" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52639" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52639" />
+<input type="hidden" name="image||71a0cf30ec6c629167078990ce5d9817964c48855945000b7075b0f7d3e0ace0||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0594-foxy-thumb.jpg" id="foxyshop_cart_product_image_52639" />
+<input type="hidden" name="url||1d36827f83790e641e8a2c5ef251be62b3402731d84afb650c269831767fefe9" value="https://crosscatholic.org/products/0594-impaputo-childrens-center-4/" id="fs_url_52639" />
+<input type="hidden" name="quantity_min||79bf74ee62263b8d7f8b21559c69f491b277af95777bff7ee59773712e413098||open" value="0" id="fs_quantity_min_52639" />
+<input type="hidden" name="quantity_max||bea78b1c79768ef32e5698c7ac0123491f54879c6f1cc903e849ac9e82bcfaa6||open" value="0" id="fs_quantity_max_52639" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52639" />
+<input type="hidden" name="name||ce642cebc6a2f91c05d76b1cafebdb155ea48bc27637eaff233729941b05746b" id="fs_name_52639" value="0594 - Impaputo Children’s Center" />
+<input type="hidden" name="code||d7b44c870d288e27a8d039e7c98ffb60623c1cee89ebcf5e338e033a1443398b" id="fs_code_52639" value="WCPROJ0594" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||0ead28087ccaec62ad916ff3ebec46df000c54f2f23341af1c64c62e0f16c442" id="WCPROJ0594_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52629" rel="52629">
+<input type="hidden" name="price||a33b785fcd9b6b4701e920e0d8466f2cefc39645c7ba076e890f00fbfc3f8e6f" id="fs_price_52629" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52629" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52629" />
+<input type="hidden" name="image||71a0cf30ec6c629167078990ce5d9817964c48855945000b7075b0f7d3e0ace0||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0594-foxy-thumb.jpg" id="foxyshop_cart_product_image_52629" />
+<input type="hidden" name="url||6a3be439b63d7d41abb8ac1091bc85d0c239c465fe891bc8948dfb7cfab67b2c" value="https://crosscatholic.org/products/0594-impaputo-childrens-center-2/" id="fs_url_52629" />
+<input type="hidden" name="quantity_min||79bf74ee62263b8d7f8b21559c69f491b277af95777bff7ee59773712e413098||open" value="0" id="fs_quantity_min_52629" />
+<input type="hidden" name="quantity_max||bea78b1c79768ef32e5698c7ac0123491f54879c6f1cc903e849ac9e82bcfaa6||open" value="0" id="fs_quantity_max_52629" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52629" />
+<input type="hidden" name="name||ce642cebc6a2f91c05d76b1cafebdb155ea48bc27637eaff233729941b05746b" id="fs_name_52629" value="0594 - Impaputo Children’s Center" />
+<input type="hidden" name="code||d7b44c870d288e27a8d039e7c98ffb60623c1cee89ebcf5e338e033a1443398b" id="fs_code_52629" value="WCPROJ0594" />
+<div class="foxyshop_variations">
+<input type="text" name="price||1a06944dc264e2b51c2b87d0fbf4f7f6a81c9d96f74cb55831d40cf6c405b092||open" id="WCPROJ0594_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
