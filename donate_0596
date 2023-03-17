@@ -1,0 +1,78 @@
+add_shortcode( 'donate_0596', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35825" rel="35825">
+<input type="hidden" name="price||846dc7ad1c5bbe579dfcdd6779ef6841a53eaf2b45bf5cdbc9b778108b8dd061" id="fs_price_35825" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35825" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35825" />
+<input type="hidden" name="image||94e9815c76e5d4b978edc4139eaa1f377fa76a1b15caf0bb88e91589d0974817||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0596-thumb.jpg" id="foxyshop_cart_product_image_35825" />
+<input type="hidden" name="url||3bab2dba2e9978fc456bb3738e053a210cfad2abd432b58f25d6cff8adfe2a53" value="https://crosscatholic.org/products/0596-community-feeding-and-nutrition-program/" id="fs_url_35825" />
+<input type="hidden" name="quantity_min||778d991e92cd636b05ed32e2df2dd4cdd4f685e3d7a775c32cffe04b915698b8||open" value="0" id="fs_quantity_min_35825" />
+<input type="hidden" name="quantity_max||02f97d3b59ff7a5dbbad94b0e5805fcec2a547bb23f6298bfba8804beb8a94e0||open" value="0" id="fs_quantity_max_35825" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35825" />
+<input type="hidden" name="name||3e66f1d3f0358e44f8081a9630e5345d9af3adcf1fb05ef6727487cd38c1ab0f" id="fs_name_35825" value="0596 - Community Feeding and Nutrition Program" />
+<input type="hidden" name="code||ee0df812d9313f3a5f8cd120eaaadf850782a87cf4e8feba25e81fac62a7b771" id="fs_code_35825" value="WCPROJ0596" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||67ad8decb2781b96c12ea7196e83d6bb1912b7c361f1df1014a76169c4591711" id="WCPROJ0596_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35828" rel="35828">
+<input type="hidden" name="price||94f73216c1be2d649e1114783be441591d8951fc081a2538895a2f711e5db6d2" id="fs_price_35828" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35828" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35828" />
+<input type="hidden" name="image||94e9815c76e5d4b978edc4139eaa1f377fa76a1b15caf0bb88e91589d0974817||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0596-thumb_1.jpg" id="foxyshop_cart_product_image_35828" />
+<input type="hidden" name="url||062b8a078c6a3b218aade7fc8350e651ee46008d127ea3f4865d0d145f6dec2a" value="https://crosscatholic.org/products/0596-community-feeding-and-nutrition-program-2/" id="fs_url_35828" />
+<input type="hidden" name="quantity_min||778d991e92cd636b05ed32e2df2dd4cdd4f685e3d7a775c32cffe04b915698b8||open" value="0" id="fs_quantity_min_35828" />
+<input type="hidden" name="quantity_max||02f97d3b59ff7a5dbbad94b0e5805fcec2a547bb23f6298bfba8804beb8a94e0||open" value="0" id="fs_quantity_max_35828" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35828" />
+<input type="hidden" name="name||3e66f1d3f0358e44f8081a9630e5345d9af3adcf1fb05ef6727487cd38c1ab0f" id="fs_name_35828" value="0596 - Community Feeding and Nutrition Program" />
+<input type="hidden" name="code||ee0df812d9313f3a5f8cd120eaaadf850782a87cf4e8feba25e81fac62a7b771" id="fs_code_35828" value="WCPROJ0596" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||47a6438fbcd5fb0e8a5b6f6e44e66f2b8102029b0ed84964f9fde7c5c0042863" id="WCPROJ0596_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35831" rel="35831">
+<input type="hidden" name="price||294eb13a56d1504e32a36cabafbb86b09ecbc18a61e9c0a3938b089076397012" id="fs_price_35831" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35831" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35831" />
+<input type="hidden" name="image||94e9815c76e5d4b978edc4139eaa1f377fa76a1b15caf0bb88e91589d0974817||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0596-thumb_2.jpg" id="foxyshop_cart_product_image_35831" />
+<input type="hidden" name="url||4ede7b4e955186ab36f5310a1e47cec54c7fa58de98141e179f353c7674fd2d1" value="https://crosscatholic.org/products/0596-community-feeding-and-nutrition-program-3/" id="fs_url_35831" />
+<input type="hidden" name="quantity_min||778d991e92cd636b05ed32e2df2dd4cdd4f685e3d7a775c32cffe04b915698b8||open" value="0" id="fs_quantity_min_35831" />
+<input type="hidden" name="quantity_max||02f97d3b59ff7a5dbbad94b0e5805fcec2a547bb23f6298bfba8804beb8a94e0||open" value="0" id="fs_quantity_max_35831" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35831" />
+<input type="hidden" name="name||3e66f1d3f0358e44f8081a9630e5345d9af3adcf1fb05ef6727487cd38c1ab0f" id="fs_name_35831" value="0596 - Community Feeding and Nutrition Program" />
+<input type="hidden" name="code||ee0df812d9313f3a5f8cd120eaaadf850782a87cf4e8feba25e81fac62a7b771" id="fs_code_35831" value="WCPROJ0596" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||8755944be6eed2382bb5a7e22bef256ef974731024b005518157966ce3722967" id="WCPROJ0596_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35841" rel="35841">
+<input type="hidden" name="price||ce71b68c4f040df4de0282e8623c8071668ffd70f7a17a93222b6139cf31a193" id="fs_price_35841" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35841" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35841" />
+<input type="hidden" name="image||94e9815c76e5d4b978edc4139eaa1f377fa76a1b15caf0bb88e91589d0974817||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0596-thumb_4.jpg" id="foxyshop_cart_product_image_35841" />
+<input type="hidden" name="url||37b313ca8e4988bd573c8f3ece2d100fa6925510b25f16fed571f72f8a1439a3" value="https://crosscatholic.org/products/0596-community-feeding-and-nutrition-program-4/" id="fs_url_35841" />
+<input type="hidden" name="quantity_min||778d991e92cd636b05ed32e2df2dd4cdd4f685e3d7a775c32cffe04b915698b8||open" value="0" id="fs_quantity_min_35841" />
+<input type="hidden" name="quantity_max||02f97d3b59ff7a5dbbad94b0e5805fcec2a547bb23f6298bfba8804beb8a94e0||open" value="0" id="fs_quantity_max_35841" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35841" />
+<input type="hidden" name="name||c29f0d0d9cc35b151da5e253e6686c4f8869e0cb0bb6650bb1b6046455b557e1" id="fs_name_35841" value="0596 – Community Feeding and Nutrition Program" />
+<input type="hidden" name="code||ee0df812d9313f3a5f8cd120eaaadf850782a87cf4e8feba25e81fac62a7b771" id="fs_code_35841" value="WCPROJ0596" />
+<div class="foxyshop_variations">
+<input type="text" name="price||4bfcbcddf123e4bbdbd367929f232b13e379ead6a0f17746c2539cc2b1e89c9d||open" id="WCPROJ0596_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
