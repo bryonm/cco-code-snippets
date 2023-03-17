@@ -1,0 +1,78 @@
+add_shortcode( 'donate_0516', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35508" rel="35508">
+<input type="hidden" name="price||5e6d85746ebe8d9390051c747f1c8b43c94180a4d48aac6ea06761875a6d870f" id="fs_price_35508" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35508" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35508" />
+<input type="hidden" name="image||a2e32e6f63410affb508b1ceb30fbaab09982ff9aa7579f301016ca90d9d632f||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/0516-foxy-thumb.jpg" id="foxyshop_cart_product_image_35508" />
+<input type="hidden" name="url||e214d7edb04128ee94dab1bbef3bb6af1e117a71fb76a611d56333a1ccc47e5c" value="https://crosscatholic.org/products/0516-heart-of-jesus-school/" id="fs_url_35508" />
+<input type="hidden" name="quantity_min||a8f7143077cadae4a448291d188d7493c087c7a1aa7cf33e715108ee74643fbc||open" value="0" id="fs_quantity_min_35508" />
+<input type="hidden" name="quantity_max||4a2595f1c122d19d4e44f50979debbaaabc88d7e9694aebdf3489823b3986e86||open" value="0" id="fs_quantity_max_35508" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35508" />
+<input type="hidden" name="name||28ab29a9c9acfac933f83441a119b4f08370273e098766fdce51767a3e437b04" id="fs_name_35508" value="0516 - Heart of Jesus School" />
+<input type="hidden" name="code||8cbc7b03d8692e6fb40f9457d938e2819824b58e95cdf8e620c0a03dab43e8b5" id="fs_code_35508" value="WCPROJ0516" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||0ad9bd9e0f14cd93eeb845cf16b24a4a34aa10a8f53b779817bcd52ba93dd083" id="WCPROJ0516_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35511" rel="35511">
+<input type="hidden" name="price||bd97182fb59c2ec95ec8694aef697a499cb8c23bc080b31b93d9cd664e4d9598" id="fs_price_35511" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35511" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35511" />
+<input type="hidden" name="image||a2e32e6f63410affb508b1ceb30fbaab09982ff9aa7579f301016ca90d9d632f||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/0516-foxy-thumb.jpg" id="foxyshop_cart_product_image_35511" />
+<input type="hidden" name="url||dd5ff959d99e47db79f65d0c2c310efa6a4931d17cd5489058fa4f66d2d24dba" value="https://crosscatholic.org/products/0516-heart-of-jesus-school-2/" id="fs_url_35511" />
+<input type="hidden" name="quantity_min||a8f7143077cadae4a448291d188d7493c087c7a1aa7cf33e715108ee74643fbc||open" value="0" id="fs_quantity_min_35511" />
+<input type="hidden" name="quantity_max||4a2595f1c122d19d4e44f50979debbaaabc88d7e9694aebdf3489823b3986e86||open" value="0" id="fs_quantity_max_35511" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35511" />
+<input type="hidden" name="name||28ab29a9c9acfac933f83441a119b4f08370273e098766fdce51767a3e437b04" id="fs_name_35511" value="0516 - Heart of Jesus School" />
+<input type="hidden" name="code||8cbc7b03d8692e6fb40f9457d938e2819824b58e95cdf8e620c0a03dab43e8b5" id="fs_code_35511" value="WCPROJ0516" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||829386707e7afe7c7ba0bbcf43e56ec8887bb5f358aa8576c925462707424c5b" id="WCPROJ0516_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35514" rel="35514">
+<input type="hidden" name="price||888cdae73e1a816431460d41f5ee099ccc383d82973add106134889becabcc0b" id="fs_price_35514" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35514" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35514" />
+<input type="hidden" name="image||a2e32e6f63410affb508b1ceb30fbaab09982ff9aa7579f301016ca90d9d632f||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/0516-foxy-thumb.jpg" id="foxyshop_cart_product_image_35514" />
+<input type="hidden" name="url||a937b72182096ac859e3419dd53768fb49b537acf8cdc3ffa79e966f1e679ad6" value="https://crosscatholic.org/products/0516-heart-of-jesus-school-3/" id="fs_url_35514" />
+<input type="hidden" name="quantity_min||a8f7143077cadae4a448291d188d7493c087c7a1aa7cf33e715108ee74643fbc||open" value="0" id="fs_quantity_min_35514" />
+<input type="hidden" name="quantity_max||4a2595f1c122d19d4e44f50979debbaaabc88d7e9694aebdf3489823b3986e86||open" value="0" id="fs_quantity_max_35514" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35514" />
+<input type="hidden" name="name||28ab29a9c9acfac933f83441a119b4f08370273e098766fdce51767a3e437b04" id="fs_name_35514" value="0516 - Heart of Jesus School" />
+<input type="hidden" name="code||8cbc7b03d8692e6fb40f9457d938e2819824b58e95cdf8e620c0a03dab43e8b5" id="fs_code_35514" value="WCPROJ0516" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||ca67cfbf11d1304d04f048163d9b2f4e429a1ee9d6f3033f55af2c2c6c0da354" id="WCPROJ0516_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35517" rel="35517">
+<input type="hidden" name="price||85227a17968988657bacd7a245d21e7d3f8a8305ca4e74243744df35adeba508" id="fs_price_35517" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35517" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35517" />
+<input type="hidden" name="image||a2e32e6f63410affb508b1ceb30fbaab09982ff9aa7579f301016ca90d9d632f||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/0516-foxy-thumb.jpg" id="foxyshop_cart_product_image_35517" />
+<input type="hidden" name="url||ea6c990d695961046268f3025581ae0f2b8c62eb4d8cdf6561cf4f0cc320ffd1" value="https://crosscatholic.org/products/0516-heart-of-jesus-school-4/" id="fs_url_35517" />
+<input type="hidden" name="quantity_min||a8f7143077cadae4a448291d188d7493c087c7a1aa7cf33e715108ee74643fbc||open" value="0" id="fs_quantity_min_35517" />
+<input type="hidden" name="quantity_max||4a2595f1c122d19d4e44f50979debbaaabc88d7e9694aebdf3489823b3986e86||open" value="0" id="fs_quantity_max_35517" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35517" />
+<input type="hidden" name="name||876eb5e842052478f842e7abc459f09a8d23ea4d93c514724e34bca1e000c723" id="fs_name_35517" value="0516 – Heart of Jesus School" />
+<input type="hidden" name="code||8cbc7b03d8692e6fb40f9457d938e2819824b58e95cdf8e620c0a03dab43e8b5" id="fs_code_35517" value="WCPROJ0516" />
+<div class="foxyshop_variations">
+<input type="text" name="price||bf46326b14296da4a3fbb1349cad1c407efa609828a50eb678a937d9fbe5a12c||open" id="WCPROJ0516_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
