@@ -1,0 +1,78 @@
+add_shortcode( 'donate_0571', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35805" rel="35805">
+<input type="hidden" name="price||3aa460f38cb8336a82c508c20c86538b86d16b5ae248345069c812be011826a9" id="fs_price_35805" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35805" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35805" />
+<input type="hidden" name="image||05e65b7c73424e6a99948771c70e004cc96ca0e9207cb51e860a2366ee1ffefa||open" value="https://crosscatholic.org/wp-content/uploads/2022/11/0571-foxy-thumb.jpg" id="foxyshop_cart_product_image_35805" />
+<input type="hidden" name="url||681d922baca52569a136c8d847b4b7d011f035831c9681ae9a498cf843335e45" value="https://crosscatholic.org/products/0571-san-lucas-rural-health/" id="fs_url_35805" />
+<input type="hidden" name="quantity_min||28a732f9fa429c0a47d98224e2d91010ef6be3fa148791c46212cbc9c494e6fc||open" value="0" id="fs_quantity_min_35805" />
+<input type="hidden" name="quantity_max||607a704a2bd1127270e0cefaee6c2bb5847b4819e29244bad6ccfd02cfa2775f||open" value="0" id="fs_quantity_max_35805" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35805" />
+<input type="hidden" name="name||b64181b9eebef7d8e6e712133b97cf8672599fe4879c6161dbec86020fc242a4" id="fs_name_35805" value="0571 - San Lucas Rural Health" />
+<input type="hidden" name="code||d9de07b2facdff02d75675b417da439cc58a6eebe7aabbbcff004faa5e5f3979" id="fs_code_35805" value="WCPROJ0571" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||0a1d6ef0e71b340f8ec893aa9090cf079f557788a5081d33f663d5e2aea709ec" id="WCPROJ0571_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35808" rel="35808">
+<input type="hidden" name="price||1dfb0c487e8ffa18bcf1ebb2d270101fbd3c77f0ddf8f7b883f78575296317ac" id="fs_price_35808" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35808" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35808" />
+<input type="hidden" name="image||05e65b7c73424e6a99948771c70e004cc96ca0e9207cb51e860a2366ee1ffefa||open" value="https://crosscatholic.org/wp-content/uploads/2022/11/0571-foxy-thumb.jpg" id="foxyshop_cart_product_image_35808" />
+<input type="hidden" name="url||c941da7e2d78926d76c6173738d5d2a8f6f0585d076bb95904da1ef31f8453a9" value="https://crosscatholic.org/products/0571-san-lucas-rural-health-2/" id="fs_url_35808" />
+<input type="hidden" name="quantity_min||28a732f9fa429c0a47d98224e2d91010ef6be3fa148791c46212cbc9c494e6fc||open" value="0" id="fs_quantity_min_35808" />
+<input type="hidden" name="quantity_max||607a704a2bd1127270e0cefaee6c2bb5847b4819e29244bad6ccfd02cfa2775f||open" value="0" id="fs_quantity_max_35808" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35808" />
+<input type="hidden" name="name||b64181b9eebef7d8e6e712133b97cf8672599fe4879c6161dbec86020fc242a4" id="fs_name_35808" value="0571 - San Lucas Rural Health" />
+<input type="hidden" name="code||d9de07b2facdff02d75675b417da439cc58a6eebe7aabbbcff004faa5e5f3979" id="fs_code_35808" value="WCPROJ0571" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||4636afc85e98a6bf9e34da092386d227d0b821ced55544632ec7c7c7a1b513cb" id="WCPROJ0571_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35811" rel="35811">
+<input type="hidden" name="price||c5fbfd7fcda388a238c216682367fd7e2ce071147dea9c7766d15f821434449f" id="fs_price_35811" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35811" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35811" />
+<input type="hidden" name="image||05e65b7c73424e6a99948771c70e004cc96ca0e9207cb51e860a2366ee1ffefa||open" value="https://crosscatholic.org/wp-content/uploads/2022/11/0571-foxy-thumb.jpg" id="foxyshop_cart_product_image_35811" />
+<input type="hidden" name="url||13d2f07bac7cd8a3b849582ded5a94d45e39a21f2a1df268f80ff3567c079df6" value="https://crosscatholic.org/products/0571-san-lucas-rural-health-3/" id="fs_url_35811" />
+<input type="hidden" name="quantity_min||28a732f9fa429c0a47d98224e2d91010ef6be3fa148791c46212cbc9c494e6fc||open" value="0" id="fs_quantity_min_35811" />
+<input type="hidden" name="quantity_max||607a704a2bd1127270e0cefaee6c2bb5847b4819e29244bad6ccfd02cfa2775f||open" value="0" id="fs_quantity_max_35811" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35811" />
+<input type="hidden" name="name||b64181b9eebef7d8e6e712133b97cf8672599fe4879c6161dbec86020fc242a4" id="fs_name_35811" value="0571 - San Lucas Rural Health" />
+<input type="hidden" name="code||d9de07b2facdff02d75675b417da439cc58a6eebe7aabbbcff004faa5e5f3979" id="fs_code_35811" value="WCPROJ0571" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||167e98d44f42cc29ba06fd8044e89dbec162e11d99375b3d418b6b8492e1adad" id="WCPROJ0571_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35814" rel="35814">
+<input type="hidden" name="price||3dcf9ccb17cf6993ede5f804e8cec09ae4c76750505be86fe1e6b513ece91e93" id="fs_price_35814" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35814" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35814" />
+<input type="hidden" name="image||05e65b7c73424e6a99948771c70e004cc96ca0e9207cb51e860a2366ee1ffefa||open" value="https://crosscatholic.org/wp-content/uploads/2022/11/0571-foxy-thumb.jpg" id="foxyshop_cart_product_image_35814" />
+<input type="hidden" name="url||853f551b9658f0d554b1f7c52b84bc7e637bf6812bd2d3ab1a592142884fe40c" value="https://crosscatholic.org/products/0568-st-john-bosco-rehab-center-5/" id="fs_url_35814" />
+<input type="hidden" name="quantity_min||28a732f9fa429c0a47d98224e2d91010ef6be3fa148791c46212cbc9c494e6fc||open" value="0" id="fs_quantity_min_35814" />
+<input type="hidden" name="quantity_max||607a704a2bd1127270e0cefaee6c2bb5847b4819e29244bad6ccfd02cfa2775f||open" value="0" id="fs_quantity_max_35814" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35814" />
+<input type="hidden" name="name||69b5128feb1f278d872dcd4774012c08c7c69956d806d0acd5fa708e33646d86" id="fs_name_35814" value="0571 – San Lucas Rural Health" />
+<input type="hidden" name="code||d9de07b2facdff02d75675b417da439cc58a6eebe7aabbbcff004faa5e5f3979" id="fs_code_35814" value="WCPROJ0571" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f09060fd392f7ab587d325636968646a06a39612a7d16c87c078dce43a682a60||open" id="WCPROJ0571_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
