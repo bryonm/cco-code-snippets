@@ -1,0 +1,78 @@
+add_shortcode( 'donate_0452', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52080" rel="52080">
+<input type="hidden" name="price||00e5600f81dfa1ee8bbd9edade9404118ac12bdf8f039bc2a8286091fd71aa02" id="fs_price_52080" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52080" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52080" />
+<input type="hidden" name="image||b64f62a09b0ec17f54675ca93d047c502e341f0627190e53efd6b71ac1d60c56||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0452-thumb.jpg" id="foxyshop_cart_product_image_52080" />
+<input type="hidden" name="url||b6a31312c99ab54d495149cea51eb8a17ff3f6442e66ae10596fa09d14b5272d" value="https://crosscatholic.org/products/0452-tete-center-for-vulnerable-children/" id="fs_url_52080" />
+<input type="hidden" name="quantity_min||72c5411b408bf8337469571091a7c57d47f7654c5425bdabe66b5f788922d43a||open" value="0" id="fs_quantity_min_52080" />
+<input type="hidden" name="quantity_max||9c9fed94fed4a28adc42ae121391fac73aae8ce35b6400518d77bac504150d4d||open" value="0" id="fs_quantity_max_52080" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52080" />
+<input type="hidden" name="name||eb4c50a9347fdf588f940ed68e44f76e80a850f6df5dc9f2d86f07c6778bb518" id="fs_name_52080" value="0452 - Tete Center for Vulnerable Children" />
+<input type="hidden" name="code||7259a0de2c54d5f8a8971dc14f61152f9dfe6bc80831867134519235d209c35b" id="fs_code_52080" value="WCPROJ0452" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||c4b15ec779ea57fa0cb2908dc4c033a64b141254421e576d8ff32850b345bb86" id="WCPROJ0452_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52093" rel="52093">
+<input type="hidden" name="price||bf8ad5cf7c2463f6879b7ec9d9317ff7c958321e0e76ea8528023a28b7aa2e8f" id="fs_price_52093" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52093" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52093" />
+<input type="hidden" name="image||b64f62a09b0ec17f54675ca93d047c502e341f0627190e53efd6b71ac1d60c56||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0452-thumb_2.jpg" id="foxyshop_cart_product_image_52093" />
+<input type="hidden" name="url||031718efe2f426d16d28fbc821e9f685787138bf16b679ef243c5e321de4e507" value="https://crosscatholic.org/products/0452-tete-center-for-vulnerable-children-3/" id="fs_url_52093" />
+<input type="hidden" name="quantity_min||72c5411b408bf8337469571091a7c57d47f7654c5425bdabe66b5f788922d43a||open" value="0" id="fs_quantity_min_52093" />
+<input type="hidden" name="quantity_max||9c9fed94fed4a28adc42ae121391fac73aae8ce35b6400518d77bac504150d4d||open" value="0" id="fs_quantity_max_52093" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52093" />
+<input type="hidden" name="name||eb4c50a9347fdf588f940ed68e44f76e80a850f6df5dc9f2d86f07c6778bb518" id="fs_name_52093" value="0452 - Tete Center for Vulnerable Children" />
+<input type="hidden" name="code||7259a0de2c54d5f8a8971dc14f61152f9dfe6bc80831867134519235d209c35b" id="fs_code_52093" value="WCPROJ0452" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||5bafc674ab904dd89345e97f64a2bac92442c092aac23c1c643cae1f6e40432b" id="WCPROJ0452_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52096" rel="52096">
+<input type="hidden" name="price||6710ae6b9a3258d78daf6df15cc8bec48072339b694a337e4d612c6974c0cf93" id="fs_price_52096" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52096" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52096" />
+<input type="hidden" name="image||b64f62a09b0ec17f54675ca93d047c502e341f0627190e53efd6b71ac1d60c56||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0452-thumb_3.jpg" id="foxyshop_cart_product_image_52096" />
+<input type="hidden" name="url||6194c842424564bc4279cad27bb6dec269a71375d2234c259b975b6395a0fcdd" value="https://crosscatholic.org/products/0452-tete-center-for-vulnerable-children-4/" id="fs_url_52096" />
+<input type="hidden" name="quantity_min||72c5411b408bf8337469571091a7c57d47f7654c5425bdabe66b5f788922d43a||open" value="0" id="fs_quantity_min_52096" />
+<input type="hidden" name="quantity_max||9c9fed94fed4a28adc42ae121391fac73aae8ce35b6400518d77bac504150d4d||open" value="0" id="fs_quantity_max_52096" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52096" />
+<input type="hidden" name="name||eb4c50a9347fdf588f940ed68e44f76e80a850f6df5dc9f2d86f07c6778bb518" id="fs_name_52096" value="0452 - Tete Center for Vulnerable Children" />
+<input type="hidden" name="code||7259a0de2c54d5f8a8971dc14f61152f9dfe6bc80831867134519235d209c35b" id="fs_code_52096" value="WCPROJ0452" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||89874bfacdeeb75ceaf21bb70e5d8393e864740576bd8444bff46ad5806414b0" id="WCPROJ0452_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52081" rel="52081">
+<input type="hidden" name="price||b9f6de0f0ceb28ac55a149256e33f1b4ab3e4096589c5998bfa530851971b9d4" id="fs_price_52081" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52081" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52081" />
+<input type="hidden" name="image||b64f62a09b0ec17f54675ca93d047c502e341f0627190e53efd6b71ac1d60c56||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0452-thumb_1.jpg" id="foxyshop_cart_product_image_52081" />
+<input type="hidden" name="url||b9e96dcd314e200e1621b89deb9f91a521054212d4cca9d8b80d69f227bcf80f" value="https://crosscatholic.org/products/0452-tete-center-for-vulnerable-children-2/" id="fs_url_52081" />
+<input type="hidden" name="quantity_min||72c5411b408bf8337469571091a7c57d47f7654c5425bdabe66b5f788922d43a||open" value="0" id="fs_quantity_min_52081" />
+<input type="hidden" name="quantity_max||9c9fed94fed4a28adc42ae121391fac73aae8ce35b6400518d77bac504150d4d||open" value="0" id="fs_quantity_max_52081" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52081" />
+<input type="hidden" name="name||eb4c50a9347fdf588f940ed68e44f76e80a850f6df5dc9f2d86f07c6778bb518" id="fs_name_52081" value="0452 - Tete Center for Vulnerable Children" />
+<input type="hidden" name="code||7259a0de2c54d5f8a8971dc14f61152f9dfe6bc80831867134519235d209c35b" id="fs_code_52081" value="WCPROJ0452" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f0ceb70375521ae9eaab940eb9290a0390e7c47b57769ee4b5549f6c63dd4362||open" id="WCPROJ0452_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
