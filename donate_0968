@@ -1,0 +1,78 @@
+add_shortcode( 'donate_0968', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52693" rel="52693">
+<input type="hidden" name="price||5136f855b4d23af290645de902aacb23965ec550f638e93c499cecb263e27341" id="fs_price_52693" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52693" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52693" />
+<input type="hidden" name="image||3510f608e8a0b04073f9e994eff3dacb73fdfd28be3437f1ab9eff60a5721557||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0968-thumb.jpg" id="foxyshop_cart_product_image_52693" />
+<input type="hidden" name="url||52fc3b91f013817798984cc32b229ad5c6bd39b1a6c811012304a5eff4365df1" value="https://crosscatholic.org/products/0968-namaacha-girls-food/" id="fs_url_52693" />
+<input type="hidden" name="quantity_min||106ae00b1fe1ec236f0c0d6b12daafc05b3e52bd3d2dc82ff2ece179ecab5eb3||open" value="0" id="fs_quantity_min_52693" />
+<input type="hidden" name="quantity_max||683642dc48f673c799407699bd41534a3efe0f25d7542beba949238a0139a820||open" value="0" id="fs_quantity_max_52693" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52693" />
+<input type="hidden" name="name||d4f5bfab6c86c2811e11477046c1f58c203e5b062897384bff1546c61e37751a" id="fs_name_52693" value="0968 - Namaacha Girls Food" />
+<input type="hidden" name="code||0bcdb92230599655485f63039ff8b8dae9ebfbba5baa9237e5ee4dd5a8393cdb" id="fs_code_52693" value="WCPROJ0968" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||07e006c56012b26519686819d006bc3be5cb0d2b4cf5b3535612a8182fe0dab1" id="WCPROJ0968_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52701" rel="52701">
+<input type="hidden" name="price||41e7a1d461c0cfdf9786cc136fad34e5ae557f7d5bf2620fdabbcd187b7a7998" id="fs_price_52701" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52701" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52701" />
+<input type="hidden" name="image||3510f608e8a0b04073f9e994eff3dacb73fdfd28be3437f1ab9eff60a5721557||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0968-thumb_2.jpg" id="foxyshop_cart_product_image_52701" />
+<input type="hidden" name="url||aef20418af165a82603a32ae90ea3b018c4226bc86574eb04ec26c21cfefdc40" value="https://crosscatholic.org/products/0968-namaacha-girls-food-3/" id="fs_url_52701" />
+<input type="hidden" name="quantity_min||106ae00b1fe1ec236f0c0d6b12daafc05b3e52bd3d2dc82ff2ece179ecab5eb3||open" value="0" id="fs_quantity_min_52701" />
+<input type="hidden" name="quantity_max||683642dc48f673c799407699bd41534a3efe0f25d7542beba949238a0139a820||open" value="0" id="fs_quantity_max_52701" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52701" />
+<input type="hidden" name="name||d4f5bfab6c86c2811e11477046c1f58c203e5b062897384bff1546c61e37751a" id="fs_name_52701" value="0968 - Namaacha Girls Food" />
+<input type="hidden" name="code||0bcdb92230599655485f63039ff8b8dae9ebfbba5baa9237e5ee4dd5a8393cdb" id="fs_code_52701" value="WCPROJ0968" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||e22517ebc0ca7f506ed56d549ba891cf2d0b441236598da0dfd5d30fc8e6b2bd" id="WCPROJ0968_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52704" rel="52704">
+<input type="hidden" name="price||1a7935b4b1842e78d0d16c15f7d7917f280b88183aa424179b6240f3cb019c42" id="fs_price_52704" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52704" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52704" />
+<input type="hidden" name="image||3510f608e8a0b04073f9e994eff3dacb73fdfd28be3437f1ab9eff60a5721557||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0968-thumb_3.jpg" id="foxyshop_cart_product_image_52704" />
+<input type="hidden" name="url||3627156448e14f55ec3cf9028605ae70c8d5f4d17dbe48afd59b267fa7148456" value="https://crosscatholic.org/products/0968-namaacha-girls-food-4/" id="fs_url_52704" />
+<input type="hidden" name="quantity_min||106ae00b1fe1ec236f0c0d6b12daafc05b3e52bd3d2dc82ff2ece179ecab5eb3||open" value="0" id="fs_quantity_min_52704" />
+<input type="hidden" name="quantity_max||683642dc48f673c799407699bd41534a3efe0f25d7542beba949238a0139a820||open" value="0" id="fs_quantity_max_52704" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52704" />
+<input type="hidden" name="name||d4f5bfab6c86c2811e11477046c1f58c203e5b062897384bff1546c61e37751a" id="fs_name_52704" value="0968 - Namaacha Girls Food" />
+<input type="hidden" name="code||0bcdb92230599655485f63039ff8b8dae9ebfbba5baa9237e5ee4dd5a8393cdb" id="fs_code_52704" value="WCPROJ0968" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||880392e5651baa4db0145dd3a76013f8db0773a2c51328580b1161f404f2f077" id="WCPROJ0968_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52696" rel="52696">
+<input type="hidden" name="price||010a599daf7a5d74d669fb30a0fb79f71d5c18c638dfa321d76d969572478241" id="fs_price_52696" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52696" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52696" />
+<input type="hidden" name="image||3510f608e8a0b04073f9e994eff3dacb73fdfd28be3437f1ab9eff60a5721557||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/0968-thumb_1.jpg" id="foxyshop_cart_product_image_52696" />
+<input type="hidden" name="url||6ae4b0bf78a8c5e961cb844c8cf12a3f4a39ab423dbee97c33049506839f5c80" value="https://crosscatholic.org/products/0968-namaacha-girls-food-2/" id="fs_url_52696" />
+<input type="hidden" name="quantity_min||106ae00b1fe1ec236f0c0d6b12daafc05b3e52bd3d2dc82ff2ece179ecab5eb3||open" value="0" id="fs_quantity_min_52696" />
+<input type="hidden" name="quantity_max||683642dc48f673c799407699bd41534a3efe0f25d7542beba949238a0139a820||open" value="0" id="fs_quantity_max_52696" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52696" />
+<input type="hidden" name="name||d4f5bfab6c86c2811e11477046c1f58c203e5b062897384bff1546c61e37751a" id="fs_name_52696" value="0968 - Namaacha Girls Food" />
+<input type="hidden" name="code||0bcdb92230599655485f63039ff8b8dae9ebfbba5baa9237e5ee4dd5a8393cdb" id="fs_code_52696" value="WCPROJ0968" />
+<div class="foxyshop_variations">
+<input type="text" name="price||1bea706beb1e0a06ddfbd67eded3e5eff57ac0dd58eed47a3ce196c5783c5157||open" id="WCPROJ0968_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
