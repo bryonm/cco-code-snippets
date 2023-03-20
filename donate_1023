@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1023', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_81358" rel="81358">
+<input type="hidden" name="price||72d220ac036684b6dc403905fe8efbb2363d632ad1439b1529e9abeefaa4e55d" id="fs_price_81358" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_81358" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_81358" />
+<input type="hidden" name="image||36aedc643405ce4bc73175fed4918c19ddef5a4aa54cb047967d1b3fb38c7c10||open" value="https://crosscatholic.org/wp-content/uploads/2021/07/1023-foxy-thumb.jpg" id="foxyshop_cart_product_image_81358" />
+<input type="hidden" name="url||57ae55ab69c745431e52d2a928cd625708ed3787a5840cb3dfa3e9b25acd8f11" value="https://crosscatholic.org/products/1023-vitafood-meals-for-the-hungry-25-gift/" id="fs_url_81358" />
+<input type="hidden" name="quantity_min||65b333786a48899686a95a2c7b1ff75aa60b06e8a1407db7b4c357695fbe33da||open" value="0" id="fs_quantity_min_81358" />
+<input type="hidden" name="quantity_max||156b33b4ce824283077e946632dbdace6f8a980206bc0d4ec623e9f62a90c155||open" value="0" id="fs_quantity_max_81358" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_81358" />
+<input type="hidden" name="name||1cc68d6e0eef9483084b407d58bda6caee697950786081b8181008a7e3b44bd8" id="fs_name_81358" value="1023 - Vitafood Meals for the Hungry $25 Gift" />
+<input type="hidden" name="code||ec0a2ccd19ee473917be2e65882ca36e403415ed814115fea32b0130c2afeefe" id="fs_code_81358" value="WCPROJ1023" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||68f6b49806712941e6b7448a4679b4eb43c17330c1a883bc8d8a48219ae73e1d" id="WCPROJ1023_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_81365" rel="81365">
+<input type="hidden" name="price||f2972e654691e05d8dcb397eb27f7d2fe7f42ead0f0e261640405eb4482a5656" id="fs_price_81365" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_81365" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_81365" />
+<input type="hidden" name="image||36aedc643405ce4bc73175fed4918c19ddef5a4aa54cb047967d1b3fb38c7c10||open" value="https://crosscatholic.org/wp-content/uploads/2021/07/1023-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_81365" />
+<input type="hidden" name="url||701ff8cd54da856365c81061b50aea981d56b98f77dbcbd0544096ef186204a2" value="https://crosscatholic.org/products/1023-vitafood-meals-for-the-hungry-50-gift/" id="fs_url_81365" />
+<input type="hidden" name="quantity_min||65b333786a48899686a95a2c7b1ff75aa60b06e8a1407db7b4c357695fbe33da||open" value="0" id="fs_quantity_min_81365" />
+<input type="hidden" name="quantity_max||156b33b4ce824283077e946632dbdace6f8a980206bc0d4ec623e9f62a90c155||open" value="0" id="fs_quantity_max_81365" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_81365" />
+<input type="hidden" name="name||071b9b042edc63f6699ef1163a67f1a1965fc7bf6ce59e6c9b2b834eb81bae51" id="fs_name_81365" value="1023 - Vitafood Meals for the Hungry $50 Gift" />
+<input type="hidden" name="code||ec0a2ccd19ee473917be2e65882ca36e403415ed814115fea32b0130c2afeefe" id="fs_code_81365" value="WCPROJ1023" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||54729a313a0b544ca56ba506a8d9f6d52f603186c4701625d5534c3d3ff7b854" id="WCPROJ1023_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_81368" rel="81368">
+<input type="hidden" name="price||a8f8c1bcaa5a5a49e1e9cb4b87e9f366915c7fd1ffe34db17f2e7e57b4c83934" id="fs_price_81368" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_81368" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_81368" />
+<input type="hidden" name="image||36aedc643405ce4bc73175fed4918c19ddef5a4aa54cb047967d1b3fb38c7c10||open" value="https://crosscatholic.org/wp-content/uploads/2021/07/1023-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_81368" />
+<input type="hidden" name="url||ad4903bdf9979b3204e3002c824eedb0120bba88bd2275e19cf4f5b2c664b024" value="https://crosscatholic.org/products/1023-vitafood-meals-for-the-hungry-100-gift/" id="fs_url_81368" />
+<input type="hidden" name="quantity_min||65b333786a48899686a95a2c7b1ff75aa60b06e8a1407db7b4c357695fbe33da||open" value="0" id="fs_quantity_min_81368" />
+<input type="hidden" name="quantity_max||156b33b4ce824283077e946632dbdace6f8a980206bc0d4ec623e9f62a90c155||open" value="0" id="fs_quantity_max_81368" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_81368" />
+<input type="hidden" name="name||9e1bd5ee65187fbeadcbee297bae2a9216d2ee38e0660711d2b70d15af4ed098" id="fs_name_81368" value="1023 - Vitafood Meals for the Hungry $100 Gift" />
+<input type="hidden" name="code||ec0a2ccd19ee473917be2e65882ca36e403415ed814115fea32b0130c2afeefe" id="fs_code_81368" value="WCPROJ1023" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||04b9afc488da13f31300a647023c79082b988cee9820bbdd76c8c1c0875f60cc" id="WCPROJ1023_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_81359" rel="81359">
+<input type="hidden" name="price||285d36f3e8fa8ba7001afd47d86936aef5b4fdecf832aa3453e446fae8cf51bc" id="fs_price_81359" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_81359" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_81359" />
+<input type="hidden" name="image||36aedc643405ce4bc73175fed4918c19ddef5a4aa54cb047967d1b3fb38c7c10||open" value="https://crosscatholic.org/wp-content/uploads/2021/07/1023-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_81359" />
+<input type="hidden" name="url||8149379560dc3be87e588aad86dd5ff028baa66f13d7a154e566ab4d0e00f6b3" value="https://crosscatholic.org/products/1023-vitafood-meals-for-the-hungry/" id="fs_url_81359" />
+<input type="hidden" name="quantity_min||65b333786a48899686a95a2c7b1ff75aa60b06e8a1407db7b4c357695fbe33da||open" value="0" id="fs_quantity_min_81359" />
+<input type="hidden" name="quantity_max||156b33b4ce824283077e946632dbdace6f8a980206bc0d4ec623e9f62a90c155||open" value="0" id="fs_quantity_max_81359" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_81359" />
+<input type="hidden" name="name||d4c6ff216e17cd41436b189b3f8e611d4af96479e23cc14bdc06322eb948664c" id="fs_name_81359" value="1023 - Vitafood Meals for the Hungry" />
+<input type="hidden" name="code||ec0a2ccd19ee473917be2e65882ca36e403415ed814115fea32b0130c2afeefe" id="fs_code_81359" value="WCPROJ1023" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f092c3075627d46af20e65ceae7409b163d6904cae1f2c78dc24dd25bed33e71||open" id="WCPROJ1023_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
