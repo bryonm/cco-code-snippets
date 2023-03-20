@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1087', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132290" rel="132290">
+<input type="hidden" name="price||dc1c9847a357b24596cd6ecc6e9b47b51032d08d75ebe947347163b8095e9a22" id="fs_price_132290" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132290" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132290" />
+<input type="hidden" name="image||3ddc95eeaefa2dd29164d3c4c8525030e4a48ff4f7d41c1e3b43beae78538368||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1087-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_132290" />
+<input type="hidden" name="url||3631f1c8c4d96e36bac476c1e833da72d592fcca1080fd5bda406c1cffb81d57" value="https://crosscatholic.org/products/1087-brothers-of-good-works-hiv-aids-and-tb-healthcare-25-gift/" id="fs_url_132290" />
+<input type="hidden" name="quantity_min||0aa9dd29420b57478755b33e940ce11246a6b36289bfcf3dac491609af3d5376||open" value="0" id="fs_quantity_min_132290" />
+<input type="hidden" name="quantity_max||dc13f43ac827190dcb51b8650adbad5473a6af18d2ad4bf928535fc4f0b934f0||open" value="0" id="fs_quantity_max_132290" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_132290" />
+<input type="hidden" name="name||56585ef064471c6b838299ef340b505df879affacdf066a40bbea2821f5c19ef" id="fs_name_132290" value="1087 - Brothers of Good Works HIV/Aids and TB Healthcare $25 Gift" />
+<input type="hidden" name="code||6cb6f5266e6b4e2a555532cad901577d6b1b42952b547584eda26aaf420b42d0" id="fs_code_132290" value="WCPROJ01087" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||193dccd8d79cb91d002882f3c974bb036db2786631558bbb03f801ee42d9525b" id="WCPROJ01087_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132291" rel="132291">
+<input type="hidden" name="price||0332e04c77d00fdbf11455084aca2ba83fc79814ce67dfb823385c9fef8a12ec" id="fs_price_132291" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132291" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132291" />
+<input type="hidden" name="image||882dd107831de9c06715c2fbd52e2c17d9e16d05638ef4434456dea2487acca2||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1087-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_132291" />
+<input type="hidden" name="url||b7b62d7cfd578f39a3f00c78d05bbcc71216f1f0aa1b6e48f4d700047d16e14c" value="https://crosscatholic.org/products/1087-brothers-of-good-works-hiv-aids-and-tb-healthcare-50-gift/" id="fs_url_132291" />
+<input type="hidden" name="quantity_min||32b908ce764c87466ee88432fb2f4b5daaa3b7193da7806c30999b025e29863e||open" value="0" id="fs_quantity_min_132291" />
+<input type="hidden" name="quantity_max||0c71f20c7adce920c0fe3b3ee916c9ae22dc6b502b1a7005532fd6128a1dd398||open" value="0" id="fs_quantity_max_132291" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_132291" />
+<input type="hidden" name="name||a5461349c335fe5f26888eb78ba78c561b5179bc0b0dacd334bd2c6b3c635afc" id="fs_name_132291" value="1087 - Brothers of Good Works HIV/Aids and TB Healthcare $50 Gift" />
+<input type="hidden" name="code||8bbfa76d6f60535f4b1de32e7633d10b6f8a4c37b361d2bec390542f69b96909" id="fs_code_132291" value="WCPROJ1087" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||33b7947b43e7ad442ece2e0d2e640093573e67cb174c3c723897c8abb6940a10" id="WCPROJ1087_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132288" rel="132288">
+<input type="hidden" name="price||8d49ec450928a7965d8e59b6282258cf08d88ad230b87bf31b35153a23853891" id="fs_price_132288" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132288" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132288" />
+<input type="hidden" name="image||882dd107831de9c06715c2fbd52e2c17d9e16d05638ef4434456dea2487acca2||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1087-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_132288" />
+<input type="hidden" name="url||89a8c687d3f24c9e4310a40c589c8d84823d36be2b1a8c72b0ab14d2e76f7399" value="https://crosscatholic.org/products/1087-brothers-of-good-works-hiv-aids-and-tb-healthcare-100-gift/" id="fs_url_132288" />
+<input type="hidden" name="quantity_min||32b908ce764c87466ee88432fb2f4b5daaa3b7193da7806c30999b025e29863e||open" value="0" id="fs_quantity_min_132288" />
+<input type="hidden" name="quantity_max||0c71f20c7adce920c0fe3b3ee916c9ae22dc6b502b1a7005532fd6128a1dd398||open" value="0" id="fs_quantity_max_132288" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_132288" />
+<input type="hidden" name="name||69e1b9489b58ab8ebcfa89337782d493647654c3413e80025e2e3e76ea9dc9f9" id="fs_name_132288" value="1087 - Brothers of Good Works HIV/Aids and TB Healthcare $100 Gift" />
+<input type="hidden" name="code||8bbfa76d6f60535f4b1de32e7633d10b6f8a4c37b361d2bec390542f69b96909" id="fs_code_132288" value="WCPROJ1087" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||d340396c89f57675ce486fb0cd8a1acdb6c3190612c61feda669499e6774b449" id="WCPROJ1087_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132289" rel="132289">
+<input type="hidden" name="price||1432f8cc11335773022b932deae9d25ba7d76c8868b0e611468ee7a7523e0980" id="fs_price_132289" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132289" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132289" />
+<input type="hidden" name="image||882dd107831de9c06715c2fbd52e2c17d9e16d05638ef4434456dea2487acca2||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1087-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_132289" />
+<input type="hidden" name="url||4325314060f897492369a9786c1570419d04f1f0c90309105626198787e0a3da" value="https://crosscatholic.org/products/1087-brothers-of-good-works-hiv-aids-and-tb-healthcare/" id="fs_url_132289" />
+<input type="hidden" name="quantity_min||32b908ce764c87466ee88432fb2f4b5daaa3b7193da7806c30999b025e29863e||open" value="0" id="fs_quantity_min_132289" />
+<input type="hidden" name="quantity_max||0c71f20c7adce920c0fe3b3ee916c9ae22dc6b502b1a7005532fd6128a1dd398||open" value="0" id="fs_quantity_max_132289" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_132289" />
+<input type="hidden" name="name||af2d69df4860726edaa103bb77dab518b3ec44cf03cd46cbaef2d2f018b42b2b" id="fs_name_132289" value="1087 - Brothers of Good Works HIV/Aids and TB Healthcare" />
+<input type="hidden" name="code||8bbfa76d6f60535f4b1de32e7633d10b6f8a4c37b361d2bec390542f69b96909" id="fs_code_132289" value="WCPROJ1087" />
+<div class="foxyshop_variations">
+<input type="text" name="price||c2679ede12b7517f334321f5845c63ba31bd4f2b951670c47c773fe65f05908d||open" id="WCPROJ1087_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
