@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1181', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37256" rel="37256">
+<input type="hidden" name="price||e3ca8f519516ea2cff02b0e9cfb65506a879be5ee4e914004faa6ceb14d58382" id="fs_price_37256" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37256" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37256" />
+<input type="hidden" name="image||3f4835475bdc832afd3994929d56d8d4253de1c0d58e1b0b2cc0df57107c78f7||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1181-foxy-thumb.jpg" id="foxyshop_cart_product_image_37256" />
+<input type="hidden" name="url||bd244666ff6f988197c8194a1c22f7baae20952d59d339df310cf7a4b886e479" value="https://crosscatholic.org/products/1181-caritas-vocational-school-day-care/" id="fs_url_37256" />
+<input type="hidden" name="quantity_min||c95d6162b0cc4c719251a64e8588cfa1a296d517229545cd8ab4cbdf66c8e8e8||open" value="0" id="fs_quantity_min_37256" />
+<input type="hidden" name="quantity_max||9bf09020322f0e7b3823757b13f12d1ac733593d6b17454c77373d9427bd8197||open" value="0" id="fs_quantity_max_37256" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37256" />
+<input type="hidden" name="name||ff76daa49e8dec189a48a83e217a1e7a69848f78ed9d658c6d1c0568874d35e4" id="fs_name_37256" value="1181 – Cáritas Vocational School Day Care" />
+<input type="hidden" name="code||5c2e5de4b3f36ea66b347c7b51508d0f0c1769473823008b115af757475e89f7" id="fs_code_37256" value="WCPROJ1181" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||a58faad344c5cbaeda80ca23af190ec8b49c197d100aa14af138c626bf5cdadf" id="WCPROJ1181_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37262" rel="37262">
+<input type="hidden" name="price||ec238c98299ad1c8ac1ac29b8ccf53761f299f1fb6b47a565f38663d6cc224ac" id="fs_price_37262" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37262" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37262" />
+<input type="hidden" name="image||3f4835475bdc832afd3994929d56d8d4253de1c0d58e1b0b2cc0df57107c78f7||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1181-foxy-thumb.jpg" id="foxyshop_cart_product_image_37262" />
+<input type="hidden" name="url||ba7e6b34cd42d1e863f63ae9ae309cf81271a4ef5a8ba50f31ca30a0244a3b08" value="https://crosscatholic.org/products/1181-caritas-vocational-school-day-care-3/" id="fs_url_37262" />
+<input type="hidden" name="quantity_min||c95d6162b0cc4c719251a64e8588cfa1a296d517229545cd8ab4cbdf66c8e8e8||open" value="0" id="fs_quantity_min_37262" />
+<input type="hidden" name="quantity_max||9bf09020322f0e7b3823757b13f12d1ac733593d6b17454c77373d9427bd8197||open" value="0" id="fs_quantity_max_37262" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37262" />
+<input type="hidden" name="name||ff76daa49e8dec189a48a83e217a1e7a69848f78ed9d658c6d1c0568874d35e4" id="fs_name_37262" value="1181 – Cáritas Vocational School Day Care" />
+<input type="hidden" name="code||5c2e5de4b3f36ea66b347c7b51508d0f0c1769473823008b115af757475e89f7" id="fs_code_37262" value="WCPROJ1181" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||5971b4b3ca416d1e6ca1abbf29cf0ee6fedb9355541f60b3593d5ae8c2d5ecec" id="WCPROJ1181_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37265" rel="37265">
+<input type="hidden" name="price||7faa2957a48b9b22258031479145dd1ab163c617ff205aeddeb223614b01675f" id="fs_price_37265" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37265" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37265" />
+<input type="hidden" name="image||3f4835475bdc832afd3994929d56d8d4253de1c0d58e1b0b2cc0df57107c78f7||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1181-foxy-thumb.jpg" id="foxyshop_cart_product_image_37265" />
+<input type="hidden" name="url||391affba88c1c78ca544fd6da2ddfb4405e2fcdd31b01a0c561a04b4f6294e0b" value="https://crosscatholic.org/products/1181-caritas-vocational-school-day-care-4/" id="fs_url_37265" />
+<input type="hidden" name="quantity_min||c95d6162b0cc4c719251a64e8588cfa1a296d517229545cd8ab4cbdf66c8e8e8||open" value="0" id="fs_quantity_min_37265" />
+<input type="hidden" name="quantity_max||9bf09020322f0e7b3823757b13f12d1ac733593d6b17454c77373d9427bd8197||open" value="0" id="fs_quantity_max_37265" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37265" />
+<input type="hidden" name="name||ff76daa49e8dec189a48a83e217a1e7a69848f78ed9d658c6d1c0568874d35e4" id="fs_name_37265" value="1181 – Cáritas Vocational School Day Care" />
+<input type="hidden" name="code||5c2e5de4b3f36ea66b347c7b51508d0f0c1769473823008b115af757475e89f7" id="fs_code_37265" value="WCPROJ1181" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||251187dce4e40c9b10cb788623af38438fd8df1e632bfd1e617daa927ad68076" id="WCPROJ1181_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37259" rel="37259">
+<input type="hidden" name="price||72573bb3c11d107ebacac4dcc936825f42fb96d275b3365bfd987c168bf5330a" id="fs_price_37259" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37259" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37259" />
+<input type="hidden" name="image||3f4835475bdc832afd3994929d56d8d4253de1c0d58e1b0b2cc0df57107c78f7||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1181-foxy-thumb.jpg" id="foxyshop_cart_product_image_37259" />
+<input type="hidden" name="url||795c691f97b0ab13bfb85b57d0e9d3d8660ec79171b863fa42bbc6b14fd1888a" value="https://crosscatholic.org/products/1181-caritas-vocational-school-day-care-2/" id="fs_url_37259" />
+<input type="hidden" name="quantity_min||c95d6162b0cc4c719251a64e8588cfa1a296d517229545cd8ab4cbdf66c8e8e8||open" value="0" id="fs_quantity_min_37259" />
+<input type="hidden" name="quantity_max||9bf09020322f0e7b3823757b13f12d1ac733593d6b17454c77373d9427bd8197||open" value="0" id="fs_quantity_max_37259" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37259" />
+<input type="hidden" name="name||ff76daa49e8dec189a48a83e217a1e7a69848f78ed9d658c6d1c0568874d35e4" id="fs_name_37259" value="1181 – Cáritas Vocational School Day Care" />
+<input type="hidden" name="code||5c2e5de4b3f36ea66b347c7b51508d0f0c1769473823008b115af757475e89f7" id="fs_code_37259" value="WCPROJ1181" />
+<div class="foxyshop_variations">
+<input type="text" name="price||d3154bbb318b7e864647b5e32dd50a1ebe278eb6d2e94c32f5f9c53a660f9f3a||open" id="WCPROJ1181_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
