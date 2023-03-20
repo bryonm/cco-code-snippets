@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1008', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36136" rel="36136">
+<input type="hidden" name="price||6ff9c6577cc77369e733cbfeef85897284c468266cd1ed3612aa47030dcec7cb" id="fs_price_36136" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36136" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36136" />
+<input type="hidden" name="image||1fe486ef97eb6223b05888c42928210dab523eeec496fc1dacd43d2d1786a57f||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1008-foxy-thumb.jpg" id="foxyshop_cart_product_image_36136" />
+<input type="hidden" name="url||fb3ae2692329ee8d9d275bbe0a82ac53d08f4e0f2d2e875365721d99fa683bab" value="https://crosscatholic.org/products/1008-st-joseph-training-institute/" id="fs_url_36136" />
+<input type="hidden" name="quantity_min||bf222c36ac48b61c1ecd72622c49f2834d2ca8c61d8aeacbc606be65b7891ca6||open" value="0" id="fs_quantity_min_36136" />
+<input type="hidden" name="quantity_max||6cbcf226ec8aa2e773725277b28c799b3943cc10dc980043859756af0946c7ee||open" value="0" id="fs_quantity_max_36136" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36136" />
+<input type="hidden" name="name||04c150a1f0d189353ac8454c4e4e16c019b906585c96592bdbc7654b657eb6f7" id="fs_name_36136" value="1008 - St. Joseph Training Institute" />
+<input type="hidden" name="code||27bc5e8b28c6bbce78ed1fa5aaf46287abc05bad4ae31b5ab09d3b143f23671c" id="fs_code_36136" value="WCPROJ1008" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||b52d6f79ae93423af5ff1aafbf5e09b664b2831acb900cf008dd81e09b77ea50" id="WCPROJ1008_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36142" rel="36142">
+<input type="hidden" name="price||9f4b62fb47eb923a38b0179aa56b887efa01415ced8666413c69af941d384a92" id="fs_price_36142" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36142" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36142" />
+<input type="hidden" name="image||1fe486ef97eb6223b05888c42928210dab523eeec496fc1dacd43d2d1786a57f||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1008-foxy-thumb.jpg" id="foxyshop_cart_product_image_36142" />
+<input type="hidden" name="url||81cb116338852d7e2217c1df5019c2d7d552bcb6a4aa8cea8d4ac7a31a38bf0d" value="https://crosscatholic.org/products/1008-st-joseph-training-institute-3/" id="fs_url_36142" />
+<input type="hidden" name="quantity_min||bf222c36ac48b61c1ecd72622c49f2834d2ca8c61d8aeacbc606be65b7891ca6||open" value="0" id="fs_quantity_min_36142" />
+<input type="hidden" name="quantity_max||6cbcf226ec8aa2e773725277b28c799b3943cc10dc980043859756af0946c7ee||open" value="0" id="fs_quantity_max_36142" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36142" />
+<input type="hidden" name="name||04c150a1f0d189353ac8454c4e4e16c019b906585c96592bdbc7654b657eb6f7" id="fs_name_36142" value="1008 - St. Joseph Training Institute" />
+<input type="hidden" name="code||27bc5e8b28c6bbce78ed1fa5aaf46287abc05bad4ae31b5ab09d3b143f23671c" id="fs_code_36142" value="WCPROJ1008" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||9cab7204eb670096c4f7a24208f1ba1d5640230dce411abc96a350ffde64c6ce" id="WCPROJ1008_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36145" rel="36145">
+<input type="hidden" name="price||565b958168a83910f4e6cea7101f9f8c2c02207a9abe0a4653a9172376a1e904" id="fs_price_36145" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36145" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36145" />
+<input type="hidden" name="image||1fe486ef97eb6223b05888c42928210dab523eeec496fc1dacd43d2d1786a57f||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1008-foxy-thumb.jpg" id="foxyshop_cart_product_image_36145" />
+<input type="hidden" name="url||1f1cb1c62b6026ca18248fa919f2fd5a98fa5c26404edea64ec915b9e968fab3" value="https://crosscatholic.org/products/1008-st-joseph-training-institute-4/" id="fs_url_36145" />
+<input type="hidden" name="quantity_min||bf222c36ac48b61c1ecd72622c49f2834d2ca8c61d8aeacbc606be65b7891ca6||open" value="0" id="fs_quantity_min_36145" />
+<input type="hidden" name="quantity_max||6cbcf226ec8aa2e773725277b28c799b3943cc10dc980043859756af0946c7ee||open" value="0" id="fs_quantity_max_36145" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36145" />
+<input type="hidden" name="name||04c150a1f0d189353ac8454c4e4e16c019b906585c96592bdbc7654b657eb6f7" id="fs_name_36145" value="1008 - St. Joseph Training Institute" />
+<input type="hidden" name="code||27bc5e8b28c6bbce78ed1fa5aaf46287abc05bad4ae31b5ab09d3b143f23671c" id="fs_code_36145" value="WCPROJ1008" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||34cc6b2d62c78474e1e8a404aef6de2a78c416fac97f116508ed83cebc5d01c0" id="WCPROJ1008_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36139" rel="36139">
+<input type="hidden" name="price||7e5a0bf72b70974568a9492b40cadb623465dbdc9f0d291d9cfb4c03bee95ac8" id="fs_price_36139" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36139" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36139" />
+<input type="hidden" name="image||1fe486ef97eb6223b05888c42928210dab523eeec496fc1dacd43d2d1786a57f||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/1008-foxy-thumb.jpg" id="foxyshop_cart_product_image_36139" />
+<input type="hidden" name="url||e0d6f0d070d585c5cae5adecd4060a970cb5c0c0725b478a0bfb4dbd05430ff7" value="https://crosscatholic.org/products/1008-st-joseph-training-institute-2/" id="fs_url_36139" />
+<input type="hidden" name="quantity_min||bf222c36ac48b61c1ecd72622c49f2834d2ca8c61d8aeacbc606be65b7891ca6||open" value="0" id="fs_quantity_min_36139" />
+<input type="hidden" name="quantity_max||6cbcf226ec8aa2e773725277b28c799b3943cc10dc980043859756af0946c7ee||open" value="0" id="fs_quantity_max_36139" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36139" />
+<input type="hidden" name="name||04c150a1f0d189353ac8454c4e4e16c019b906585c96592bdbc7654b657eb6f7" id="fs_name_36139" value="1008 - St. Joseph Training Institute" />
+<input type="hidden" name="code||27bc5e8b28c6bbce78ed1fa5aaf46287abc05bad4ae31b5ab09d3b143f23671c" id="fs_code_36139" value="WCPROJ1008" />
+<div class="foxyshop_variations">
+<input type="text" name="price||734957696462c7fdc689acdfcd7e6c6bfb9ff5f52296c1e6e6b3a22e6de287bd||open" id="WCPROJ1008_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
