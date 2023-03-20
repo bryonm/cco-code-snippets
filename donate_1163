@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1163', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148087" rel="148087">
+<input type="hidden" name="price||08b7ebd5623d8b64de26cbf6af4eddc7906615911197f5f8f3e6f0b65dff9fe6" id="fs_price_148087" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148087" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148087" />
+<input type="hidden" name="image||b0ea70ecca8236aa1ac0ad23674150d469ae03ca98b4d57c85843ded3e14a008||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/1163-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_148087" />
+<input type="hidden" name="url||b87793b7717756ed58f607f1188a4db6a903fc6e980c9a86324dced3e946b7c8" value="https://crosscatholic.org/products/1163-association-cross-mozambique-orphans-and-vulnerable-children-ministry-25-donation/" id="fs_url_148087" />
+<input type="hidden" name="quantity_min||cba6e373128f0dc99848940cdabf27401bfce0431278399d31d949409d27d00d||open" value="0" id="fs_quantity_min_148087" />
+<input type="hidden" name="quantity_max||18054e196520b88ec6f21957152f92ea97fe06e16de20209eddc84da43842812||open" value="0" id="fs_quantity_max_148087" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148087" />
+<input type="hidden" name="name||10e087dc5186fc507b06e18dd90ee8ab451b8358fdfb906aab5dcfcff5404e2f" id="fs_name_148087" value="1163 – Association Cross Mozambique Orphans and Vulnerable Children Ministry – $25 donation" />
+<input type="hidden" name="code||f3bacfafc933057886728000dd057f28755648bd5fffb0026cfe804cb7c8f929" id="fs_code_148087" value="WCPROJ1163" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||562a5828afb47244603e1bc364ee9da091b9b5a30a9dabe4abec496c36988646" id="WCPROJ1163_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148089" rel="148089">
+<input type="hidden" name="price||bf14f89864f7fb8a072e073afe5b088b0abebbc4be78c5b831fdcfb1ac9dc769" id="fs_price_148089" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148089" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148089" />
+<input type="hidden" name="image||b0ea70ecca8236aa1ac0ad23674150d469ae03ca98b4d57c85843ded3e14a008||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/1163-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_148089" />
+<input type="hidden" name="url||bde60768d2b2d11bd4e85935522c68e7bf12bcd01656eddc0490e5db780c78ed" value="https://crosscatholic.org/products/1163-association-cross-mozambique-orphans-and-vulnerable-children-ministry-50-donation/" id="fs_url_148089" />
+<input type="hidden" name="quantity_min||cba6e373128f0dc99848940cdabf27401bfce0431278399d31d949409d27d00d||open" value="0" id="fs_quantity_min_148089" />
+<input type="hidden" name="quantity_max||18054e196520b88ec6f21957152f92ea97fe06e16de20209eddc84da43842812||open" value="0" id="fs_quantity_max_148089" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148089" />
+<input type="hidden" name="name||d72c159f5a1092924c2ffb8a70a3c1f23ff7a65c1599ba6430161562e6df172c" id="fs_name_148089" value="1163 – Association Cross Mozambique Orphans and Vulnerable Children Ministry – $50 donation" />
+<input type="hidden" name="code||f3bacfafc933057886728000dd057f28755648bd5fffb0026cfe804cb7c8f929" id="fs_code_148089" value="WCPROJ1163" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0cbc0eb11c783fb81c9b84eae17c68df2ddaa065a19cba39bf92eeb5960c8351" id="WCPROJ1163_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148090" rel="148090">
+<input type="hidden" name="price||dcd84ea54135c972621f485ad8fe834f61e2163c05c91dd44ab43387b31b5fca" id="fs_price_148090" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148090" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148090" />
+<input type="hidden" name="image||b0ea70ecca8236aa1ac0ad23674150d469ae03ca98b4d57c85843ded3e14a008||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/1163-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_148090" />
+<input type="hidden" name="url||41117a911cccec144d431dd0da9c9971eebf9cb01db46c66da8c2f28ee061e39" value="https://crosscatholic.org/products/1163-association-cross-mozambique-orphans-and-vulnerable-children-ministry-100-donation/" id="fs_url_148090" />
+<input type="hidden" name="quantity_min||cba6e373128f0dc99848940cdabf27401bfce0431278399d31d949409d27d00d||open" value="0" id="fs_quantity_min_148090" />
+<input type="hidden" name="quantity_max||18054e196520b88ec6f21957152f92ea97fe06e16de20209eddc84da43842812||open" value="0" id="fs_quantity_max_148090" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148090" />
+<input type="hidden" name="name||0c6eb86e73f6cb6c3bb9582980bb298bf42089f0826479fb6f5eb20d33ffee3c" id="fs_name_148090" value="1163 – Association Cross Mozambique Orphans and Vulnerable Children Ministry – $100 donation" />
+<input type="hidden" name="code||f3bacfafc933057886728000dd057f28755648bd5fffb0026cfe804cb7c8f929" id="fs_code_148090" value="WCPROJ1163" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||f2cea4d6cf9c45c65143331847cf569a4572a51e413018d9107d415046384f44" id="WCPROJ1163_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148088" rel="148088">
+<input type="hidden" name="price||fde984af6f84a1df190a00be88d7d91c8123323615271eee250561a1dfdc902d" id="fs_price_148088" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148088" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148088" />
+<input type="hidden" name="image||b0ea70ecca8236aa1ac0ad23674150d469ae03ca98b4d57c85843ded3e14a008||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/1163-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_148088" />
+<input type="hidden" name="url||eac4e51c851798657a4852de5113a08b830dcc1bfaab40354f0cf9ae14566c71" value="https://crosscatholic.org/products/1163-association-cross-mozambique-orphans-and-vulnerable-children-ministry/" id="fs_url_148088" />
+<input type="hidden" name="quantity_min||cba6e373128f0dc99848940cdabf27401bfce0431278399d31d949409d27d00d||open" value="0" id="fs_quantity_min_148088" />
+<input type="hidden" name="quantity_max||18054e196520b88ec6f21957152f92ea97fe06e16de20209eddc84da43842812||open" value="0" id="fs_quantity_max_148088" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148088" />
+<input type="hidden" name="name||2fbeed99b144e20b29fc97adecd0078a77518fb804e2b2a63bdb2cbfc1bd0327" id="fs_name_148088" value="1163 – Association Cross Mozambique Orphans and Vulnerable Children Ministry" />
+<input type="hidden" name="code||f3bacfafc933057886728000dd057f28755648bd5fffb0026cfe804cb7c8f929" id="fs_code_148088" value="WCPROJ1163" />
+<div class="foxyshop_variations">
+<input type="text" name="price||5b01e11182b224ff3d969f9265f6b0c3948909d2fe8948451673940a6cc6b2c8||open" id="WCPROJ1163_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
