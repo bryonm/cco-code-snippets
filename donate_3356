@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3356', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143724" rel="143724">
+<input type="hidden" name="price||66aa889fced766a247b1bc98a2c7587ba80dcfea9df053b65a654af3769852e7" id="fs_price_143724" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143724" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143724" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3356-foxythumb.jpg" id="foxyshop_cart_product_image_143724" />
+<input type="hidden" name="url||731cc1ce20f33dd5259da1c02693c0ea04c070806711e8a3432e9cbbe1e0d850" value="https://crosscatholic.org/products/3356-populorum-progressio-foundation-nourishing-meals-for-the-poor-25-donation/" id="fs_url_143724" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143724" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143724" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143724" />
+<input type="hidden" name="name||f9e0c25f4391691efb63bb3938e394a78e0b8a7b9304559301ec69b0917ebec0" id="fs_name_143724" value="3356 – Populorum Progressio Foundation – Nourishing Meals for the Poor – $25 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143724" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||14002e43ae38253f0a3b705e3fd47a9916885ca3f4b6789ca3352cf3ee6f0a15" id="WCPROJ9031_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143725" rel="143725">
+<input type="hidden" name="price||c36936c563adf5e69e1e2356fa07c629c80b9f0352f69b745296be97b763bf4d" id="fs_price_143725" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143725" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143725" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3356-foxythumb_1.jpg" id="foxyshop_cart_product_image_143725" />
+<input type="hidden" name="url||5b45781c4645fa886924769bc564bb4a6414f80c70be8099d7f165e340722629" value="https://crosscatholic.org/products/3356-populorum-progressio-foundation-nourishing-meals-for-the-poor-50-donation/" id="fs_url_143725" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143725" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143725" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143725" />
+<input type="hidden" name="name||d917f0f5e28a541e867b324a50d2b38163ed407ee4c3637a762ffdc1a00280ed" id="fs_name_143725" value="3356 – Populorum Progressio Foundation – Nourishing Meals for the Poor – $50 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143725" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0acdde123280a59c877d8ce576094555d128dc29aa485e7c0dc71969096bbe80" id="WCPROJ9031_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143726" rel="143726">
+<input type="hidden" name="price||5b0ce675ac752e7a0662690ee1e170b23c75845d07d055f4fb2f501cf764c638" id="fs_price_143726" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143726" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143726" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3356-foxythumb_2.jpg" id="foxyshop_cart_product_image_143726" />
+<input type="hidden" name="url||f3eb99db1baa8b7f98e03d043fb0ce6e941b5cddd5cc351f3da466d76aeb6844" value="https://crosscatholic.org/products/3356-populorum-progressio-foundation-nourishing-meals-for-the-poor-100-donation/" id="fs_url_143726" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143726" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143726" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143726" />
+<input type="hidden" name="name||048e8c1dcaa643c8051ebeb58af2179300de747bace5ae24f96998ba04a70eed" id="fs_name_143726" value="3356 – Populorum Progressio Foundation – Nourishing Meals for the Poor – $100 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143726" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||25d07319af2fae360fd8f25942f352dd660a4f83228c8e7e5722cd73bccf0ad4" id="WCPROJ9031_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143727" rel="143727">
+<input type="hidden" name="price||6467c93328d23991c01c504c0b8cb2aa61f91fb1765c070199ec918add4aa41b" id="fs_price_143727" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143727" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143727" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3356-foxythumb_3.jpg" id="foxyshop_cart_product_image_143727" />
+<input type="hidden" name="url||e8363b9c6e6aae3e3ad026f8fc2d768ee2ba03e22ce859031023a140481491c4" value="https://crosscatholic.org/products/3356-populorum-progressio-foundation-nourishing-meals-for-the-poor/" id="fs_url_143727" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143727" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143727" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143727" />
+<input type="hidden" name="name||6ac1e77454c1966e425cb42a23f4705e53772ec081e294f230debf06321a1243" id="fs_name_143727" value="3356 – Populorum Progressio Foundation – Nourishing Meals for the Poor" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143727" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="text" name="price||fb3b4533ae8abf346f591bb285016c1aefc8deae5fd71556af95e7ab1900d392||open" id="WCPROJ9031_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
