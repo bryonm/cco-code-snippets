@@ -1,0 +1,39 @@
+add_shortcode( 'pp-WCPLPG0007', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_29058" rel="29058">
+<input type="hidden" name="price||cadf5661d1d550ec065ef037b7ac9f4a5e1c42c8d7ee61f0efee871f1fbf9368" id="fs_price_29058" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_29058" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_29058" />
+<input type="hidden" name="image||fb41344085a9b26efeb5b6c40e7b9183c73df69c3a647bf1029b7039b59af43f||open" value="https://crosscatholic.org/wp-content/uploads/2022/03/CCO-PillarPg-Zambia-foxy-thumb.jpg" id="foxyshop_cart_product_image_29058" />
+<input type="hidden" name="url||ab89dd1a4cb8f4b8a1b31d947778b3b4e6c98c07c7e64d93732a11c7cddd2b83" value="https://crosscatholic.org/products/donate-to-zambia-general/" id="fs_url_29058" />
+<input type="hidden" name="quantity_min||af6a5119f329c8c464ad8ab59633e078f82647d94eeb6ef841c3c2656de8994e||open" value="0" id="fs_quantity_min_29058" />
+<input type="hidden" name="quantity_max||8d85216fe1e6424dfc0c51c0bba2a222a4e34702df356737bbdab04a718a628f||open" value="0" id="fs_quantity_max_29058" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_29058" />
+<input type="hidden" name="sub_frequency||87562f0cdb6baf62e0aad8758189a4580506e81c0850b1977fc377fd6d4c9756||open" id="fs_sub_frequency_29058" value="" />
+<input type="hidden" name="name||a41a9cb004980bac9d6bd677a11cf3843ebe70f8e3fdfb5bceea46cdb125ed0a" id="fs_name_29058" value="Donate to Zambia General" />
+<input type="hidden" name="code||00748124e1021e54a94582eecddd8422a6eb1f5e49286507a245732e10f45c47" id="fs_code_29058" value="WCPLPG0007" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPLPG0007_1" class="variation-donation">
+<option value="$50{p:50}||a62cb67b8ede9c4d46af08810663e76cb9a191989639481517f9974cb04ac219" priceset="5000">$50</option>
+<option value="$100{p:100}||7d9bb09eb897e5e88992742e724bb10b990e2bae04894c53ae2c610941f19e4d" priceset="10000">$100</option>
+<option value="$175{p:175}||681c1ecae8be2c38e2a022623a850ff202c6a4710d01ab8c28f3a5f524643071" priceset="17500">$175</option>
+<option value="$250{p:250}||35e573fdbe7a488d04eef5c21a5e57126466cb4cc82bbc274f791436d0e7c1a1" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||085cd9ffd145ac5a6b214696b64e3a4f8c25cdf847d533ee76996f78b73a827b" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPLPG0007_2" class="variation-price dkey" dkey="custom-price"></label>
+<input type="text" name="price||3a90a6eef4e59e1a806adea05899f70349daf834214302d8ec9a74d60991af57||open" id="WCPLPG0007_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount">
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||59de4e2a5a4d0b2fe8352ca9b12b0488fbd73ceed561bdb4c367a47dc7b5826e" id="WCPLPG0007_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG0007_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||040e41ce17676657200846be5eedf12c81949b0e63b7a76995feea5d6bc616ae" id="WCPLPG0007_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPLPG0007_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
