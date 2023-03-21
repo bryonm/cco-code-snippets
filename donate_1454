@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1454', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136274" rel="136274">
+<input type="hidden" name="price||ed12c425787313168c42d3660cfb17230b201f7b8ee752b22a07fdf41a771c57" id="fs_price_136274" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136274" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136274" />
+<input type="hidden" name="image||4ae4543ad5a5ca7f20a6d24596b57227eb53ea3d1c9959481dc7b9e5539cf7eb||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1454-foxy-thumb.jpg" id="foxyshop_cart_product_image_136274" />
+<input type="hidden" name="url||9d80c4e27bdc17d205f06b524f19a9743f05ed5be2f41d2b130965b800817e31" value="https://crosscatholic.org/products/1454-franciscan-social-center-25-donation/" id="fs_url_136274" />
+<input type="hidden" name="quantity_min||69a967e2b188308da98f97bd0f399b7062b116fd38fd4a22df4fbbe7e7a6ecd3||open" value="0" id="fs_quantity_min_136274" />
+<input type="hidden" name="quantity_max||d2c8c5f995a31128c6e534d8762d665bb371fb9140b9a9e08b82d623cbb1b588||open" value="0" id="fs_quantity_max_136274" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136274" />
+<input type="hidden" name="name||3e500eff899ce7eef79a30c9d96fb90ed4dfd23b6ae44ed5a05cc0b998dbdf41" id="fs_name_136274" value="1454 - Franciscan Social Center - $25 donation" />
+<input type="hidden" name="code||02dfe7c57889ebfafaeb1f63ef420930ef915b5ac2cc6bd10c5fa655080af551" id="fs_code_136274" value="WCPROJ1454" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||032b8ca26b4cddc0316e1e85c13e4201c9273209c1a3403773a1a567e76ede03" id="WCPROJ1454_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136276" rel="136276">
+<input type="hidden" name="price||bfd8d62276d87d54b7f52289d4203620ae76c404080aae60c3898560f08734f6" id="fs_price_136276" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136276" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136276" />
+<input type="hidden" name="image||4ae4543ad5a5ca7f20a6d24596b57227eb53ea3d1c9959481dc7b9e5539cf7eb||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1454-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_136276" />
+<input type="hidden" name="url||58ea00138578939cbb25415e853b7c6fff6ba5d4603eb890de0acdcd3a0f8e0c" value="https://crosscatholic.org/products/1454-franciscan-social-center-50-donation/" id="fs_url_136276" />
+<input type="hidden" name="quantity_min||69a967e2b188308da98f97bd0f399b7062b116fd38fd4a22df4fbbe7e7a6ecd3||open" value="0" id="fs_quantity_min_136276" />
+<input type="hidden" name="quantity_max||d2c8c5f995a31128c6e534d8762d665bb371fb9140b9a9e08b82d623cbb1b588||open" value="0" id="fs_quantity_max_136276" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136276" />
+<input type="hidden" name="name||f65ae1f20df1f2318988054332bf3e8f2798e1cd61d9363f6b75f72e480e1f18" id="fs_name_136276" value="1454 - Franciscan Social Center - $50 donation" />
+<input type="hidden" name="code||02dfe7c57889ebfafaeb1f63ef420930ef915b5ac2cc6bd10c5fa655080af551" id="fs_code_136276" value="WCPROJ1454" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||57f32d5e6e0be4410413183b0129fe3ef49022900ec3b48ae66b5b83e3dfdba7" id="WCPROJ1454_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136277" rel="136277">
+<input type="hidden" name="price||a6f1ca4a353a0e7e10fe86606cede5347d5b6512a522ce9b9d786d771d01ae9f" id="fs_price_136277" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136277" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136277" />
+<input type="hidden" name="image||4ae4543ad5a5ca7f20a6d24596b57227eb53ea3d1c9959481dc7b9e5539cf7eb||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1454-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_136277" />
+<input type="hidden" name="url||6c4234c79906a479b55c1b2a9c83ba6790926fbc4030db057153e763ffe0b958" value="https://crosscatholic.org/products/1454-franciscan-social-center-100-donation/" id="fs_url_136277" />
+<input type="hidden" name="quantity_min||69a967e2b188308da98f97bd0f399b7062b116fd38fd4a22df4fbbe7e7a6ecd3||open" value="0" id="fs_quantity_min_136277" />
+<input type="hidden" name="quantity_max||d2c8c5f995a31128c6e534d8762d665bb371fb9140b9a9e08b82d623cbb1b588||open" value="0" id="fs_quantity_max_136277" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136277" />
+<input type="hidden" name="name||283d93caebcfc7628b9751a5b9b342b616137a6da73e48ed3cec805255558f2d" id="fs_name_136277" value="1454 - Franciscan Social Center - $100 donation" />
+<input type="hidden" name="code||02dfe7c57889ebfafaeb1f63ef420930ef915b5ac2cc6bd10c5fa655080af551" id="fs_code_136277" value="WCPROJ1454" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||aab3e1cc3286d2c1c035cda567ba6f3b69c0d93989b565a7ba914acb23af9a79" id="WCPROJ1454_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136275" rel="136275">
+<input type="hidden" name="price||763bd4b756d77b2ee1eb094bac050883ddd1b8dd36187e946ced4177c3dce46f" id="fs_price_136275" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136275" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136275" />
+<input type="hidden" name="image||4ae4543ad5a5ca7f20a6d24596b57227eb53ea3d1c9959481dc7b9e5539cf7eb||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1454-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_136275" />
+<input type="hidden" name="url||d323e709dcd962dff74d78a61b1157936d895f9bf4c721aa01f47e9df7da290b" value="https://crosscatholic.org/products/1454-franciscan-social-center/" id="fs_url_136275" />
+<input type="hidden" name="quantity_min||69a967e2b188308da98f97bd0f399b7062b116fd38fd4a22df4fbbe7e7a6ecd3||open" value="0" id="fs_quantity_min_136275" />
+<input type="hidden" name="quantity_max||d2c8c5f995a31128c6e534d8762d665bb371fb9140b9a9e08b82d623cbb1b588||open" value="0" id="fs_quantity_max_136275" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136275" />
+<input type="hidden" name="name||dd71284495f1b3dc2892616c471a26959bea1bcac0c274e039e6626435ca8817" id="fs_name_136275" value="1454 - Franciscan Social Center" />
+<input type="hidden" name="code||02dfe7c57889ebfafaeb1f63ef420930ef915b5ac2cc6bd10c5fa655080af551" id="fs_code_136275" value="WCPROJ1454" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f263ff40d4deeca994b9651df5afd346e2347a185d612c8ab7a34859a86a7593||open" id="WCPROJ1454_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
