@@ -1,0 +1,39 @@
+add_shortcode( 'pp-WCPLPG0015', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_63737" rel="63737">
+<input type="hidden" name="price||6144d6d340af6067730954404d6257fef5125585261e50cb30fd6333758595f1" id="fs_price_63737" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_63737" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_63737" />
+<input type="hidden" name="image||7d2527a083c85847e21add96a794be5a1c9861192d02fc70e2b061f0dd85b2c5||open" value="https://crosscatholic.org/wp-content/uploads/2021/04/DR-foxy-thumb.jpg" id="foxyshop_cart_product_image_63737" />
+<input type="hidden" name="url||09f4f22b31538cf98c21c1768fe8468edb303a5a61f822bbe09013ecc922c3e3" value="https://crosscatholic.org/products/donate-to-dominican-republican-general/" id="fs_url_63737" />
+<input type="hidden" name="quantity_min||f511e2e41995ada40b92e689c817fd608b2ddec50f8ef56c1ef4f72ba9fa3ed7||open" value="0" id="fs_quantity_min_63737" />
+<input type="hidden" name="quantity_max||ec00d06a231e62de3afa10dba45c2ed483a8c1f179c4a4ccae61d442e3fe4cc7||open" value="0" id="fs_quantity_max_63737" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_63737" />
+<input type="hidden" name="sub_frequency||e267bfea98605cfe45b5bc0f039121253256f26ad93ff5658e2185b9311086aa||open" id="fs_sub_frequency_63737" value="" />
+<input type="hidden" name="name||bf8969f6541fd6ed7f27c8bca414a8e31159b5c0aee7fed2ccd3f1efcc3e2271" id="fs_name_63737" value="Donate to Dominican Republican General" />
+<input type="hidden" name="code||f1c8798b94222a7e9415e6360294acc5e6ca6f1d4b38b8b316cd89bb65178609" id="fs_code_63737" value="WCPLPG0015" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPLPG0015_1" class="variation-donation">
+<option value="$50{p:50}||f09a84727032c2e41f3fcc19ff625aeda1c7724e0442826693e9917664eaab17" priceset="5000">$50</option>
+<option value="$100{p:100}||68b319b96ae32e82a4a872138071d9fcfb2a9196e8f2fc104b4eabd8b8dfa796" priceset="10000">$100</option>
+<option value="$175{p:175}||e2708d9d87099ddd089a5982f98afa5e635fa441e8a6eea59c8540f0689a00cb" priceset="17500">$175</option>
+<option value="$250{p:250}||f92227fe4dcd51486bc442c7e3af20a8e24b38a8335781a63b34fbde05b74415" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||f24b0a9429786827e4a9a12a75c11a78085f939f19d767c61b7d6d5aa6e7ca82" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPLPG0015_2" class="variation-price dkey" dkey="custom-price"></label>
+<input type="text" name="price||ccd2dfa065aecfbcb1a00ab7a0212e6c0eba464b188e9fc3d0884119f36d67d9||open" id="WCPLPG0015_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount">
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||c2303491a7550b60c9e9f7234d0b4f7a5f0f2a608c5f74d200b092f2f736aa7b" id="WCPLPG0015_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG0015_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||38b71e34c8a6469092d588864d033e3fd14d3c3ebe13e38fcdf56d9b9e2586f7" id="WCPLPG0015_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPLPG0015_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
