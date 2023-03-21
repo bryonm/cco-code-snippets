@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1427', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_90203" rel="90203">
+<input type="hidden" name="price||b985107c12492d3ca5223a2810161f8cb7fbf1d7d99ef3587e86194d7eb96729" id="fs_price_90203" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_90203" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_90203" />
+<input type="hidden" name="image||4b8a9d86e864399076648c1b8fb57eca4a299b8b077c52532620c9a691be35aa||open" value="https://crosscatholic.org/wp-content/uploads/2021/09/1427-foxy-thumb.jpg" id="foxyshop_cart_product_image_90203" />
+<input type="hidden" name="url||71fa07cec541ab32b69b61f7f92085ec6d877b25ce664cc8df0a9e2420e5911f" value="https://crosscatholic.org/products/1427-jesuits-of-peru-25-gift/" id="fs_url_90203" />
+<input type="hidden" name="quantity_min||430a69f0234fae310ac65916a6cc95414dfcca804b0f3f44bc18cd780650d9f4||open" value="0" id="fs_quantity_min_90203" />
+<input type="hidden" name="quantity_max||9370e2d2c665509dce07d30bf9448706e5040806b864561fc876df516471bb57||open" value="0" id="fs_quantity_max_90203" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_90203" />
+<input type="hidden" name="name||b9f903f7b407896149c5fa11325c26f2af07d867a0807f287b9545d461fb4e48" id="fs_name_90203" value="1427 - Jesuits of Peru $25 Gift" />
+<input type="hidden" name="code||bff46d5b8af22219851a8087e52f11ba226937d7da928c6a509b98b617b181a3" id="fs_code_90203" value="WCPROJ1427" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||6a7cf09d2892f1229fe8a60a9f616c0a0ae94db9d7386dabb4cbd7735057a5c3" id="WCPROJ1427_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_90214" rel="90214">
+<input type="hidden" name="price||54c4027af6a7481f9ee5b2c9d811880aa30f7135c26e43f4a9241917e8c4b0dd" id="fs_price_90214" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_90214" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_90214" />
+<input type="hidden" name="image||4b8a9d86e864399076648c1b8fb57eca4a299b8b077c52532620c9a691be35aa||open" value="https://crosscatholic.org/wp-content/uploads/2021/09/1427-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_90214" />
+<input type="hidden" name="url||08a01a0a828a6594c093055b3b15dffe54307e70d8d939caf3e32ac97bceb00e" value="https://crosscatholic.org/products/1427-jesuits-of-peru-50-gift/" id="fs_url_90214" />
+<input type="hidden" name="quantity_min||430a69f0234fae310ac65916a6cc95414dfcca804b0f3f44bc18cd780650d9f4||open" value="0" id="fs_quantity_min_90214" />
+<input type="hidden" name="quantity_max||9370e2d2c665509dce07d30bf9448706e5040806b864561fc876df516471bb57||open" value="0" id="fs_quantity_max_90214" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_90214" />
+<input type="hidden" name="name||54b69008fc43874a6859da2788d5bb4a4fb7a6978b363166468af4252fbb88bc" id="fs_name_90214" value="1427 - Jesuits of Peru $50 Gift" />
+<input type="hidden" name="code||bff46d5b8af22219851a8087e52f11ba226937d7da928c6a509b98b617b181a3" id="fs_code_90214" value="WCPROJ1427" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||c84dfb222995f069b15af4ca01408a1a033f480e2931ff1e0eb5e121bb0fb579" id="WCPROJ1427_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_90218" rel="90218">
+<input type="hidden" name="price||0dd3b601b0fb8629466a0ec82a72f8bd46b5ea59c515e6f7be32b76779799e3d" id="fs_price_90218" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_90218" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_90218" />
+<input type="hidden" name="image||4b8a9d86e864399076648c1b8fb57eca4a299b8b077c52532620c9a691be35aa||open" value="https://crosscatholic.org/wp-content/uploads/2021/09/1427-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_90218" />
+<input type="hidden" name="url||5b80730e7a5f0abe5b08529ddb9e9ec61907c5e4455a86e7c2c140b52491215b" value="https://crosscatholic.org/products/1427-jesuits-of-peru-100-gift/" id="fs_url_90218" />
+<input type="hidden" name="quantity_min||430a69f0234fae310ac65916a6cc95414dfcca804b0f3f44bc18cd780650d9f4||open" value="0" id="fs_quantity_min_90218" />
+<input type="hidden" name="quantity_max||9370e2d2c665509dce07d30bf9448706e5040806b864561fc876df516471bb57||open" value="0" id="fs_quantity_max_90218" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_90218" />
+<input type="hidden" name="name||56fd792459bdac7414940e3c565b8e32a8e5f42ac72de50455f2dc609369ba07" id="fs_name_90218" value="1427 - Jesuits of Peru $100 Gift" />
+<input type="hidden" name="code||bff46d5b8af22219851a8087e52f11ba226937d7da928c6a509b98b617b181a3" id="fs_code_90218" value="WCPROJ1427" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||a6c720638457e508235a0c1c12f59e18b204daac346e02001c9e94fad3841bc0" id="WCPROJ1427_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_90202" rel="90202">
+<input type="hidden" name="price||6628e074be54cfa596ee1b3ba63228bea4db842fb1d737f47e6f70fc28425618" id="fs_price_90202" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_90202" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_90202" />
+<input type="hidden" name="image||4b8a9d86e864399076648c1b8fb57eca4a299b8b077c52532620c9a691be35aa||open" value="https://crosscatholic.org/wp-content/uploads/2021/09/1427-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_90202" />
+<input type="hidden" name="url||0f76aefb3d8d2df27c8e48bd73efc57eeb17d996e59c3b4bfb8dba73d75ed0d4" value="https://crosscatholic.org/products/1427-jesuits-of-peru/" id="fs_url_90202" />
+<input type="hidden" name="quantity_min||430a69f0234fae310ac65916a6cc95414dfcca804b0f3f44bc18cd780650d9f4||open" value="0" id="fs_quantity_min_90202" />
+<input type="hidden" name="quantity_max||9370e2d2c665509dce07d30bf9448706e5040806b864561fc876df516471bb57||open" value="0" id="fs_quantity_max_90202" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_90202" />
+<input type="hidden" name="name||081585b1d6166936f7814e220e394e468151259c9d4262505c47404b2f15ead8" id="fs_name_90202" value="1427 - Jesuits of Peru" />
+<input type="hidden" name="code||bff46d5b8af22219851a8087e52f11ba226937d7da928c6a509b98b617b181a3" id="fs_code_90202" value="WCPROJ1427" />
+<div class="foxyshop_variations">
+<input type="text" name="price||c0ef6a8e7b68808d7dd3dfa28bdb4824a91b554c1cdbc42058b64e6039474062||open" id="WCPROJ1427_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
