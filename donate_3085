@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3085', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_48935" rel="48935">
+<input type="hidden" name="price||bca6eef5e2d75fd11c490c871020c15bfc895e310c980f999593424a0efcfe65" id="fs_price_48935" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_48935" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_48935" />
+<input type="hidden" name="image||90c47b251685a1617dce3f4ffdfbfd65c9923b5479ce3986089091c3d5ab672c||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/3085-foxy.jpg" id="foxyshop_cart_product_image_48935" />
+<input type="hidden" name="url||52892407d1ea3e45f2625bbafd2e743662c5202e0482cd9177be451a3340a046" value="https://crosscatholic.org/products/3085-haiti-vitafood/" id="fs_url_48935" />
+<input type="hidden" name="quantity_min||975a70fafb4b4155d339c8b21f0fdf1fa73ce248fa676730e75f08712b64b3b8||open" value="0" id="fs_quantity_min_48935" />
+<input type="hidden" name="quantity_max||7f3fef5b9b98dffc535abc8b5105400dd85018d9c91a10da42ded9d8555232f3||open" value="0" id="fs_quantity_max_48935" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_48935" />
+<input type="hidden" name="name||ffd399858415bd7aa3932e3d444e4a64ecc901b24ade6fc30c2979f102ecdc90" id="fs_name_48935" value="3085 - Haiti Vitafood" />
+<input type="hidden" name="code||3fcd69d2e151a13122ed0b8bd937498771a4a264f9ffae9fef023ca552d4aee3" id="fs_code_48935" value="WCPROJ3085" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||86da42cf59748a981d53606c205c4783381f87dd16ea6a30f6dee4a4a02bb3b2" id="WCPROJ3085_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_48942" rel="48942">
+<input type="hidden" name="price||af84782b610d6e07e4a72a1f29b3345c52f35cf667c0a047e79083830080bd2b" id="fs_price_48942" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_48942" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_48942" />
+<input type="hidden" name="image||90c47b251685a1617dce3f4ffdfbfd65c9923b5479ce3986089091c3d5ab672c||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/3085-foxy_2.jpg" id="foxyshop_cart_product_image_48942" />
+<input type="hidden" name="url||47290727ff9ce4a6ae6d11df6290f927913337f9827f600a954b9ac24d9b55a6" value="https://crosscatholic.org/products/3085-haiti-vitafood-3/" id="fs_url_48942" />
+<input type="hidden" name="quantity_min||975a70fafb4b4155d339c8b21f0fdf1fa73ce248fa676730e75f08712b64b3b8||open" value="0" id="fs_quantity_min_48942" />
+<input type="hidden" name="quantity_max||7f3fef5b9b98dffc535abc8b5105400dd85018d9c91a10da42ded9d8555232f3||open" value="0" id="fs_quantity_max_48942" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_48942" />
+<input type="hidden" name="name||ffd399858415bd7aa3932e3d444e4a64ecc901b24ade6fc30c2979f102ecdc90" id="fs_name_48942" value="3085 - Haiti Vitafood" />
+<input type="hidden" name="code||3fcd69d2e151a13122ed0b8bd937498771a4a264f9ffae9fef023ca552d4aee3" id="fs_code_48942" value="WCPROJ3085" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||7975722190fefd1f5ba9f35bed2a1803dec6c4a5ca03051c487f6a59f184a7d5" id="WCPROJ3085_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_48945" rel="48945">
+<input type="hidden" name="price||62f59c685222b794961743ec42d66ecca5ecea6f4866ddb12baf0c7e1aa7cd50" id="fs_price_48945" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_48945" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_48945" />
+<input type="hidden" name="image||90c47b251685a1617dce3f4ffdfbfd65c9923b5479ce3986089091c3d5ab672c||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/3085-foxy_3.jpg" id="foxyshop_cart_product_image_48945" />
+<input type="hidden" name="url||6019a61f7e1b74a5b5eb215f97ff7774791d8a1fd72226a4179a0b4454dc3f3d" value="https://crosscatholic.org/products/3085-haiti-vitafood-4/" id="fs_url_48945" />
+<input type="hidden" name="quantity_min||975a70fafb4b4155d339c8b21f0fdf1fa73ce248fa676730e75f08712b64b3b8||open" value="0" id="fs_quantity_min_48945" />
+<input type="hidden" name="quantity_max||7f3fef5b9b98dffc535abc8b5105400dd85018d9c91a10da42ded9d8555232f3||open" value="0" id="fs_quantity_max_48945" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_48945" />
+<input type="hidden" name="name||ffd399858415bd7aa3932e3d444e4a64ecc901b24ade6fc30c2979f102ecdc90" id="fs_name_48945" value="3085 - Haiti Vitafood" />
+<input type="hidden" name="code||3fcd69d2e151a13122ed0b8bd937498771a4a264f9ffae9fef023ca552d4aee3" id="fs_code_48945" value="WCPROJ3085" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||dd2a51b5e6a353c55af1e23910aa34f44482975af5c38c0e59e4d27aa8ad1351" id="WCPROJ3085_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_48936" rel="48936">
+<input type="hidden" name="price||d46fed36936d809406f4e16350389d383c30d6ba623c436233ee32553984d387" id="fs_price_48936" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_48936" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_48936" />
+<input type="hidden" name="image||90c47b251685a1617dce3f4ffdfbfd65c9923b5479ce3986089091c3d5ab672c||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/3085-foxy_1.jpg" id="foxyshop_cart_product_image_48936" />
+<input type="hidden" name="url||c0d5960d3f4251a14b72763f017ae7420dab88c94627f2efd8785a0f83fd1a08" value="https://crosscatholic.org/products/3085-haiti-vitafood-2/" id="fs_url_48936" />
+<input type="hidden" name="quantity_min||975a70fafb4b4155d339c8b21f0fdf1fa73ce248fa676730e75f08712b64b3b8||open" value="0" id="fs_quantity_min_48936" />
+<input type="hidden" name="quantity_max||7f3fef5b9b98dffc535abc8b5105400dd85018d9c91a10da42ded9d8555232f3||open" value="0" id="fs_quantity_max_48936" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_48936" />
+<input type="hidden" name="name||ffd399858415bd7aa3932e3d444e4a64ecc901b24ade6fc30c2979f102ecdc90" id="fs_name_48936" value="3085 - Haiti Vitafood" />
+<input type="hidden" name="code||3fcd69d2e151a13122ed0b8bd937498771a4a264f9ffae9fef023ca552d4aee3" id="fs_code_48936" value="WCPROJ3085" />
+<div class="foxyshop_variations">
+<input type="text" name="price||7e072d80423492aec476659471baba1085d1fca6f5293c00586c3049de24d73e||open" id="WCPROJ3085_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
