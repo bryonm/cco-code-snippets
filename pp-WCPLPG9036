@@ -1,0 +1,39 @@
+add_shortcode( 'pp-WCPLPG9036', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_69114" rel="69114">
+<input type="hidden" name="price||a8abf9e8766148b32750f8581168c6c0ce9c89800125ef1f34793ebfa34c7899" id="fs_price_69114" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_69114" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_69114" />
+<input type="hidden" name="image||cd1fc561c1e9dc9b342ec12174bf4190a6e1dc2ec414388df6995f1d109ba5ad||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/Agriculture_foxy_thumb.jpg" id="foxyshop_cart_product_image_69114" />
+<input type="hidden" name="url||9083b78d0d52a2340d87ab288109eeb21572803941be0e0b3be7aba095b651d1" value="https://crosscatholic.org/products/donate-to-agriculture-general/" id="fs_url_69114" />
+<input type="hidden" name="quantity_min||7b401d2572bb136790ddf2e38d10dcbd365559b9023f0ff99e8800465c2c139f||open" value="0" id="fs_quantity_min_69114" />
+<input type="hidden" name="quantity_max||0e150cc5e9f88f70e65e171031d08495ba003938b6543ebab4a2a9102caf9ee8||open" value="0" id="fs_quantity_max_69114" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_69114" />
+<input type="hidden" name="sub_frequency||1534883bced32d05fdd6427aecf1c31b88d38e513e9615f90ca0ce00831e0fea||open" id="fs_sub_frequency_69114" value="" />
+<input type="hidden" name="name||ab623bf4447c68f13cb7d3ec4e614ef0fd40b915ae7af6c866e08bff178ae68f" id="fs_name_69114" value="Donate to Agriculture General" />
+<input type="hidden" name="code||6f81b7d09ab38956e0ba74d0a7ed161319fc1704da4feee831cc375674641baa" id="fs_code_69114" value="WCPLPG9036" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPLPG9036_1" class="variation-donation">
+<option value="$50{p:50}||fb7f25842d6d326f0f73fb8f0a7a25f6c082207666bd245657de56029115cc99" priceset="5000">$50</option>
+<option value="$100{p:100}||63b9b8de193a4fa6d9c97b1b584c956743b5d3ba07251a790e87b4c6d258d9ef" priceset="10000">$100</option>
+<option value="$175{p:175}||fa599e87ed8b9473929691e227cd194fe0e8b543d47ade1098cecc21306313ad" priceset="17500">$175</option>
+<option value="$250{p:250}||0740e2d280cfa02db7c6b0f85f887224b05e285c08595343028c0edac490a518" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||e25d0cecd04c3ac3c8ac20b210ac304231ebc175050664bfd5c64db0ce588adc" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPLPG9036_2" class="variation-price dkey" dkey="custom-price"></label>
+<input type="text" name="price||ee2b3d2afb03a8c653fa00b800bbb4ecf28886a0e1ae391e595353c538a63322||open" id="WCPLPG9036_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount">
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||c7a962e92c5e4235d6c63f3c242ce49ec6b4c040aaeabb6fae0ca67b57b8a4bb" id="WCPLPG9036_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG9036_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||05f1a8831eea2efa1d7ff4dd6497d6561b23a9e938db15f69392a9d7fa29be69" id="WCPLPG9036_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPLPG9036_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
