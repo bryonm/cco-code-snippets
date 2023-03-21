@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3393', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143680" rel="143680">
+<input type="hidden" name="price||66aa889fced766a247b1bc98a2c7587ba80dcfea9df053b65a654af3769852e7" id="fs_price_143680" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143680" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143680" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3393-foxythumb_3.jpg" id="foxyshop_cart_product_image_143680" />
+<input type="hidden" name="url||c95ebf4478b5512a09346201877f0df9cd5e1232bfe3a0a37968fa07aaae8fbb" value="https://crosscatholic.org/products/3393-populorum-progressio-foundation-microenterprise-in-el-salvador-25-donation/" id="fs_url_143680" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143680" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143680" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143680" />
+<input type="hidden" name="name||bb626b0980c3b5dde5eff08f1de2f59d60eb6d4d68eaa3a5e7cc85724d7823ba" id="fs_name_143680" value="3393 – Populorum Progressio Foundation – Microenterprise in El Salvador – $25 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143680" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||14002e43ae38253f0a3b705e3fd47a9916885ca3f4b6789ca3352cf3ee6f0a15" id="WCPROJ9031_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143679" rel="143679">
+<input type="hidden" name="price||c36936c563adf5e69e1e2356fa07c629c80b9f0352f69b745296be97b763bf4d" id="fs_price_143679" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143679" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143679" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3393-foxythumb_2.jpg" id="foxyshop_cart_product_image_143679" />
+<input type="hidden" name="url||2c3ef2786f952e11fa132492ae4853dd2a22c1c662c8139ed0ff94ec6f8c5c8f" value="https://crosscatholic.org/products/3393-populorum-progressio-foundation-microenterprise-in-el-salvador-50-donation/" id="fs_url_143679" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143679" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143679" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143679" />
+<input type="hidden" name="name||8312090f42f3d3157145a6b4aa39d93f666c49365bdea169789da5f0fe5ed969" id="fs_name_143679" value="3393 – Populorum Progressio Foundation – Microenterprise in El Salvador – $50 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143679" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0acdde123280a59c877d8ce576094555d128dc29aa485e7c0dc71969096bbe80" id="WCPROJ9031_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143678" rel="143678">
+<input type="hidden" name="price||5b0ce675ac752e7a0662690ee1e170b23c75845d07d055f4fb2f501cf764c638" id="fs_price_143678" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143678" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143678" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3393-foxythumb_1.jpg" id="foxyshop_cart_product_image_143678" />
+<input type="hidden" name="url||b6a81684d1a09220614e80f7f818c7f4173e47a9611ac093a604be09a253d57e" value="https://crosscatholic.org/products/3393-populorum-progressio-foundation-microenterprise-in-el-salvador-100-donation/" id="fs_url_143678" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143678" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143678" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143678" />
+<input type="hidden" name="name||d5078ba600747b9cbdcc8feb20d944121fb1c1d885813238a79feb5bd8cf4f10" id="fs_name_143678" value="3393 – Populorum Progressio Foundation – Microenterprise in El Salvador – $100 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143678" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||25d07319af2fae360fd8f25942f352dd660a4f83228c8e7e5722cd73bccf0ad4" id="WCPROJ9031_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143677" rel="143677">
+<input type="hidden" name="price||6467c93328d23991c01c504c0b8cb2aa61f91fb1765c070199ec918add4aa41b" id="fs_price_143677" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143677" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143677" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3393-foxythumb.jpg" id="foxyshop_cart_product_image_143677" />
+<input type="hidden" name="url||0c6dc03241b724b0d6f281480a9b1f0953f82023de6cda7a870477995c74e1a7" value="https://crosscatholic.org/products/3393-populorum-progressio-foundation-microenterprise-in-el-salvador/" id="fs_url_143677" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143677" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143677" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143677" />
+<input type="hidden" name="name||9c4e3115e31a4f489bf8a47b683b5a76ecccf8fcd2022d01025b071a53a4918c" id="fs_name_143677" value="3393 – Populorum Progressio Foundation – Microenterprise in El Salvador" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143677" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="text" name="price||fb3b4533ae8abf346f591bb285016c1aefc8deae5fd71556af95e7ab1900d392||open" id="WCPROJ9031_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
