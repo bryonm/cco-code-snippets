@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1429', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_58074" rel="58074">
+<input type="hidden" name="price||78b9f5694841180e6a6d0ebf1e2c40c767286a56b3cdab672a5e2ca740fbfc05" id="fs_price_58074" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_58074" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_58074" />
+<input type="hidden" name="image||2f9ee7798decdb775d41b261c0fe911359b1e1a0826da581489200da17fea539||open" value="https://crosscatholic.org/wp-content/uploads/2021/03/1429-thumb.jpg" id="foxyshop_cart_product_image_58074" />
+<input type="hidden" name="url||056b85050fd64217fb3ee00b2fb4665c0d18c94c2b4cf78c7b3a95cb1f5d40b2" value="https://crosscatholic.org/products/1429-st-gabriel-health-center/" id="fs_url_58074" />
+<input type="hidden" name="quantity_min||68af27dbe65511c2875b16efa2e02cdd610684faee41efc240e43ef4f771f2c3||open" value="0" id="fs_quantity_min_58074" />
+<input type="hidden" name="quantity_max||39777cffb80d72e86468831b07eefe4d320e821e8f326cf22bce29835a4cef28||open" value="0" id="fs_quantity_max_58074" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_58074" />
+<input type="hidden" name="name||944dca61959bb8e22bbb6e29a194ab1b760643b07f48cb11b42f4273bde611f5" id="fs_name_58074" value="1429 – St. Gabriel Health Center" />
+<input type="hidden" name="code||8d5126d4c3d05553bf1a8c06e19cf5e22873768929d47cd9c46f37dc73483c03" id="fs_code_58074" value="WCPROJ1429" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||5b1f6b4eb5e628066a3589cb84452a8035b5646b59ce72bf0994cbf726bafe21" id="WCPROJ1429_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_58081" rel="58081">
+<input type="hidden" name="price||bb5b3de7cad939d2af31aa96fef36c9dd86af1d9ecf6eba2ac188e32a9c70d19" id="fs_price_58081" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_58081" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_58081" />
+<input type="hidden" name="image||2f9ee7798decdb775d41b261c0fe911359b1e1a0826da581489200da17fea539||open" value="https://crosscatholic.org/wp-content/uploads/2021/03/1429-thumb_2.jpg" id="foxyshop_cart_product_image_58081" />
+<input type="hidden" name="url||82205ad397ba4c457545d4062efda94007143cbf8def88953fb92da3a16ca65f" value="https://crosscatholic.org/products/1429-st-gabriel-health-center-3/" id="fs_url_58081" />
+<input type="hidden" name="quantity_min||68af27dbe65511c2875b16efa2e02cdd610684faee41efc240e43ef4f771f2c3||open" value="0" id="fs_quantity_min_58081" />
+<input type="hidden" name="quantity_max||39777cffb80d72e86468831b07eefe4d320e821e8f326cf22bce29835a4cef28||open" value="0" id="fs_quantity_max_58081" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_58081" />
+<input type="hidden" name="name||944dca61959bb8e22bbb6e29a194ab1b760643b07f48cb11b42f4273bde611f5" id="fs_name_58081" value="1429 – St. Gabriel Health Center" />
+<input type="hidden" name="code||8d5126d4c3d05553bf1a8c06e19cf5e22873768929d47cd9c46f37dc73483c03" id="fs_code_58081" value="WCPROJ1429" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||a5a4b6b8a866a9848e3f6da59fe8779328ea7276d67aecd16058f5e988c8fad6" id="WCPROJ1429_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_58084" rel="58084">
+<input type="hidden" name="price||0f45df00316e56405a5974f9cc00ff07adc9c7fd999e1c8c7b14f5bc8f92b649" id="fs_price_58084" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_58084" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_58084" />
+<input type="hidden" name="image||2f9ee7798decdb775d41b261c0fe911359b1e1a0826da581489200da17fea539||open" value="https://crosscatholic.org/wp-content/uploads/2021/03/1429-thumb_3.jpg" id="foxyshop_cart_product_image_58084" />
+<input type="hidden" name="url||31f1fd89e4d6780bf41a52dce3c8ea91307f4da4ecd7624e03f4f4c44a11cc82" value="https://crosscatholic.org/products/1429-st-gabriel-health-center-4/" id="fs_url_58084" />
+<input type="hidden" name="quantity_min||68af27dbe65511c2875b16efa2e02cdd610684faee41efc240e43ef4f771f2c3||open" value="0" id="fs_quantity_min_58084" />
+<input type="hidden" name="quantity_max||39777cffb80d72e86468831b07eefe4d320e821e8f326cf22bce29835a4cef28||open" value="0" id="fs_quantity_max_58084" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_58084" />
+<input type="hidden" name="name||944dca61959bb8e22bbb6e29a194ab1b760643b07f48cb11b42f4273bde611f5" id="fs_name_58084" value="1429 – St. Gabriel Health Center" />
+<input type="hidden" name="code||8d5126d4c3d05553bf1a8c06e19cf5e22873768929d47cd9c46f37dc73483c03" id="fs_code_58084" value="WCPROJ1429" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||70bb236f069fce00b65ffa4562fc7beaff278d3bab0516f9131072dd788be346" id="WCPROJ1429_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_58073" rel="58073">
+<input type="hidden" name="price||69886d329d3d560e47271b473397b268a7df6a196c7876faa97cba32be5c3116" id="fs_price_58073" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_58073" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_58073" />
+<input type="hidden" name="image||2f9ee7798decdb775d41b261c0fe911359b1e1a0826da581489200da17fea539||open" value="https://crosscatholic.org/wp-content/uploads/2021/03/1429-thumb_1.jpg" id="foxyshop_cart_product_image_58073" />
+<input type="hidden" name="url||d388e7b90f2ade7a1bff63105c32af22a0430758d57e3a95f60b4e8096f88dce" value="https://crosscatholic.org/products/1429-st-gabriel-health-center-2/" id="fs_url_58073" />
+<input type="hidden" name="quantity_min||68af27dbe65511c2875b16efa2e02cdd610684faee41efc240e43ef4f771f2c3||open" value="0" id="fs_quantity_min_58073" />
+<input type="hidden" name="quantity_max||39777cffb80d72e86468831b07eefe4d320e821e8f326cf22bce29835a4cef28||open" value="0" id="fs_quantity_max_58073" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_58073" />
+<input type="hidden" name="name||944dca61959bb8e22bbb6e29a194ab1b760643b07f48cb11b42f4273bde611f5" id="fs_name_58073" value="1429 – St. Gabriel Health Center" />
+<input type="hidden" name="code||8d5126d4c3d05553bf1a8c06e19cf5e22873768929d47cd9c46f37dc73483c03" id="fs_code_58073" value="WCPROJ1429" />
+<div class="foxyshop_variations">
+<input type="text" name="price||09d3679eb277d76b5336df5142dd4b271e9c9fdc09316032c39b84386ba2d473||open" id="WCPROJ1429_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
