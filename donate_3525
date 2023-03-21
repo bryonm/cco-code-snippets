@@ -1,0 +1,77 @@
+add_shortcode( 'donate_3525', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_190306" rel="190306">
+<input type="hidden" name="price||e090d30f281a92499d1568ae27b10cd6c605e8c5a8f59447f5e9389b8bc89b87" id="fs_price_190306" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_190306" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_190306" />
+<input type="hidden" name="image||8f7ec5f1991a72d5cdc9eaf962b08fc8349789008a00bc461ee080a779fe2543||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3525-foxy-thumb.jpg" id="foxyshop_cart_product_image_190306" />
+<input type="hidden" name="url||ce1e06a33ac7b767e994f4d95c07c3469520c3a3c796ebf6f1cd867f63b9c909" value="https://crosscatholic.org/products/3525-minga-catholic-mission-hospital-kitchen-reconstruction-25-donation/" id="fs_url_190306" />
+<input type="hidden" name="quantity_min||e66d305b42bd4c887ff960ba10b1a4fa40958d9dc4e961ae028daac16c9f3102||open" value="0" id="fs_quantity_min_190306" />
+<input type="hidden" name="quantity_max||1505ca2702184f2f1e77fa897ae221558a8de247847ae2e28ae1a01c510a1175||open" value="0" id="fs_quantity_max_190306" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_190306" />
+<input type="hidden" name="name||9ea12bcf8ef9473ab83b1dcfcb506f5697a448aa0612093760ac2cc8aab330af" id="fs_name_190306" value="3525 - Minga Catholic Mission Hospital Kitchen Reconstruction - $25 donation" />
+<input type="hidden" name="code||a7a1881066845bbb931c40e4d7e604c8f3297b27ea9909172f92c1e7b7fcbe7f" id="fs_code_190306" value="WCPROJ3525" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||8547c58ea48cd044f820587fbc82ebbcf4d17a35bad17bb0e4435200d5b79df6" id="WCPROJ3525_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_190307" rel="190307">
+<input type="hidden" name="price||f36e8c1615f3f3945deee219c22cbf376cd6c303f3c0269a9ce1615b69475952" id="fs_price_190307" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_190307" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_190307" />
+<input type="hidden" name="image||8f7ec5f1991a72d5cdc9eaf962b08fc8349789008a00bc461ee080a779fe2543||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3525-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_190307" />
+<input type="hidden" name="url||cf0b451a145305524fee24055e3bde184888235867fd77286c3f99746c12fe14" value="https://crosscatholic.org/products/3525-minga-catholic-mission-hospital-kitchen-reconstruction-50-donation/" id="fs_url_190307" />
+<input type="hidden" name="quantity_min||e66d305b42bd4c887ff960ba10b1a4fa40958d9dc4e961ae028daac16c9f3102||open" value="0" id="fs_quantity_min_190307" />
+<input type="hidden" name="quantity_max||1505ca2702184f2f1e77fa897ae221558a8de247847ae2e28ae1a01c510a1175||open" value="0" id="fs_quantity_max_190307" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_190307" />
+<input type="hidden" name="name||7267e34c0d44339d4c5fd5e91b8954f80a9f11a956992b39a554582c6d7d98a9" id="fs_name_190307" value="3525 - Minga Catholic Mission Hospital Kitchen Reconstruction - $50 donation" />
+<input type="hidden" name="code||a7a1881066845bbb931c40e4d7e604c8f3297b27ea9909172f92c1e7b7fcbe7f" id="fs_code_190307" value="WCPROJ3525" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||05c79cb27231f3cb444cd7a6dcb76400c36c529cc13f6d23d2c8d9ddc9ba655b" id="WCPROJ3525_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_190308" rel="190308">
+<input type="hidden" name="price||4f5cc04720ba3148d5b8e727903be62ac7eff80fce6dbd1f30cbf55c26eef3c9" id="fs_price_190308" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_190308" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_190308" />
+<input type="hidden" name="image||8f7ec5f1991a72d5cdc9eaf962b08fc8349789008a00bc461ee080a779fe2543||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3525-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_190308" />
+<input type="hidden" name="url||7fa5d2a66cc8861ab35d4098d49fbec511dd35484ff4ee05b4145b42699f9a1b" value="https://crosscatholic.org/products/3525-minga-catholic-mission-hospital-kitchen-reconstruction-100-donation/" id="fs_url_190308" />
+<input type="hidden" name="quantity_min||e66d305b42bd4c887ff960ba10b1a4fa40958d9dc4e961ae028daac16c9f3102||open" value="0" id="fs_quantity_min_190308" />
+<input type="hidden" name="quantity_max||1505ca2702184f2f1e77fa897ae221558a8de247847ae2e28ae1a01c510a1175||open" value="0" id="fs_quantity_max_190308" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_190308" />
+<input type="hidden" name="name||028f8908906e794cae1a35a3079d0d59c5f5979c6f5e15ebca327314b0b30fa0" id="fs_name_190308" value="3525 - Minga Catholic Mission Hospital Kitchen Reconstruction - $100 donation" />
+<input type="hidden" name="code||a7a1881066845bbb931c40e4d7e604c8f3297b27ea9909172f92c1e7b7fcbe7f" id="fs_code_190308" value="WCPROJ3525" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||3464a3ffbd0026ddf2a0d886011e1545229ae43aff17b182607be43323a60956" id="WCPROJ3525_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_190309" rel="190309">
+<input type="hidden" name="price||af87630f7e95f4e834d8f7df6fc6650d61538717cdbe75b3fcdaf8e273a9afb4" id="fs_price_190309" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_190309" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_190309" />
+<input type="hidden" name="image||8f7ec5f1991a72d5cdc9eaf962b08fc8349789008a00bc461ee080a779fe2543||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3525-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_190309" />
+<input type="hidden" name="url||4f384177c4708ee5cf835661f4b6a8a59eb84aeac7b63e2f18a8a678205df528" value="https://crosscatholic.org/products/3525-minga-catholic-mission-hospital-kitchen-reconstruction/" id="fs_url_190309" />
+<input type="hidden" name="quantity_min||e66d305b42bd4c887ff960ba10b1a4fa40958d9dc4e961ae028daac16c9f3102||open" value="0" id="fs_quantity_min_190309" />
+<input type="hidden" name="quantity_max||1505ca2702184f2f1e77fa897ae221558a8de247847ae2e28ae1a01c510a1175||open" value="0" id="fs_quantity_max_190309" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_190309" />
+<input type="hidden" name="name||4b8314b0285e585be902c9ef30c92e8b2ba0a669fa68c6667bfb2c79dc55c025" id="fs_name_190309" value="3525 - Minga Catholic Mission Hospital Kitchen Reconstruction" />
+<input type="hidden" name="code||a7a1881066845bbb931c40e4d7e604c8f3297b27ea9909172f92c1e7b7fcbe7f" id="fs_code_190309" value="WCPROJ3525" />
+<div class="foxyshop_variations">
+<input type="text" name="price||e3878489b6fdb9b195897e9c62eb4cf371f513d2135b6fee29ce38fd69a8243b||open" id="WCPROJ3525_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
