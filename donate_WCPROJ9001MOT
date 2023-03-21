@@ -29,9 +29,8 @@ add_shortcode( 'donate_WCPROJ9001MOT', function () {
 <input type="text" name="price||57156ea584c2641ea71d0e1be04cfb6901d750476f3e49d96b13a1a5218eae99||open" id="WCPROJ9001MOT_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$ amount"/>
 <div class="clr"></div>
 <input type="hidden" name="Monthly||8af16f925c9e058e29f5f7aa2e947fbc911ecad50a82673ce489addb20046ac1" id="WCPROJ9001MOT_3" value="Every month on the 25th" class="variation-monthly" />
-          <script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
         </div>
-<!-- PASTE MONTHLY FORM CODE UP TO JAVA SCRIPT INCLUDING CLOSING DIV ABOVE -->  </div>
+</div>
 <!-- USE THIS BUTTON CODE -->
     <div class="btn-container">
       
