@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1486', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136304" rel="136304">
+<input type="hidden" name="price||6becb7d90d5c0ff795989b5ba95c4c2b39da17f926293e62ea4816bd6f5c108b" id="fs_price_136304" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136304" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136304" />
+<input type="hidden" name="image||3f6aa072ee12b25627b50a4f257d39fe63ab4a1bf03a8351fd2e75c173be77e1||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1486-foxy-thumb.jpg" id="foxyshop_cart_product_image_136304" />
+<input type="hidden" name="url||880b4d005a94efe634b4c879d38d196334806b0f9807d0f301e542e801a05581" value="https://crosscatholic.org/products/1486-tlahuac-teachers-salaries-25-donation/" id="fs_url_136304" />
+<input type="hidden" name="quantity_min||7398173599c0e9d199ce22784fb14d79660d074312d1ecc4611c23f8768b2691||open" value="0" id="fs_quantity_min_136304" />
+<input type="hidden" name="quantity_max||241de3e9b989366630ff47a5efed9b15fe3c81759a3f51e3d915e527ed31e5e2||open" value="0" id="fs_quantity_max_136304" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136304" />
+<input type="hidden" name="name||d0f9a40dd02e884578853c3d7fa0bc6fd7da2cdf46acf790379dfcd6bcddae5a" id="fs_name_136304" value="1486 – Tlahuac Teacher’s Salaries – $25 donation" />
+<input type="hidden" name="code||84ae802db7c3383662535b148d88af406577998824cc7b8ced3305652cb17594" id="fs_code_136304" value="WCPROJ1486" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||3e94f1df1eefd7d3648ba86b625ec0540a0019a8f7eace0ba04e927b3e0310f6" id="WCPROJ1486_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136306" rel="136306">
+<input type="hidden" name="price||f54d9f5e04e490869a2534acae8db7f1f8303fbd86d260e988cd7d2f3f5b446d" id="fs_price_136306" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136306" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136306" />
+<input type="hidden" name="image||3f6aa072ee12b25627b50a4f257d39fe63ab4a1bf03a8351fd2e75c173be77e1||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1486-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_136306" />
+<input type="hidden" name="url||970d238d3bf948deafcff7b46328d01a6c67405f613f5344efa311e09122a769" value="https://crosscatholic.org/products/1486-tlahuac-teachers-salaries-50-donation/" id="fs_url_136306" />
+<input type="hidden" name="quantity_min||7398173599c0e9d199ce22784fb14d79660d074312d1ecc4611c23f8768b2691||open" value="0" id="fs_quantity_min_136306" />
+<input type="hidden" name="quantity_max||241de3e9b989366630ff47a5efed9b15fe3c81759a3f51e3d915e527ed31e5e2||open" value="0" id="fs_quantity_max_136306" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136306" />
+<input type="hidden" name="name||c45f573c6beb9ee8b6914f884855beab899caa6b6cb6469d6380fb9a2dd39afb" id="fs_name_136306" value="1486 – Tlahuac Teacher’s Salaries – $50 donation" />
+<input type="hidden" name="code||84ae802db7c3383662535b148d88af406577998824cc7b8ced3305652cb17594" id="fs_code_136306" value="WCPROJ1486" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||213b855b3124b298dd375098d194cd17e21a23d6dba8af62dbb2410b93c439df" id="WCPROJ1486_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136307" rel="136307">
+<input type="hidden" name="price||a5afa4ae8e888366dc7abdfe2bb80f89c7c4578854634fefe1f3e56eb5830d24" id="fs_price_136307" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136307" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136307" />
+<input type="hidden" name="image||3f6aa072ee12b25627b50a4f257d39fe63ab4a1bf03a8351fd2e75c173be77e1||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1486-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_136307" />
+<input type="hidden" name="url||ce179981058f22798b262ab64653653cdd89c1b4f00d7e0eeca3f6207dec4da0" value="https://crosscatholic.org/products/1486-tlahuac-teachers-salaries-100-donation/" id="fs_url_136307" />
+<input type="hidden" name="quantity_min||7398173599c0e9d199ce22784fb14d79660d074312d1ecc4611c23f8768b2691||open" value="0" id="fs_quantity_min_136307" />
+<input type="hidden" name="quantity_max||241de3e9b989366630ff47a5efed9b15fe3c81759a3f51e3d915e527ed31e5e2||open" value="0" id="fs_quantity_max_136307" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136307" />
+<input type="hidden" name="name||0147533b6e5df10ae2e8078961fc084c36baf946f3d9cf841a8646b10af19784" id="fs_name_136307" value="1486 – Tlahuac Teacher’s Salaries – $100 donation" />
+<input type="hidden" name="code||84ae802db7c3383662535b148d88af406577998824cc7b8ced3305652cb17594" id="fs_code_136307" value="WCPROJ1486" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||37927552236cfb76566ffe344f0d7ea44fc61d6a59a1fd80752264f2dca44846" id="WCPROJ1486_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136305" rel="136305">
+<input type="hidden" name="price||712cc1dd33e32e986f87a042c2411fcacb9d028719a3629615d0e9ebb707e520" id="fs_price_136305" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136305" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136305" />
+<input type="hidden" name="image||3f6aa072ee12b25627b50a4f257d39fe63ab4a1bf03a8351fd2e75c173be77e1||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1486-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_136305" />
+<input type="hidden" name="url||99ae977a04a21b431c1e42dbb5ae16083d4dcae82d963971be0ae9af00715e45" value="https://crosscatholic.org/products/1486-tlahuac-teachers-salaries/" id="fs_url_136305" />
+<input type="hidden" name="quantity_min||7398173599c0e9d199ce22784fb14d79660d074312d1ecc4611c23f8768b2691||open" value="0" id="fs_quantity_min_136305" />
+<input type="hidden" name="quantity_max||241de3e9b989366630ff47a5efed9b15fe3c81759a3f51e3d915e527ed31e5e2||open" value="0" id="fs_quantity_max_136305" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136305" />
+<input type="hidden" name="name||1a45f2a454a2d8e71f5755bba8498f6bba3a33ee4562e5d1938928803f6886d7" id="fs_name_136305" value="1486 – Tlahuac Teacher’s Salaries" />
+<input type="hidden" name="code||84ae802db7c3383662535b148d88af406577998824cc7b8ced3305652cb17594" id="fs_code_136305" value="WCPROJ1486" />
+<div class="foxyshop_variations">
+<input type="text" name="price||6503267e2b957a60113e1bf7e668822e16c638e22f784b60d1ed15a400a76396||open" id="WCPROJ1486_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
