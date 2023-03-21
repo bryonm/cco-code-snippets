@@ -1,0 +1,73 @@
+add_shortcode( 'donate_9001', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_70215" rel="70215">
+<input type="hidden" name="price||6351ba69d7da384c569d05d123bdd2058128f33a68023aae459c65e9580a5a61" id="fs_price_70215" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_70215" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_70215" />
+<input type="hidden" name="image||569a8cae9521b51826434efb46445b5ef20a87e458039257c514ffdd1a4d6699||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/9001-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_70215" />
+<input type="hidden" name="url||e7239e3d237660ce1f4314d0dba119ad2ad0b664f541839535d74a051b5696bd" value="https://crosscatholic.org/products/general-worldwide-food-25-gift/" id="fs_url_70215" />
+<input type="hidden" name="quantity_min||9a1aa11bc396b2907cf81170f3d42a8055154decab308e0828b5dea94ed34604||open" value="0" id="fs_quantity_min_70215" />
+<input type="hidden" name="quantity_max||aed1e8e172dd0592d9f3e7b74b266103c482c7af5ce76655b1a328ea7a4e0719||open" value="0" id="fs_quantity_max_70215" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_70215" />
+<input type="hidden" name="name||889a3d383bdbd31a81481e5082ec9c4e46f623bd8fe80ee270e2684b869ce093" id="fs_name_70215" value="General Food $25 Gift" />
+<input type="hidden" name="code||5092447a3caacce6dd43fca34a901b3cad12926826561e58765439417f378562" id="fs_code_70215" value="WCPROJ9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||422fc07c140dda6f5da8856a22b6dcfbb0f7c1b5dcca974ed4220ce7d729be25" id="WCPROJ9001_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_70212" rel="70212">
+<input type="hidden" name="price||1dd6dd4d1da8e338fe03da54a477f751cc41e93ea7f88c7d80d4dbc2e692e5bb" id="fs_price_70212" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_70212" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_70212" />
+<input type="hidden" name="image||569a8cae9521b51826434efb46445b5ef20a87e458039257c514ffdd1a4d6699||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/9001-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_70212" />
+<input type="hidden" name="url||fcf1baca6b775c05217d57fb4d46688656acc61b6ef79577a3e6f6f30be608e6" value="https://crosscatholic.org/products/general-worldwide-food-50-gift/" id="fs_url_70212" />
+<input type="hidden" name="quantity_min||9a1aa11bc396b2907cf81170f3d42a8055154decab308e0828b5dea94ed34604||open" value="0" id="fs_quantity_min_70212" />
+<input type="hidden" name="quantity_max||aed1e8e172dd0592d9f3e7b74b266103c482c7af5ce76655b1a328ea7a4e0719||open" value="0" id="fs_quantity_max_70212" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_70212" />
+<input type="hidden" name="name||33c0511cc953ee9b6888144ce242a44b1c640e838feb321d9a506794c243b2cb" id="fs_name_70212" value="General Food $50 Gift" />
+<input type="hidden" name="code||5092447a3caacce6dd43fca34a901b3cad12926826561e58765439417f378562" id="fs_code_70212" value="WCPROJ9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||c8ba9a20ab1a01203662553920142dbca3b1d01174d83e3a9256cf7dfb05f6de" id="WCPROJ9001_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_70202" rel="70202">
+<input type="hidden" name="price||ec30362db6aad0fd0ce79bd16854f455dce42ec24ea38d0053eed612818918bb" id="fs_price_70202" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_70202" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_70202" />
+<input type="hidden" name="image||569a8cae9521b51826434efb46445b5ef20a87e458039257c514ffdd1a4d6699||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/9001-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_70202" />
+<input type="hidden" name="url||8f2216ba9e461940b496c539517c648ec985dc40cdc08955541672ad3195233f" value="https://crosscatholic.org/products/general-worldwide-food-100-gift/" id="fs_url_70202" />
+<input type="hidden" name="quantity_min||9a1aa11bc396b2907cf81170f3d42a8055154decab308e0828b5dea94ed34604||open" value="0" id="fs_quantity_min_70202" />
+<input type="hidden" name="quantity_max||aed1e8e172dd0592d9f3e7b74b266103c482c7af5ce76655b1a328ea7a4e0719||open" value="0" id="fs_quantity_max_70202" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_70202" />
+<input type="hidden" name="name||13394e1bb63f87dc0ef068a7b400c4b7a6be70518f92dc5afa8e98f1662442b3" id="fs_name_70202" value="General Food $100 Gift" />
+<input type="hidden" name="code||5092447a3caacce6dd43fca34a901b3cad12926826561e58765439417f378562" id="fs_code_70202" value="WCPROJ9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||dcbe6756b7b7cfe31967d51f696cfcc1148ca8552553bb7df2ac76593a4f92da" id="WCPROJ9001_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_70206" rel="70206">
+<input type="hidden" name="price||c7442c069574fc29839f582e28b7d6e851f5893e92ad06608aac654a9259d276" id="fs_price_70206" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_70206" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_70206" />
+<input type="hidden" name="image||569a8cae9521b51826434efb46445b5ef20a87e458039257c514ffdd1a4d6699||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/9001-foxy-thumb.jpg" id="foxyshop_cart_product_image_70206" />
+<input type="hidden" name="url||91437cb9d395474fb22a435375fe25be85c0f0b2112f68a15bcb4903460be9b3" value="https://crosscatholic.org/products/general-worldwide-food-gift/" id="fs_url_70206" />
+<input type="hidden" name="quantity_min||9a1aa11bc396b2907cf81170f3d42a8055154decab308e0828b5dea94ed34604||open" value="0" id="fs_quantity_min_70206" />
+<input type="hidden" name="quantity_max||aed1e8e172dd0592d9f3e7b74b266103c482c7af5ce76655b1a328ea7a4e0719||open" value="0" id="fs_quantity_max_70206" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_70206" />
+<input type="hidden" name="name||009ea0ec8b0bbe4cc1ab377bb8c09c2a649ed3219a72eb9712984695c3512836" id="fs_name_70206" value="General Food Gift" />
+<input type="hidden" name="code||5092447a3caacce6dd43fca34a901b3cad12926826561e58765439417f378562" id="fs_code_70206" value="WCPROJ9001" />
+<div class="foxyshop_variations">
+<input type="text" name="price||13796a19b0f75d3e24960055c70571fa8827131c507600b45a7db45b30fb93dc||open" id="WCPROJ9001_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
