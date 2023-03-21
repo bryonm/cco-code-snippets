@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3437', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147955" rel="147955">
+<input type="hidden" name="price||6727b95983a4d01f9f322507839cf7dbe47e69edc7b833548f299ca5f913d69f" id="fs_price_147955" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147955" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147955" />
+<input type="hidden" name="image||078d168c1951315010de847d58d90cf4930f8ccac57b8202faeb86b857269a58||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3437-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_147955" />
+<input type="hidden" name="url||b59ba1f2685643c87c97fc977b15c74bb31a141acb3b8e6c311b0cdaae0fa0d7" value="https://crosscatholic.org/products/3437-gahda-animal-husbandry-25-donation/" id="fs_url_147955" />
+<input type="hidden" name="quantity_min||d0c10eacc3e8393dcdfc1d44b02a0f43bd32d272ac9d9a3884fd379d6c608947||open" value="0" id="fs_quantity_min_147955" />
+<input type="hidden" name="quantity_max||67045946b562ce3bb98cc74dc27f43e009dd4958b2dedc2ca690b13931f84275||open" value="0" id="fs_quantity_max_147955" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147955" />
+<input type="hidden" name="name||8651f30a7e2a88c3d1f4802a136049273ced118e3b25c417cc5351086a8f173f" id="fs_name_147955" value="3437 – GAHDA Animal Husbandry – $25 donation" />
+<input type="hidden" name="code||b65a1b936ca92a7d4a41328349c5af5c1d9403cb326eb2938c31ee6d2bf44092" id="fs_code_147955" value="WCPROJ3437" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||436e299459bf97a4feccd166589efac3498902aa100a2cf119c2cf71c9a42b1a" id="WCPROJ3437_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147954" rel="147954">
+<input type="hidden" name="price||4f336f46fe0fdb6dcc937d2d9e0007392bd664ece2118c2e4b76b02a1dd61c5f" id="fs_price_147954" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147954" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147954" />
+<input type="hidden" name="image||078d168c1951315010de847d58d90cf4930f8ccac57b8202faeb86b857269a58||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3437-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_147954" />
+<input type="hidden" name="url||57f05bd34f0065b212495061cfe42b4f2f8481d0865a6d4f61bfa1a0607e2946" value="https://crosscatholic.org/products/3437-gahda-animal-husbandry-50-donation/" id="fs_url_147954" />
+<input type="hidden" name="quantity_min||d0c10eacc3e8393dcdfc1d44b02a0f43bd32d272ac9d9a3884fd379d6c608947||open" value="0" id="fs_quantity_min_147954" />
+<input type="hidden" name="quantity_max||67045946b562ce3bb98cc74dc27f43e009dd4958b2dedc2ca690b13931f84275||open" value="0" id="fs_quantity_max_147954" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147954" />
+<input type="hidden" name="name||448162c1232490e29eef6c05842c8ba65bb157b28cdc1c06f97d5a4fee721d67" id="fs_name_147954" value="3437 – GAHDA Animal Husbandry – $50 donation" />
+<input type="hidden" name="code||b65a1b936ca92a7d4a41328349c5af5c1d9403cb326eb2938c31ee6d2bf44092" id="fs_code_147954" value="WCPROJ3437" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||d05ca495f4d32258d359981ba82242d4b350c012cafa3b867a09981fa4989999" id="WCPROJ3437_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147953" rel="147953">
+<input type="hidden" name="price||7d30c39060793b226148ee7229b59f99e61afdbc626469cf2539e24760e9d40f" id="fs_price_147953" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147953" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147953" />
+<input type="hidden" name="image||078d168c1951315010de847d58d90cf4930f8ccac57b8202faeb86b857269a58||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3437-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_147953" />
+<input type="hidden" name="url||f946e11d9ce8a79c17f1908c3b37982abbe6efb92635b64296dcffe047d73134" value="https://crosscatholic.org/products/3437-gahda-animal-husbandry-100-donation/" id="fs_url_147953" />
+<input type="hidden" name="quantity_min||d0c10eacc3e8393dcdfc1d44b02a0f43bd32d272ac9d9a3884fd379d6c608947||open" value="0" id="fs_quantity_min_147953" />
+<input type="hidden" name="quantity_max||67045946b562ce3bb98cc74dc27f43e009dd4958b2dedc2ca690b13931f84275||open" value="0" id="fs_quantity_max_147953" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147953" />
+<input type="hidden" name="name||5569646fdd2d0e7bc9a66dbbf2a8e75b0bf21301ae661611bfcc8471670f530c" id="fs_name_147953" value="3437 – GAHDA Animal Husbandry – $100 donation" />
+<input type="hidden" name="code||b65a1b936ca92a7d4a41328349c5af5c1d9403cb326eb2938c31ee6d2bf44092" id="fs_code_147953" value="WCPROJ3437" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||64c97678b55e8e308b02ebcee2769cf75af3d0a71d7e6164fafe8db0bdefef6d" id="WCPROJ3437_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147952" rel="147952">
+<input type="hidden" name="price||c40603dd5cd009e237d00742f88f7dd48afc9c0ae4a970d3cd54bd81f459994c" id="fs_price_147952" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147952" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147952" />
+<input type="hidden" name="image||078d168c1951315010de847d58d90cf4930f8ccac57b8202faeb86b857269a58||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3437-foxy-thumb.jpg" id="foxyshop_cart_product_image_147952" />
+<input type="hidden" name="url||58a45438081d1707ad65b2ab65d68832f0f71e9cb1bcaec478a87262e09d06dd" value="https://crosscatholic.org/products/3437-gahda-animal-husbandry/" id="fs_url_147952" />
+<input type="hidden" name="quantity_min||d0c10eacc3e8393dcdfc1d44b02a0f43bd32d272ac9d9a3884fd379d6c608947||open" value="0" id="fs_quantity_min_147952" />
+<input type="hidden" name="quantity_max||67045946b562ce3bb98cc74dc27f43e009dd4958b2dedc2ca690b13931f84275||open" value="0" id="fs_quantity_max_147952" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147952" />
+<input type="hidden" name="name||f0077141a2971b1a8c2c51122c2d430efd2af75673172603338928c011d28fa2" id="fs_name_147952" value="3437 – GAHDA Animal Husbandry" />
+<input type="hidden" name="code||b65a1b936ca92a7d4a41328349c5af5c1d9403cb326eb2938c31ee6d2bf44092" id="fs_code_147952" value="WCPROJ3437" />
+<div class="foxyshop_variations">
+<input type="text" name="price||dbcd4dd94090e80f7b2a186b06823f282d685b88b78cb1e2c21e25c6aa9314a9||open" id="WCPROJ3437_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
