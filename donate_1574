@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1574', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50077" rel="50077">
+<input type="hidden" name="price||895c1277c3c7a56f74bc4ca36258c1f9c8ecef4f930ef810ed5ff62c4806bf95" id="fs_price_50077" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50077" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50077" />
+<input type="hidden" name="image||1ee97add8eb2fb3699f38503012227599344a263c3961d385a87c15457df2c51||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1574-1-foxy.jpg" id="foxyshop_cart_product_image_50077" />
+<input type="hidden" name="url||13059871de747866e216d8bcce6c3451b4cef2b121a950d8ea7e6028da362e07" value="https://crosscatholic.org/products/1574-boys-and-girls-town-philippines/" id="fs_url_50077" />
+<input type="hidden" name="quantity_min||f484ba66158aa9e849144940826cd7a40470038518a81e494fe5eecfe3a921da||open" value="0" id="fs_quantity_min_50077" />
+<input type="hidden" name="quantity_max||a56870f4ad2af3bc57a5ad46d18a921984f6e6f94536375e9169bd5fbfadec46||open" value="0" id="fs_quantity_max_50077" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50077" />
+<input type="hidden" name="name||b3e39323bd072ebfacfff4310d4f960a52d4ddfbb58008974e88243961cfffe9" id="fs_name_50077" value="1574 - Boys and Girls Town - Philippines" />
+<input type="hidden" name="code||388cf122d24b7158e3e51925371e7392a2ba6153ab02d5e44aa9aa253b84a0f1" id="fs_code_50077" value="WCPROJ1574" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||3b74742cd09cc1cb4720dbf31271174227affd8847e4125a8ad3031b1bf37aae" id="WCPROJ1574_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50075" rel="50075">
+<input type="hidden" name="price||2fbca11e59973c94e1d9586ba98aaf75e6f1eff298112c56df54c81cff5a75bb" id="fs_price_50075" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50075" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50075" />
+<input type="hidden" name="image||1ee97add8eb2fb3699f38503012227599344a263c3961d385a87c15457df2c51||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1574-1-foxy_2.jpg" id="foxyshop_cart_product_image_50075" />
+<input type="hidden" name="url||54fb2e9b7958c095e6b43d38ac242b494df7fd31397701deebb8694957a5e315" value="https://crosscatholic.org/products/1574-boys-and-girls-town-philippines-3/" id="fs_url_50075" />
+<input type="hidden" name="quantity_min||f484ba66158aa9e849144940826cd7a40470038518a81e494fe5eecfe3a921da||open" value="0" id="fs_quantity_min_50075" />
+<input type="hidden" name="quantity_max||a56870f4ad2af3bc57a5ad46d18a921984f6e6f94536375e9169bd5fbfadec46||open" value="0" id="fs_quantity_max_50075" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50075" />
+<input type="hidden" name="name||b3e39323bd072ebfacfff4310d4f960a52d4ddfbb58008974e88243961cfffe9" id="fs_name_50075" value="1574 - Boys and Girls Town - Philippines" />
+<input type="hidden" name="code||388cf122d24b7158e3e51925371e7392a2ba6153ab02d5e44aa9aa253b84a0f1" id="fs_code_50075" value="WCPROJ1574" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||8ce4b1b16ee2c37af1eb4d4453f08feea5770b609cc5cf8b7e71c755e4902a79" id="WCPROJ1574_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50074" rel="50074">
+<input type="hidden" name="price||f16fe3d2e8f336ab7695cc147918499e28e9c8c966000ffc18dea48baf8b29ad" id="fs_price_50074" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50074" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50074" />
+<input type="hidden" name="image||1ee97add8eb2fb3699f38503012227599344a263c3961d385a87c15457df2c51||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1574-1-foxy_3.jpg" id="foxyshop_cart_product_image_50074" />
+<input type="hidden" name="url||40cd70c34e473967e355ad73b8bfdd324497bc4d5b0942a6fe74c125f6783d43" value="https://crosscatholic.org/products/1574-boys-and-girls-town-philippines-2/" id="fs_url_50074" />
+<input type="hidden" name="quantity_min||f484ba66158aa9e849144940826cd7a40470038518a81e494fe5eecfe3a921da||open" value="0" id="fs_quantity_min_50074" />
+<input type="hidden" name="quantity_max||a56870f4ad2af3bc57a5ad46d18a921984f6e6f94536375e9169bd5fbfadec46||open" value="0" id="fs_quantity_max_50074" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50074" />
+<input type="hidden" name="name||b3e39323bd072ebfacfff4310d4f960a52d4ddfbb58008974e88243961cfffe9" id="fs_name_50074" value="1574 - Boys and Girls Town - Philippines" />
+<input type="hidden" name="code||388cf122d24b7158e3e51925371e7392a2ba6153ab02d5e44aa9aa253b84a0f1" id="fs_code_50074" value="WCPROJ1574" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||0376fdcb3259575e60adde8318bb95ee54e19ab9540f063f584a12edad739ad4" id="WCPROJ1574_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50076" rel="50076">
+<input type="hidden" name="price||2db656b23c90649bbe0573134598e8a6199df73b990459ad1b4cfde3b02e260f" id="fs_price_50076" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50076" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50076" />
+<input type="hidden" name="image||1ee97add8eb2fb3699f38503012227599344a263c3961d385a87c15457df2c51||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1574-1-foxy_1.jpg" id="foxyshop_cart_product_image_50076" />
+<input type="hidden" name="url||e1964121f9b1af230b4f39bc0740516988577a6b5ea81e10359bcf8ceabc6635" value="https://crosscatholic.org/products/1574-boys-and-girls-town-philippines-4/" id="fs_url_50076" />
+<input type="hidden" name="quantity_min||f484ba66158aa9e849144940826cd7a40470038518a81e494fe5eecfe3a921da||open" value="0" id="fs_quantity_min_50076" />
+<input type="hidden" name="quantity_max||a56870f4ad2af3bc57a5ad46d18a921984f6e6f94536375e9169bd5fbfadec46||open" value="0" id="fs_quantity_max_50076" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50076" />
+<input type="hidden" name="name||b3e39323bd072ebfacfff4310d4f960a52d4ddfbb58008974e88243961cfffe9" id="fs_name_50076" value="1574 - Boys and Girls Town - Philippines" />
+<input type="hidden" name="code||388cf122d24b7158e3e51925371e7392a2ba6153ab02d5e44aa9aa253b84a0f1" id="fs_code_50076" value="WCPROJ1574" />
+<div class="foxyshop_variations">
+<input type="text" name="price||a760935e735cea34fc2fd80fd2756a810fefb8c7b5c7ccab0b7d7fb8a27a5eac||open" id="WCPROJ1574_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
