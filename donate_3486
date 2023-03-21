@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3486', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143803" rel="143803">
+<input type="hidden" name="price||66aa889fced766a247b1bc98a2c7587ba80dcfea9df053b65a654af3769852e7" id="fs_price_143803" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143803" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143803" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3486-foxythumb.jpg" id="foxyshop_cart_product_image_143803" />
+<input type="hidden" name="url||400c5f0aee0bd96c5e321ba22f81951494722477d6fd75ddc4b6cd34f55db9dc" value="https://crosscatholic.org/products/3486-populorum-progressio-foundation-cooking-fuel-for-families-25-donation/" id="fs_url_143803" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143803" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143803" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143803" />
+<input type="hidden" name="name||9705783c02ee5dd81678256fa903faa8b92714dfabae7a21e21659f09682e3fa" id="fs_name_143803" value="3486 – Populorum Progressio Foundation – Cooking Fuel for Families – $25 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143803" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||14002e43ae38253f0a3b705e3fd47a9916885ca3f4b6789ca3352cf3ee6f0a15" id="WCPROJ9031_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143804" rel="143804">
+<input type="hidden" name="price||c36936c563adf5e69e1e2356fa07c629c80b9f0352f69b745296be97b763bf4d" id="fs_price_143804" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143804" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143804" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3486-foxythumb_1.jpg" id="foxyshop_cart_product_image_143804" />
+<input type="hidden" name="url||a61630a798d9ce200a68c332c4dfa5da5af1133c83e01fda44f66d67889b0a2a" value="https://crosscatholic.org/products/3486-populorum-progressio-foundation-cooking-fuel-for-families-50-donation/" id="fs_url_143804" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143804" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143804" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143804" />
+<input type="hidden" name="name||0f5bbc8236817f2cc6176e983c734f11a17270175936f0d5fa5e2ebf7433e0c0" id="fs_name_143804" value="3486 – Populorum Progressio Foundation – Cooking Fuel for Families – $50 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143804" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0acdde123280a59c877d8ce576094555d128dc29aa485e7c0dc71969096bbe80" id="WCPROJ9031_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143805" rel="143805">
+<input type="hidden" name="price||5b0ce675ac752e7a0662690ee1e170b23c75845d07d055f4fb2f501cf764c638" id="fs_price_143805" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143805" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143805" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3486-foxythumb_2.jpg" id="foxyshop_cart_product_image_143805" />
+<input type="hidden" name="url||afd4ca353ed856a903b2c93ee718a7121e1bf5c940b9eeb933a95143f9c9c431" value="https://crosscatholic.org/products/3486-populorum-progressio-foundation-cooking-fuel-for-families-100-donation/" id="fs_url_143805" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143805" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143805" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143805" />
+<input type="hidden" name="name||493a7f5bc0dcd802d80c3f0307967808db1bcbaba10838da23f684bf18bc554e" id="fs_name_143805" value="3486 – Populorum Progressio Foundation – Cooking Fuel for Families – $100 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143805" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||25d07319af2fae360fd8f25942f352dd660a4f83228c8e7e5722cd73bccf0ad4" id="WCPROJ9031_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143806" rel="143806">
+<input type="hidden" name="price||6467c93328d23991c01c504c0b8cb2aa61f91fb1765c070199ec918add4aa41b" id="fs_price_143806" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143806" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143806" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3486-foxythumb_3.jpg" id="foxyshop_cart_product_image_143806" />
+<input type="hidden" name="url||1eed11d831dd94394d143e18c5c5c8f9cd1bf6fd6a7253b5d2daf5cfc35a4127" value="https://crosscatholic.org/products/3486-populorum-progressio-foundation-cooking-fuel-for-families/" id="fs_url_143806" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143806" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143806" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143806" />
+<input type="hidden" name="name||e98092ecfbd16fa8dd7b30c6e60a20971e56e86382429a8389a27f2558be8bfd" id="fs_name_143806" value="3486 – Populorum Progressio Foundation – Cooking Fuel for Families" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143806" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="text" name="price||fb3b4533ae8abf346f591bb285016c1aefc8deae5fd71556af95e7ab1900d392||open" id="WCPROJ9031_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
