@@ -1,0 +1,47 @@
+add_shortcode( 'donate_WCPROJ9003MOT', function () {
+
+	$out = '<div class="catalog_donate">
+<section>
+    <div class="give-container">
+    <div class="select-container">
+      <!-- PASTE MONTHLY CODE BEGINNING WITH OPENING FORMN TAG -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_53229" rel="53229">
+<input type="hidden" name="price||2026a4b6407ecf6bdda0893fba4391bdf1e1e940f3ecd34d9c539a3a193632bc" id="fs_price_53229" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_53229" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_53229" />
+<input type="hidden" name="image||60532d3724844b916611ba5c6702d6a738808191b02d521349d836bc7a670cc6||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/9003-thumb.jpg" id="foxyshop_cart_product_image_53229" />
+<input type="hidden" name="url||b47474942ab1f4718d38d69162b6ecd4f0923f2873c58d95b0c158ac192d2010" value="https://crosscatholic.org/products/9003-vulnerable-children-worldwide/" id="fs_url_53229" />
+<input type="hidden" name="quantity_min||d818d0badfd20fa9639226875fea0e2462a4fede4d67161c79240ba0bfcc7f17||open" value="0" id="fs_quantity_min_53229" />
+<input type="hidden" name="quantity_max||53b8cc6db98923140d413d8f63a501b9a4fefc2cca9fcd8f2990f579f50d5be8||open" value="0" id="fs_quantity_max_53229" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_53229" />
+<input type="hidden" name="sub_frequency||b0ee0372c737fcd000a178a46bae9f2c77364ead8cd3e459efaba5d0cc0d4686||open" id="fs_sub_frequency_53229" value="1m" />
+<input type="hidden" name="name||6f73ee3a638aee21bbf6697d66135df8699ec8a5704bcdccb72cdec505ae1174" id="fs_name_53229" value="9003 – Vulnerable Children – Worldwide" />
+<input type="hidden" name="code||4c11df2a5ebe2f3af7d242a43dc1da680873712f0614e4d5d312abc4b31953e2" id="fs_code_53229" value="WCPROJ9003MOT" />
+        <div class="foxyshop_variations">
+<select name="Donation" id="WCPROJ9003MOT_1" class="variation-donation">
+<option value="$50{p:50}||181549ed5ca211e6144a8e44003cd5904e04113ad6af60c22d5c6df99171a2fa" priceset="5000">$50</option>
+<option value="$100{p:100}||6afbf5bdcbf4674d1cba63ee92a7602fccb615480de469872f8179d467b38b7c" priceset="10000">$100</option>
+<option value="$175{p:175}||24aafb357ec7e7af0445d8a3b63078a5d9ff35c6e33bcc7edbd54b9a0d3b0150" priceset="17500">$175</option>
+<option value="$250{p:250}||7f38ef4eb2c84feee5ca873aae76d5e58bcd98aa42b7f115984d05c14a0a471a" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||4f08727e47372b26b0916f4bb53be5879117bcf893670fba31b2f79ea663eb28" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<input type="text" name="price||d6ed44ceaa3a1b0e173e0601b7555d4faca2424c2c98064ee1e7ea260310f1ad||open" id="WCPROJ9003MOT_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$ amount"/>
+<div class="clr"></div>
+<input type="hidden" name="Monthly||173aecab74b96a89de9ff4e54cb6eac3ebeca94566dc9473ea1071e0501275de" id="WCPROJ9003MOT_3" value="Every month on the 25th" class="variation-monthly" />
+        </div>
+ </div>
+<!-- USE THIS BUTTON CODE -->
+    <div class="btn-container">
+      
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_mon">Donate</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section></div>';
+
+	return $out;
+} );
