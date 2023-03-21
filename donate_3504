@@ -1,0 +1,77 @@
+add_shortcode( 'donate_3504', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_169255" rel="169255">
+<input type="hidden" name="price||4aa8376b7b10680b32585be6b85a8e4347f0d1d5fff8d089de7d7c1b9b1f8cad" id="fs_price_169255" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_169255" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_169255" />
+<input type="hidden" name="image||9d2c2f8d39ae98aa0ac5508ce7bd537315d7c67305edca260d4a3985b2b2f0ba||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3504-foxy-thumb.jpg" id="foxyshop_cart_product_image_169255" />
+<input type="hidden" name="url||199dc0e803c193fbdbf9376274c4e8a4dbae6e922830ed2de73ae8759f9bb10a" value="https://crosscatholic.org/products/3504-convent-repair-in-zambia-25-donation/" id="fs_url_169255" />
+<input type="hidden" name="quantity_min||96119f8b1a761f3db6bd6267263867390c89fd92f0e5f702f288e5ad4cfe8105||open" value="0" id="fs_quantity_min_169255" />
+<input type="hidden" name="quantity_max||a0990913b26636ed3c541ce1ff89c0b837fb2fa27a826706a6d6248af4d5f20e||open" value="0" id="fs_quantity_max_169255" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_169255" />
+<input type="hidden" name="name||b9022d5af7ce8f55812a0e571e79f59f68863643fb0e79bee879296b34ac5c40" id="fs_name_169255" value="3504 - Convent Repair in Zambia - $25 donation" />
+<input type="hidden" name="code||2f2400e747613931793de10474a8cbc119a623def2832275991891888032fa1f" id="fs_code_169255" value="WCPROJ3504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||fab1d06fd9a5002610972bb62cb549cccf276541c2c55c7380d127c2734072a7" id="WCPROJ3504_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_169256" rel="169256">
+<input type="hidden" name="price||4659992c482f7f60e11786f6654174727395407e7c794e1f9c9033cdcd86750c" id="fs_price_169256" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_169256" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_169256" />
+<input type="hidden" name="image||9d2c2f8d39ae98aa0ac5508ce7bd537315d7c67305edca260d4a3985b2b2f0ba||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3504-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_169256" />
+<input type="hidden" name="url||274427320f812030f707594c8557c48ebd46f3b6dfd7c2c7412d16cdaef71a30" value="https://crosscatholic.org/products/3504-convent-repair-in-zambia-50-donation/" id="fs_url_169256" />
+<input type="hidden" name="quantity_min||96119f8b1a761f3db6bd6267263867390c89fd92f0e5f702f288e5ad4cfe8105||open" value="0" id="fs_quantity_min_169256" />
+<input type="hidden" name="quantity_max||a0990913b26636ed3c541ce1ff89c0b837fb2fa27a826706a6d6248af4d5f20e||open" value="0" id="fs_quantity_max_169256" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_169256" />
+<input type="hidden" name="name||cda00999377d437e6275991b4e43cb9d57f0aede216c53a6925a7c7b31338c81" id="fs_name_169256" value="3504 - Convent Repair in Zambia - $50 donation" />
+<input type="hidden" name="code||2f2400e747613931793de10474a8cbc119a623def2832275991891888032fa1f" id="fs_code_169256" value="WCPROJ3504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||ca3fa59ef50ec854c0ed30253b8e381b736d4a2246679385ea467378ce12165b" id="WCPROJ3504_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_169257" rel="169257">
+<input type="hidden" name="price||3af12ca259d74c9804b0b5a50f04fc8d1275a3840df5bb663344f9eaaf6a59ce" id="fs_price_169257" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_169257" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_169257" />
+<input type="hidden" name="image||9d2c2f8d39ae98aa0ac5508ce7bd537315d7c67305edca260d4a3985b2b2f0ba||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3504-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_169257" />
+<input type="hidden" name="url||b33d59d8e7c871dee481ed056fc3c9cb92fa0e549e8addac0316e8e7feabb6e9" value="https://crosscatholic.org/products/3504-convent-repair-in-zambia-100-donation/" id="fs_url_169257" />
+<input type="hidden" name="quantity_min||96119f8b1a761f3db6bd6267263867390c89fd92f0e5f702f288e5ad4cfe8105||open" value="0" id="fs_quantity_min_169257" />
+<input type="hidden" name="quantity_max||a0990913b26636ed3c541ce1ff89c0b837fb2fa27a826706a6d6248af4d5f20e||open" value="0" id="fs_quantity_max_169257" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_169257" />
+<input type="hidden" name="name||e4a85e5cbc17c110f7a80c618696f425f27437756a8ed579e4d561b3126220b3" id="fs_name_169257" value="3504 - Convent Repair in Zambia - $100 donation" />
+<input type="hidden" name="code||2f2400e747613931793de10474a8cbc119a623def2832275991891888032fa1f" id="fs_code_169257" value="WCPROJ3504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||cec80a7ddce30311fb95f2b13dd35c13dec354a403520a62a4e025d074d96183" id="WCPROJ3504_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_169258" rel="169258">
+<input type="hidden" name="price||7def91ad0061aa1f7c81c17738d090ceb713a90cffb898decf320808311255f9" id="fs_price_169258" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_169258" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_169258" />
+<input type="hidden" name="image||9d2c2f8d39ae98aa0ac5508ce7bd537315d7c67305edca260d4a3985b2b2f0ba||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3504-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_169258" />
+<input type="hidden" name="url||a121b624c7f0da61fd324cd28e275f9bc8976925eef290ce56f4a44dbba59477" value="https://crosscatholic.org/products/3504-convent-repair-in-zambia/" id="fs_url_169258" />
+<input type="hidden" name="quantity_min||96119f8b1a761f3db6bd6267263867390c89fd92f0e5f702f288e5ad4cfe8105||open" value="0" id="fs_quantity_min_169258" />
+<input type="hidden" name="quantity_max||a0990913b26636ed3c541ce1ff89c0b837fb2fa27a826706a6d6248af4d5f20e||open" value="0" id="fs_quantity_max_169258" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_169258" />
+<input type="hidden" name="name||26de37378e61ce2b84d0c0a6a59031025baa275c355d50f42f9d8f9e2f682154" id="fs_name_169258" value="3504 - Convent Repair in Zambia" />
+<input type="hidden" name="code||2f2400e747613931793de10474a8cbc119a623def2832275991891888032fa1f" id="fs_code_169258" value="WCPROJ3504" />
+<div class="foxyshop_variations">
+<input type="text" name="price||4de93310dcc8f76a7c0454f1021222ef54fca46d1c79b4b004d1b3dfaeb5d3da||open" id="WCPROJ3504_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
