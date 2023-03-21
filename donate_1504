@@ -1,0 +1,155 @@
+add_shortcode( 'donate_1504', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50061" rel="50061">
+<input type="hidden" name="price||9ff029185e093eb6eaeb67fd87c7f48a2274ca3db4a29f5ccd97a4d08a320373" id="fs_price_50061" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50061" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50061" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy_3.jpg" id="foxyshop_cart_product_image_50061" />
+<input type="hidden" name="url||c5c6e48661bb1ff727bd6136aa5856a06931a0ff9b53bce578b53de5f80b85c6" value="https://crosscatholic.org/products/1504-new-joy-foundation/" id="fs_url_50061" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50061" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50061" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50061" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50061" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50061" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||905cd85d9b03c3ed49931e9c37d9983fcec0e5c42c249557415d53ace46381c3" id="WCPROJ1504_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50059" rel="50059">
+<input type="hidden" name="price||b1eb92397e55d414f1f76ff91fdfb5a53f8fbf9498200f59b466cea2af87ed3c" id="fs_price_50059" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50059" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50059" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy_1.jpg" id="foxyshop_cart_product_image_50059" />
+<input type="hidden" name="url||df9f532af3934474c545903a828bbe99e367e97b6b135b9bd1947fce89b41ba2" value="https://crosscatholic.org/products/1504-new-joy-foundation-3/" id="fs_url_50059" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50059" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50059" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50059" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50059" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50059" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0aff42c219c81d9fed4734c22cea8b34b1472b46f4af3987780fea33f5d02351" id="WCPROJ1504_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50058" rel="50058">
+<input type="hidden" name="price||e004246d90fabf0ab4488591bad342683f3733e5b1298afcf7076c010386e5bd" id="fs_price_50058" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50058" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50058" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy.jpg" id="foxyshop_cart_product_image_50058" />
+<input type="hidden" name="url||e126aa0ed96c4d0cab65d32605f0db2a322d263c59c5e0168b1e67303fc5857f" value="https://crosscatholic.org/products/1504-new-joy-foundation-4/" id="fs_url_50058" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50058" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50058" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50058" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50058" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50058" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||e7f4fdf38e7d33aa87bb6a3270011aeb74174a07b0aca5d1cc5c32daa31c9320" id="WCPROJ1504_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50060" rel="50060">
+<input type="hidden" name="price||6742020fa334891aec957fa1e63e47756daa564b518d9165b76ea503e075c8b6" id="fs_price_50060" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50060" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50060" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy_2.jpg" id="foxyshop_cart_product_image_50060" />
+<input type="hidden" name="url||200991116ce6eeb0abdb1e5df0b6be6e412ff752858bd2c5c92cfedea80f13ff" value="https://crosscatholic.org/products/1504-new-joy-foundation-2/" id="fs_url_50060" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50060" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50060" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50060" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50060" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50060" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2d656782ca1f9207ce457e375a7fa682d848128ecc84ad1d6ac773b99978fe2f||open" id="WCPROJ1504_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );add_shortcode( 'donate_1504', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50061" rel="50061">
+<input type="hidden" name="price||9ff029185e093eb6eaeb67fd87c7f48a2274ca3db4a29f5ccd97a4d08a320373" id="fs_price_50061" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50061" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50061" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy_3.jpg" id="foxyshop_cart_product_image_50061" />
+<input type="hidden" name="url||c5c6e48661bb1ff727bd6136aa5856a06931a0ff9b53bce578b53de5f80b85c6" value="https://crosscatholic.org/products/1504-new-joy-foundation/" id="fs_url_50061" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50061" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50061" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50061" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50061" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50061" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||905cd85d9b03c3ed49931e9c37d9983fcec0e5c42c249557415d53ace46381c3" id="WCPROJ1504_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50059" rel="50059">
+<input type="hidden" name="price||b1eb92397e55d414f1f76ff91fdfb5a53f8fbf9498200f59b466cea2af87ed3c" id="fs_price_50059" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50059" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50059" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy_1.jpg" id="foxyshop_cart_product_image_50059" />
+<input type="hidden" name="url||df9f532af3934474c545903a828bbe99e367e97b6b135b9bd1947fce89b41ba2" value="https://crosscatholic.org/products/1504-new-joy-foundation-3/" id="fs_url_50059" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50059" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50059" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50059" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50059" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50059" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0aff42c219c81d9fed4734c22cea8b34b1472b46f4af3987780fea33f5d02351" id="WCPROJ1504_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50058" rel="50058">
+<input type="hidden" name="price||e004246d90fabf0ab4488591bad342683f3733e5b1298afcf7076c010386e5bd" id="fs_price_50058" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50058" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50058" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy.jpg" id="foxyshop_cart_product_image_50058" />
+<input type="hidden" name="url||e126aa0ed96c4d0cab65d32605f0db2a322d263c59c5e0168b1e67303fc5857f" value="https://crosscatholic.org/products/1504-new-joy-foundation-4/" id="fs_url_50058" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50058" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50058" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50058" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50058" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50058" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||e7f4fdf38e7d33aa87bb6a3270011aeb74174a07b0aca5d1cc5c32daa31c9320" id="WCPROJ1504_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50060" rel="50060">
+<input type="hidden" name="price||6742020fa334891aec957fa1e63e47756daa564b518d9165b76ea503e075c8b6" id="fs_price_50060" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50060" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50060" />
+<input type="hidden" name="image||c65927e69740ec95db6c5a422a2a0d7fde90279671178d2111429a115e8b2230||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1504-1-foxy_2.jpg" id="foxyshop_cart_product_image_50060" />
+<input type="hidden" name="url||200991116ce6eeb0abdb1e5df0b6be6e412ff752858bd2c5c92cfedea80f13ff" value="https://crosscatholic.org/products/1504-new-joy-foundation-2/" id="fs_url_50060" />
+<input type="hidden" name="quantity_min||c74aa2b687ffa2269d02819bd577afb4480fb54d88a75d430d4c189022108cb5||open" value="0" id="fs_quantity_min_50060" />
+<input type="hidden" name="quantity_max||ca1eba295ef66fed461e6fceebb5a13c9444714f813186c141461e67e292b2d6||open" value="0" id="fs_quantity_max_50060" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50060" />
+<input type="hidden" name="name||41ee813be5e2418cd9371c165f249a17276f9e1f35a67a67b524f22d7a750eee" id="fs_name_50060" value="1504 - New Joy Foundation" />
+<input type="hidden" name="code||c1574d0d768466f21df7b802fa534788a9b12fe6e41396d24b8dc2e74741d86a" id="fs_code_50060" value="WCPROJ1504" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2d656782ca1f9207ce457e375a7fa682d848128ecc84ad1d6ac773b99978fe2f||open" id="WCPROJ1504_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
