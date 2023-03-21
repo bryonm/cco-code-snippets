@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1392', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37671" rel="37671">
+<input type="hidden" name="price||0006c67f2659d41976e5c15fc4bc0316d6facf7a9dffe7e0c25791173f3bfb6c" id="fs_price_37671" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37671" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37671" />
+<input type="hidden" name="image||cf26fb1e515b182ca09f85d79bab9cbc297ba4a08b62001239cc65c353772dc6||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/1392-foxy-thumb.jpg" id="foxyshop_cart_product_image_37671" />
+<input type="hidden" name="url||e67529d784995249adc17885b5f3a063ac0af01df92c4dd3c3621be0b2d4d9f0" value="https://crosscatholic.org/products/1392-st-theresa-kindergarten/" id="fs_url_37671" />
+<input type="hidden" name="quantity_min||8479c7964bc229ec0569d6f9d53b23b63f637f3649b1e674054412ab33e697bb||open" value="0" id="fs_quantity_min_37671" />
+<input type="hidden" name="quantity_max||19d9ec3bbf68dc6b4ff5b1bc127d0d900d7b53d9cd49b3e2e6a6a4dca96a061c||open" value="0" id="fs_quantity_max_37671" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37671" />
+<input type="hidden" name="name||fd007e35373def7f9ed41d7a3e423f9b3541d38f15979a94695a0d4dac52b01b" id="fs_name_37671" value="1392 – St. Theresa Kindergarten" />
+<input type="hidden" name="code||f34ec2f89e23f7decb84bc3d0ab837938bde6e9ea30e71a4393c69f76e18830c" id="fs_code_37671" value="WCPROJ1392" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||755e3d3d40c98c56346da94a8d2567d760c41d9ea540e6c5c4ecdc0bcbf8b6e6" id="WCPROJ1392_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37679" rel="37679">
+<input type="hidden" name="price||aec0ff3fc15b52a5903125e5e1d50bb0403d7d401f51bcc07331c8fe5d012219" id="fs_price_37679" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37679" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37679" />
+<input type="hidden" name="image||cf26fb1e515b182ca09f85d79bab9cbc297ba4a08b62001239cc65c353772dc6||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/1392-foxy-thumb.jpg" id="foxyshop_cart_product_image_37679" />
+<input type="hidden" name="url||fe81affa87fc299843c4b75f02ef108d8238ae7a063d3f1603831ada0a74b503" value="https://crosscatholic.org/products/1392-st-theresa-kindergarten-3/" id="fs_url_37679" />
+<input type="hidden" name="quantity_min||8479c7964bc229ec0569d6f9d53b23b63f637f3649b1e674054412ab33e697bb||open" value="0" id="fs_quantity_min_37679" />
+<input type="hidden" name="quantity_max||19d9ec3bbf68dc6b4ff5b1bc127d0d900d7b53d9cd49b3e2e6a6a4dca96a061c||open" value="0" id="fs_quantity_max_37679" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37679" />
+<input type="hidden" name="name||fd007e35373def7f9ed41d7a3e423f9b3541d38f15979a94695a0d4dac52b01b" id="fs_name_37679" value="1392 – St. Theresa Kindergarten" />
+<input type="hidden" name="code||f34ec2f89e23f7decb84bc3d0ab837938bde6e9ea30e71a4393c69f76e18830c" id="fs_code_37679" value="WCPROJ1392" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||d0b1f69449f51af175e3cbcdd6ebada9b48d4d6f96735f2da21cc179d6b89efa" id="WCPROJ1392_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37682" rel="37682">
+<input type="hidden" name="price||620e994dac1698b2b1a770b363062014c85578f09ba6ebe43efcc7322d358e01" id="fs_price_37682" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37682" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37682" />
+<input type="hidden" name="image||cf26fb1e515b182ca09f85d79bab9cbc297ba4a08b62001239cc65c353772dc6||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/1392-foxy-thumb.jpg" id="foxyshop_cart_product_image_37682" />
+<input type="hidden" name="url||dd806e4d2bc608588f8d2f64d47b6a1ac0ab3625033b96217a565d5260147732" value="https://crosscatholic.org/products/1392-st-theresa-kindergarten-4/" id="fs_url_37682" />
+<input type="hidden" name="quantity_min||8479c7964bc229ec0569d6f9d53b23b63f637f3649b1e674054412ab33e697bb||open" value="0" id="fs_quantity_min_37682" />
+<input type="hidden" name="quantity_max||19d9ec3bbf68dc6b4ff5b1bc127d0d900d7b53d9cd49b3e2e6a6a4dca96a061c||open" value="0" id="fs_quantity_max_37682" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37682" />
+<input type="hidden" name="name||fd007e35373def7f9ed41d7a3e423f9b3541d38f15979a94695a0d4dac52b01b" id="fs_name_37682" value="1392 – St. Theresa Kindergarten" />
+<input type="hidden" name="code||f34ec2f89e23f7decb84bc3d0ab837938bde6e9ea30e71a4393c69f76e18830c" id="fs_code_37682" value="WCPROJ1392" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||f69f9318c9a085a0494c6298ac7757ea62a12ac025c3ab2c5123513f169da886" id="WCPROJ1392_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37676" rel="37676">
+<input type="hidden" name="price||97f46332220763c24ab2da13f09cbb9b34075775ceb6bc235ed82e88f4103c23" id="fs_price_37676" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37676" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37676" />
+<input type="hidden" name="image||cf26fb1e515b182ca09f85d79bab9cbc297ba4a08b62001239cc65c353772dc6||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/1392-foxy-thumb.jpg" id="foxyshop_cart_product_image_37676" />
+<input type="hidden" name="url||8907a10baaf4ef43e5c2ad9b8069c8968bf2153a9220bcffeb43870037f72b2e" value="https://crosscatholic.org/products/1392-st-theresa-kindergarten-2/" id="fs_url_37676" />
+<input type="hidden" name="quantity_min||8479c7964bc229ec0569d6f9d53b23b63f637f3649b1e674054412ab33e697bb||open" value="0" id="fs_quantity_min_37676" />
+<input type="hidden" name="quantity_max||19d9ec3bbf68dc6b4ff5b1bc127d0d900d7b53d9cd49b3e2e6a6a4dca96a061c||open" value="0" id="fs_quantity_max_37676" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37676" />
+<input type="hidden" name="name||fd007e35373def7f9ed41d7a3e423f9b3541d38f15979a94695a0d4dac52b01b" id="fs_name_37676" value="1392 – St. Theresa Kindergarten" />
+<input type="hidden" name="code||f34ec2f89e23f7decb84bc3d0ab837938bde6e9ea30e71a4393c69f76e18830c" id="fs_code_37676" value="WCPROJ1392" />
+<div class="foxyshop_variations">
+<input type="text" name="price||33435a0e6385094f28b8b51f2e4024e59a4c63a8b815223233f7cd1e59af8759||open" id="WCPROJ1392_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
