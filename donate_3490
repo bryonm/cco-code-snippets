@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3490', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_149263" rel="149263">
+<input type="hidden" name="price||8c4f1f9df79a49e991fb340ce1b28c5a290064d0a0e476957de905eb9ad6b9c3" id="fs_price_149263" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_149263" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_149263" />
+<input type="hidden" name="image||2a1a92f4acca7aa5320f836827c7296f78af15fedad58719e80637acf0f98515||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3490-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_149263" />
+<input type="hidden" name="url||9e8fce782b8f6de26e9c57583f933b55c99eeb0f9eb5c52d17a41b4ccfa2aa22" value="https://crosscatholic.org/products/3490-st-teresa-vocational-school-25-donation/" id="fs_url_149263" />
+<input type="hidden" name="quantity_min||3318e70862b25c0990153215eb3b13781263a9b04846f8d47aec5769d2c8e0bb||open" value="0" id="fs_quantity_min_149263" />
+<input type="hidden" name="quantity_max||58f8f07b2a5fcf17a52303540da59938d153066fe5c8ebc25692a0d92d009c20||open" value="0" id="fs_quantity_max_149263" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_149263" />
+<input type="hidden" name="name||850a1c373181e0a894934ffa898a3f4e1f5be037ea9daa7940acdff94cf3e219" id="fs_name_149263" value="3490 – St. Teresa Vocational School – $25 donation" />
+<input type="hidden" name="code||0b02f2edd6e4b95ac727624992e08e8f8967f97eede9a733e296ef3666939c3e" id="fs_code_149263" value="WCPROJ3490" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||5335f61a44fb5988fbd9409949c635a2024b607545997de9be36946051c89029" id="WCPROJ3490_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_149262" rel="149262">
+<input type="hidden" name="price||d395daf51ac455e9e0201e20e2607370bfd8ab53e65ba9898e6e3c999eed2ea2" id="fs_price_149262" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_149262" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_149262" />
+<input type="hidden" name="image||2a1a92f4acca7aa5320f836827c7296f78af15fedad58719e80637acf0f98515||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3490-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_149262" />
+<input type="hidden" name="url||a35f51a8168780927577bd1170ee25c01c3b7e678793879b74549323738d28a3" value="https://crosscatholic.org/products/3490-st-teresa-vocational-school-50-donation/" id="fs_url_149262" />
+<input type="hidden" name="quantity_min||3318e70862b25c0990153215eb3b13781263a9b04846f8d47aec5769d2c8e0bb||open" value="0" id="fs_quantity_min_149262" />
+<input type="hidden" name="quantity_max||58f8f07b2a5fcf17a52303540da59938d153066fe5c8ebc25692a0d92d009c20||open" value="0" id="fs_quantity_max_149262" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_149262" />
+<input type="hidden" name="name||f9bccf08ea15c56fac973d741cdd29809ec8037ab589c1c73386a4ddc3167685" id="fs_name_149262" value="3490 – St. Teresa Vocational School – $50 donation" />
+<input type="hidden" name="code||0b02f2edd6e4b95ac727624992e08e8f8967f97eede9a733e296ef3666939c3e" id="fs_code_149262" value="WCPROJ3490" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||b7172f98204538a6dcc12c9b57280dd353d91f2f339bfede0a4ba528df8dd9a0" id="WCPROJ3490_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_149261" rel="149261">
+<input type="hidden" name="price||d0cae0aa20300d50f8b0fab408ed5352b9322356b17ca9f286a9886d3493a5d5" id="fs_price_149261" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_149261" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_149261" />
+<input type="hidden" name="image||2a1a92f4acca7aa5320f836827c7296f78af15fedad58719e80637acf0f98515||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3490-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_149261" />
+<input type="hidden" name="url||b77488b353cc06b9fb54d0cc110b76c0cdb7f08a6fc90a79c6d39df33efb0240" value="https://crosscatholic.org/products/3490-st-teresa-vocational-school-100-donation/" id="fs_url_149261" />
+<input type="hidden" name="quantity_min||3318e70862b25c0990153215eb3b13781263a9b04846f8d47aec5769d2c8e0bb||open" value="0" id="fs_quantity_min_149261" />
+<input type="hidden" name="quantity_max||58f8f07b2a5fcf17a52303540da59938d153066fe5c8ebc25692a0d92d009c20||open" value="0" id="fs_quantity_max_149261" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_149261" />
+<input type="hidden" name="name||e90f6ae1b403be82e63ae9538f2097f77027669a9856cebdb4c5c895eb3206ca" id="fs_name_149261" value="3490 – St. Teresa Vocational School – $100 donation" />
+<input type="hidden" name="code||0b02f2edd6e4b95ac727624992e08e8f8967f97eede9a733e296ef3666939c3e" id="fs_code_149261" value="WCPROJ3490" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||5206e6b002b2819182a081787552da33d35b6cfde42158af6beff53d8a8a518b" id="WCPROJ3490_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_149260" rel="149260">
+<input type="hidden" name="price||d319abf2289398f5df65d087b2c396d1c03ca1cce1d697d9d8d4bcda6228b6e7" id="fs_price_149260" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_149260" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_149260" />
+<input type="hidden" name="image||2a1a92f4acca7aa5320f836827c7296f78af15fedad58719e80637acf0f98515||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3490-foxy-thumb.jpg" id="foxyshop_cart_product_image_149260" />
+<input type="hidden" name="url||4b651395b9487f27feb2c57a75406596ed4a097d8ae55abbb98eb8320b243264" value="https://crosscatholic.org/products/3490-st-teresa-vocational-school/" id="fs_url_149260" />
+<input type="hidden" name="quantity_min||3318e70862b25c0990153215eb3b13781263a9b04846f8d47aec5769d2c8e0bb||open" value="0" id="fs_quantity_min_149260" />
+<input type="hidden" name="quantity_max||58f8f07b2a5fcf17a52303540da59938d153066fe5c8ebc25692a0d92d009c20||open" value="0" id="fs_quantity_max_149260" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_149260" />
+<input type="hidden" name="name||aa5e9f51fe5e379d8ad54332448b1194e6590691e57c12eb8b1898bcd11939c6" id="fs_name_149260" value="3490 – St. Teresa Vocational School" />
+<input type="hidden" name="code||0b02f2edd6e4b95ac727624992e08e8f8967f97eede9a733e296ef3666939c3e" id="fs_code_149260" value="WCPROJ3490" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9e402ec2cb347d762ca39406dbd9d0fc6629fb48b7e22e273e0b405a06aa5bdb||open" id="WCPROJ3490_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
