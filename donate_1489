@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1489', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_49945" rel="49945">
+<input type="hidden" name="price||e48014bf4a766809d43651c1d2598db0a1e44da824df9bd011f9cd0f6feb77a9" id="fs_price_49945" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_49945" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_49945" />
+<input type="hidden" name="image||6dc4116670d0cadfa32680327f05739f29ec662379c00ae03756f7e15406b627||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1489-1-foxy.jpg" id="foxyshop_cart_product_image_49945" />
+<input type="hidden" name="url||5b19037e11202f0cd56826f11e7de83ba019ea4c2affe8c284aa6513312b7669" value="https://crosscatholic.org/products/1489-casa-nino-esperanza-4/" id="fs_url_49945" />
+<input type="hidden" name="quantity_min||6ae75e8360e17a2f75541345b6d755b44069ffabd1cf851a5ea39b01900e574a||open" value="0" id="fs_quantity_min_49945" />
+<input type="hidden" name="quantity_max||caed94af33a4cd1df22686616887a413384a74f092d7513e43423242073931a3||open" value="0" id="fs_quantity_max_49945" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_49945" />
+<input type="hidden" name="name||9ce61e419ab47f287bb401d0806c10a52b9f710ebcfd44553ae3127adc385616" id="fs_name_49945" value="1489 - Casa Niño Esperanza" />
+<input type="hidden" name="code||4b0d784f9f3a47b2412694e759461c1c2d78f3aff03b735068dba5e9e2f60e76" id="fs_code_49945" value="WCPROJ1489" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||21e459587e5c451b7c0e16da117cdb1172af17b89d76952483e97575893a7eae" id="WCPROJ1489_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_49942" rel="49942">
+<input type="hidden" name="price||0ff300c0a636828550c463fb5113b3b346abe685e7a0bff4868175aa0f5dff07" id="fs_price_49942" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_49942" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_49942" />
+<input type="hidden" name="image||6dc4116670d0cadfa32680327f05739f29ec662379c00ae03756f7e15406b627||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1489-1-foxy_2.jpg" id="foxyshop_cart_product_image_49942" />
+<input type="hidden" name="url||4022060f82fef35bf536c3a075efd64e911229510ee8effb08fd5ea3e54060f6" value="https://crosscatholic.org/products/1489-casa-nino-esperanza-2/" id="fs_url_49942" />
+<input type="hidden" name="quantity_min||6ae75e8360e17a2f75541345b6d755b44069ffabd1cf851a5ea39b01900e574a||open" value="0" id="fs_quantity_min_49942" />
+<input type="hidden" name="quantity_max||caed94af33a4cd1df22686616887a413384a74f092d7513e43423242073931a3||open" value="0" id="fs_quantity_max_49942" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_49942" />
+<input type="hidden" name="name||9ce61e419ab47f287bb401d0806c10a52b9f710ebcfd44553ae3127adc385616" id="fs_name_49942" value="1489 - Casa Niño Esperanza" />
+<input type="hidden" name="code||4b0d784f9f3a47b2412694e759461c1c2d78f3aff03b735068dba5e9e2f60e76" id="fs_code_49942" value="WCPROJ1489" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||a7b7af01ae9e5df356766d72441189129b49c8188c8e6bd281c67c1fad89fe2f" id="WCPROJ1489_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_49944" rel="49944">
+<input type="hidden" name="price||724984148b918f73b97fda63adf23fe27e1153fc94fdb0876beaf6ba33ddec1a" id="fs_price_49944" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_49944" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_49944" />
+<input type="hidden" name="image||6dc4116670d0cadfa32680327f05739f29ec662379c00ae03756f7e15406b627||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1489-1-foxy_3.jpg" id="foxyshop_cart_product_image_49944" />
+<input type="hidden" name="url||5ee38aa6109911a9d86fd4617860a3cc6e7f1d00d34504a7b2617264a697364f" value="https://crosscatholic.org/products/1489-casa-nino-esperanza/" id="fs_url_49944" />
+<input type="hidden" name="quantity_min||6ae75e8360e17a2f75541345b6d755b44069ffabd1cf851a5ea39b01900e574a||open" value="0" id="fs_quantity_min_49944" />
+<input type="hidden" name="quantity_max||caed94af33a4cd1df22686616887a413384a74f092d7513e43423242073931a3||open" value="0" id="fs_quantity_max_49944" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_49944" />
+<input type="hidden" name="name||9ce61e419ab47f287bb401d0806c10a52b9f710ebcfd44553ae3127adc385616" id="fs_name_49944" value="1489 - Casa Niño Esperanza" />
+<input type="hidden" name="code||4b0d784f9f3a47b2412694e759461c1c2d78f3aff03b735068dba5e9e2f60e76" id="fs_code_49944" value="WCPROJ1489" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||b6bb85c1233510f736ce1df11325548cc021562faaffb829ff0de339ac30c9eb" id="WCPROJ1489_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_49943" rel="49943">
+<input type="hidden" name="price||6bad3154816d42aff0b5449d7ca6713928b163816881babb0d5942be0d924ef1" id="fs_price_49943" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_49943" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_49943" />
+<input type="hidden" name="image||6dc4116670d0cadfa32680327f05739f29ec662379c00ae03756f7e15406b627||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1489-1-foxy_1.jpg" id="foxyshop_cart_product_image_49943" />
+<input type="hidden" name="url||d2ba4dae0f11b1164f140c1424e8c91537546bf763cd6ec2b9e371e8f516a73f" value="https://crosscatholic.org/products/1489-casa-nino-esperanza-3/" id="fs_url_49943" />
+<input type="hidden" name="quantity_min||6ae75e8360e17a2f75541345b6d755b44069ffabd1cf851a5ea39b01900e574a||open" value="0" id="fs_quantity_min_49943" />
+<input type="hidden" name="quantity_max||caed94af33a4cd1df22686616887a413384a74f092d7513e43423242073931a3||open" value="0" id="fs_quantity_max_49943" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_49943" />
+<input type="hidden" name="name||9ce61e419ab47f287bb401d0806c10a52b9f710ebcfd44553ae3127adc385616" id="fs_name_49943" value="1489 - Casa Niño Esperanza" />
+<input type="hidden" name="code||4b0d784f9f3a47b2412694e759461c1c2d78f3aff03b735068dba5e9e2f60e76" id="fs_code_49943" value="WCPROJ1489" />
+<div class="foxyshop_variations">
+<input type="text" name="price||8257e26ebf2a2ea7a855301db35d7177d5bd53a9890a43177d8afcda29dd090e||open" id="WCPROJ1489_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
