@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3395', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143535" rel="143535">
+<input type="hidden" name="price||66aa889fced766a247b1bc98a2c7587ba80dcfea9df053b65a654af3769852e7" id="fs_price_143535" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143535" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143535" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3395-foxythumb_3.jpg" id="foxyshop_cart_product_image_143535" />
+<input type="hidden" name="url||ddec83a322e3d5a4bdb3be41e69c4d0d41119cfab4694fdce3995f40f6ba03f2" value="https://crosscatholic.org/products/3395-populorum-progressio-foundation-training-in-livestock-farming-25-donation/" id="fs_url_143535" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143535" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143535" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143535" />
+<input type="hidden" name="name||d4d1e0a8cfba048a12ffe17272b0026de7ea982c8e27e0dd72b397c99149407a" id="fs_name_143535" value="3395 – Populorum Progressio Foundation – Training in Livestock Farming – $25 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143535" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||14002e43ae38253f0a3b705e3fd47a9916885ca3f4b6789ca3352cf3ee6f0a15" id="WCPROJ9031_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143534" rel="143534">
+<input type="hidden" name="price||c36936c563adf5e69e1e2356fa07c629c80b9f0352f69b745296be97b763bf4d" id="fs_price_143534" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143534" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143534" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3395-foxythumb_2.jpg" id="foxyshop_cart_product_image_143534" />
+<input type="hidden" name="url||149ad806644730dfdda8a5d1d09fef7b7f05bd83ce99b768259dbad81b767b40" value="https://crosscatholic.org/products/3395-populorum-progressio-foundation-training-in-livestock-farming-50-donation/" id="fs_url_143534" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143534" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143534" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143534" />
+<input type="hidden" name="name||22b96b6b92b231d8ff3676f4b0c4c79b2b44e7d4c1d405dc099d0ddd2fb2e3ef" id="fs_name_143534" value="3395 – Populorum Progressio Foundation – Training in Livestock Farming – $50 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143534" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0acdde123280a59c877d8ce576094555d128dc29aa485e7c0dc71969096bbe80" id="WCPROJ9031_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143533" rel="143533">
+<input type="hidden" name="price||5b0ce675ac752e7a0662690ee1e170b23c75845d07d055f4fb2f501cf764c638" id="fs_price_143533" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143533" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143533" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3395-foxythumb_1.jpg" id="foxyshop_cart_product_image_143533" />
+<input type="hidden" name="url||fae4d5b5beba2f8ba61bc30d43ef6c54f8826d08d36027cd96059565e8dcb0b1" value="https://crosscatholic.org/products/3395-populorum-progressio-foundation-training-in-livestock-farming-100-donation/" id="fs_url_143533" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143533" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143533" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143533" />
+<input type="hidden" name="name||88c63e74e8eda825a05614712298850050e10dba0fd39aa8cca87905a06786c8" id="fs_name_143533" value="3395 – Populorum Progressio Foundation – Training in Livestock Farming – $100 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143533" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||25d07319af2fae360fd8f25942f352dd660a4f83228c8e7e5722cd73bccf0ad4" id="WCPROJ9031_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143532" rel="143532">
+<input type="hidden" name="price||6467c93328d23991c01c504c0b8cb2aa61f91fb1765c070199ec918add4aa41b" id="fs_price_143532" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143532" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143532" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3395-foxythumb.jpg" id="foxyshop_cart_product_image_143532" />
+<input type="hidden" name="url||712bf454396d345606007badc1e3d902e21a0930ccfe9da9ed033007788a5322" value="https://crosscatholic.org/products/3395-populorum-progressio-foundation-training-in-livestock-farming/" id="fs_url_143532" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143532" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143532" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143532" />
+<input type="hidden" name="name||d1b12267b4d6e87d5dc7cdf2e8f325963dd03bb2895ec5d0235ae6814add3de7" id="fs_name_143532" value="3395 – Populorum Progressio Foundation – Training in Livestock Farming" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143532" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="text" name="price||fb3b4533ae8abf346f591bb285016c1aefc8deae5fd71556af95e7ab1900d392||open" id="WCPROJ9031_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
