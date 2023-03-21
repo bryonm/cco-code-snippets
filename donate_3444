@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3444', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147934" rel="147934">
+<input type="hidden" name="price||ba59c625f965e4f0e332fa3ed53a2f039c1fa33c6b8218d5313916aecec05d5c" id="fs_price_147934" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147934" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147934" />
+<input type="hidden" name="image||490e7596474f77a3e34bf9c0af59b81736cb885530a7f4e82a68f9daed035ade||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3444-foxy-thumb.jpg" id="foxyshop_cart_product_image_147934" />
+<input type="hidden" name="url||5a28ff6a4b86653ef61c6f6a6b822790f186cb6f2c4a8086a07929242d75bb8c" value="https://crosscatholic.org/products/3444-bethsaide-bakery-25-donation/" id="fs_url_147934" />
+<input type="hidden" name="quantity_min||d3aabadd7914d352f8213c697603cde9c331c78139962491801fb7287d6c02b9||open" value="0" id="fs_quantity_min_147934" />
+<input type="hidden" name="quantity_max||cb1672b4e842dfe505124d41abfc1a2714c52b6001f5fd1f39a1c18f9ec93f59||open" value="0" id="fs_quantity_max_147934" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147934" />
+<input type="hidden" name="name||906025f21acd9d66380f68f9a1698512f891a9f1579c0baba47b6dcde8c32850" id="fs_name_147934" value="3444 – Bethsaide Bakery – $25 donation" />
+<input type="hidden" name="code||19a8d783c2589ae4b69abb5afbdbb814315da1f63dbc1080e7bce9045fdde167" id="fs_code_147934" value="WCPROJ3444" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||82ddd63214cb54e3ee1a33cc7fc504948a2661fabc2ff63d0207b42f58d3209a" id="WCPROJ3444_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147933" rel="147933">
+<input type="hidden" name="price||0f598b0773ef47e2943dea403b36685c21f5526940df69f429b18fbc4918bdd7" id="fs_price_147933" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147933" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147933" />
+<input type="hidden" name="image||490e7596474f77a3e34bf9c0af59b81736cb885530a7f4e82a68f9daed035ade||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3444-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_147933" />
+<input type="hidden" name="url||fff5cb031330db480426a7ff9b93fb756d4716a78e9da3872a1abdab1130c025" value="https://crosscatholic.org/products/3444-bethsaide-bakery-50-donation/" id="fs_url_147933" />
+<input type="hidden" name="quantity_min||d3aabadd7914d352f8213c697603cde9c331c78139962491801fb7287d6c02b9||open" value="0" id="fs_quantity_min_147933" />
+<input type="hidden" name="quantity_max||cb1672b4e842dfe505124d41abfc1a2714c52b6001f5fd1f39a1c18f9ec93f59||open" value="0" id="fs_quantity_max_147933" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147933" />
+<input type="hidden" name="name||faf8c126aae0ecc2aeb33f6e6c1ca16ebceb4276df1bfd4320a3cd87d1098fa4" id="fs_name_147933" value="3444 – Bethsaide Bakery – $50 donation" />
+<input type="hidden" name="code||19a8d783c2589ae4b69abb5afbdbb814315da1f63dbc1080e7bce9045fdde167" id="fs_code_147933" value="WCPROJ3444" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||5cd44144fb648e30e37091057dbd0431b5d8b3766c62d77e75c206a6201104ca" id="WCPROJ3444_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147932" rel="147932">
+<input type="hidden" name="price||599322343e328f33d92d437898ae9bc299e4de7598a157af68bf00422a77e07c" id="fs_price_147932" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147932" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147932" />
+<input type="hidden" name="image||490e7596474f77a3e34bf9c0af59b81736cb885530a7f4e82a68f9daed035ade||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3444-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_147932" />
+<input type="hidden" name="url||aef19e6bceeb82134ad88cc9aaa1e231282c6798b8ca31b431d4013360f9be05" value="https://crosscatholic.org/products/3444-bethsaide-bakery-100-donation/" id="fs_url_147932" />
+<input type="hidden" name="quantity_min||d3aabadd7914d352f8213c697603cde9c331c78139962491801fb7287d6c02b9||open" value="0" id="fs_quantity_min_147932" />
+<input type="hidden" name="quantity_max||cb1672b4e842dfe505124d41abfc1a2714c52b6001f5fd1f39a1c18f9ec93f59||open" value="0" id="fs_quantity_max_147932" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147932" />
+<input type="hidden" name="name||3f91da56a6f2fd410ee39dc552d13848680cc5c01251f0efaf73e36d79e6e50d" id="fs_name_147932" value="3444 – Bethsaide Bakery – $100 donation" />
+<input type="hidden" name="code||19a8d783c2589ae4b69abb5afbdbb814315da1f63dbc1080e7bce9045fdde167" id="fs_code_147932" value="WCPROJ3444" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||3126a94801516bbaf8e6142354de007018623063010d7822a95238a22aad844e" id="WCPROJ3444_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147931" rel="147931">
+<input type="hidden" name="price||1c259896086c1af01c99e13abf7806d075128425ab62819199042f98be9dda78" id="fs_price_147931" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147931" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147931" />
+<input type="hidden" name="image||490e7596474f77a3e34bf9c0af59b81736cb885530a7f4e82a68f9daed035ade||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3444-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_147931" />
+<input type="hidden" name="url||9a058d7ad08d9baa7e012c25a439d6727470f27f51bbd6abe696487ada2b92a9" value="https://crosscatholic.org/products/3444-bethsaide-bakery/" id="fs_url_147931" />
+<input type="hidden" name="quantity_min||d3aabadd7914d352f8213c697603cde9c331c78139962491801fb7287d6c02b9||open" value="0" id="fs_quantity_min_147931" />
+<input type="hidden" name="quantity_max||cb1672b4e842dfe505124d41abfc1a2714c52b6001f5fd1f39a1c18f9ec93f59||open" value="0" id="fs_quantity_max_147931" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147931" />
+<input type="hidden" name="name||2f7a6b1d7a5acecceb1b303f3589b2ec2fb11929701ad7cc9f6cf38f9af267d5" id="fs_name_147931" value="3444 – Bethsaide Bakery" />
+<input type="hidden" name="code||19a8d783c2589ae4b69abb5afbdbb814315da1f63dbc1080e7bce9045fdde167" id="fs_code_147931" value="WCPROJ3444" />
+<div class="foxyshop_variations">
+<input type="text" name="price||92f9468abcbe71ff2992c95bd50f260049b8fb304a189abd643d4eb7048042ea||open" id="WCPROJ3444_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
