@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3006', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52868" rel="52868">
+<input type="hidden" name="price||21961bba636180a7c28973defbbc2b7249f3f17014122090adff304e5c397f3e" id="fs_price_52868" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52868" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52868" />
+<input type="hidden" name="image||7ff129429afd7183502d4fe0b5ed25ab4a3e1bffa2cd80e96adec242d19e9ef1||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3006-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_52868" />
+<input type="hidden" name="url||e0fd828ae2963f9ab7178615e88787b78812b66f7137e923db5eb27bcee3ecbb" value="https://crosscatholic.org/products/3006-ngong-catholic-scholarships/" id="fs_url_52868" />
+<input type="hidden" name="quantity_min||8ce2b8f76357c737871f8a1593e7d2b4fc0adceb0188769d2d813d1558a8478c||open" value="0" id="fs_quantity_min_52868" />
+<input type="hidden" name="quantity_max||cd18151a3e382c4feacd7a58ed609c4b1f8b9f1e2d75ad84c6cacdb351c9d19e||open" value="0" id="fs_quantity_max_52868" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52868" />
+<input type="hidden" name="name||d512529282726551ec60fab3633c783d4e7378b0edd046049980b5b83f060ba5" id="fs_name_52868" value="3006 - Ngong Catholic Scholarships" />
+<input type="hidden" name="code||bd3adfab541bbb74e60634d4f0541b7a9ea7a499333968dfa04084d11102e626" id="fs_code_52868" value="WCPROJ3006" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||2d16e4f3be4b12501eca6595a0bbcf90fa99c0a8bb4184c428bb9597435c215d" id="WCPROJ3006_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52884" rel="52884">
+<input type="hidden" name="price||ba2985ac5b5773f30bbc316073332fbe9b58add57183e9bb24a3d5a2457c3791" id="fs_price_52884" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52884" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52884" />
+<input type="hidden" name="image||7ff129429afd7183502d4fe0b5ed25ab4a3e1bffa2cd80e96adec242d19e9ef1||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3006-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_52884" />
+<input type="hidden" name="url||1a39672f83074dd095e58eea47c6f03923618983233da690c3e88fe344b418c4" value="https://crosscatholic.org/products/3006-ngong-catholic-scholarships-3/" id="fs_url_52884" />
+<input type="hidden" name="quantity_min||8ce2b8f76357c737871f8a1593e7d2b4fc0adceb0188769d2d813d1558a8478c||open" value="0" id="fs_quantity_min_52884" />
+<input type="hidden" name="quantity_max||cd18151a3e382c4feacd7a58ed609c4b1f8b9f1e2d75ad84c6cacdb351c9d19e||open" value="0" id="fs_quantity_max_52884" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52884" />
+<input type="hidden" name="name||d512529282726551ec60fab3633c783d4e7378b0edd046049980b5b83f060ba5" id="fs_name_52884" value="3006 - Ngong Catholic Scholarships" />
+<input type="hidden" name="code||bd3adfab541bbb74e60634d4f0541b7a9ea7a499333968dfa04084d11102e626" id="fs_code_52884" value="WCPROJ3006" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||1fe58506346fcdc126c05ad7bc3734b3ea51c79f06e569e7ddc39951cbb393dc" id="WCPROJ3006_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52887" rel="52887">
+<input type="hidden" name="price||76148549be8921de76486be7d0c4a6261afce678ee480f28476c6863361fb95e" id="fs_price_52887" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52887" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52887" />
+<input type="hidden" name="image||7ff129429afd7183502d4fe0b5ed25ab4a3e1bffa2cd80e96adec242d19e9ef1||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3006-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_52887" />
+<input type="hidden" name="url||e0a1007ee382d5ec203f884a29801b59b1951495584b92327aa72ffe5c604af3" value="https://crosscatholic.org/products/3006-ngong-catholic-scholarships-4/" id="fs_url_52887" />
+<input type="hidden" name="quantity_min||8ce2b8f76357c737871f8a1593e7d2b4fc0adceb0188769d2d813d1558a8478c||open" value="0" id="fs_quantity_min_52887" />
+<input type="hidden" name="quantity_max||cd18151a3e382c4feacd7a58ed609c4b1f8b9f1e2d75ad84c6cacdb351c9d19e||open" value="0" id="fs_quantity_max_52887" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52887" />
+<input type="hidden" name="name||d512529282726551ec60fab3633c783d4e7378b0edd046049980b5b83f060ba5" id="fs_name_52887" value="3006 - Ngong Catholic Scholarships" />
+<input type="hidden" name="code||bd3adfab541bbb74e60634d4f0541b7a9ea7a499333968dfa04084d11102e626" id="fs_code_52887" value="WCPROJ3006" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||c6200a1206273296b1c2e8d02b09bb8cfd027a9d8badf79deac59bb318f9c5f0" id="WCPROJ3006_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52869" rel="52869">
+<input type="hidden" name="price||c279dbc8040ff598ab7cc785af8c1768f66f888272ece25da997b7d1f5ac27eb" id="fs_price_52869" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52869" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52869" />
+<input type="hidden" name="image||7ff129429afd7183502d4fe0b5ed25ab4a3e1bffa2cd80e96adec242d19e9ef1||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/3006-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_52869" />
+<input type="hidden" name="url||fcb1bb9c7879110e1ebba4549bc57eb7a5bade814ad3e7ec7bcc73eed72d7ada" value="https://crosscatholic.org/products/3006-ngong-catholic-scholarships-2/" id="fs_url_52869" />
+<input type="hidden" name="quantity_min||8ce2b8f76357c737871f8a1593e7d2b4fc0adceb0188769d2d813d1558a8478c||open" value="0" id="fs_quantity_min_52869" />
+<input type="hidden" name="quantity_max||cd18151a3e382c4feacd7a58ed609c4b1f8b9f1e2d75ad84c6cacdb351c9d19e||open" value="0" id="fs_quantity_max_52869" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52869" />
+<input type="hidden" name="name||d512529282726551ec60fab3633c783d4e7378b0edd046049980b5b83f060ba5" id="fs_name_52869" value="3006 - Ngong Catholic Scholarships" />
+<input type="hidden" name="code||bd3adfab541bbb74e60634d4f0541b7a9ea7a499333968dfa04084d11102e626" id="fs_code_52869" value="WCPROJ3006" />
+<div class="foxyshop_variations">
+<input type="text" name="price||0ec357eb3cdd8f44beb854461fac326ce292406189fe6849161ba79d71f5f8b6||open" id="WCPROJ3006_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
