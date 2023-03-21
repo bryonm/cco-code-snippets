@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3373', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147907" rel="147907">
+<input type="hidden" name="price||138b140178b082111d624cae532591d32e5fed9eabf8ca69802576edb63ade41" id="fs_price_147907" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147907" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147907" />
+<input type="hidden" name="image||4e534c94120c587d55a75850c4333fded9750a88dec2607aac0204c676564689||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3373-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_147907" />
+<input type="hidden" name="url||cdde7c0d5f9ca2a825503109522ab659d84e420125e3cc452c46550dc2bbee59" value="https://crosscatholic.org/products/3373-solidaridad-en-marcha-food-25-donation/" id="fs_url_147907" />
+<input type="hidden" name="quantity_min||71bcd1c8da4174272fe446771843bfeb64bd99c0d3f97efc666df2858b840892||open" value="0" id="fs_quantity_min_147907" />
+<input type="hidden" name="quantity_max||adea3d9b7b90d02b0cb9fdc8b3e94dccdcdd33c4d38848cc8e812e8697eb2af4||open" value="0" id="fs_quantity_max_147907" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147907" />
+<input type="hidden" name="name||70a942e16aaa4e70f87e9818950305ca1cb76e40ad9e315e315d6699702b1e95" id="fs_name_147907" value="3373 – Solidaridad en Marcha Food – $25 donation" />
+<input type="hidden" name="code||4f3f805a1ec17ac53cac8093dc8197f90258f041ae73679279af27ebe1ba7348" id="fs_code_147907" value="WCPROJ3373" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||35292793b411bd99e530a45b076a08659e10ee3ddcb37f40b33e90d105b26e6d" id="WCPROJ3373_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147906" rel="147906">
+<input type="hidden" name="price||1319950870ed2b4b7e725387b9d07ec9189175f0ad8423555b3acfde904b3d93" id="fs_price_147906" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147906" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147906" />
+<input type="hidden" name="image||4e534c94120c587d55a75850c4333fded9750a88dec2607aac0204c676564689||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3373-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_147906" />
+<input type="hidden" name="url||bba7b6050dda3c7376b312a857c0b579aed4285e3bbd0ead848cc1f1a83ceb77" value="https://crosscatholic.org/products/3373-solidaridad-en-marcha-food-50-donation/" id="fs_url_147906" />
+<input type="hidden" name="quantity_min||71bcd1c8da4174272fe446771843bfeb64bd99c0d3f97efc666df2858b840892||open" value="0" id="fs_quantity_min_147906" />
+<input type="hidden" name="quantity_max||adea3d9b7b90d02b0cb9fdc8b3e94dccdcdd33c4d38848cc8e812e8697eb2af4||open" value="0" id="fs_quantity_max_147906" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147906" />
+<input type="hidden" name="name||2c4678041c1b1797bd9068cc6a6a7392e451cb1c8cbc922c5dcb5b904ca37058" id="fs_name_147906" value="3373 – Solidaridad en Marcha Food – $50 donation" />
+<input type="hidden" name="code||4f3f805a1ec17ac53cac8093dc8197f90258f041ae73679279af27ebe1ba7348" id="fs_code_147906" value="WCPROJ3373" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||498961f46a3c2245b65dd0214024aead7060020dd6bc4282fb8d9681ec60b36c" id="WCPROJ3373_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147908" rel="147908">
+<input type="hidden" name="price||d1f4ea241793779d7b0cb05e4d053cda337cb393d44d5af11297c4e26188c85c" id="fs_price_147908" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147908" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147908" />
+<input type="hidden" name="image||4e534c94120c587d55a75850c4333fded9750a88dec2607aac0204c676564689||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3373-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_147908" />
+<input type="hidden" name="url||7de95248fa44fcd3686a0b81d6e0a21408ca44850db2ff1c7ae342cf1ca2a6b1" value="https://crosscatholic.org/products/3373-solidaridad-en-marcha-food-100-donation/" id="fs_url_147908" />
+<input type="hidden" name="quantity_min||71bcd1c8da4174272fe446771843bfeb64bd99c0d3f97efc666df2858b840892||open" value="0" id="fs_quantity_min_147908" />
+<input type="hidden" name="quantity_max||adea3d9b7b90d02b0cb9fdc8b3e94dccdcdd33c4d38848cc8e812e8697eb2af4||open" value="0" id="fs_quantity_max_147908" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147908" />
+<input type="hidden" name="name||908d0fec49897b59963b5446a943c7514dc966aa5a9a2ae73d563dc4c5d90ce4" id="fs_name_147908" value="3373 – Solidaridad en Marcha Food – $100 donation" />
+<input type="hidden" name="code||4f3f805a1ec17ac53cac8093dc8197f90258f041ae73679279af27ebe1ba7348" id="fs_code_147908" value="WCPROJ3373" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||f30ba150e8eed5a8fd3a5213de21d59e4e7f6a80aede6c6dee0790aae4143659" id="WCPROJ3373_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_147909" rel="147909">
+<input type="hidden" name="price||3e39712051ca26e495df42917f89f7271e362a8702f0c5d43b7ce591ac3281ff" id="fs_price_147909" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_147909" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_147909" />
+<input type="hidden" name="image||4e534c94120c587d55a75850c4333fded9750a88dec2607aac0204c676564689||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3373-foxy-thumb.jpg" id="foxyshop_cart_product_image_147909" />
+<input type="hidden" name="url||1336af3db602e31267ab009389ee176256c0e3d38cd87ad2e53329cbee2279aa" value="https://crosscatholic.org/products/3373-solidaridad-en-marcha-food/" id="fs_url_147909" />
+<input type="hidden" name="quantity_min||71bcd1c8da4174272fe446771843bfeb64bd99c0d3f97efc666df2858b840892||open" value="0" id="fs_quantity_min_147909" />
+<input type="hidden" name="quantity_max||adea3d9b7b90d02b0cb9fdc8b3e94dccdcdd33c4d38848cc8e812e8697eb2af4||open" value="0" id="fs_quantity_max_147909" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_147909" />
+<input type="hidden" name="name||7f53702bbbabb7f7662af27388ada77b3eb76821ccc2b22f7d296a74c27fd7e5" id="fs_name_147909" value="3373 – Solidaridad en Marcha Food" />
+<input type="hidden" name="code||4f3f805a1ec17ac53cac8093dc8197f90258f041ae73679279af27ebe1ba7348" id="fs_code_147909" value="WCPROJ3373" />
+<div class="foxyshop_variations">
+<input type="text" name="price||03d64e3555788b63e922bc826fa72db3743a5eae8e98d5b6156503fef9f3db4c||open" id="WCPROJ3373_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
