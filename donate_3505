@@ -1,0 +1,77 @@
+add_shortcode( 'donate_3505', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_168487" rel="168487">
+<input type="hidden" name="price||a3b6e3ea80d8639ed6dfc724a9eaa802799d47008b73617e4578475c7d5ca675" id="fs_price_168487" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_168487" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_168487" />
+<input type="hidden" name="image||c4f52debb5d5f3e1accf848f244b19a145fe505fba25124db0a5504a43ecce65||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3505-foxy-thumb.jpg" id="foxyshop_cart_product_image_168487" />
+<input type="hidden" name="url||96a0f751be122428e0be976db56efbabbf6c6a1aed2b749193f3dcad0cf25126" value="https://crosscatholic.org/products/3505-diocese-of-chipata-vehicle-25-donation/" id="fs_url_168487" />
+<input type="hidden" name="quantity_min||7457f8c0eec757056b2d127793b80abf1edbedfb080b34523b54f758019e034d||open" value="0" id="fs_quantity_min_168487" />
+<input type="hidden" name="quantity_max||0ba3072eda4262d1c8ca48081daae00a7008e665f10c44bc2922af8ef80f71e7||open" value="0" id="fs_quantity_max_168487" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_168487" />
+<input type="hidden" name="name||f65036a556e8e30bdbfb9bb942676fd61ec2c9303cdf7f3fc970dd1f47599abc" id="fs_name_168487" value="3505 - Diocese of Chipata Vehicle - $25 donation" />
+<input type="hidden" name="code||4ae303c31dd9ddfec8b94c8558e50d6984cec770e3c0a97cd5de375a15a72dcb" id="fs_code_168487" value="WCPROJ3505" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||124a44adb35ded584f9af1ecbaaba384ab7a71d4db7ae87f81b2005492d173f1" id="WCPROJ3505_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_168488" rel="168488">
+<input type="hidden" name="price||2466b02a2b65628a9ddc97520299a208833c8f6d3c9db252a5984b65ff09d471" id="fs_price_168488" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_168488" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_168488" />
+<input type="hidden" name="image||c4f52debb5d5f3e1accf848f244b19a145fe505fba25124db0a5504a43ecce65||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3505-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_168488" />
+<input type="hidden" name="url||d2d6c4e8ee3c2632e124562ec8befd60e7403ff54b088a1243374afd42d183bd" value="https://crosscatholic.org/products/3505-diocese-of-chipata-vehicle-50-donation/" id="fs_url_168488" />
+<input type="hidden" name="quantity_min||7457f8c0eec757056b2d127793b80abf1edbedfb080b34523b54f758019e034d||open" value="0" id="fs_quantity_min_168488" />
+<input type="hidden" name="quantity_max||0ba3072eda4262d1c8ca48081daae00a7008e665f10c44bc2922af8ef80f71e7||open" value="0" id="fs_quantity_max_168488" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_168488" />
+<input type="hidden" name="name||50f0e8fc3c555fdaa27425380f3bf9f2e996933e19a18cba39ca278aabd6dc12" id="fs_name_168488" value="3505 - Diocese of Chipata Vehicle - $50 donation" />
+<input type="hidden" name="code||4ae303c31dd9ddfec8b94c8558e50d6984cec770e3c0a97cd5de375a15a72dcb" id="fs_code_168488" value="WCPROJ3505" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||3ffea238de05eb05c4b5352609c33a930901784f3187b065d5e564d00ca134b8" id="WCPROJ3505_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_168489" rel="168489">
+<input type="hidden" name="price||8ec84446631f2f0f59d6c147b1e9d696184396d088bfc0c5f1492f9f9bbacd6d" id="fs_price_168489" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_168489" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_168489" />
+<input type="hidden" name="image||c4f52debb5d5f3e1accf848f244b19a145fe505fba25124db0a5504a43ecce65||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3505-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_168489" />
+<input type="hidden" name="url||4aaa9eae46050acca23cea44c9ca2c4658069cdf350ca6b7386902a44a894288" value="https://crosscatholic.org/products/3505-diocese-of-chipata-vehicle-100-donation/" id="fs_url_168489" />
+<input type="hidden" name="quantity_min||7457f8c0eec757056b2d127793b80abf1edbedfb080b34523b54f758019e034d||open" value="0" id="fs_quantity_min_168489" />
+<input type="hidden" name="quantity_max||0ba3072eda4262d1c8ca48081daae00a7008e665f10c44bc2922af8ef80f71e7||open" value="0" id="fs_quantity_max_168489" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_168489" />
+<input type="hidden" name="name||2aebcc9f58d6d307cbdd8238f74904ca4ff33499753e812cd1699abb91e92e7e" id="fs_name_168489" value="3505 - Diocese of Chipata Vehicle - $100 donation" />
+<input type="hidden" name="code||4ae303c31dd9ddfec8b94c8558e50d6984cec770e3c0a97cd5de375a15a72dcb" id="fs_code_168489" value="WCPROJ3505" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||64c0b1c6ab56940c8b8ff666ccae1a517985ddb2df5a44b083046672ee8bf221" id="WCPROJ3505_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_168490" rel="168490">
+<input type="hidden" name="price||7ac623d3004f8dea4c8dbe2af0b5682e5c09df2aea166463b09c7e4398e188db" id="fs_price_168490" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_168490" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_168490" />
+<input type="hidden" name="image||c4f52debb5d5f3e1accf848f244b19a145fe505fba25124db0a5504a43ecce65||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/3505-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_168490" />
+<input type="hidden" name="url||7f8fc9e8ef04e7e3c3f86f4f4fd3140c1ac7ae5366329f21bbda1e6d0cee740d" value="https://crosscatholic.org/products/3505-diocese-of-chipata-vehicle/" id="fs_url_168490" />
+<input type="hidden" name="quantity_min||7457f8c0eec757056b2d127793b80abf1edbedfb080b34523b54f758019e034d||open" value="0" id="fs_quantity_min_168490" />
+<input type="hidden" name="quantity_max||0ba3072eda4262d1c8ca48081daae00a7008e665f10c44bc2922af8ef80f71e7||open" value="0" id="fs_quantity_max_168490" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_168490" />
+<input type="hidden" name="name||cb14910a35811cde8b9f4b07a6719d0e3f5a58f06f4e474833f866b5dd1475f2" id="fs_name_168490" value="3505 - Diocese of Chipata Vehicle" />
+<input type="hidden" name="code||4ae303c31dd9ddfec8b94c8558e50d6984cec770e3c0a97cd5de375a15a72dcb" id="fs_code_168490" value="WCPROJ3505" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2a80c5959609842cba51af0d099e8d776244a4f2bc1b98e6e817c110a6a71936||open" id="WCPROJ3505_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
