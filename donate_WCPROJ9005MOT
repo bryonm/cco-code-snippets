@@ -30,7 +30,7 @@ add_shortcode( 'donate_WCPROJ9005MOT', function () {
 <div class="clr"></div>
 <input type="hidden" name="Monthly||8142d2f205ba3f3bf38cf8be6cbef041649335944c6db509eb8f04c6a0328da0" id="WCPROJ9005MOT_3" value="Every month on the 25th" class="variation-monthly" />
         </div>
-<!-- PASTE MONTHLY FORM CODE UP TO JAVA SCRIPT INCLUDING CLOSING DIV ABOVE -->  </div>
+</div>
 <!-- USE THIS BUTTON CODE -->
     <div class="btn-container">
       
