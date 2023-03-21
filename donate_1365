@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1365', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37610" rel="37610">
+<input type="hidden" name="price||3b0076ca9907571bb84738131058f8d319d4dddad90bcd2a238af46f195be7d5" id="fs_price_37610" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37610" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37610" />
+<input type="hidden" name="image||f74590df08fa9f54cf9f21936621afc056f2df9bff59df589f614851a2f7a190||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1365-thumb.jpg" id="foxyshop_cart_product_image_37610" />
+<input type="hidden" name="url||a69c67266046ccf7c1a870cfe3035f9cdd55466ad5798af392b422235cf5d2a0" value="https://crosscatholic.org/products/1365-hands-of-care-and-hope/" id="fs_url_37610" />
+<input type="hidden" name="quantity_min||a5f12d603749fa7a5a57e1419c9cc53430bed3597dc497ecc541238fa9bb0c61||open" value="0" id="fs_quantity_min_37610" />
+<input type="hidden" name="quantity_max||722f674b1d4f4e22887438ac60f3826b3d7d6f47ff267649cd5f4b3da7f4f1a8||open" value="0" id="fs_quantity_max_37610" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37610" />
+<input type="hidden" name="name||4d90aaed6ecce1a02a53d1cf78fc043af5619442fc6aee2e82c2f4d5cec6b6af" id="fs_name_37610" value="1365 – Hands of Care and Hope" />
+<input type="hidden" name="code||f912b68e51c6742fb2efe4ade36daf8ab9960e196d7a89cca092d3994985e5d3" id="fs_code_37610" value="WCPROJ1365" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||42fd120f0cad08c47f549e978efca3cd806226711fe43a7a7bf17c70573c1c20" id="WCPROJ1365_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37616" rel="37616">
+<input type="hidden" name="price||2b47cd9fb6b315d119052cb74a86c68bf8925ef136bc3bf41798bd4e10228cd5" id="fs_price_37616" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37616" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37616" />
+<input type="hidden" name="image||f74590df08fa9f54cf9f21936621afc056f2df9bff59df589f614851a2f7a190||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1365-thumb_2.jpg" id="foxyshop_cart_product_image_37616" />
+<input type="hidden" name="url||c5628295dccbb4318cff46b35911f5ae0cb0a2f28e04b5ce97660be4f0396e43" value="https://crosscatholic.org/products/1365-hands-of-care-and-hope-3/" id="fs_url_37616" />
+<input type="hidden" name="quantity_min||a5f12d603749fa7a5a57e1419c9cc53430bed3597dc497ecc541238fa9bb0c61||open" value="0" id="fs_quantity_min_37616" />
+<input type="hidden" name="quantity_max||722f674b1d4f4e22887438ac60f3826b3d7d6f47ff267649cd5f4b3da7f4f1a8||open" value="0" id="fs_quantity_max_37616" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37616" />
+<input type="hidden" name="name||4d90aaed6ecce1a02a53d1cf78fc043af5619442fc6aee2e82c2f4d5cec6b6af" id="fs_name_37616" value="1365 – Hands of Care and Hope" />
+<input type="hidden" name="code||f912b68e51c6742fb2efe4ade36daf8ab9960e196d7a89cca092d3994985e5d3" id="fs_code_37616" value="WCPROJ1365" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||4bbefe34e7b333d53823e64a002ffbac116e88de7f89a533361289826b603c1b" id="WCPROJ1365_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37619" rel="37619">
+<input type="hidden" name="price||ceb31c5c7ed46da662c133ecc801b67bccfd14e063c787dded9916898262d8bb" id="fs_price_37619" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37619" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37619" />
+<input type="hidden" name="image||f74590df08fa9f54cf9f21936621afc056f2df9bff59df589f614851a2f7a190||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1365-thumb_3.jpg" id="foxyshop_cart_product_image_37619" />
+<input type="hidden" name="url||887828ad3b1b5c66c789e75bf2dd6baf254d646873e5b205297688a2c4054195" value="https://crosscatholic.org/products/1365-hands-of-care-and-hope-4/" id="fs_url_37619" />
+<input type="hidden" name="quantity_min||a5f12d603749fa7a5a57e1419c9cc53430bed3597dc497ecc541238fa9bb0c61||open" value="0" id="fs_quantity_min_37619" />
+<input type="hidden" name="quantity_max||722f674b1d4f4e22887438ac60f3826b3d7d6f47ff267649cd5f4b3da7f4f1a8||open" value="0" id="fs_quantity_max_37619" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37619" />
+<input type="hidden" name="name||4d90aaed6ecce1a02a53d1cf78fc043af5619442fc6aee2e82c2f4d5cec6b6af" id="fs_name_37619" value="1365 – Hands of Care and Hope" />
+<input type="hidden" name="code||f912b68e51c6742fb2efe4ade36daf8ab9960e196d7a89cca092d3994985e5d3" id="fs_code_37619" value="WCPROJ1365" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||1a5ff6c02456c81e554f8de04eee56dc84d2269e9ed168d447bb83efab9abc5a" id="WCPROJ1365_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37613" rel="37613">
+<input type="hidden" name="price||d44fc160baf627d41725de6abfc1deab774a1e0afa9fae9a65da7bae6faf693a" id="fs_price_37613" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37613" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37613" />
+<input type="hidden" name="image||f74590df08fa9f54cf9f21936621afc056f2df9bff59df589f614851a2f7a190||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1365-thumb_1.jpg" id="foxyshop_cart_product_image_37613" />
+<input type="hidden" name="url||8aa9ea9042995ce0ff9ab2bb0f128bf02b20e16796b0fd4143525527a353551e" value="https://crosscatholic.org/products/1365-hands-of-care-and-hope-2/" id="fs_url_37613" />
+<input type="hidden" name="quantity_min||a5f12d603749fa7a5a57e1419c9cc53430bed3597dc497ecc541238fa9bb0c61||open" value="0" id="fs_quantity_min_37613" />
+<input type="hidden" name="quantity_max||722f674b1d4f4e22887438ac60f3826b3d7d6f47ff267649cd5f4b3da7f4f1a8||open" value="0" id="fs_quantity_max_37613" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37613" />
+<input type="hidden" name="name||4d90aaed6ecce1a02a53d1cf78fc043af5619442fc6aee2e82c2f4d5cec6b6af" id="fs_name_37613" value="1365 – Hands of Care and Hope" />
+<input type="hidden" name="code||f912b68e51c6742fb2efe4ade36daf8ab9960e196d7a89cca092d3994985e5d3" id="fs_code_37613" value="WCPROJ1365" />
+<div class="foxyshop_variations">
+<input type="text" name="price||97354f2d4d8ed1c24692243487251fbd2b5227cb0a52578e14df70500a5497b5||open" id="WCPROJ1365_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
