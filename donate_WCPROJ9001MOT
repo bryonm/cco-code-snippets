@@ -1,0 +1,48 @@
+add_shortcode( 'donate_WCPROJ9001MOT', function () {
+
+	$out = '<div class="catalog_donate">
+<section>
+    <div class="give-container">
+    <div class="select-container">
+      <!-- PASTE MONTHLY CODE BEGINNING WITH OPENING FORMN TAG -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_53124" rel="53124">
+<input type="hidden" name="price||13baadc8c08cb404c2cb96025816200556457c4f9113fdf1023655fa841a1154" id="fs_price_53124" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_53124" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_53124" />
+<input type="hidden" name="image||37bcb2180abd7ea1bd06951f190e7d8d50d9491680fbfcd703187de3fbd7a611||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/9001-thumb.jpg" id="foxyshop_cart_product_image_53124" />
+<input type="hidden" name="url||2c6c4882b1a6a83325c5e2d07a26ec29cd31276233b8cc23c1761f066af61e42" value="https://crosscatholic.org/products/9001-food-for-the-hungry-worldwide/" id="fs_url_53124" />
+<input type="hidden" name="quantity_min||e4ac8910997503bc68420e2b5ff23e8c871590bf4d7aa676be7f60da2ab0e091||open" value="0" id="fs_quantity_min_53124" />
+<input type="hidden" name="quantity_max||72daef6b3e2b6d64389e08daa53ab798a9804a748f2a445b38d573ececb34776||open" value="0" id="fs_quantity_max_53124" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_53124" />
+<input type="hidden" name="sub_frequency||e075c7d4aff1fc2b2ce41ca6a6f468a3b3f2119645a1ea252fb115e452df25e8||open" id="fs_sub_frequency_53124" value="1m" />
+<input type="hidden" name="name||381b9bf9534d279a9ca855cdd2306861b8f87d57d8402720f6fd77cd44f51afa" id="fs_name_53124" value="9001 - Food for the Hungry - Worldwide" />
+<input type="hidden" name="code||4d9b6953d7d0337d246cbe4a59152d3f6f2abf900f40ed5736ec25b93b1d96b2" id="fs_code_53124" value="WCPROJ9001MOT" />
+        <div class="foxyshop_variations">
+<select name="Donation" id="WCPROJ9001MOT_1" class="variation-donation">
+<option value="$50{p:50}||fcd926193901b6e4cabb7fa90cf1401aab3a305015610df110c24e4054242ef0" priceset="5000">$50</option>
+<option value="$100{p:100}||4706e517b3cbb3a9ff2a6bcdd5ad8180b15fb2b4886a0fd7f67feddb7933c32a" priceset="10000">$100</option>
+<option value="$175{p:175}||0a757c38b2ee3e835c255215232a9d6a6fc92ff8bfb92cdcbf502a0efa3c4d58" priceset="17500">$175</option>
+<option value="$250{p:250}||26eb809f8817300f504edf68bf299a598757320e2c276112adac7526e6ef3d4c" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||45115a9e003a1cb787dc64f354f7922d6bb5020176ab433b9fd31e06cbf7ee47" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<input type="text" name="price||57156ea584c2641ea71d0e1be04cfb6901d750476f3e49d96b13a1a5218eae99||open" id="WCPROJ9001MOT_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$ amount"/>
+<div class="clr"></div>
+<input type="hidden" name="Monthly||8af16f925c9e058e29f5f7aa2e947fbc911ecad50a82673ce489addb20046ac1" id="WCPROJ9001MOT_3" value="Every month on the 25th" class="variation-monthly" />
+          <script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
+        </div>
+<!-- PASTE MONTHLY FORM CODE UP TO JAVA SCRIPT INCLUDING CLOSING DIV ABOVE -->  </div>
+<!-- USE THIS BUTTON CODE -->
+    <div class="btn-container">
+      
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_mon">Donate</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section></div>';
+
+	return $out;
+} );
