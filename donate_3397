@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3397', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143712" rel="143712">
+<input type="hidden" name="price||66aa889fced766a247b1bc98a2c7587ba80dcfea9df053b65a654af3769852e7" id="fs_price_143712" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143712" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143712" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3397-foxythumb_3.jpg" id="foxyshop_cart_product_image_143712" />
+<input type="hidden" name="url||930c2fc6b243c754d8affea527b60a239fac0b67c6409f5ee6fc4dda2449c31e" value="https://crosscatholic.org/products/3397-populorum-progressio-foundation-medical-care-for-children-in-haiti-25-donation/" id="fs_url_143712" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143712" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143712" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143712" />
+<input type="hidden" name="name||46f26ec5ffcfd9a42655314f4ef2202644d490e82750272be17f1d0dd9f5e32d" id="fs_name_143712" value="3397 – Populorum Progressio Foundation – Medical Care for Children in Haiti – $25 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143712" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||14002e43ae38253f0a3b705e3fd47a9916885ca3f4b6789ca3352cf3ee6f0a15" id="WCPROJ9031_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143711" rel="143711">
+<input type="hidden" name="price||c36936c563adf5e69e1e2356fa07c629c80b9f0352f69b745296be97b763bf4d" id="fs_price_143711" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143711" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143711" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3397-foxythumb_2.jpg" id="foxyshop_cart_product_image_143711" />
+<input type="hidden" name="url||4b4f9059ea8e4bc1f65ae06fbdd3191f2074fee2e236fec50f39a0408c4d0617" value="https://crosscatholic.org/products/3397-populorum-progressio-foundation-medical-care-for-children-in-haiti-50-donation/" id="fs_url_143711" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143711" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143711" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143711" />
+<input type="hidden" name="name||8252257936128b89f318c1830f21b9b581ce0147b1998367fb5662725cf19077" id="fs_name_143711" value="3397 – Populorum Progressio Foundation – Medical Care for Children in Haiti – $50 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143711" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0acdde123280a59c877d8ce576094555d128dc29aa485e7c0dc71969096bbe80" id="WCPROJ9031_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143710" rel="143710">
+<input type="hidden" name="price||5b0ce675ac752e7a0662690ee1e170b23c75845d07d055f4fb2f501cf764c638" id="fs_price_143710" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143710" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143710" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3397-foxythumb_1.jpg" id="foxyshop_cart_product_image_143710" />
+<input type="hidden" name="url||2ee5faffcf984a1a0a03fda9dd1226c22796ecd2aac93903672c63621bc14a2f" value="https://crosscatholic.org/products/3397-populorum-progressio-foundation-medical-care-for-children-in-haiti-100-donation/" id="fs_url_143710" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143710" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143710" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143710" />
+<input type="hidden" name="name||6a7f56be8b074649c5a66fc7c1e17f4b4d913a4a41ef14776113b726e74c27d3" id="fs_name_143710" value="3397 – Populorum Progressio Foundation – Medical Care for Children in Haiti – $100 donation" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143710" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||25d07319af2fae360fd8f25942f352dd660a4f83228c8e7e5722cd73bccf0ad4" id="WCPROJ9031_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_143709" rel="143709">
+<input type="hidden" name="price||6467c93328d23991c01c504c0b8cb2aa61f91fb1765c070199ec918add4aa41b" id="fs_price_143709" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_143709" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_143709" />
+<input type="hidden" name="image||cc5d0bc73aed2db138d5c8d6379d9dc2dde719d113ec997c9834a45090441a65||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/3397-foxythumb.jpg" id="foxyshop_cart_product_image_143709" />
+<input type="hidden" name="url||c0bd63a50ea2a746c4d985d079a8205f8fb7c0569bf3353f72e34c39d57adeae" value="https://crosscatholic.org/products/3397-populorum-progressio-foundation-medical-care-for-children-in-haiti/" id="fs_url_143709" />
+<input type="hidden" name="quantity_min||42296a464cb0ae294dacbcbf11d91a127baa75136a2c86b79e10704eafc75c55||open" value="0" id="fs_quantity_min_143709" />
+<input type="hidden" name="quantity_max||4e944252a8684ec124213f3cfdd4b5aa3c0de798a56a0826b7fda3387b343310||open" value="0" id="fs_quantity_max_143709" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_143709" />
+<input type="hidden" name="name||ea54c3089618cbf09b51c90f222135280fe7942e2382ab82288698fb41ccafb6" id="fs_name_143709" value="3397 – Populorum Progressio Foundation – Medical Care for Children in Haiti" />
+<input type="hidden" name="code||c776eb9f9a1d0d7fda63d9a0f53dc565701e6ef2ae06bd98a1f0ccb2826a8fd3" id="fs_code_143709" value="WCPROJ9031" />
+<div class="foxyshop_variations">
+<input type="text" name="price||fb3b4533ae8abf346f591bb285016c1aefc8deae5fd71556af95e7ab1900d392||open" id="WCPROJ9031_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
