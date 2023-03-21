@@ -1,0 +1,78 @@
+add_shortcode( 'donate_3327', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148531" rel="148531">
+<input type="hidden" name="price||a3f687364710197fb37f9de1edb4630f81399748d49f7a261417fa0a8bfc594f" id="fs_price_148531" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148531" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148531" />
+<input type="hidden" name="image||6e87441be0166323f05bf6086da3a7ec1e438b3d621a40780965fe823c76051b||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3227-foxy-thumb_4.jpg" id="foxyshop_cart_product_image_148531" />
+<input type="hidden" name="url||2ef47edd447c2fce54e5bd5c21d493b85173bfa85b3b50c9520a75068b3e5b28" value="https://crosscatholic.org/products/3227-acm-elderly-food-25-donation/" id="fs_url_148531" />
+<input type="hidden" name="quantity_min||70e7fd8b23368dd53c544a047a452a77b9ddc774761f8fc9a2f0179632e0f5cd||open" value="0" id="fs_quantity_min_148531" />
+<input type="hidden" name="quantity_max||c8b872356c4af2f8348521fda0f7dee886ef670de51341af7e96d89a36de937a||open" value="0" id="fs_quantity_max_148531" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148531" />
+<input type="hidden" name="name||cc90eb530871890e318e8a1a390cf113002a42f9d31b7275fce62b1870b4d908" id="fs_name_148531" value="3327 – ACM Elderly Food – $25 donation" />
+<input type="hidden" name="code||a5d1213df3781c557f9b3d42ae1ae96f87171c50290a3ca47c0a1a2b79eefd67" id="fs_code_148531" value="WCPROJ3327" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||c6399e06df448cc1c41f06004ebf1887fa4f3d5ac987482e516634bc2085e7c0" id="WCPROJ3327_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148530" rel="148530">
+<input type="hidden" name="price||c7dfbe141b0ffa0457bb5eb50153872deae65557b0cde93c14ddaf9f5ef69e51" id="fs_price_148530" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148530" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148530" />
+<input type="hidden" name="image||6e87441be0166323f05bf6086da3a7ec1e438b3d621a40780965fe823c76051b||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3227-foxy-thumb_4.jpg" id="foxyshop_cart_product_image_148530" />
+<input type="hidden" name="url||393ce21d5cd67b73268587168763b1f92117ac67a9b7c274671ec61721308b31" value="https://crosscatholic.org/products/3227-acm-elderly-food-50-donation/" id="fs_url_148530" />
+<input type="hidden" name="quantity_min||70e7fd8b23368dd53c544a047a452a77b9ddc774761f8fc9a2f0179632e0f5cd||open" value="0" id="fs_quantity_min_148530" />
+<input type="hidden" name="quantity_max||c8b872356c4af2f8348521fda0f7dee886ef670de51341af7e96d89a36de937a||open" value="0" id="fs_quantity_max_148530" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148530" />
+<input type="hidden" name="name||a58269b8507c1f110860d3d478565439cbf6324410290829b56654cc839acf92" id="fs_name_148530" value="3327 – ACM Elderly Food  – $50 donation" />
+<input type="hidden" name="code||a5d1213df3781c557f9b3d42ae1ae96f87171c50290a3ca47c0a1a2b79eefd67" id="fs_code_148530" value="WCPROJ3327" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||61976f02ad30df18cf54c917ab5fa1a0a833af5571908d954ee377d08d907bb4" id="WCPROJ3327_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148529" rel="148529">
+<input type="hidden" name="price||8d80b2ae94f5affe9eaccb9dad4695c36274dcfb1b4cec48c9d3b94d074d52c0" id="fs_price_148529" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148529" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148529" />
+<input type="hidden" name="image||6e87441be0166323f05bf6086da3a7ec1e438b3d621a40780965fe823c76051b||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3227-foxy-thumb_4.jpg" id="foxyshop_cart_product_image_148529" />
+<input type="hidden" name="url||982969929738b4099e065b37779569b7a34f9137f33494f7d53dac6c723a780e" value="https://crosscatholic.org/products/3227-acm-elderly-food-100-donation/" id="fs_url_148529" />
+<input type="hidden" name="quantity_min||70e7fd8b23368dd53c544a047a452a77b9ddc774761f8fc9a2f0179632e0f5cd||open" value="0" id="fs_quantity_min_148529" />
+<input type="hidden" name="quantity_max||c8b872356c4af2f8348521fda0f7dee886ef670de51341af7e96d89a36de937a||open" value="0" id="fs_quantity_max_148529" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148529" />
+<input type="hidden" name="name||a82a5f595d3e94bec46995c73c99b87baf208706aa4afd4f5c6f53817ebdf594" id="fs_name_148529" value="3327 – ACM Elderly Food – $100 donation" />
+<input type="hidden" name="code||a5d1213df3781c557f9b3d42ae1ae96f87171c50290a3ca47c0a1a2b79eefd67" id="fs_code_148529" value="WCPROJ3327" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||ea51eb5c849b6f8d704dcf6ca313b52c20da34f101658bf76cbebb36a894c2a9" id="WCPROJ3327_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148532" rel="148532">
+<input type="hidden" name="price||5d5c2c03f9d68ed4491faa08c5bbf42887a4299121b975e4e22db7e3e8f13d25" id="fs_price_148532" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148532" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148532" />
+<input type="hidden" name="image||6e87441be0166323f05bf6086da3a7ec1e438b3d621a40780965fe823c76051b||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/3227-foxy-thumb_4.jpg" id="foxyshop_cart_product_image_148532" />
+<input type="hidden" name="url||7f9e31c62ab244392a2a6b4518118db738e2c81fbed39c385fbf7bca7dd2696d" value="https://crosscatholic.org/products/3227-acm-elderly-food/" id="fs_url_148532" />
+<input type="hidden" name="quantity_min||70e7fd8b23368dd53c544a047a452a77b9ddc774761f8fc9a2f0179632e0f5cd||open" value="0" id="fs_quantity_min_148532" />
+<input type="hidden" name="quantity_max||c8b872356c4af2f8348521fda0f7dee886ef670de51341af7e96d89a36de937a||open" value="0" id="fs_quantity_max_148532" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148532" />
+<input type="hidden" name="name||2e53a4389266c76ba8fd133ca172e30efa1d3a1b07e7ba57dd7330b4c728df3a" id="fs_name_148532" value="3327 – ACM Elderly Food" />
+<input type="hidden" name="code||a5d1213df3781c557f9b3d42ae1ae96f87171c50290a3ca47c0a1a2b79eefd67" id="fs_code_148532" value="WCPROJ3327" />
+<div class="foxyshop_variations">
+<input type="text" name="price||93dcf511b5949e31a26f9a599d678f6b2d72e6311327c744099adbb7516be777||open" id="WCPROJ3327_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
