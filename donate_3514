@@ -1,0 +1,77 @@
+add_shortcode( 'donate_3514', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_178925" rel="178925">
+<input type="hidden" name="price||ad4068468913999e5c626736e3ea8c6383087a4d6fddb9893ff02cbb721c8f2b" id="fs_price_178925" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_178925" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_178925" />
+<input type="hidden" name="image||761c9c968742dfa55a9956e76c5cd67b44a98426473557433927c7b975e381b8||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/3514-foxy-thumb.jpg" id="foxyshop_cart_product_image_178925" />
+<input type="hidden" name="url||60182ce33d016ea5202eef67c171e82fe7aa227d3891c3c80e390764bf842b0c" value="https://crosscatholic.org/products/3514-mangango-mission-hospital-25-donation/" id="fs_url_178925" />
+<input type="hidden" name="quantity_min||7fd03a0a63da60fde0266359782e1ebae751262bc60b6f464403b5ca6ce4d8ce||open" value="0" id="fs_quantity_min_178925" />
+<input type="hidden" name="quantity_max||5e04730fdeb11a96681ce55790d76581f735af39edc10d2412a8bdb24f2508c9||open" value="0" id="fs_quantity_max_178925" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_178925" />
+<input type="hidden" name="name||b504aaef98c3fde28f9016053a169033588550529755f92a57b708beada092f1" id="fs_name_178925" value="3514 - Mangango Mission Hospital - $25 donation" />
+<input type="hidden" name="code||820c5e119303286acf8c3fdc6083ce1b4a21d573b96767f7fa4c884a9ae4d70a" id="fs_code_178925" value="WCPROJ3514" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||7a5c447265cef6896b42c3ce8cfb928225cf900c25c9a77b0d8c4a9110c97c53" id="WCPROJ3514_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_178926" rel="178926">
+<input type="hidden" name="price||6ccfc9ab1c7e2650f2e817e77eb59823831dd9cf9a937d197ebcd6c03222c479" id="fs_price_178926" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_178926" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_178926" />
+<input type="hidden" name="image||cfa3e7632d8cb62cb9253e221539983bbc56122d082be8a40e332f5ab53ea552||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/3514-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_178926" />
+<input type="hidden" name="url||2362e57e7fef1bdebd2d290165300326db5e7011d09a338b2d848048dfe1defb" value="https://crosscatholic.org/products/3514-mangango-mission-hospital-50-donation/" id="fs_url_178926" />
+<input type="hidden" name="quantity_min||a29b4216efbd2489cd7999aa0ac716269531dac0ef3657818ce89e595900ae5c||open" value="0" id="fs_quantity_min_178926" />
+<input type="hidden" name="quantity_max||ca14a55ec4b3f0d88674ef900559f1c7c34054353cf45e45de2bb89c6b0b79f3||open" value="0" id="fs_quantity_max_178926" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_178926" />
+<input type="hidden" name="name||e7f16eb579853ea3f87711eb4ae5080f4d75ea951c5ae26f2dece169bf2c9e3b" id="fs_name_178926" value="3514 - Mangango Mission Hospital - $50 donation" />
+<input type="hidden" name="code||5e59ea536897e76ad1c9383bb3c2ee4e4a2d5a99a995218dbea795489cd73cae" id="fs_code_178926" value="WCPROJ35014" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||8eea8008ab3ad6562995892440e352b72250771a6fed3100e4f74466ca294daf" id="WCPROJ35014_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_178927" rel="178927">
+<input type="hidden" name="price||a6d25f1959369c549246a96271364121a5db30f6e2dc9acd62d407448fb51687" id="fs_price_178927" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_178927" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_178927" />
+<input type="hidden" name="image||761c9c968742dfa55a9956e76c5cd67b44a98426473557433927c7b975e381b8||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/3514-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_178927" />
+<input type="hidden" name="url||f6928bbb766481afe37f3be4d9d83983ad0e5d817d761274a01a0efaa5fb51fb" value="https://crosscatholic.org/products/3514-mangango-mission-hospital-100-donation/" id="fs_url_178927" />
+<input type="hidden" name="quantity_min||7fd03a0a63da60fde0266359782e1ebae751262bc60b6f464403b5ca6ce4d8ce||open" value="0" id="fs_quantity_min_178927" />
+<input type="hidden" name="quantity_max||5e04730fdeb11a96681ce55790d76581f735af39edc10d2412a8bdb24f2508c9||open" value="0" id="fs_quantity_max_178927" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_178927" />
+<input type="hidden" name="name||465dbf99eb744d751bb87a26449fc8899bacd0325df1726b89000bc0f7a4069f" id="fs_name_178927" value="3514 - Mangango Mission Hospital - $100 donation" />
+<input type="hidden" name="code||820c5e119303286acf8c3fdc6083ce1b4a21d573b96767f7fa4c884a9ae4d70a" id="fs_code_178927" value="WCPROJ3514" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||cc7de1250c6ce33688297270a6b18802744c55402dd60f92697554393ab98b1b" id="WCPROJ3514_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_178928" rel="178928">
+<input type="hidden" name="price||00ffc1d36ffe007f173777112e4d60aa5598210b1a80ee0aadf37509176dff5e" id="fs_price_178928" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_178928" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_178928" />
+<input type="hidden" name="image||761c9c968742dfa55a9956e76c5cd67b44a98426473557433927c7b975e381b8||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/3514-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_178928" />
+<input type="hidden" name="url||eb34707cdeacd067ef4a359376cd94cc80602faad9fd3e2c98a415ff542247fd" value="https://crosscatholic.org/products/3514-mangango-mission-hospital/" id="fs_url_178928" />
+<input type="hidden" name="quantity_min||7fd03a0a63da60fde0266359782e1ebae751262bc60b6f464403b5ca6ce4d8ce||open" value="0" id="fs_quantity_min_178928" />
+<input type="hidden" name="quantity_max||5e04730fdeb11a96681ce55790d76581f735af39edc10d2412a8bdb24f2508c9||open" value="0" id="fs_quantity_max_178928" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_178928" />
+<input type="hidden" name="name||25356c6f78d6501af527bf19eb75e161f74fbadc3d736742f46a039c864f42db" id="fs_name_178928" value="3514 - Mangango Mission Hospital" />
+<input type="hidden" name="code||820c5e119303286acf8c3fdc6083ce1b4a21d573b96767f7fa4c884a9ae4d70a" id="fs_code_178928" value="WCPROJ3514" />
+<div class="foxyshop_variations">
+<input type="text" name="price||8d5808f818824f370c952ecde3eb0189748d668d1a63255850286eb6340c707e||open" id="WCPROJ3514_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
