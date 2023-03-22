@@ -1,0 +1,40 @@
+add_shortcode( 'pp-WCPLPG0009', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34366" rel="34366">
+<input type="hidden" name="price||b14d27bb412afdcbe0cf6051dd63a0c3e5845b785d321038994e15de97b96364" id="fs_price_34366" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34366" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34366" />
+<input type="hidden" name="image||5441eac8560eb5f81975407fe8acbd2062eb817da1fcd0c94b310e4656af1d7b||open" value="https://crosscatholic.org/wp-content/uploads/2020/08/kenya-pp-foxy-thumb.jpg" id="foxyshop_cart_product_image_34366" />
+<input type="hidden" name="url||e02d33444ce1f801eba73c1c33d27edf2a4a8a3b0ee3f48d085334d3ab65947e" value="https://crosscatholic.org/products/donate-to-kenya-general-2/" id="fs_url_34366" />
+<input type="hidden" name="quantity_min||b7905ba466f39af89b5ab1660f1f140920e93af8a48fc9f85c3204bdc9eac27c||open" value="0" id="fs_quantity_min_34366" />
+<input type="hidden" name="quantity_max||9c91527d4737d9508e781541af5c52a76d1028e0c1e8e44cbbadc336f4d913b3||open" value="0" id="fs_quantity_max_34366" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34366" />
+<input type="hidden" name="sub_frequency||e9dd201b579f6fa38581aa022c2e601ae6aa550969a8fb7eaa044080374859a7||open" id="fs_sub_frequency_34366" value="" />
+<input type="hidden" name="name||b02d2c07217cff2d8a575db5bdfc77a85caacf90e7987bccd65b63a0dc574d2b" id="fs_name_34366" value="Donate to Kenya General" />
+<input type="hidden" name="code||16df8db453522820fa93db2f25ac09d5b60dd5310d7940760d52e7c6c621a1f4" id="fs_code_34366" value="WCPLPG0009" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPLPG0009_1" class="variation-donation">
+<option value="$50{p:50}||7a995fc2ab5fa047aae8a46325b5aef6a45d4c798cf46da12fc9943d77897649" priceset="5000">$50</option>
+<option value="$100{p:100}||8c1d6f19ed676773b2736752519dfff48f6c03f9c3e92283334fd226326b92e0" priceset="10000">$100</option>
+<option value="$175{p:175}||f71c6c354dff43b2ecd7589566255f325b32d40fac0f99e2a023849325b25a39" priceset="17500">$175</option>
+<option value="$250{p:250}||0b6751311ba6a923705c5f06fa8b87e6680576819554c4d9c442ed611cb6c036" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||cf97d690e71e5be2b3f3589abf573998b31d407c8dc1cba68923fca444aa83c3" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPLPG0009_2" class="variation-price dkey" dkey="custom-price"></label>
+<input type="text" name="price||2f42c0f38a4761274968117e4cea759a5fb536ea3dd6dea192a0b7242d520f35||open" id="WCPLPG0009_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||20ee12213fa07137f305db29f306dbe5cfde9c274f48d304f7ad4d8db58d8fb8" id="WCPLPG0009_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG0009_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||3f2fb682a190e92c7658baf1603b9dc52d960079c1678452e0fc985627463928" id="WCPLPG0009_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPLPG0009_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
