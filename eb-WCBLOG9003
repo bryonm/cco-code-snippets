@@ -1,0 +1,74 @@
+add_shortcode( 'eb-WCBLOG9003', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_28242" rel="28242">
+<input type="hidden" name="price||f9869b89a9ac72884d82fb2c75f9397379b5f1c6db057f9a27092bc2e3cd89b7" id="fs_price_28242" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_28242" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_28242" />
+<input type="hidden" name="image||6931f62d0c3ef708bfd940147115db836bdc72f9137263d24f9ff2fced87cc45||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-ovc-thumb.jpg" id="foxyshop_cart_product_image_28242" />
+<input type="hidden" name="url||6446350f2b271312b72e672732c21831170ad4056b3c112052ae156c42a576d8" value="https://crosscatholic.org/products/general-orphans-and-vulnerable-children-25-gift/" id="fs_url_28242" />
+<input type="hidden" name="quantity_min||d1643a5e57c267fe8950b59fd86080986f9524d2a22413b4ccc2154122da1755||open" value="0" id="fs_quantity_min_28242" />
+<input type="hidden" name="quantity_max||f59f3b3971151cb3ec489461f1d09a3cd75ddc609b3768719ec2ac26781137e7||open" value="0" id="fs_quantity_max_28242" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_28242" />
+<input type="hidden" name="name||00518de8dca9ddd81b268bc935f7f96718cf4d21db674ec49c44cef01cb6010f" id="fs_name_28242" value="General Orphans and Vulnerable Children $25 Gift" />
+<input type="hidden" name="code||586b4a36e97db8870c8cc4b15a86ada2e2258e5301cd73efa9ff8a06be4bd94e" id="fs_code_28242" value="WCBLOG9003" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||a995ec69851b3f5d6a00113883b3c619ae56adcaf9bc2209521347a64a0259cb" id="WCBLOG9003_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_28245" rel="28245">
+<input type="hidden" name="price||3305661a9bb31ba7fa4171f2457472953cd6d04960f7d8520771d76ccca23c68" id="fs_price_28245" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_28245" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_28245" />
+<input type="hidden" name="image||6931f62d0c3ef708bfd940147115db836bdc72f9137263d24f9ff2fced87cc45||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-ovc-thumb_1.jpg" id="foxyshop_cart_product_image_28245" />
+<input type="hidden" name="url||3bda3c7de67408e8d0da7223fd9c317f641ec407da4f5737b7e860445ae9c5da" value="https://crosscatholic.org/products/general-orphans-and-vulnerable-children-50-gift/" id="fs_url_28245" />
+<input type="hidden" name="quantity_min||d1643a5e57c267fe8950b59fd86080986f9524d2a22413b4ccc2154122da1755||open" value="0" id="fs_quantity_min_28245" />
+<input type="hidden" name="quantity_max||f59f3b3971151cb3ec489461f1d09a3cd75ddc609b3768719ec2ac26781137e7||open" value="0" id="fs_quantity_max_28245" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_28245" />
+<input type="hidden" name="name||b5e80ea680f7bac8c3b6a9629ed176b84405fd191e66ea1ee615a9bea7b66c44" id="fs_name_28245" value="General Orphans and Vulnerable Children $50 Gift" />
+<input type="hidden" name="code||586b4a36e97db8870c8cc4b15a86ada2e2258e5301cd73efa9ff8a06be4bd94e" id="fs_code_28245" value="WCBLOG9003" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||7a1d540f75433b65e6c01601d923efb883cb531b4fc0ae2715d1aae757a1beab" id="WCBLOG9003_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_28248" rel="28248">
+<input type="hidden" name="price||91d94695c0097b920c7be1fd80d78ac0b36045972d689e59d7d997fe305b68aa" id="fs_price_28248" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_28248" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_28248" />
+<input type="hidden" name="image||6931f62d0c3ef708bfd940147115db836bdc72f9137263d24f9ff2fced87cc45||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-ovc-thumb_2.jpg" id="foxyshop_cart_product_image_28248" />
+<input type="hidden" name="url||0c0526eb9d0eda2df8576ea3c6457eceec40a91a62b04ac5d07330dbc481fb6a" value="https://crosscatholic.org/products/general-orphans-and-vulnerable-children-100-gift/" id="fs_url_28248" />
+<input type="hidden" name="quantity_min||d1643a5e57c267fe8950b59fd86080986f9524d2a22413b4ccc2154122da1755||open" value="0" id="fs_quantity_min_28248" />
+<input type="hidden" name="quantity_max||f59f3b3971151cb3ec489461f1d09a3cd75ddc609b3768719ec2ac26781137e7||open" value="0" id="fs_quantity_max_28248" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_28248" />
+<input type="hidden" name="name||4c441a1b857677336ccdf0da12c8bc4a853fd4f67cf48407d860625278a687aa" id="fs_name_28248" value="General Orphans and Vulnerable Children $100 Gift" />
+<input type="hidden" name="code||586b4a36e97db8870c8cc4b15a86ada2e2258e5301cd73efa9ff8a06be4bd94e" id="fs_code_28248" value="WCBLOG9003" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||d0a1c11f340d56dc20329c9b2cf10c96e35ea64bde18436912a83ea905d79d41" id="WCBLOG9003_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_28254" rel="28254">
+<input type="hidden" name="price||d6702bc6d26d6bdc3b9e85bb0202f542c8bc6c27eb9aafc964a05ff62cf54a01" id="fs_price_28254" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_28254" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_28254" />
+<input type="hidden" name="image||6931f62d0c3ef708bfd940147115db836bdc72f9137263d24f9ff2fced87cc45||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-ovc-thumb_4.jpg" id="foxyshop_cart_product_image_28254" />
+<input type="hidden" name="url||f388bef9c715c0fc8aef6d407f622d2b22e3a0e05b7648067dfcaa468c673381" value="https://crosscatholic.org/products/general-orphans-and-vulnerable-children-gift/" id="fs_url_28254" />
+<input type="hidden" name="quantity_min||d1643a5e57c267fe8950b59fd86080986f9524d2a22413b4ccc2154122da1755||open" value="0" id="fs_quantity_min_28254" />
+<input type="hidden" name="quantity_max||f59f3b3971151cb3ec489461f1d09a3cd75ddc609b3768719ec2ac26781137e7||open" value="0" id="fs_quantity_max_28254" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_28254" />
+<input type="hidden" name="name||c2da97e6f7d385afaf93e4ae2300ad0a5d6be9cbc1fd9452d0e19650b5eb3526" id="fs_name_28254" value="General Orphans and Vulnerable Children Gift" />
+<input type="hidden" name="code||586b4a36e97db8870c8cc4b15a86ada2e2258e5301cd73efa9ff8a06be4bd94e" id="fs_code_28254" value="WCBLOG9003" />
+<div class="foxyshop_variations">
+<input type="text" name="price||967c9d26ecc8f9c3c6dfa7a39b6f1dcd028f79c22b11aaa2506ba5b2ca88e0b3||open" id="WCBLOG9003_1" value="" class="variation-price foxyshop_required" style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
