@@ -1,0 +1,40 @@
+add_shortcode( 'pp-WCPROJ0000', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_29318" rel="29318">
+<input type="hidden" name="price||371890c43015a3b9b7507ceb905664ab9372703be0263373829f6ee10f31dc9f" id="fs_price_29318" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_29318" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_29318" />
+<input type="hidden" name="image||59e4fd8187311aac70768b1475c704ae336e85354ffed4ff10d48dc626015899||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/PillarPg-DisasterUpdate-foxythumb_2.jpg" id="foxyshop_cart_product_image_29318" />
+<input type="hidden" name="url||bc96227caa9e1200e163d1c7b4a848e06c31b7ccdceed02483e62451a2193fc5" value="https://crosscatholic.org/products/donate-to-disaster-relief-2/" id="fs_url_29318" />
+<input type="hidden" name="quantity_min||3d3e1032cac6062ff30096ca13278af1153c1f02bf48684f64111fbd5cfecd9d||open" value="0" id="fs_quantity_min_29318" />
+<input type="hidden" name="quantity_max||ac5c3ea3b03bef183ea6b283382aaade07c73c570b35d80905b04887c914822c||open" value="0" id="fs_quantity_max_29318" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_29318" />
+<input type="hidden" name="sub_frequency||75a65587f9b757528a587df9167bdbdc79045a072b274d0c1f4fd4e68f14011b||open" id="fs_sub_frequency_29318" value="" />
+<input type="hidden" name="name||633254c7f9c67a97399646740d2926752eb9f94fdaffbc6af3d3e21886343c2d" id="fs_name_29318" value="General Disaster Relief (PP220606)" />
+<input type="hidden" name="code||6652208840db8d42f9e50b90ad54b214c56daee562e9cd8b084fb4f3f0ee0c44" id="fs_code_29318" value="WCPROJ0000" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPROJ0000_1" class="variation-donation">
+<option value="$50{p:50}||376644f63c3f6fa8853421215a5e8de784c4f7420411a4d05b81cf5f10cc0f1c" priceset="5000">$50</option>
+<option selected value="$100{p:100}||9a2d844d3937d6e756f81741758392f09642a50dabc66cc5ba8d8f82c3f0d89a" priceset="10000">$100</option>
+<option value="$175{p:175}||e1b5622789bc7f304e1798f7a3f9d00acd7ab10201d423ea56e32dcf8644060c" priceset="17500">$175</option>
+<option value="$250{p:250}||2fab16e7e8f48783549ff907e82415ee9f3a0a665064adf70582488a2f9c4ac4" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||0853cf79e9acfc3bc878e0589a2d614d3cdf1bfe6f78476d68ec5cf8d8d6d7d6" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPROJ0000_2" class="variation-price dkey" dkey="custom-price"></label>
+<input type="text" name="price||d5fa276a840d03cf1b17074f10bf4bed160921bb8819fb27d72bb27f242e9f68||open" id="WCPROJ0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount">
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||f9be607c206ca9a85661c98b5601216bbe9c2938dc840f46c365869808f6a227" id="WCPROJ0000_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPROJ0000_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||3f8881fd80645efdeea1120885c2ad73a72921667b414090259e1f36660af94c" id="WCPROJ0000_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPROJ0000_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
