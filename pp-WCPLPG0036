@@ -1,0 +1,39 @@
+add_shortcode( 'pp-WCPLPG0036', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_29020" rel="29020">
+<input type="hidden" name="price||89fc3adc97785edb7b870d36bf10ccf2e19c728be6435115ba2afcb9e95f317a" id="fs_price_29020" value="0.00">
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_29020">
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_29020">
+<input type="hidden" name="image||29a97b28cb49a6fc4ed4b712e8424267472c0b0760c60762f70c95cf10ff654e||open" value="https://crosscatholic.org/wp-content/uploads/2020/06/Ethiopia_PP-FoxyCartImg.jpg" id="foxyshop_cart_product_image_29020">
+<input type="hidden" name="url||da12a19b19cbb12e149830d675f768f86e3764b7dd816bb403bce5d9630ebc5a" value="https://crosscatholic.org/products/donate-to-ethiopia-general/" id="fs_url_29020">
+<input type="hidden" name="quantity_min||eafb7819607071223bf6640c4ee304523336732c9d17a8f92f1cc13ac0f159cc||open" value="0" id="fs_quantity_min_29020">
+<input type="hidden" name="quantity_max||004690efffd51d30546ac1443f421e6f3073d67607ac1cbc0927866c5f7ed4f1||open" value="0" id="fs_quantity_max_29020">
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_29020">
+<input type="hidden" name="sub_frequency||764d132b1a4f3957af458f59a2c0fa72b06b1e49baf5d0ef0077d8ce570709da||open" id="fs_sub_frequency_29020" value="">
+<input type="hidden" name="name||3209d92fa847899ec864a6410ab07de6ac6b9045a8448360b8b11a671cca21b0" id="fs_name_29020" value="Donate to Ethiopia General">
+<input type="hidden" name="code||b45a482cb070ff0d7d5079464e5e84dd2f4d0c73e86ce343000a4b04ff42fd2e" id="fs_code_29020" value="WCPLPG0036">
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPLPG0036_1" class="variation-donation">
+<option value="$50{p:50}||baa0e5a8846d1888080553cdd61f577eb8fc8e57f0560a48bc86583dffa2b6dd" priceset="5000">$50</option>
+<option value="$100{p:100}||9dcc8bc8a94797aa43fad0539972ad810928d111619722c9fccf75684420adef" priceset="10000">$100</option>
+<option value="$175{p:175}||2ceb78ea4bf15b7597acc0586a8344b9ad1de9f9ad2525998c6f02e998c9c317" priceset="17500">$175</option>
+<option value="$250{p:250}||3819efbeaeeeabe14e260c8e96063794dabecd9ede5c5974d74e50717dae93dd" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||c38979e2c5520529b95c5db4995326e1f1a4f740233c4803068fc5f9118b0b11" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPLPG0036_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||012c2e8fcb8f501af33742f43280f03021f053fb056f709c3967c23697d2d596||open" id="WCPLPG0036_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount">
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||cc0269913712283398d91171542b437c48177dfb439676028a227a8586599008" id="WCPLPG0036_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG0036_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||ea7188e7820b1bf8b8ccec9cd1a4e573c5784625cfc840f01e9441ad465757c4" id="WCPLPG0036_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPLPG0036_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
