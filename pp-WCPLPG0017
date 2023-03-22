@@ -1,0 +1,39 @@
+add_shortcode( 'pp-WCPLPG0017', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_51403" rel="51403">
+<input type="hidden" name="price||446bed749f4e920940cbfe5c5da9ba63050f3007822d9c7eed202e874041a40d" id="fs_price_51403" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_51403" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_51403" />
+<input type="hidden" name="image||61e8cf9003d5f6133dc7d11d3d77669a504c3d94ba4caa2a421331df5cfbaebc||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/pp-honduras-foxy-thumb.jpg" id="foxyshop_cart_product_image_51403" />
+<input type="hidden" name="url||26f56d8533e865db2cb2df8c6d886fc23363e2727c92ab615849af9e4827454d" value="https://crosscatholic.org/products/donate-to-honduras-general/" id="fs_url_51403" />
+<input type="hidden" name="quantity_min||e5dd3190c2661c09358b7877070fa0364ff50db30ded6a6d64f0960170f01889||open" value="0" id="fs_quantity_min_51403" />
+<input type="hidden" name="quantity_max||9c1c418c25b0722f335d6b985702d05950f7eacecb07786e798456ef7725d706||open" value="0" id="fs_quantity_max_51403" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_51403" />
+<input type="hidden" name="sub_frequency||401519a8b64be42d8eaad2cea4375985e38027f6540b37b8a1e0c214e7de2aab||open" id="fs_sub_frequency_51403" value="" />
+<input type="hidden" name="name||741e6c833fe7a11a8d5c9d443fd6e161281c49b4a208f3ff404345667eef4f66" id="fs_name_51403" value="Donate to Honduras General" />
+<input type="hidden" name="code||1e4a422c7893585ad933fbf5189aa95c94925269f389cac6f0c3bc68befbd5f1" id="fs_code_51403" value="WCPLPG0017" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPLPG0017_1" class="variation-donation">
+<option value="$50{p:50}||0adde5b0801cd8db5d09b6cee1c041afaf7d4689fa204157fae0622c31b62a12" priceset="5000">$50</option>
+<option value="$100{p:100}||19cd915b75cff5d0379eb8bf16181cd8e8e5a2f524dcf54a859b46486b548636" priceset="10000">$100</option>
+<option value="$175{p:175}||a6fbb68c69a6708613400d06eade0b9aa0d255eb88f51fa88dd7b214d56aae87" priceset="17500">$175</option>
+<option value="$250{p:250}||6c0ba5334c7f7fd9a2149853782545ef62be673370b679c56eabf024e4f7e138" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||8126b1df618d7a0921abe99134f8706dc29215a060baa4f2d790c888ff85005c" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPLPG0017_2" class="variation-price dkey" dkey="custom-price"></label>
+<input type="text" name="price||0cf118585dfa910e58740f33367069782abec0e9e95761979c1515a1a0c30f68||open" id="WCPLPG0017_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount">
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||9b0a9e78e6e0171c70e5433c775872220a0d669e24a1d9e9ba3b6c54b7c00951" id="WCPLPG0017_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG0017_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||c2f867da88b4cfaaf7529e17f25e1a9d9402b71a8345c53f61557c9007fd9f7e" id="WCPLPG0017_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPLPG0017_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
