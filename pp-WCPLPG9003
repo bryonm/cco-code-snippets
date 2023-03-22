@@ -1,0 +1,39 @@
+add_shortcode( 'pp-WCPLPG9003', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_51426" rel="51426">
+<input type="hidden" name="price||2700fea4033f2f51b669560b20a1628397d4ae57deec6e98c92223ecfcbfc579" id="fs_price_51426" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_51426" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_51426" />
+<input type="hidden" name="image||70247bdaa587efb8a751a86acd0892853461f09771cffa97a14093723ec4cea7||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/pp-ovc-foxy-thumb.jpg" id="foxyshop_cart_product_image_51426" />
+<input type="hidden" name="url||f97eb3d846cb9eeeed91d55663fd2af9fdd6d47574b2ec943209034627b3864c" value="https://crosscatholic.org/products/donate-to-vulnerable-children-general/" id="fs_url_51426" />
+<input type="hidden" name="quantity_min||9fe90e311053e97295bf61cad447f3845ff85f824deadd6ee1338bd3c4e17f8b||open" value="0" id="fs_quantity_min_51426" />
+<input type="hidden" name="quantity_max||440540edad29a2718c97e17853f7347b07d142e045fbc7b958982d6afe17532b||open" value="0" id="fs_quantity_max_51426" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_51426" />
+<input type="hidden" name="sub_frequency||ef81963edcc1f2cf7b9a4f175cee8167b457561d66208b4c03a83c023157c234||open" id="fs_sub_frequency_51426" value="" />
+<input type="hidden" name="name||8e580bb3cc19e30b0368a797104c4b8da6a2e272187e6681234cc36483b74f80" id="fs_name_51426" value="Donate to Vulnerable Children General" />
+<input type="hidden" name="code||1748aa815854a3db35ab33ec61b58ec7a305e94351c4c4c99528ecae8a2075a6" id="fs_code_51426" value="WCPLPG9003" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPLPG9003_1" class="variation-donation">
+<option value="$50{p:50}||195534aad1766d12a6a4c10c3ed28b805b07e84574f2368a498b069658cfb34a" priceset="5000">$50</option>
+<option value="$100{p:100}||1b5ebbfb4770b5fc1615a12c071ee817c4c06e268c748b003ce46bc845b0f104" priceset="10000">$100</option>
+<option value="$175{p:175}||4f6e162343c13327a1f43d0f729eec629c2dc0409cbf6e10ea800bab83b0f5bb" priceset="17500">$175</option>
+<option value="$250{p:250}||c26b0a67a9434e40066e53b05c0a387a5c4d4027b3194babd28d186f698ad554" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||09c08e9db530d79818bc85893abc62a7fefff452f394a80d14338f3e97c0e855" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<input type="text" name="price||2f6da378adb31c6cc8c7f8b0f51250b8e818e5614aff43aa1ba60784ca4f840e||open" id="WCPLPG9003_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount">
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||98238e0bb07aba803b2af8c0f05cc8563c70fa2406f9e4d8a0b3fad7da2bea18" id="WCPLPG9003_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG9003_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||a22e6eede1599ba0cbe046b36d5e0969dee2dde89e7f2bf1d54b375cfc2729e7" id="WCPLPG9003_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCPLPG9003_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+<script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
