@@ -1,0 +1,40 @@
+add_shortcode( 'sp-cr-WCS23049007', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_194753" rel="194753">
+<input type="hidden" name="price||f0a4b2ad0874b6baf6fd3b03a19188d276078219003afaa1b75166e09b2a304f" id="fs_price_194753" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_194753" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_194753" />
+<input type="hidden" name="image||9d7099032cf2d0c3285d4179495f9604cd863588e5b0732f24d7cdf2865805e1||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/2023SpringMD-WellsOfSalvation-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_194753" />
+<input type="hidden" name="url||2ac9cb9bbc1fca8aefc9a09f18442025ace2e2b4288672c384917ef6f2e5a7b7" value="https://crosscatholic.org/products/agua-pura-para-los-necesitados-donacion-6/" id="fs_url_194753" />
+<input type="hidden" name="quantity_min||0c206cc74bac3fa4c0085a7c071212faaa086473bb760cf669dfcd92e901cf08||open" value="0" id="fs_quantity_min_194753" />
+<input type="hidden" name="quantity_max||b2434cff922fdd22e4d7e17bee946ea7ab1dcd75b564af7a474cc2d4d62c002a||open" value="0" id="fs_quantity_max_194753" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_194753" />
+<input type="hidden" name="sub_frequency||91247d55b946f78896f0f6a34e40743673a57d94c15fa801f48c16fca46a3568||open" id="fs_sub_frequency_194753" value="" />
+<input type="hidden" name="name||47558c012a52182476cfe2b7e10aab80316554df9f9b9108086b88639a3c88cd" id="fs_name_194753" value="Agua Pura para los Necesitados donación" />
+<input type="hidden" name="code||ca6907953345f868a84dda90298dbd56362bdc1229c6b5e152859d37ff986d86" id="fs_code_194753" value="WCS23049007" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCS23049007_1" class="variation-donation">
+<option value="$30{p:30}||525430bd156e046d82a8a296062c10bdc794594be315de72eb8565f23d79c0c0" priceset="3000">$30</option>
+<option selected value="$60{p:60}||6a39893667f5203bea0137c4a3ccabe63b9f197ba9b26244d66c5929dfd9be9f" priceset="6000">$60</option>
+<option value="$120{p:120}||165c4f5a8f16fc03fb5517a482ac9b18d9bb3eba0c0f2c9a3459bd68816e089f" priceset="12000">$120</option>
+<option value="$240{p:240}||7d6f8cc4c1ee06505486acfd21ccba0248050d58075a63bcdb29ea0a67a91962" priceset="24000">$240</option>
+<option value="Otro{dkey:custom-price}||c1e93c5d99e8f9c149362cdc0c8a80844b44cf08903322ad01e7cfc486ae6a71" displaykey="custom-price">Otro</option>
+</select>
+<div class="clr"></div>
+<label for="WCS23049007_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||66110245b4d6c196dd84ccea3dca9e56ca83a648e0dac1ac74ce29ff18ffaad4||open" id="WCS23049007_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||90a8fcb05c2ef52169f3f22c249a53f8fb0c4b1fbb46fc19ccd2f6a2f0f9741e" id="WCS23049007_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCS23049007_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+DMOT}||f860507066e8b569fef9efc8cd123395ea0b4fbf35a46bf0f708fae05dde57e1" id="WCS23049007_3_1" class="variation-choose-one" codeadd="DMOT" subfrequency="1m"></div>
+<label for="WCS23049007_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
