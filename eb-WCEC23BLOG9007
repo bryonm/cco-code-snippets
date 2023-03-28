@@ -1,0 +1,75 @@
+add_shortcode( 'eb-WCEC23BLOG9007', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195439" rel="195439">
+<input type="hidden" name="price||4747bf50b8e82cb165bbe183f42a418149f03d2e388565212812eeab2d2d8f2d" id="fs_price_195439" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195439" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195439" />
+<input type="hidden" name="image||fbcfe3b6032617a8cf8b3c904a74d7c0f3332a03d60af19b36e53373727b6f5e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-blog-clean-water-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_195439" />
+<input type="hidden" name="url||f3b507885e3c1f72629cb66609beaff68542935e4ea5acf8f0932b3beae70f10" value="https://crosscatholic.org/products/donate-to-provide-clean-water-25-gift/" id="fs_url_195439" />
+<input type="hidden" name="quantity_min||5c36ba73a033da5da20231d75d7f7a5d48669171c82761e4aa5fb7320922845e||open" value="0" id="fs_quantity_min_195439" />
+<input type="hidden" name="quantity_max||c62569da8813bb595b70d103e2e22d2c60f130440e3faaa45bb270f39782b1bc||open" value="0" id="fs_quantity_max_195439" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195439" />
+<input type="hidden" name="name||a72bbf1c675d87d827f4260ba00c9ce0ddbf3365018a7a79b89fa81948e9165a" id="fs_name_195439" value="Donate to Provide Clean Water $25 Gift" />
+<input type="hidden" name="code||b9cec96018f94c3a359b709b3b01a1da505532bfe7eb6f541f7bfc6d994f0720" id="fs_code_195439" value="WCEC23BLOG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||0589ebf3742e9db025369e8d2179e8c3133feb34e56fe4415e36d5063b73a873" id="WCEC23BLOG9007_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195440" rel="195440">
+<input type="hidden" name="price||7800492c6321c486343b54c30c1ad7395a77bbcc3e2a90ae9790cd3741bc329d" id="fs_price_195440" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195440" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195440" />
+<input type="hidden" name="image||fbcfe3b6032617a8cf8b3c904a74d7c0f3332a03d60af19b36e53373727b6f5e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-blog-clean-water-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_195440" />
+<input type="hidden" name="url||f15570974ca47f195cba98a6a6d5f9cd50ac6b71651493e08caacd745273beed" value="https://crosscatholic.org/products/donate-to-provide-clean-water-50-gift/" id="fs_url_195440" />
+<input type="hidden" name="quantity_min||5c36ba73a033da5da20231d75d7f7a5d48669171c82761e4aa5fb7320922845e||open" value="0" id="fs_quantity_min_195440" />
+<input type="hidden" name="quantity_max||c62569da8813bb595b70d103e2e22d2c60f130440e3faaa45bb270f39782b1bc||open" value="0" id="fs_quantity_max_195440" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195440" />
+<input type="hidden" name="name||8274df39cc02ebed34e69d098488b01f895e0bc97b9bb23281eeea6faa1d96ab" id="fs_name_195440" value="Donate to Provide Clean Water $50 Gift" />
+<input type="hidden" name="code||b9cec96018f94c3a359b709b3b01a1da505532bfe7eb6f541f7bfc6d994f0720" id="fs_code_195440" value="WCEC23BLOG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||fdd75585d9b0cd0f207573c18ce7f2cc4bcd659315cc7a8e1b1317cffa86bd63" id="WCEC23BLOG9007_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195441" rel="195441">
+<input type="hidden" name="price||6a16a31f136c55a19cd6d92adee1eee67f08de4f7b798a7167ec6067138d1101" id="fs_price_195441" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195441" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195441" />
+<input type="hidden" name="image||fbcfe3b6032617a8cf8b3c904a74d7c0f3332a03d60af19b36e53373727b6f5e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-blog-clean-water-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_195441" />
+<input type="hidden" name="url||eac9510fcf204debb3be6856ce5abc1ace636b807c9e0e7bc31b76b4705f01ab" value="https://crosscatholic.org/products/donate-to-provide-clean-water-100-gift/" id="fs_url_195441" />
+<input type="hidden" name="quantity_min||5c36ba73a033da5da20231d75d7f7a5d48669171c82761e4aa5fb7320922845e||open" value="0" id="fs_quantity_min_195441" />
+<input type="hidden" name="quantity_max||c62569da8813bb595b70d103e2e22d2c60f130440e3faaa45bb270f39782b1bc||open" value="0" id="fs_quantity_max_195441" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195441" />
+<input type="hidden" name="name||70fd8b2e53bd0d24ba866c50097a8a4b6d6098e29449f092fed6ca97fef7045e" id="fs_name_195441" value="Donate to Provide Clean Water $100 Gift" />
+<input type="hidden" name="code||b9cec96018f94c3a359b709b3b01a1da505532bfe7eb6f541f7bfc6d994f0720" id="fs_code_195441" value="WCEC23BLOG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||2334b6c59352ab44d4efc4192c4e9085b5f96b4562486784fcffda4cba6f037a" id="WCEC23BLOG9007_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195442" rel="195442">
+<input type="hidden" name="price||671579d904ae44c75be8f39ce67ef77b295b03f52a9712ef6d370737eb8c93d2" id="fs_price_195442" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195442" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195442" />
+<input type="hidden" name="image||fbcfe3b6032617a8cf8b3c904a74d7c0f3332a03d60af19b36e53373727b6f5e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-blog-clean-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_195442" />
+<input type="hidden" name="url||7a33fe1f1256fe16100a51189135a35cebd46e3fbf1654e4947bbacd3437f01d" value="https://crosscatholic.org/products/donate-to-provide-clean-water-4/" id="fs_url_195442" />
+<input type="hidden" name="quantity_min||5c36ba73a033da5da20231d75d7f7a5d48669171c82761e4aa5fb7320922845e||open" value="0" id="fs_quantity_min_195442" />
+<input type="hidden" name="quantity_max||c62569da8813bb595b70d103e2e22d2c60f130440e3faaa45bb270f39782b1bc||open" value="0" id="fs_quantity_max_195442" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195442" />
+<input type="hidden" name="name||d7dc5ece61e99f98770e82a7b866dfe8295e31a7ac2e26528a85be401f0654f2" id="fs_name_195442" value="Donate to Provide Clean Water" />
+<input type="hidden" name="code||b9cec96018f94c3a359b709b3b01a1da505532bfe7eb6f541f7bfc6d994f0720" id="fs_code_195442" value="WCEC23BLOG9007" />
+<div class="foxyshop_variations">
+<input type="text" name="price||027c01868738b8fa861b83ef7b25febd751b0ad457a1b2ecfac7afe7d3367111||open" id="WCEC23BLOG9007_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
