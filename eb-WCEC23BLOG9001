@@ -1,0 +1,75 @@
+add_shortcode( 'eb-WCEC23BLOG9001', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195420" rel="195420">
+<input type="hidden" name="price||b7eaf257b523dbbfa56153d4d476d70071b844dca39e6713d3255db46a95506e" id="fs_price_195420" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195420" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195420" />
+<input type="hidden" name="image||634b07194deb9361c582178032d33296a229909f5403e413402b8d99a4c8dd05||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-vitafood-blog-foxy-thumb.jpg" id="foxyshop_cart_product_image_195420" />
+<input type="hidden" name="url||c193959119e2d1c2b7c2e2e704c5cf921499a7f1dc2a3d43ec3a7cc7198b851c" value="https://crosscatholic.org/products/donate-to-provide-healthy-meals-25-gift/" id="fs_url_195420" />
+<input type="hidden" name="quantity_min||421ec2ec0e5a3469a2756d8e2d9e9b55d4d44d75b2756072065062544c67b64a||open" value="0" id="fs_quantity_min_195420" />
+<input type="hidden" name="quantity_max||93d26ed32e4dda6a5e08508ddcd73bf4430c2bea5d8a5b1325f61f65cb4edd10||open" value="0" id="fs_quantity_max_195420" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195420" />
+<input type="hidden" name="name||bd3a65eff46c7209e6a797b15f2610c4ba49af72bf68b00de20afb4e56bc1b98" id="fs_name_195420" value="Donate to Provide Healthy Meals $25 Gift" />
+<input type="hidden" name="code||c925edbafe8ab1ca70bbe96e3a1519cd3119520d3606e20236f4071b9d0d41f5" id="fs_code_195420" value="WCEC23BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||7c05b5bf72d4306733352b90c6c9e208d54c183ac95d76d131a0edfc0fe9321b" id="WCEC23BLOG9001_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195421" rel="195421">
+<input type="hidden" name="price||264adec3f80c18293ee7366282b9dda0341ea363661ef2805af8b4446353dcff" id="fs_price_195421" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195421" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195421" />
+<input type="hidden" name="image||634b07194deb9361c582178032d33296a229909f5403e413402b8d99a4c8dd05||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-vitafood-blog-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_195421" />
+<input type="hidden" name="url||f05c769e88461c7b588fba0733e225ee04db534aaf7a1d6ce9752e9dbd685066" value="https://crosscatholic.org/products/donate-to-provide-healthy-meals-50-gift/" id="fs_url_195421" />
+<input type="hidden" name="quantity_min||421ec2ec0e5a3469a2756d8e2d9e9b55d4d44d75b2756072065062544c67b64a||open" value="0" id="fs_quantity_min_195421" />
+<input type="hidden" name="quantity_max||93d26ed32e4dda6a5e08508ddcd73bf4430c2bea5d8a5b1325f61f65cb4edd10||open" value="0" id="fs_quantity_max_195421" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195421" />
+<input type="hidden" name="name||986e7ece47e84887b11beee228f2fc84c3ae2f74d5c627e3be9ab0331dd0d919" id="fs_name_195421" value="Donate to Provide Healthy Meals $50 Gift" />
+<input type="hidden" name="code||c925edbafe8ab1ca70bbe96e3a1519cd3119520d3606e20236f4071b9d0d41f5" id="fs_code_195421" value="WCEC23BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||8695fb253b3894c65b837e6a5d26f8d083823818172b124ae14b26cab8ccd273" id="WCEC23BLOG9001_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195422" rel="195422">
+<input type="hidden" name="price||2ec826d0fd92254a7889e14c05229c88ce046485756f9ca998cd910fc4e81db9" id="fs_price_195422" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195422" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195422" />
+<input type="hidden" name="image||634b07194deb9361c582178032d33296a229909f5403e413402b8d99a4c8dd05||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-vitafood-blog-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_195422" />
+<input type="hidden" name="url||dcd224eac348d53eb13eb331f65f4f3402d39350772b92fdc43c2950158ba306" value="https://crosscatholic.org/products/donate-to-provide-healthy-meals-100-gift/" id="fs_url_195422" />
+<input type="hidden" name="quantity_min||421ec2ec0e5a3469a2756d8e2d9e9b55d4d44d75b2756072065062544c67b64a||open" value="0" id="fs_quantity_min_195422" />
+<input type="hidden" name="quantity_max||93d26ed32e4dda6a5e08508ddcd73bf4430c2bea5d8a5b1325f61f65cb4edd10||open" value="0" id="fs_quantity_max_195422" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195422" />
+<input type="hidden" name="name||7d1fca0abe001becdc69fab0d7eea50ed866c8f164449edd257cf5b390d47c63" id="fs_name_195422" value="Donate to Provide Healthy Meals $100 Gift" />
+<input type="hidden" name="code||c925edbafe8ab1ca70bbe96e3a1519cd3119520d3606e20236f4071b9d0d41f5" id="fs_code_195422" value="WCEC23BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||087425bcf2815dbb49f98fb168469720c9350976b237c33cc2248e93dbffcb01" id="WCEC23BLOG9001_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_195423" rel="195423">
+<input type="hidden" name="price||39a68b44ae87023a206e9c2329aa14faaf4c3362676aafed042e021578c70389" id="fs_price_195423" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195423" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195423" />
+<input type="hidden" name="image||634b07194deb9361c582178032d33296a229909f5403e413402b8d99a4c8dd05||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/easter-vitafood-blog-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_195423" />
+<input type="hidden" name="url||65a7814094d5ed329e756f51b5fb18031b9be2b1fa3b0b825a86dbe0b7da6f05" value="https://crosscatholic.org/products/donate-to-provide-healthy-meals/" id="fs_url_195423" />
+<input type="hidden" name="quantity_min||421ec2ec0e5a3469a2756d8e2d9e9b55d4d44d75b2756072065062544c67b64a||open" value="0" id="fs_quantity_min_195423" />
+<input type="hidden" name="quantity_max||93d26ed32e4dda6a5e08508ddcd73bf4430c2bea5d8a5b1325f61f65cb4edd10||open" value="0" id="fs_quantity_max_195423" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_195423" />
+<input type="hidden" name="name||282a62f454de754f0b54ad25e54bca35eb3239ca11029b1f960932ac41793343" id="fs_name_195423" value="Donate to Provide Healthy Meals" />
+<input type="hidden" name="code||c925edbafe8ab1ca70bbe96e3a1519cd3119520d3606e20236f4071b9d0d41f5" id="fs_code_195423" value="WCEC23BLOG9001" />
+<div class="foxyshop_variations">
+<input type="text" name="price||10ca501bb6dfb8bd61e9a9fdcc3f601002a334bea80770501bf54ea0d36c1ade||open" id="WCEC23BLOG9001_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
