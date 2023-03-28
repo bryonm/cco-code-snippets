@@ -6,7 +6,7 @@ add_shortcode( 'eb-WCEC23BLOG0000', function () {
 <input type="hidden" name="price||8cedae562c00fa107226427b750e5c2bece8372294a551d33c6ce331a77992fb" id="fs_price_195404" value="25.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195404" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195404" />
-<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_195404" />
+<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/PalmSundayBlog-foxy-thumb.jpg" id="foxyshop_cart_product_image_195404" />
 <input type="hidden" name="url||a448c3411f18f7903669dce7d7719ca0562132bce8b25e55062c297a31f4ab8d" value="https://crosscatholic.org/products/donate-to-greatest-needs-25-gift/" id="fs_url_195404" />
 <input type="hidden" name="quantity_min||d39bd40601b6e0c2df75e20ee6a5ecbc6e117824bd9963888233aee77369edb6||open" value="0" id="fs_quantity_min_195404" />
 <input type="hidden" name="quantity_max||885064a2f4f12443c75e54fbdb9abfa925932d6e81565883a48eb6415ecdb67b||open" value="0" id="fs_quantity_max_195404" />
@@ -22,7 +22,7 @@ add_shortcode( 'eb-WCEC23BLOG0000', function () {
 <input type="hidden" name="price||6b8347601ca4bc78111266d33a3f11d83da57fefc63cdbe061a1b157ff5aa2fc" id="fs_price_195405" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195405" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195405" />
-<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_195405" />
+<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/PalmSundayBlog-foxy-thumb.jpg" id="foxyshop_cart_product_image_195405" />
 <input type="hidden" name="url||8026a6379b4eb87cef083a9954b533f8767c4817bd85d621cc8391072177d7aa" value="https://crosscatholic.org/products/donate-to-greatest-needs-50-gift/" id="fs_url_195405" />
 <input type="hidden" name="quantity_min||d39bd40601b6e0c2df75e20ee6a5ecbc6e117824bd9963888233aee77369edb6||open" value="0" id="fs_quantity_min_195405" />
 <input type="hidden" name="quantity_max||885064a2f4f12443c75e54fbdb9abfa925932d6e81565883a48eb6415ecdb67b||open" value="0" id="fs_quantity_max_195405" />
@@ -39,7 +39,7 @@ add_shortcode( 'eb-WCEC23BLOG0000', function () {
 <input type="hidden" name="price||c524920d4645cd6981646f1397515fb6bf2874279ae98827d547135eb37941d9" id="fs_price_195406" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195406" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195406" />
-<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_195406" />
+<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/PalmSundayBlog-foxy-thumb.jpg" id="foxyshop_cart_product_image_195406" />
 <input type="hidden" name="url||a546db14fd9f75916be50613877b26b0242ab64985f95a49494afc365ff2830d" value="https://crosscatholic.org/products/donate-to-greatest-needs-100-gift/" id="fs_url_195406" />
 <input type="hidden" name="quantity_min||d39bd40601b6e0c2df75e20ee6a5ecbc6e117824bd9963888233aee77369edb6||open" value="0" id="fs_quantity_min_195406" />
 <input type="hidden" name="quantity_max||885064a2f4f12443c75e54fbdb9abfa925932d6e81565883a48eb6415ecdb67b||open" value="0" id="fs_quantity_max_195406" />
@@ -56,7 +56,7 @@ add_shortcode( 'eb-WCEC23BLOG0000', function () {
 <input type="hidden" name="price||103660172717233969a78dc66fa71a95206efc5706b0d8b46c1ff58dca9f9165" id="fs_price_195407" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_195407" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_195407" />
-<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_195407" />
+<input type="hidden" name="image||612df1a07bb1b5601e01df31812ccc01f68000b4f239fcf5c5f61c478ff669d6||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/PalmSundayBlog-foxy-thumb.jpg" id="foxyshop_cart_product_image_195407" />
 <input type="hidden" name="url||b5368b3db17a7693a362ead2a6da5cceadb8c88288ad28414e034ebfb919e732" value="https://crosscatholic.org/products/donate-to-greatest-needs-3/" id="fs_url_195407" />
 <input type="hidden" name="quantity_min||d39bd40601b6e0c2df75e20ee6a5ecbc6e117824bd9963888233aee77369edb6||open" value="0" id="fs_quantity_min_195407" />
 <input type="hidden" name="quantity_max||885064a2f4f12443c75e54fbdb9abfa925932d6e81565883a48eb6415ecdb67b||open" value="0" id="fs_quantity_max_195407" />
