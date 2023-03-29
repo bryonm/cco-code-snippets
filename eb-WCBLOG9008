@@ -1,0 +1,75 @@
+add_shortcode( 'eb-WCBLOG9008', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_68264" rel="68264">
+<input type="hidden" name="price||29ab00ed94a70155131bafac7b48b2b24e04d3b14e5bf6d51a421d1bfbb4965c" id="fs_price_68264" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_68264" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_68264" />
+<input type="hidden" name="image||c2ac85c4ca29409da91469722a4c2350d6364c1d4d9a590771845478b155354f||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/foxy_thumb_mozambique_poverty.jpg" id="foxyshop_cart_product_image_68264" />
+<input type="hidden" name="url||bb40eee947bed7514ce401d6423932c54144f506aad64efeb27e738e931708c2" value="https://crosscatholic.org/products/general-mozambique-poverty-25-gift/" id="fs_url_68264" />
+<input type="hidden" name="quantity_min||2eb45d830506e1fd14cfdf62a81bbc226b10a957bb7e4318c9dc2b174946a8c2||open" value="0" id="fs_quantity_min_68264" />
+<input type="hidden" name="quantity_max||43c1e53ec0dc305dc73742e31048dc0b1e1c1ec0d1051f95e5f31c986b0f02f4||open" value="0" id="fs_quantity_max_68264" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_68264" />
+<input type="hidden" name="name||498d09650d6710de7befd142de1a658927b786fe4601ecadded6ed594627770f" id="fs_name_68264" value="General Mozambique Poverty $25 Gift" />
+<input type="hidden" name="code||10ffb2b22abe5ee7820411119d9a2bf8e4153735177e67eb146b79cda25b1b0c" id="fs_code_68264" value="WCBLOG0008" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||a9d3d7034a14e20ac54d4b53ed0322d93226e1da8fea1241637011aeb0063227" id="WCBLOG0008_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_68265" rel="68265">
+<input type="hidden" name="price||1eed6589267d938f0ac9af6e2cc66c434ee52469eaecb7014c7ddce0925f2434" id="fs_price_68265" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_68265" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_68265" />
+<input type="hidden" name="image||c2ac85c4ca29409da91469722a4c2350d6364c1d4d9a590771845478b155354f||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/foxy_thumb_mozambique_poverty_1.jpg" id="foxyshop_cart_product_image_68265" />
+<input type="hidden" name="url||f768f689868ae183d1550700b7b289f8bd29aff1843b61ae4a47ecb80b9fc558" value="https://crosscatholic.org/products/general-mozambique-poverty-50-gift/" id="fs_url_68265" />
+<input type="hidden" name="quantity_min||2eb45d830506e1fd14cfdf62a81bbc226b10a957bb7e4318c9dc2b174946a8c2||open" value="0" id="fs_quantity_min_68265" />
+<input type="hidden" name="quantity_max||43c1e53ec0dc305dc73742e31048dc0b1e1c1ec0d1051f95e5f31c986b0f02f4||open" value="0" id="fs_quantity_max_68265" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_68265" />
+<input type="hidden" name="name||27f57a5da987baf2dba2f4b4d864a4977de2f2a904225a90b76f0fad189e479f" id="fs_name_68265" value="General Mozambique Poverty $50 Gift" />
+<input type="hidden" name="code||10ffb2b22abe5ee7820411119d9a2bf8e4153735177e67eb146b79cda25b1b0c" id="fs_code_68265" value="WCBLOG0008" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||20d6f59ff76c3a46fcfaeaf10bc281be3c961edce6648ebb529e931750870b60" id="WCBLOG0008_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_68266" rel="68266">
+<input type="hidden" name="price||a8d754925af55a72a08ebd3b8e0b1a8aed7663c9f67798d2e337371e309418f6" id="fs_price_68266" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_68266" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_68266" />
+<input type="hidden" name="image||c2ac85c4ca29409da91469722a4c2350d6364c1d4d9a590771845478b155354f||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/foxy_thumb_mozambique_poverty_2.jpg" id="foxyshop_cart_product_image_68266" />
+<input type="hidden" name="url||113555cdefbb3cf6f50b3b6b80abd3d38dac557c41814427f6d91e838ac7e8f8" value="https://crosscatholic.org/products/general-mozambique-poverty-100-gift/" id="fs_url_68266" />
+<input type="hidden" name="quantity_min||2eb45d830506e1fd14cfdf62a81bbc226b10a957bb7e4318c9dc2b174946a8c2||open" value="0" id="fs_quantity_min_68266" />
+<input type="hidden" name="quantity_max||43c1e53ec0dc305dc73742e31048dc0b1e1c1ec0d1051f95e5f31c986b0f02f4||open" value="0" id="fs_quantity_max_68266" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_68266" />
+<input type="hidden" name="name||3a9fd81791781e86fc8dd9741f55ce303db3a0c6f84c82913182ad970df4ca79" id="fs_name_68266" value="General Mozambique Poverty $100 Gift" />
+<input type="hidden" name="code||10ffb2b22abe5ee7820411119d9a2bf8e4153735177e67eb146b79cda25b1b0c" id="fs_code_68266" value="WCBLOG0008" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||9bab35d0c60d329ae65f453995ff4e66d16aa8539a116c3726621123952efe62" id="WCBLOG0008_1" value="" class="variation-100-donation" />  
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_68267" rel="68267">
+<input type="hidden" name="price||a8be03c71cd6c7e3e3ba191277afe1c6467ed7447db5e8cabb577469d5da4c82" id="fs_price_68267" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_68267" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_68267" />
+<input type="hidden" name="image||c2ac85c4ca29409da91469722a4c2350d6364c1d4d9a590771845478b155354f||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/foxy_thumb_mozambique_poverty_3.jpg" id="foxyshop_cart_product_image_68267" />
+<input type="hidden" name="url||8611778b4f565d91088f23045cce7480c5cdac24f1a61ed1e0f683e26879aa9f" value="https://crosscatholic.org/products/general-mozambique-poverty-gift/" id="fs_url_68267" />
+<input type="hidden" name="quantity_min||2eb45d830506e1fd14cfdf62a81bbc226b10a957bb7e4318c9dc2b174946a8c2||open" value="0" id="fs_quantity_min_68267" />
+<input type="hidden" name="quantity_max||43c1e53ec0dc305dc73742e31048dc0b1e1c1ec0d1051f95e5f31c986b0f02f4||open" value="0" id="fs_quantity_max_68267" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_68267" />
+<input type="hidden" name="name||2002e5d179a82ffbdb349772ee54b53d37b4ea7f595991020dfdac16d81924c4" id="fs_name_68267" value="General Mozambique Poverty Gift" />
+<input type="hidden" name="code||10ffb2b22abe5ee7820411119d9a2bf8e4153735177e67eb146b79cda25b1b0c" id="fs_code_68267" value="WCBLOG0008" />
+<div class="foxyshop_variations">
+<input type="text" name="price||91b0b1f42923372650223bcf22e5799c9b45f66869838b50fc747e62b3d35e75||open" id="WCBLOG0008_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
