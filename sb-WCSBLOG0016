@@ -1,0 +1,73 @@
+add_shortcode( 'sb-WCSBLOG0016', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_88911" rel="88911">
+<input type="hidden" name="price||fea2950ba0320c74d467fa65df6857b6bc88dc0c8bf9c980d8aba34ae8174d03" id="fs_price_88911" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_88911" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_88911" />
+<input type="hidden" name="image||d6f25bd06aa25c1dbdb78375e6da7ccb0e756083b91d3538cf68b2c8e1b0a507||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Guatemala-foxy-thumb_2_1.jpg" id="foxyshop_cart_product_image_88911" />
+<input type="hidden" name="url||73448447b1a3f298f19b7c0dc6a730cde1e490fe3a12407ef67d2504cdf31b99" value="https://crosscatholic.org/products/guatemala-general-donacion-de-25/" id="fs_url_88911" />
+<input type="hidden" name="quantity_min||682cf25a89f307aeacc37f99713f1cd945eb99253babb21955e538c1b36d875c||open" value="0" id="fs_quantity_min_88911" />
+<input type="hidden" name="quantity_max||0f14419c18789cfa86046843a156a87b359214207f56ab7eb2ebd98a74a4965c||open" value="0" id="fs_quantity_max_88911" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_88911" />
+<input type="hidden" name="name||0980be443b191dc9b6b689c4120893e1b713ab553aed48d7b781771ceb0ec606" id="fs_name_88911" value="Guatemala General Donación de $25" />
+<input type="hidden" name="code||dfaae085572a86140bb9bd10350b6d9508c9e6fc4e7c19d63a7e653a44724291" id="fs_code_88911" value="WCSBLOG0016" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donación||71f15a45466619bc4aa422a115f0b3407db1dafa91f500da8fb185b291d179c2" id="WCSBLOG0016_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_88921" rel="88921">
+<input type="hidden" name="price||53b2b9da9e82acf87d3d5fcf6fd8963cf92f72a535f24f490db47e28f034f942" id="fs_price_88921" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_88921" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_88921" />
+<input type="hidden" name="image||d6f25bd06aa25c1dbdb78375e6da7ccb0e756083b91d3538cf68b2c8e1b0a507||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Guatemala-foxy-thumb_2_2.jpg" id="foxyshop_cart_product_image_88921" />
+<input type="hidden" name="url||b6df304a7c396a387c0274656f44f4819818f62641d7b6daf6d8971e7beca6f0" value="https://crosscatholic.org/products/guatemala-general-donacion-de-50/" id="fs_url_88921" />
+<input type="hidden" name="quantity_min||682cf25a89f307aeacc37f99713f1cd945eb99253babb21955e538c1b36d875c||open" value="0" id="fs_quantity_min_88921" />
+<input type="hidden" name="quantity_max||0f14419c18789cfa86046843a156a87b359214207f56ab7eb2ebd98a74a4965c||open" value="0" id="fs_quantity_max_88921" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_88921" />
+<input type="hidden" name="name||1d3ae41fda624f2571cae0f9ff78fe387a2d56209373c3a41e35ce0ef507c660" id="fs_name_88921" value="Guatemala General Donación de $50" />
+<input type="hidden" name="code||dfaae085572a86140bb9bd10350b6d9508c9e6fc4e7c19d63a7e653a44724291" id="fs_code_88921" value="WCSBLOG0016" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donación||9f3a84baf31b33e77bbd85a5a242cf166f23017c4a699ac9092482e02f353cde" id="WCSBLOG0016_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_88924" rel="88924">
+<input type="hidden" name="price||a678dc6fa196f0d68eae8f5772f024f5f09ae85556f51a53efc1d230b2d18059" id="fs_price_88924" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_88924" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_88924" />
+<input type="hidden" name="image||d6f25bd06aa25c1dbdb78375e6da7ccb0e756083b91d3538cf68b2c8e1b0a507||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Guatemala-foxy-thumb_2_3.jpg" id="foxyshop_cart_product_image_88924" />
+<input type="hidden" name="url||c675811ee9399da2b3a8651d6215b79d1ca3f9fa0eb26eeecab880ac7f2e1ff3" value="https://crosscatholic.org/products/guatemala-general-donacion-de-100/" id="fs_url_88924" />
+<input type="hidden" name="quantity_min||682cf25a89f307aeacc37f99713f1cd945eb99253babb21955e538c1b36d875c||open" value="0" id="fs_quantity_min_88924" />
+<input type="hidden" name="quantity_max||0f14419c18789cfa86046843a156a87b359214207f56ab7eb2ebd98a74a4965c||open" value="0" id="fs_quantity_max_88924" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_88924" />
+<input type="hidden" name="name||d8914a855ddb06eea0e5c90ddda216efd56eb1ce4f9da075703a1ccc3ff7d64f" id="fs_name_88924" value="Guatemala General Donación de $100" />
+<input type="hidden" name="code||dfaae085572a86140bb9bd10350b6d9508c9e6fc4e7c19d63a7e653a44724291" id="fs_code_88924" value="WCSBLOG0016" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donación||711917af93c09360694a7771cd1cf05e61db1b3dcdd4ff1a7f282fb54f2ba764" id="WCSBLOG0016_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_88912" rel="88912">
+<input type="hidden" name="price||9825ff2f8aa0c816427e5f1cf720d54606fcb52568a06c89fa42e6dd4585cff5" id="fs_price_88912" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_88912" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_88912" />
+<input type="hidden" name="image||d6f25bd06aa25c1dbdb78375e6da7ccb0e756083b91d3538cf68b2c8e1b0a507||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Guatemala-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_88912" />
+<input type="hidden" name="url||ee2f2e77042aafd4643c2945e60c0e11787d62dd7259e7cd665c64ae623fe0d4" value="https://crosscatholic.org/products/guatemala-general-donacion/" id="fs_url_88912" />
+<input type="hidden" name="quantity_min||682cf25a89f307aeacc37f99713f1cd945eb99253babb21955e538c1b36d875c||open" value="0" id="fs_quantity_min_88912" />
+<input type="hidden" name="quantity_max||0f14419c18789cfa86046843a156a87b359214207f56ab7eb2ebd98a74a4965c||open" value="0" id="fs_quantity_max_88912" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_88912" />
+<input type="hidden" name="name||9463cbe8e9ff0094729595ea95fa85f6f2c4995d166c69bb063e7317cf080545" id="fs_name_88912" value="Guatemala General Donación" />
+<input type="hidden" name="code||dfaae085572a86140bb9bd10350b6d9508c9e6fc4e7c19d63a7e653a44724291" id="fs_code_88912" value="WCSBLOG0016" />
+<div class="foxyshop_variations">
+<input type="text" name="price||59902966d821b2f050dc235414e1dc3b4e3c3ea4b22a05e608f91228d3e14d5f||open" id="WCSBLOG0016_1" value="" class="variation-price foxyshop_required" placeholder="$$"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
