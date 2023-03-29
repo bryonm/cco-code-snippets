@@ -61,7 +61,6 @@ add_shortcode( 'eb-WCBLOG0000', function () {
 <input type="hidden" name="quantity_max||97f5fd3a982622724f2aa19ae09b9ef4774eaea5e8d7fc4a58ecba1185e219da||open" value="0" id="fs_quantity_max_102749" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_102749" />
 <input type="hidden" name="name||67836c7000158b2f4a9412f63d8c44d156ef7799da61f69ef71998fd7179ddea" id="fs_name_102749" value="General Fund Donation" />
-<input type="hidden" name="code||9214430e771f45b1159c9047c0ded5e67e5caba465436b10a90c5a1e59207c37" id="fs_code_102749" value="WCBLOG0000" />
 <div class="foxyshop_variations">
 <input type="text" name="price||2572254d83d160f49144fffa9e178afc9d6ef6e3b56d262e3da52fb79fed43f7||open" id="WCBLOG0000_1" value="" class="variation-price foxyshop_required"  style="font-size:14px;" placeholder="$ amount" />
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
