@@ -1,0 +1,74 @@
+add_shortcode( 'eb-WCCC22BLOG0000', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_163620" rel="163620">
+<input type="hidden" name="price||9798cc1074920227a221d14132f25f1aec33095b11a1762b4a51d51cfeedc4dc" id="fs_price_163620" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_163620" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_163620" />
+<input type="hidden" name="image||5265ce1d67c5d5e01406ddf201d81dc63a9a83824c395aaba7e65797d12bb793||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/CC2022-Blog-foxy-thumb.jpg" id="foxyshop_cart_product_image_163620" />
+<input type="hidden" name="url||d601085e6e755afbce441fbf3bacb90ebab6750435ef3333959205dd9cfd641a" value="https://crosscatholic.org/products/general-christmas-catalog-25-gift/" id="fs_url_163620" />
+<input type="hidden" name="quantity_min||5d42641f6e54892749155527ee27ff0146fa836bc5c479eb31fb1cab5d90d8c8||open" value="0" id="fs_quantity_min_163620" />
+<input type="hidden" name="quantity_max||1a7dc202f50cb76e8f41131ba969630c6a8b81a5d5ca88fbb9050f2200eef40a||open" value="0" id="fs_quantity_max_163620" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_163620" />
+<input type="hidden" name="name||4b30b5309c8fd24e869746dcfbebe8177158ef34933e3a3707bf6bed68248a70" id="fs_name_163620" value="General Christmas Catalog $25 Gift" />
+<input type="hidden" name="code||86724f769822deda99424c4838048859005da6a0cf4fc52a3b25281458817aa7" id="fs_code_163620" value="WCCC22BLOG0000" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||e7ec544b09bb72a5b6cabe5578dc48a12c8442f220559eb4e3708c7ab564443f" id="WCCC22BLOG0000_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_163621" rel="163621">
+<input type="hidden" name="price||9cb34aaa4ca1f1d4ba18114ed2973b0f932e50fac4af67d1af3d22f173ba8823" id="fs_price_163621" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_163621" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_163621" />
+<input type="hidden" name="image||5265ce1d67c5d5e01406ddf201d81dc63a9a83824c395aaba7e65797d12bb793||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/CC2022-Blog-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_163621" />
+<input type="hidden" name="url||569fe892fd452439afb665f8611a6e0354cfe45a05fd320c119d21ae4a9026d0" value="https://crosscatholic.org/products/general-christmas-catalog-50-gift/" id="fs_url_163621" />
+<input type="hidden" name="quantity_min||5d42641f6e54892749155527ee27ff0146fa836bc5c479eb31fb1cab5d90d8c8||open" value="0" id="fs_quantity_min_163621" />
+<input type="hidden" name="quantity_max||1a7dc202f50cb76e8f41131ba969630c6a8b81a5d5ca88fbb9050f2200eef40a||open" value="0" id="fs_quantity_max_163621" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_163621" />
+<input type="hidden" name="name||fb45d00395069a81f2bbec2a05193343547d0a8c2d05bd90849ad69a717701cf" id="fs_name_163621" value="General Christmas Catalog $50 Gift" />
+<input type="hidden" name="code||86724f769822deda99424c4838048859005da6a0cf4fc52a3b25281458817aa7" id="fs_code_163621" value="WCCC22BLOG0000" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||a022dce9e2914e996d561d370b6f301183d44f6502ccd53c961ca4e519785194" id="WCCC22BLOG0000_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_163622" rel="163622">
+<input type="hidden" name="price||32052088e1ffa49de64b7ffe46cec5636629d76cd1bc264c72928b46ea57219b" id="fs_price_163622" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_163622" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_163622" />
+<input type="hidden" name="image||5265ce1d67c5d5e01406ddf201d81dc63a9a83824c395aaba7e65797d12bb793||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/CC2022-Blog-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_163622" />
+<input type="hidden" name="url||a57ec429db9ede5ce6af4d0aadccd5e6f75ff03fac2b1af2a8783f1755569d6a" value="https://crosscatholic.org/products/general-christmas-catalog-100-gift/" id="fs_url_163622" />
+<input type="hidden" name="quantity_min||5d42641f6e54892749155527ee27ff0146fa836bc5c479eb31fb1cab5d90d8c8||open" value="0" id="fs_quantity_min_163622" />
+<input type="hidden" name="quantity_max||1a7dc202f50cb76e8f41131ba969630c6a8b81a5d5ca88fbb9050f2200eef40a||open" value="0" id="fs_quantity_max_163622" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_163622" />
+<input type="hidden" name="name||9f5c01a504c52b88fdc4df0907703baa4ba42aa4a4290af40153c356082a1cc8" id="fs_name_163622" value="General Christmas Catalog $100 Gift" />
+<input type="hidden" name="code||86724f769822deda99424c4838048859005da6a0cf4fc52a3b25281458817aa7" id="fs_code_163622" value="WCCC22BLOG0000" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||8371ec93eac404e7f0b4274ab6b237a26d9ea636994778a9a78aec67f6567220" id="WCCC22BLOG0000_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_163623" rel="163623">
+<input type="hidden" name="price||4b47c8a35dcf8e3d30a3fcc38262610a138f4ca06d7e1970c464e543d74a2f70" id="fs_price_163623" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_163623" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_163623" />
+<input type="hidden" name="image||5265ce1d67c5d5e01406ddf201d81dc63a9a83824c395aaba7e65797d12bb793||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/CC2022-Blog-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_163623" />
+<input type="hidden" name="url||b01deb4bf88b6d4c44f42151b18f4398298f3ceae29be8bff6007be2e73af486" value="https://crosscatholic.org/products/general-christmas-catalog-gift/" id="fs_url_163623" />
+<input type="hidden" name="quantity_min||5d42641f6e54892749155527ee27ff0146fa836bc5c479eb31fb1cab5d90d8c8||open" value="0" id="fs_quantity_min_163623" />
+<input type="hidden" name="quantity_max||1a7dc202f50cb76e8f41131ba969630c6a8b81a5d5ca88fbb9050f2200eef40a||open" value="0" id="fs_quantity_max_163623" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_163623" />
+<input type="hidden" name="name||a30e7f04e3e5da18b0d4922f7f4b227139fb30cdece6654bda37056252aa5847" id="fs_name_163623" value="General Christmas Catalog Gift" />
+<input type="hidden" name="code||86724f769822deda99424c4838048859005da6a0cf4fc52a3b25281458817aa7" id="fs_code_163623" value="WCCC22BLOG0000" /> 
+<div class="foxyshop_variations">
+<input type="text" name="price||ed7d8a7308b7018b98eae02f546f6794f95202ba54f3e79d85c142c8f45ac14b||open" id="WCCC22BLOG0000_1" value="" class="variation-price foxyshop_required" style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
