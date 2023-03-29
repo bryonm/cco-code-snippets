@@ -1,0 +1,73 @@
+add_shortcode( 'eb-WCBLOG3375', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135295" rel="135295">
+<input type="hidden" name="price||909fa407e9905de3d5fdb81c2835211fe713cccb9a982500cbbf8432e9bd1578" id="fs_price_135295" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135295" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135295" />
+<input type="hidden" name="image||6782325ed4034419e9a19896ec956f9e1008d5b4ab11b8d0e58be4763e5f36d5||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/nicaragua-blog-foxy-thumb_4.jpg" id="foxyshop_cart_product_image_135295" />
+<input type="hidden" name="url||6bd096d56cc4e9df04f0052dbae5e06eee20b508d409e6daf955f3a2a035865d" value="https://crosscatholic.org/products/general-nicaragua-25-gift/" id="fs_url_135295" />
+<input type="hidden" name="quantity_min||48e86541c99ce17e3da848bb0360a479e7de21552875945771cf1f379482c614||open" value="0" id="fs_quantity_min_135295" />
+<input type="hidden" name="quantity_max||1949cb1a6ff96802fccaa48e3e0a784a1f2f3ac042ad93c768b103423e32e4e7||open" value="0" id="fs_quantity_max_135295" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135295" />
+<input type="hidden" name="name||9b93e5e67e830c7205f88893c4487b027009f0de99be332c9758f7f5d137aba3" id="fs_name_135295" value="General Nicaragua $25 Gift" />
+<input type="hidden" name="code||9f47f33a346fee38d322a143456817561ef2171ac51f73b7431e0f7dfcf218c5" id="fs_code_135295" value="WCBLOG3375" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||d5516e06ffed61e4639388e7eabeb17a123d1c6707597b1afd2912706363ff84" id="WCBLOG3375_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135294" rel="135294">
+<input type="hidden" name="price||fd62cd3f7876f6a4572e65acc15b69794488dda44caf2a33456c93e6d038344d" id="fs_price_135294" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135294" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135294" />
+<input type="hidden" name="image||6782325ed4034419e9a19896ec956f9e1008d5b4ab11b8d0e58be4763e5f36d5||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/nicaragua-blog-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_135294" />
+<input type="hidden" name="url||4efd19afc0b1e4beb7545fc1bffe6ae4b5d0d1c7c2be88c16fef86ecd5d4a09c" value="https://crosscatholic.org/products/general-nicaragua-50-gift/" id="fs_url_135294" />
+<input type="hidden" name="quantity_min||48e86541c99ce17e3da848bb0360a479e7de21552875945771cf1f379482c614||open" value="0" id="fs_quantity_min_135294" />
+<input type="hidden" name="quantity_max||1949cb1a6ff96802fccaa48e3e0a784a1f2f3ac042ad93c768b103423e32e4e7||open" value="0" id="fs_quantity_max_135294" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135294" />
+<input type="hidden" name="name||fabce49b1d9aaf5979c672ceb2604e64c86bcc581afbc743f1be80fa95c8e68f" id="fs_name_135294" value="General Nicaragua $50 Gift" />
+<input type="hidden" name="code||9f47f33a346fee38d322a143456817561ef2171ac51f73b7431e0f7dfcf218c5" id="fs_code_135294" value="WCBLOG3375" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||527640c4ea76a24a853015ad97b6c8801d0e9ef75ce50b7e477f36d886f91ce7" id="WCBLOG3375_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135293" rel="135293">
+<input type="hidden" name="price||4b1a8036803c55f4c39cec677d042f67b82f74ed20d1fcfcb00e6416db4e09b7" id="fs_price_135293" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135293" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135293" />
+<input type="hidden" name="image||6782325ed4034419e9a19896ec956f9e1008d5b4ab11b8d0e58be4763e5f36d5||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/nicaragua-blog-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_135293" />
+<input type="hidden" name="url||3ae04097cc9a4d5f00e1799c57ea60364d242e5eeecda58cc9b8572fe78447c6" value="https://crosscatholic.org/products/general-nicaragua-100-gift/" id="fs_url_135293" />
+<input type="hidden" name="quantity_min||48e86541c99ce17e3da848bb0360a479e7de21552875945771cf1f379482c614||open" value="0" id="fs_quantity_min_135293" />
+<input type="hidden" name="quantity_max||1949cb1a6ff96802fccaa48e3e0a784a1f2f3ac042ad93c768b103423e32e4e7||open" value="0" id="fs_quantity_max_135293" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135293" />
+<input type="hidden" name="name||f2a27df890d368bb8b147007ec46f203b53af93a330dda405d89a7dfbb72d37f" id="fs_name_135293" value="General Nicaragua $100 Gift" />
+<input type="hidden" name="code||9f47f33a346fee38d322a143456817561ef2171ac51f73b7431e0f7dfcf218c5" id="fs_code_135293" value="WCBLOG3375" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||17a371c9a1c4483e188bc398df83f5fff0be5a8b3a93b3f92388bd82907f0a1b" id="WCBLOG3375_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135292" rel="135292">
+<input type="hidden" name="price||88b712405b3aab8fda63b1aef3064df5eeeac1ce2e9575cf4ca8606504b8c765" id="fs_price_135292" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135292" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135292" />
+<input type="hidden" name="image||6782325ed4034419e9a19896ec956f9e1008d5b4ab11b8d0e58be4763e5f36d5||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/nicaragua-blog-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_135292" />
+<input type="hidden" name="url||604b68840b93f1b3bdb4a1ab88cad550cfcd4c4aef7a1b4dc111cde6dc200d47" value="https://crosscatholic.org/products/general-nicaragua-gift/" id="fs_url_135292" />
+<input type="hidden" name="quantity_min||48e86541c99ce17e3da848bb0360a479e7de21552875945771cf1f379482c614||open" value="0" id="fs_quantity_min_135292" />
+<input type="hidden" name="quantity_max||1949cb1a6ff96802fccaa48e3e0a784a1f2f3ac042ad93c768b103423e32e4e7||open" value="0" id="fs_quantity_max_135292" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135292" />
+<input type="hidden" name="name||1e0b2087fbc029103c434a3b41d5a3d1dc8bbafe7a869afcc3b606c04a29738e" id="fs_name_135292" value="General Nicaragua Gift" />
+<input type="hidden" name="code||9f47f33a346fee38d322a143456817561ef2171ac51f73b7431e0f7dfcf218c5" id="fs_code_135292" value="WCBLOG3375" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9e651f39eee57b222036058d4d1ced2d6bdfe35eb21896b744b018ab8d615261||open" id="WCBLOG3375_1" value="" class="variation-price foxyshop_required"  style="font-size:14px;" placeholder="$ amount" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
