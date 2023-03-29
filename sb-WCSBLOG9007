@@ -1,0 +1,75 @@
+add_shortcode( 'sb-WCSBLOG9007', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_87485" rel="87485">
+<input type="hidden" name="price||16c7269b91e4b2c0524472311b5a0f66f72ee1d2c155a013fb3d0be966723ed7" id="fs_price_87485" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_87485" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_87485" />
+<input type="hidden" name="image||9428077b62e2ff604a7bd4e808df32f8e19abb4f5bf8c0b6349f766017774ef1||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/general-water-thumb_4.jpg" id="foxyshop_cart_product_image_87485" />
+<input type="hidden" name="url||af40998291086e459c3f3c5e1d0693793d2846ef4317e794ee3ac68d3faccb7e" value="https://crosscatholic.org/products/agua-general-donacion-de-25/" id="fs_url_87485" />
+<input type="hidden" name="quantity_min||af49c67bdf5f157fe337284e18c111fb09fc1de44ed403eba484835924ad7763||open" value="0" id="fs_quantity_min_87485" />
+<input type="hidden" name="quantity_max||91b9d92f91b2d4b515c1a4c30a2b524d5be75cee7b1fe51108e0ae8eba3a00c5||open" value="0" id="fs_quantity_max_87485" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_87485" />
+<input type="hidden" name="name||677a8d12f4d50a672f170649d51a192d11ab8fe072ac2d89c0253bd563571c23" id="fs_name_87485" value="Agua General Donación de $25" />
+<input type="hidden" name="code||cb1ad4c863be8eb0c684e6e54e2bb791556190923d351d887ece3a402887ca28" id="fs_code_87485" value="WCSBLOG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donación||bd5dff41e08f5eb282411ead99c42d5f301ac6ad0bc7802dd11d1a8539a8636e" id="WCSBLOG9007_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_87492" rel="87492">
+<input type="hidden" name="price||99a093ae65bab94dd8e36f425fb94adc80d590b00e636f59843c92e6dcbf7e95" id="fs_price_87492" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_87492" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_87492" />
+<input type="hidden" name="image||9428077b62e2ff604a7bd4e808df32f8e19abb4f5bf8c0b6349f766017774ef1||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/general-water-thumb_4_2.jpg" id="foxyshop_cart_product_image_87492" />
+<input type="hidden" name="url||545add645b25fc81828359ee2992744294f66ac21916317c7f7c254d5b6ebd70" value="https://crosscatholic.org/products/agua-general-donacion-de-50/" id="fs_url_87492" />
+<input type="hidden" name="quantity_min||af49c67bdf5f157fe337284e18c111fb09fc1de44ed403eba484835924ad7763||open" value="0" id="fs_quantity_min_87492" />
+<input type="hidden" name="quantity_max||91b9d92f91b2d4b515c1a4c30a2b524d5be75cee7b1fe51108e0ae8eba3a00c5||open" value="0" id="fs_quantity_max_87492" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_87492" />
+<input type="hidden" name="name||a9bdaa11df8e2ce04adc379692d4410e9795be64964b8f0990ba52a29cb76d13" id="fs_name_87492" value="Agua General Donación de $50" />
+<input type="hidden" name="code||cb1ad4c863be8eb0c684e6e54e2bb791556190923d351d887ece3a402887ca28" id="fs_code_87492" value="WCSBLOG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donación||898efa7f5d912e569de3b282b35ccbb2e231739ed6466f03bfc3cace5ffc9c7a" id="WCSBLOG9007_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_87498" rel="87498">
+<input type="hidden" name="price||c131f1abe0c5ba452f1bb4c691b9596a0988a17d40077164d61a4e48c85c549d" id="fs_price_87498" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_87498" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_87498" />
+<input type="hidden" name="image||9428077b62e2ff604a7bd4e808df32f8e19abb4f5bf8c0b6349f766017774ef1||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/general-water-thumb_4_3.jpg" id="foxyshop_cart_product_image_87498" />
+<input type="hidden" name="url||7d9087074cd63d0712ab875d806a7fa67a1d91e8036134d44a9b875bf8df423a" value="https://crosscatholic.org/products/agua-general-donacion-de-100/" id="fs_url_87498" />
+<input type="hidden" name="quantity_min||af49c67bdf5f157fe337284e18c111fb09fc1de44ed403eba484835924ad7763||open" value="0" id="fs_quantity_min_87498" />
+<input type="hidden" name="quantity_max||91b9d92f91b2d4b515c1a4c30a2b524d5be75cee7b1fe51108e0ae8eba3a00c5||open" value="0" id="fs_quantity_max_87498" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_87498" />
+<input type="hidden" name="name||7788653f056682d4460c67240f55cd74bd463f37c16c5367f5f11be25a2f6400" id="fs_name_87498" value="Agua General Donación de $100" />
+<input type="hidden" name="code||cb1ad4c863be8eb0c684e6e54e2bb791556190923d351d887ece3a402887ca28" id="fs_code_87498" value="WCSBLOG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donación||c4672f487b6e11fb78653e7c79597bdef6789a8b20e1da292c501047875bf156" id="WCSBLOG9007_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_87486" rel="87486">
+<input type="hidden" name="price||09f28c53caaa8a31ef9e09e9848b6b4f9f189972fcbf2cabe9d95e9ab8e6276e" id="fs_price_87486" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_87486" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_87486" />
+<input type="hidden" name="image||9428077b62e2ff604a7bd4e808df32f8e19abb4f5bf8c0b6349f766017774ef1||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/general-water-thumb_4_1.jpg" id="foxyshop_cart_product_image_87486" />
+<input type="hidden" name="url||947b33aa88ec57e857564414d821738a432d474df6e01b01d3237321629e2a25" value="https://crosscatholic.org/products/agua-general-donacion/" id="fs_url_87486" />
+<input type="hidden" name="quantity_min||af49c67bdf5f157fe337284e18c111fb09fc1de44ed403eba484835924ad7763||open" value="0" id="fs_quantity_min_87486" />
+<input type="hidden" name="quantity_max||91b9d92f91b2d4b515c1a4c30a2b524d5be75cee7b1fe51108e0ae8eba3a00c5||open" value="0" id="fs_quantity_max_87486" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_87486" />
+<input type="hidden" name="name||a407b09020a075238d0599da92be1258ca37c5c6f16b49f5bc73e0e30b5db486" id="fs_name_87486" value="Agua General Donación" />
+<input type="hidden" name="code||cb1ad4c863be8eb0c684e6e54e2bb791556190923d351d887ece3a402887ca28" id="fs_code_87486" value="WCSBLOG9007" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button"><i class="fa fa-chevron-down"></i></button>
+<div class="foxyshop_variations">
+<input type="text" name="price||5e9ff6d476d5e396139f395cdb840fa55d0106148934d380155b991510e3279a||open" id="WCSBLOG9007_1" value="" class="variation-price foxyshop_required" placeholder="$$"/>
+<div class="clr"></div>
+</div>
+
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
