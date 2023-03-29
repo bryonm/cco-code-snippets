@@ -1,0 +1,74 @@
+add_shortcode( 'sb-WCSBLOG9004', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_155019" rel="155019">
+<input type="hidden" name="price||4080784b8230202cb265e454f289193d33429a6e876f5a0fe8491dfdd758ffc0" id="fs_price_155019" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_155019" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_155019" />
+<input type="hidden" name="image||745b43b98893f6e726724df5fc2e1d2cc218d9f164479a62e765baa595def1dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-housing-thumb_3.jpg" id="foxyshop_cart_product_image_155019" />
+<input type="hidden" name="url||ea6fcfe756f02553d27f4dbc2cde29683c23a0dbc326afcae79b30ad69b7dea0" value="https://crosscatholic.org/products/general-vivienda-digna-25/" id="fs_url_155019" />
+<input type="hidden" name="quantity_min||0810aa411d0acfaaae1b9eb25498e2222ea9135ffc10b3061fce74490e9e968b||open" value="0" id="fs_quantity_min_155019" />
+<input type="hidden" name="quantity_max||14335d7637035544c03c66f16945e214e3eef83ccf158af6aeb8032614323411||open" value="0" id="fs_quantity_max_155019" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_155019" />
+<input type="hidden" name="name||0f1cf461960abc085e98505d152c7bbcd8f3e4b38651b9c47d278f765201261e" id="fs_name_155019" value="General Vivienda digna $25" />
+<input type="hidden" name="code||d39f3d4e76b6c33312ba7edb6945c67507d67f2b9d1836289bb79cd5a091eaef" id="fs_code_155019" value="WCSBLOG9004" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||aa09b3bb627860e363ef35ab2b0b0a75730e22d402e91915ec31594d3782abda" id="WCSBLOG9004_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_155020" rel="155020">
+<input type="hidden" name="price||0a55d5f2870e17c9cf800aa3e56145181199a1c6fee2a6c468b3ae0657d18b9f" id="fs_price_155020" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_155020" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_155020" />
+<input type="hidden" name="image||745b43b98893f6e726724df5fc2e1d2cc218d9f164479a62e765baa595def1dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-housing-thumb_3.jpg" id="foxyshop_cart_product_image_155020" />
+<input type="hidden" name="url||4e7ad7b8dd16267aab210fc0919942a459995cbe5454649aab23bcf61df6c8a4" value="https://crosscatholic.org/products/general-vivienda-digna-50/" id="fs_url_155020" />
+<input type="hidden" name="quantity_min||0810aa411d0acfaaae1b9eb25498e2222ea9135ffc10b3061fce74490e9e968b||open" value="0" id="fs_quantity_min_155020" />
+<input type="hidden" name="quantity_max||14335d7637035544c03c66f16945e214e3eef83ccf158af6aeb8032614323411||open" value="0" id="fs_quantity_max_155020" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_155020" />
+<input type="hidden" name="name||a31af6e49d96eb5c879845bfb4b1872c14abc9f944db5e44e30dbf3b88c5a23e" id="fs_name_155020" value="General Vivienda digna $50" />
+<input type="hidden" name="code||d39f3d4e76b6c33312ba7edb6945c67507d67f2b9d1836289bb79cd5a091eaef" id="fs_code_155020" value="WCSBLOG9004" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||e395d22a569fb449347e6049ce6f400d65c2f06bb5176d0d369fda077ee2207f" id="WCSBLOG9004_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_155021" rel="155021">
+<input type="hidden" name="price||f7e459b6a6f8f717b4129d8c2ce2a5092c00273b2a303c963af06091374d77b1" id="fs_price_155021" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_155021" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_155021" />
+<input type="hidden" name="image||745b43b98893f6e726724df5fc2e1d2cc218d9f164479a62e765baa595def1dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-housing-thumb_3.jpg" id="foxyshop_cart_product_image_155021" />
+<input type="hidden" name="url||531e9c23b406a582c514d732450c397531c50eded8d20c626489778792fcfb3e" value="https://crosscatholic.org/products/general-vivienda-digna-100/" id="fs_url_155021" />
+<input type="hidden" name="quantity_min||0810aa411d0acfaaae1b9eb25498e2222ea9135ffc10b3061fce74490e9e968b||open" value="0" id="fs_quantity_min_155021" />
+<input type="hidden" name="quantity_max||14335d7637035544c03c66f16945e214e3eef83ccf158af6aeb8032614323411||open" value="0" id="fs_quantity_max_155021" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_155021" />
+<input type="hidden" name="name||51a8b1a1ba559199db2b7848020a4e60dc39ecf8f18dab40e07c416760d468fd" id="fs_name_155021" value="General Vivienda digna $100" />
+<input type="hidden" name="code||d39f3d4e76b6c33312ba7edb6945c67507d67f2b9d1836289bb79cd5a091eaef" id="fs_code_155021" value="WCSBLOG9004" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||bf424da6addd21b17178d951eb24ceb5c1f08a9b213c4c3d8f3032de7ee5d805" id="WCSBLOG9004_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_155023" rel="155023">
+<input type="hidden" name="price||7a3cd5d035a4e2aadcbfc64600bdd82f2e068a0e33d40f6302820c8de3423f77" id="fs_price_155023" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_155023" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_155023" />
+<input type="hidden" name="image||745b43b98893f6e726724df5fc2e1d2cc218d9f164479a62e765baa595def1dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/05/general-housing-thumb_3.jpg" id="foxyshop_cart_product_image_155023" />
+<input type="hidden" name="url||34183c5c660cd84bee53cd679910f2abf84c28db6452bab7e481c73668225ac4" value="https://crosscatholic.org/products/general-vivienda-digna/" id="fs_url_155023" />
+<input type="hidden" name="quantity_min||0810aa411d0acfaaae1b9eb25498e2222ea9135ffc10b3061fce74490e9e968b||open" value="0" id="fs_quantity_min_155023" />
+<input type="hidden" name="quantity_max||14335d7637035544c03c66f16945e214e3eef83ccf158af6aeb8032614323411||open" value="0" id="fs_quantity_max_155023" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_155023" />
+<input type="hidden" name="name||2757e63603aa497215ef37427818823b2e4d7d6c0886622fa7d591153113eac0" id="fs_name_155023" value="General Vivienda digna" />
+<input type="hidden" name="code||d39f3d4e76b6c33312ba7edb6945c67507d67f2b9d1836289bb79cd5a091eaef" id="fs_code_155023" value="WCSBLOG9004" />
+<div class="foxyshop_variations">
+<input type="text" name="price||18d9822f6f6ef3a0545a0d4cbb04fa56dd9ab8ab58cc687aff9cae6d0fb90c84||open" id="WCSBLOG9004_1" value="" class="variation-price foxyshop_required" style="font-size:14px;" placeholder="$$"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
