@@ -6,7 +6,7 @@ add_shortcode( 'sp-cr-WCS23049007', function () {
 <input type="hidden" name="price||f0a4b2ad0874b6baf6fd3b03a19188d276078219003afaa1b75166e09b2a304f" id="fs_price_194753" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_194753" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_194753" />
-<input type="hidden" name="image||9d7099032cf2d0c3285d4179495f9604cd863588e5b0732f24d7cdf2865805e1||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/2023SpringMD-WellsOfSalvation-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_194753" />
+<input type="hidden" name="image||9d7099032cf2d0c3285d4179495f9604cd863588e5b0732f24d7cdf2865805e1||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/2023CleanWater-Home-foxy-thumb.jpg" id="foxyshop_cart_product_image_194753" />
 <input type="hidden" name="url||2ac9cb9bbc1fca8aefc9a09f18442025ace2e2b4288672c384917ef6f2e5a7b7" value="https://crosscatholic.org/products/agua-pura-para-los-necesitados-donacion-6/" id="fs_url_194753" />
 <input type="hidden" name="quantity_min||0c206cc74bac3fa4c0085a7c071212faaa086473bb760cf669dfcd92e901cf08||open" value="0" id="fs_quantity_min_194753" />
 <input type="hidden" name="quantity_max||b2434cff922fdd22e4d7e17bee946ea7ab1dcd75b564af7a474cc2d4d62c002a||open" value="0" id="fs_quantity_max_194753" />
