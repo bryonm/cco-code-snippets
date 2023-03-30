@@ -69,10 +69,9 @@ add_shortcode( 'donate_0175', function () {
 
 <div class="foxyshop_variations">
 <input type="text" name="price||8539dc5b762260bdeda0bc6022d8990ab9d2a9cae84a4dea28d9580f67aba123||open" id="WCPROJ0175_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
-<div class="clr"></div>
-</div>
-
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
 </div>';
 
 	return $out;
