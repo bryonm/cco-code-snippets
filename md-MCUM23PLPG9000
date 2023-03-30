@@ -1,0 +1,34 @@
+add_shortcode( 'md-MCUM23PLPG9000', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_196040" rel="196040">
+<input type="hidden" name="price||c51765c6187ae47168cc5cccae9b27665a234674055a2ea8c6e2b221ce62e4b5" id="fs_price_196040" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_196040" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_196040" />
+<input type="hidden" name="image||9b56f02ec02595e1226c4d9f1b20303e795a516275fc5f3d2a1c588752677f2d||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/ImpactHome-foxy-thumb.jpg" id="foxyshop_cart_product_image_196040" />
+<input type="hidden" name="url||4013240c4fb55fba0698bc89444d4179e4de0bee239cc7c91a5e72459bc89228" value="https://crosscatholic.org/products/donate-to-agriculture-2/" id="fs_url_196040" />
+<input type="hidden" name="quantity_min||b83d747c7e5cbd3b5856f6a4401088e67a0cc34e8c84bd088bf555ff566eddc0||open" value="0" id="fs_quantity_min_196040" />
+<input type="hidden" name="quantity_max||64893cef4860292ea0a7ab43b4eabfb1d3e246798aeb7add741154d9f785661b||open" value="0" id="fs_quantity_max_196040" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_196040" />
+<input type="hidden" name="name||8c80638d8a82bf91ed28319447d96589f2439f7127817cf594a499b9505c7bba" id="fs_name_196040" value="Donate to Most Urgent Needs" />
+<input type="hidden" name="code||a79d9afd14d535b8a23452d508fb7b7999a4b7ba260b02c5958abe75311e99b6" id="fs_code_196040" value="MCUM23PLPG0000" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCUM23PLPG0000_1" class="variation-donation">
+<option value="$150{p:150}||9a25a9578daad3b168f12100a66453512aea60c6c9b215f860842dac1af9fa88" priceset="15000">$150</option>
+<option selected value="$250{p:250}||edeff504799e46f3e775d9b2909417deec6bd208fd967782b03530e59fd0c78a" priceset="25000">$250</option>
+<option value="$500{p:500}||2294bdd57bfdb1e2a0f877da1860ee9db87cd5dc586a9ce3145fb341f57a20c4" priceset="50000">$500</option>
+<option value="$1,500{p:1500}||7ca0bc784f009a216aed7df0d4eb1322d2bc0462cdb4921cefa02ee3f7771294" priceset="150000">$1,500</option>
+<option value="Other{dkey:custom-price}||cac7ee79d7015af1d9efd0bd69ecf0c350f0c33daf35f05170a4908e6e47b7a1" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCUM23PLPG0000_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||845898ac6de60b54c469bafd80a3a4512aac44b6a7942b60ca2eef155c9b6655||open" id="MCUM23PLPG0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
