@@ -1,0 +1,79 @@
+add_shortcode( 'donate_0175', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35198" rel="35198">
+<input type="hidden" name="price||03a00aa1794b3be69346294ba3561557008b8ee85ded4380af52a2c12cfc6fb3" id="fs_price_35198" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35198" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35198" />
+<input type="hidden" name="image||8233f7f6056ffe8ac3c34a9718329e95617947330b6e8deaec429071c27b4217||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0175-foxy-thumb.jpg" id="foxyshop_cart_product_image_35198" />
+<input type="hidden" name="url||d64f3f44064d1a04b00a7f31f478c4d6e8bedd0571636d6895426d9846b436a5" value="https://crosscatholic.org/products/0175-mt-carmel-school-support/" id="fs_url_35198" />
+<input type="hidden" name="quantity_min||6f67faaabfd41e6e190fa7c989e9be0250b5439de19bfc380802f7bbab9fda00||open" value="0" id="fs_quantity_min_35198" />
+<input type="hidden" name="quantity_max||dca558c7fed7ed3c242d1e23bd4d74af6e0d3237d039788e339ea232ad7d79c5||open" value="0" id="fs_quantity_max_35198" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35198" />
+<input type="hidden" name="name||d1d37b9ce8feb8bb51b44e23b483279b5ac60d22c2367a44de121c04fa84b1e7" id="fs_name_35198" value="0175 - Mt. Carmel School Support" />
+<input type="hidden" name="code||336e7935c8eacdacad11ab23c9113be27bb7f5df789ab41d0c60f988f9291c23" id="fs_code_35198" value="WCPROJ0175" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||4fa90c2eb580fce7233ad979752b1e11d5cf8c747b88af5470a729516cbf9511" id="WCPROJ0175_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35201" rel="35201">
+<input type="hidden" name="price||8cbbbf40850f586cd54b426f6c27ee73ab9e08a4ebfeeb3c42ef276b5548b7cf" id="fs_price_35201" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35201" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35201" />
+<input type="hidden" name="image||8233f7f6056ffe8ac3c34a9718329e95617947330b6e8deaec429071c27b4217||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0175-foxy-thumb.jpg" id="foxyshop_cart_product_image_35201" />
+<input type="hidden" name="url||ba4aa9dcee945d30470d406a71a1cf6926fdb5ae61a8b13d6451ee21b8bb5f55" value="https://crosscatholic.org/products/0175-mt-carmel-school-support-2/" id="fs_url_35201" />
+<input type="hidden" name="quantity_min||6f67faaabfd41e6e190fa7c989e9be0250b5439de19bfc380802f7bbab9fda00||open" value="0" id="fs_quantity_min_35201" />
+<input type="hidden" name="quantity_max||dca558c7fed7ed3c242d1e23bd4d74af6e0d3237d039788e339ea232ad7d79c5||open" value="0" id="fs_quantity_max_35201" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35201" />
+<input type="hidden" name="name||d1d37b9ce8feb8bb51b44e23b483279b5ac60d22c2367a44de121c04fa84b1e7" id="fs_name_35201" value="0175 - Mt. Carmel School Support" />
+<input type="hidden" name="code||336e7935c8eacdacad11ab23c9113be27bb7f5df789ab41d0c60f988f9291c23" id="fs_code_35201" value="WCPROJ0175" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||9fb398b43c19b989f4293b6d19840b249a97b50dd3ce09a13ef8fa28966ed4b3" id="WCPROJ0175_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35205" rel="35205">
+<input type="hidden" name="price||3e2969d8e959d4863d9ec7cbbf4efb9a0e2f21e591e2160d80e5df6b76229512" id="fs_price_35205" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35205" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35205" />
+<input type="hidden" name="image||8233f7f6056ffe8ac3c34a9718329e95617947330b6e8deaec429071c27b4217||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0175-foxy-thumb.jpg" id="foxyshop_cart_product_image_35205" />
+<input type="hidden" name="url||90a0de647253582180816b14fe03ad453d8f7145f4eb9d7fafe98723525b23eb" value="https://crosscatholic.org/products/0175-mt-carmel-school-support-3/" id="fs_url_35205" />
+<input type="hidden" name="quantity_min||6f67faaabfd41e6e190fa7c989e9be0250b5439de19bfc380802f7bbab9fda00||open" value="0" id="fs_quantity_min_35205" />
+<input type="hidden" name="quantity_max||dca558c7fed7ed3c242d1e23bd4d74af6e0d3237d039788e339ea232ad7d79c5||open" value="0" id="fs_quantity_max_35205" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35205" />
+<input type="hidden" name="name||d1d37b9ce8feb8bb51b44e23b483279b5ac60d22c2367a44de121c04fa84b1e7" id="fs_name_35205" value="0175 - Mt. Carmel School Support" />
+<input type="hidden" name="code||336e7935c8eacdacad11ab23c9113be27bb7f5df789ab41d0c60f988f9291c23" id="fs_code_35205" value="WCPROJ0175" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||55cd176bbd475af972adb9dd6aa757a2a4695aafcfbc1d5ccf2feacc304584eb" id="WCPROJ0175_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35208" rel="35208">
+<input type="hidden" name="price||421969b6e6c33082696dc2ac8fc605ed627cde540b9ebf7985d2bc1c39447992" id="fs_price_35208" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35208" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35208" />
+<input type="hidden" name="image||8233f7f6056ffe8ac3c34a9718329e95617947330b6e8deaec429071c27b4217||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0175-foxy-thumb.jpg" id="foxyshop_cart_product_image_35208" />
+<input type="hidden" name="url||3cca4283d84e9c665abc351227e46c96bfffb31e7ae6425264d59c290255159e" value="https://crosscatholic.org/products/0175-mt-carmel-school-support-4/" id="fs_url_35208" />
+<input type="hidden" name="quantity_min||6f67faaabfd41e6e190fa7c989e9be0250b5439de19bfc380802f7bbab9fda00||open" value="0" id="fs_quantity_min_35208" />
+<input type="hidden" name="quantity_max||dca558c7fed7ed3c242d1e23bd4d74af6e0d3237d039788e339ea232ad7d79c5||open" value="0" id="fs_quantity_max_35208" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35208" />
+<input type="hidden" name="name||d1d37b9ce8feb8bb51b44e23b483279b5ac60d22c2367a44de121c04fa84b1e7" id="fs_name_35208" value="0175 - Mt. Carmel School Support" />
+<input type="hidden" name="code||336e7935c8eacdacad11ab23c9113be27bb7f5df789ab41d0c60f988f9291c23" id="fs_code_35208" value="WCPROJ0175" />
+
+<div class="foxyshop_variations">
+<input type="text" name="price||8539dc5b762260bdeda0bc6022d8990ab9d2a9cae84a4dea28d9580f67aba123||open" id="WCPROJ0175_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<div class="clr"></div>
+</div>
+
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
