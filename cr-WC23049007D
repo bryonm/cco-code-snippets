@@ -3,34 +3,34 @@ add_shortcode( 'cr-WC23049007D', function () {
 	$out = '<div class="donation_radio_btns">
 
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_192263" rel="192263">
-<input type="hidden" name="price||0e9c852b2603ad5636d608dc4d2414836d95f0dc7aa41dc980fb1d76f0c2fdc2" id="fs_price_192263" value="0.00" />
+<input type="hidden" name="price||be29b1cc94fc4978642792676974c79ae9bf55236915691a5b0a3c54c91fc2b0" id="fs_price_192263" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_192263" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_192263" />
-<input type="hidden" name="image||ca111c6bdfbddf17479f0443fd87975cc1f549a202d8dd4efcaae0f3aa7f0544||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/2023CleanWater-Home-foxy-thumb.jpg" id="foxyshop_cart_product_image_192263" />
-<input type="hidden" name="url||2ff336604c36ac4e7e43b7d9055ec1f0eb58b723ad8b8d3824fdac741175a526" value="https://crosscatholic.org/products/donate-to-provide-clean-water-2/" id="fs_url_192263" />
-<input type="hidden" name="quantity_min||a04e439cb5f6978db0b15c5fdb0acb5deb49c6d6bf2878fc353a492bb9ba3cdf||open" value="0" id="fs_quantity_min_192263" />
-<input type="hidden" name="quantity_max||22fdfdc0ea398e48f75ab9ba6add4dd6210f2ce470c134fab5d1b11f12c1fa09||open" value="0" id="fs_quantity_max_192263" />
+<input type="hidden" name="image||2c46517911153e4097e23c4d846fc6226a16344a7d783bd0f8120ff7a88a2409||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/2023CleanWater-Home-foxy-thumb.jpg" id="foxyshop_cart_product_image_192263" />
+<input type="hidden" name="url||4b087a7d82508426ba31be70d45a6e6317800633e4d35e7502e91889030b10cd" value="https://crosscatholic.org/products/donate-to-provide-clean-water-2/" id="fs_url_192263" />
+<input type="hidden" name="quantity_min||e729e6ec10bd907aa9f6c85c12adb53cb18a38a2758830a381c2b8d35349dfc1||open" value="0" id="fs_quantity_min_192263" />
+<input type="hidden" name="quantity_max||d597b57c308b55c08c058a8d0e1e404a2468637617af6ee7ddce59d3b469d578||open" value="0" id="fs_quantity_max_192263" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_192263" />
-<input type="hidden" name="sub_frequency||57da43054d4b9d246cfe66efd7599447b142b46753b940969addab7fdfdec53f||open" id="fs_sub_frequency_192263" value="" />
-<input type="hidden" name="name||66a5ae5961375998b9c17ab7750aafe62c46da333eaf11a406e11be1e31c12d7" id="fs_name_192263" value="Donate to Provide Clean Water" />
-<input type="hidden" name="code||31d0b41164191e6515d84365c5d58edf66f8d2f16c3eeff0b7348b77386e7c9a" id="fs_code_192263" value="WC23039007D" />
+<input type="hidden" name="sub_frequency||ed85f3f89469eebcdc636b5d47078f313681ec0374cf6c83613847f760f40826||open" id="fs_sub_frequency_192263" value="" />
+<input type="hidden" name="name||ac7e04222597194b6a785414b478715c9899dd6c97b10e9b7f21427eec8a4a22" id="fs_name_192263" value="Donate to Provide Clean Water" />
+<input type="hidden" name="code||bb792f71b26d6844787fbecb125276dd52d3f1ea20716a89a5eb802d28659b0f" id="fs_code_192263" value="WC23049007D" />
 <div class="foxyshop_variations">
-<select name="Donation" id="WC23039007D_1" class="variation-donation">
-<option value="$30{p:30}||52cee0f6898ef41f514108b00d419a150b0b59e016b54a441ad2cf258abc937d" priceset="3000">$30</option>
-<option selected="" value="$60{p:60}||7156e05d09e5d79486f1606c6bdbefe3d27e21d6f79cc3405344cd96e06e2155" priceset="6000">$60</option>
-<option value="$120{p:120}||0bae2e132795e4e38790f2fe99e894a4933bc4ee25afacf2ee00d79daca1626a" priceset="12000">$120</option>
-<option value="$240{p:240}||5fa9c1d24a0d9acbac3af04938fbf20d6d3ad27868c3ce65aa7514c541f25e69" priceset="24000">$240</option>
-<option value="Other{dkey:custom-price}||6ebdf09fa01c45240439dc3444ea15a4c339b930bdc002c33f01f4cf46db965c" displaykey="custom-price">Other</option>
+<select name="Donation" id="WC23049007D_1" class="variation-donation">
+<option value="$30{p:30}||d6a61ded95b29ad3c24d4fb854d0ab0c89e4b79794bdddc46f3efce5abe9e0e8" priceset="3000">$30</option>
+<option selected value="$60{p:60}||ff812f612a348f3e650d12047e997aabeef4834fb17e4e894a8a1bd95b29dfe6" priceset="6000">$60</option>
+<option value="$120{p:120}||7c10ef2d355d917b9bdad176e51c02025ec34d0de079ed843af6f2425d7b5fae" priceset="12000">$120</option>
+<option value="$240{p:240}||39cdd9f76e35653b88230b20136dc9fb84bbe822ec0a30a6f3feb1e43f734d60" priceset="24000">$240</option>
+<option value="Other{dkey:custom-price}||d8960d5ee81c81be8a209e8c9275b9b8a8d7151789d097d2c706f20ed68f9681" displaykey="custom-price">Other</option>
 </select>
 <div class="clr"></div>
-<label for="WC23039007D_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
-<input type="text" name="price||f487314202f987e027fb4cd7435a1f29654562d106e22fccdb59009643c54e53||open" id="WC23039007D_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<label for="WC23049007D_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||3ddb7d138823e457bc8ea11dcd4c7bef2b9e2959a70b60c8c903a1ecf94857b4||open" id="WC23049007D_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
 <div class="clr"></div>
 <div class="foxyshop_radio_wrapper">
-<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||c1f0e761ad0113d16680039d59009e34374db43ecdac7ad8acc93128a9777ecc" id="WC23039007D_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
-<label for="WC23039007D_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
-<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||852958852888d4a8ae0759f252350d7bf22ada3714650f1607c727e162a75c3f" id="WC23039007D_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
-<label for="WC23039007D_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||433236c925ea3838c9fc6a9a69044e17a80facc06be1ee50da5e1a9083b2ef30" id="WC23049007D_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC23049007D_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||29bc7d96e2f4eb940f83695dbc50f501d01baa696221ab11ab67a37345b7d751" id="WC23049007D_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC23049007D_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
 <div class="clr"></div></div>
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
