@@ -6,7 +6,7 @@ add_shortcode( 'cr-WC23049007P', function () {
 <input type="hidden" name="price||4054d7c86046ffe2d066e97ac0ef1f15fdba1cf99fd3e879fc4caab29af6766f" id="fs_price_193249" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_193249" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_193249" />
-<input type="hidden" name="image||d9099246f18b6a6b4b6de60dc5293bb3002bf13a9874db223b287dee47d78d76||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/2023SpringMD-WellsOfSalvation-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_193249" />
+<input type="hidden" name="image||d9099246f18b6a6b4b6de60dc5293bb3002bf13a9874db223b287dee47d78d76||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/2023CleanWater-Home-foxy-thumb.jpg" id="foxyshop_cart_product_image_193249" />
 <input type="hidden" name="url||44b8ed0acd05d078604cec519afc2a13a8a7800ff6ef8fe2936d0e9cf8e93b79" value="https://crosscatholic.org/products/donate-to-provide-clean-water-3/" id="fs_url_193249" />
 <input type="hidden" name="quantity_min||6e365f688fd1f4bf357f31ebc529fa220ae829e3c2238bb1c03d7c425b9d754b||open" value="0" id="fs_quantity_min_193249" />
 <input type="hidden" name="quantity_max||6f658b8e1efbc3d2fd5c127342003c36d25e3f116840dc537d552c328da31600||open" value="0" id="fs_quantity_max_193249" />
