@@ -1,0 +1,39 @@
+add_shortcode( 'sp-cr-WCS23049007PD', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_196134" rel="196134">
+<input type="hidden" name="price||babbf3f50239d3d58df1b26710df69e8da6a39ced021e916b55f2e1065a10425" id="fs_price_196134" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_196134" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_196134" />
+<input type="hidden" name="image||3f4681f4192ef050889f09c2c7f913b29251612b86a89a1eda1c925d38a713f8||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/2023CleanWater-Home-foxy-thumb.jpg" id="foxyshop_cart_product_image_196134" />
+<input type="hidden" name="url||b665a4cc0f258fd08060e67255d97f1224fefedc3e92f81b987570cda6076dc4" value="https://crosscatholic.org/products/agua-pura-para-los-necesitados-donacion-7/" id="fs_url_196134" />
+<input type="hidden" name="quantity_min||520b25313629d0ff0b78f6022a891a6ff9a451c59e08ca63a651de1e7382c780||open" value="0" id="fs_quantity_min_196134" />
+<input type="hidden" name="quantity_max||af9669b3ca11d5fa137bdfed04efbe3f4a7f82ae71da239b4010e20ed2d34187||open" value="0" id="fs_quantity_max_196134" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_196134" />
+<input type="hidden" name="sub_frequency||7e91e566fdd1d77dd51b59e20cbe96ba39df49131d41a765ead01593016e1460||open" id="fs_sub_frequency_196134" value="" />
+<input type="hidden" name="name||5e887d7474377360a1e81dc9a7fffd18f491ae7b3f138b6647283402231b3676" id="fs_name_196134" value="Agua Pura para los Necesitados donación" />
+<input type="hidden" name="code||b096316fff9b522252260140d940c42f9f3cbba74a2aa2915a19b7223f166d64" id="fs_code_196134" value="WCS23049007PD" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCS23049007PD_1" class="variation-donation">
+<option value="$30{p:30}||de8654690d214459a3e7b00ba181c34b6cb73c4ef1c874188a787a756b7f1397" priceset="3000">$30</option>
+<option selected value="$60{p:60}||bfa093886c2b164d9f3588e881a8c1b14b791346089979c3dc28b6be2843bd47" priceset="6000">$60</option>
+<option value="$120{p:120}||5626e648920c50b9285b63267d970d00938ec631ab304b677e882a5b3e3cdb63" priceset="12000">$120</option>
+<option value="$240{p:240}||43abf6b53399eadc93230eba8d39dfc6a971ddf83ecc3b4d8d49d00c972548db" priceset="24000">$240</option>
+<option value="Otro{dkey:custom-price}||15c371a66eea60af579e4046e5e35e68fc6a3e082418f4af263266a04c8264ad" displaykey="custom-price">Otro</option>
+</select>
+<div class="clr"></div>
+<label for="WCS23049007PD_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||34f8ad1d64e29146f4a9e0318c5f38781f891c73f36bc26afb5e0f7e00237468||open" id="WCS23049007PD_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||fc3d6eec737f183d80fe875d8b1f75aecfd302d937ff3661d32bb9ca6d454fc2" id="WCS23049007PD_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCS23049007PD_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+MOT}||75a760127d91e7e7a12fef02f6dfe95253a136e60307fa256c6b7989e97cc1ed" id="WCS23049007PD_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCS23049007PD_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
