@@ -1,0 +1,34 @@
+add_shortcode( 'md-MCCS23W3497', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_189969" rel="189969">
+<input type="hidden" name="price||09642393b3a4732d3e95240f66bbce8f34515c6adc32452fd799174aa0ffef27" id="fs_price_189969" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_189969" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_189969" />
+<input type="hidden" name="image||cbcc696e1c4b960c1041a9617f5784c09e3cfebb58004a9852f857bdb5de17c6||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/SpringCore-FUNDASEP-foxy-thumb.png" id="foxyshop_cart_product_image_189969" />
+<input type="hidden" name="url||2d9599165f71073e7478f6f38889b3324e97ff13ed147242934438f7c5c82a91" value="https://crosscatholic.org/products/donate-to-empower-impoverished-families/" id="fs_url_189969" />
+<input type="hidden" name="quantity_min||a95d6476185f271cd4710458009de287017351b9aefa87ec5ec40e70281c589a||open" value="0" id="fs_quantity_min_189969" />
+<input type="hidden" name="quantity_max||9b010b44ec261582179fb59b855cae04dc343a4ff218efa0633faf138b86b2c1||open" value="0" id="fs_quantity_max_189969" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_189969" />
+<input type="hidden" name="name||63b1db66fd0469c95564d1a60385a7723d7d61c3cb9c31591f5cacc86bc3d705" id="fs_name_189969" value="Donate to Empower Impoverished Families" />
+<input type="hidden" name="code||3be4429f28c7eeab1e734822eec6ca68504c969252760ae4ceb61eec1f3fe581" id="fs_code_189969" value="MCCS23W3497" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCS23W3497_1" class="variation-donation">
+<option value="$38,430 provides water to 10 family farms{p:38430}||a6658a3e989ffd99da8d65e5610f751d526f7a88124c0638b18569389f2ed59b" priceset="3843000">$38,430 provides water to 10 family farms</option>
+<option value="$18,455 repairs the home of 5 families{p:18455}||63cb9eb9798cd297af4b919ced2845e01f2a986f1c2bb7b8659390585149157a" priceset="1845500">$18,455 repairs the home of 5 families</option>
+<option selected="" value="$7,686 provides water to 2 family farms{p:7686}||14d0bcab83bc4e47178e82235d02bceda318ed21bbcc9af1a635300d510b1f12" priceset="768600">$7,686 provides water to 2 family farms</option>
+<option value="$3,691 repairs a home for a family{p:3691}||941b78dbc1c15066c025d8aa1f8ca773dac0094256110044fefefdd8d82c4873" priceset="369100">$3,691 repairs a home for a family</option>
+<option value="Other{dkey:custom-price}||e84cf22fc4145733da61a71a6b987a0d96d37278104e9d6771a01ba4eccf2b63" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCS23W3497_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||10fdbbd70243ee671a0b9630656849141fc2edef5a79b9941ffc8a31207eb9b2||open" id="MCCS23W3497_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
