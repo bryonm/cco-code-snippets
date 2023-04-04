@@ -16,7 +16,7 @@ add_shortcode( 'md-MCUM23PLPG9012', function () {
 <div class="foxyshop_variations">
 <select name="Donation" id="MCUM23PLPG9012_1" class="variation-donation">
 <option value="$150{p:150}||f73f87f93f600542674e4ee905d0724b9175bc72c9fe88cd7174a6d6f3d76c44" priceset="15000">$150</option>
-<option value="$250{p:250}||712249ad64a32c23328a61ea40213322570fddd24dcb21bcbf691ae141d3f1cc" priceset="25000">$250</option>
+<option selected value="$250{p:250}||712249ad64a32c23328a61ea40213322570fddd24dcb21bcbf691ae141d3f1cc" priceset="25000">$250</option>
 <option value="$500{p:500}||15b8663a14e604d9a49370214a18d04f71a7ccb80f581fd603d52d1b6d8ad001" priceset="50000">$500</option>
 <option value="$1,500{p:1500}||4073f286266d36dada5900c1be486cdbef57c77bd00ec3160445c14772c6791f" priceset="150000">$1,500</option>
 <option value="Other{dkey:custom-price}||1ecf2a10484b03315244449c8a7e764ec384cb94b549bc24ef0b76e4e99c6e1e" displaykey="custom-price">Other</option>
