@@ -1,0 +1,34 @@
+add_shortcode( 'md-MCCS23W3100', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186891" rel="186891">
+<input type="hidden" name="price||4d4f555de4ed474047aad7e97b710ac1adc120c4bb4863242ed2e9d7defe5140" id="fs_price_186891" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_186891" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_186891" />
+<input type="hidden" name="image||ba342d47dd6e58f318622fc9d7224a3b83d62a77f15e359d0f450b218ecd5d71||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/MD-Fall-SpringMDSuchi-foxy-thumb.jpg" id="foxyshop_cart_product_image_186891" />
+<input type="hidden" name="url||a0866ff85a1edb2ae921bcef5db09834ab8e71763c5bbb9c7f2256da172183d5" value="https://crosscatholic.org/products/donate-to-clean-water-2/" id="fs_url_186891" />
+<input type="hidden" name="quantity_min||06bfcec0d8d045fbf2cee5db71451f4157c07e81126d127d735ac3df509ce8f6||open" value="0" id="fs_quantity_min_186891" />
+<input type="hidden" name="quantity_max||5be4f7312ba4339f0761d6f6500c579e0581dc7f6588c311c3334219fea60ba5||open" value="0" id="fs_quantity_max_186891" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_186891" />
+<input type="hidden" name="name||4162aa608d390ddfd2ed5f9530ff8f1549825985c14a5dc14681ea74f8bde275" id="fs_name_186891" value="Donate to Clean Water" />
+<input type="hidden" name="code||5e32c82401420dba3212267dc0051f637dfc36aa69b4af3f52e944a4fd4abfaf" id="fs_code_186891" value="MCCS23W3100" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCS23W3100_1" class="variation-donation">
+<option value="$13,622 blesses 8 families with clean, safe water{p:13622}||08dcba8da1ec8c95e3bc28de8b0b3a6680e6a2807ac0236e60ac4320465c1a19" priceset="1362200">$13,622 blesses 8 families with clean, safe water</option>
+<option value="$7,527 supports 8 families with home garden supplies{p:7527}||a1fec7c0cd38bcce748bc8b725bbddcae1b5065b5d81a590e4aa9e25d9b5db88" priceset="752700">$7,527 supports 8 families with home garden supplies</option>
+<option selected="" value="$5,108 blesses 3 families with clean, safe water{p:5108}||a2af7ed8b8efd8d5807b78f176c2b1dae38d70839fc1cddf206e3eeb39410fa6" priceset="510800">$5,108 blesses 3 families with clean, safe water</option>
+<option value="$2,679 uplifts 2 students with life-changing scholarships{p:2679}||e87f4212fad8a74b4117ed8fd62abbea9d9b07774d702af740c1f4a23f5a4fa3" priceset="267900">$2,679 uplifts 2 students with life-changing scholarships</option>
+<option value="Other{dkey:custom-price}||a8c7a74f8c9e177471a01f792e1aee57e05aae715fcf4212a28483836a01f6d2" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCS23W3100_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||1e06288d61cf6dc3618ecca17b3b61020152c472648935ddc4b7cd7821476e74||open" id="MCCS23W3100_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
