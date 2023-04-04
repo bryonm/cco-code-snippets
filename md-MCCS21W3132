@@ -1,0 +1,35 @@
+add_shortcode( 'md-MCCS21W3132', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_57456" rel="57456">
+<input type="hidden" name="price||3039bf9ae404c47987fbc341d76343e6f6ef578f6f8745e08e59d00bb3d81ae7" id="fs_price_57456" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_57456" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_57456" />
+<input type="hidden" name="image||a09dc74a435894b63fe5560f650757bd0e1325ab823294ba399be83294e535dd||open" value="https://crosscatholic.org/wp-content/uploads/2021/03/md-orphans-mozambique.jpg" id="foxyshop_cart_product_image_57456" />
+<input type="hidden" name="url||173d77d8264ca668dbd0e2c15505f23b0518e88555cb6781df8622bb42b5edb2" value="https://crosscatholic.org/products/rescue-orphans-in-mozambique/" id="fs_url_57456" />
+<input type="hidden" name="quantity_min||9770fd7345e00101e982d6a356449289050a26c201d7017de4d5f4d2bd064b28||open" value="0" id="fs_quantity_min_57456" />
+<input type="hidden" name="quantity_max||234a474346b1c8377afdd6b637ebbf9e81b85a06e420bdefb3a0a635b8626b3e||open" value="0" id="fs_quantity_max_57456" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_57456" />
+<input type="hidden" name="sub_frequency||d1cdce8618e6934c54ac55ba0f25d3c63266435527255670d44b472e2ffde0c4||open" id="fs_sub_frequency_57456" value="" />
+<input type="hidden" name="name||a1cafc0bceb811943aa15a4eb1638dbbc4aa51875dd9e6e2a44f4175f1f6eef3" id="fs_name_57456" value="Rescue Orphans in Mozambique" />
+<input type="hidden" name="code||0dd6b43d60753a299742756de58180c4b36ccf714f26ce857786f7a36b216b3d" id="fs_code_57456" value="MCCS21W3132" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCS21W3132_1" class="variation-donation">
+<option value="$20,000 Rescue Mission Sponsor{p:20000}||0c1e04ddf91a12948ebd6d60812e2603c21ed29b2ed6093fd4c1f8c88088a145" priceset="2000000">$20,000 Rescue Mission Sponsor</option>
+<option value="$15,000 True Religion Sponsor{p:15000}||48266afc99d50db7e7e645719f19fa5eb3e3e5249c6d59c0aae0e5eb4eb860c8" priceset="1500000">$15,000 True Religion Sponsor</option>
+<option value="$10,000 Love in Action Sponsor{p:10000}||b372173ed3a2a8502ce981453307d89d465a815d329aeb4ac0f8e8d8b628f8ce" priceset="1000000">$10,000 Love in Action Sponsor</option>
+<option selected="" value="$5,000 Child Advocate Sponsor{p:5000}||44a50bd94e5312d325d4f16d4478f1f3021c9c31338365b10a7c27afacccfc29" priceset="500000">$5,000 Child Advocate Sponsor</option>
+<option value="Other{dkey:custom-price}||0254aab0b94b677bf1d81121a63735d5f1912ccba8399d3a5f603ca18e341c2e" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCS21W3132_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||50818b4cd006730d9b5dfc88a1f2254ec67d88e3c7a7274dd1e99bf7079830e0||open" id="MCCS21W3132_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
