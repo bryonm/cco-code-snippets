@@ -1,0 +1,34 @@
+add_shortcode( 'md-MCCM22W9002', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_142503" rel="142503">
+<input type="hidden" name="price||9b390aa93f23f15abeefddbf8fb63ffa7e828a7dc2aa4880e156498bf19f4bf3" id="fs_price_142503" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_142503" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_142503" />
+<input type="hidden" name="image||42d6aa1fc16f91b926063c7122eb9abf364854b8a2a6dc7d6c433fc91ccc1bfd||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/MidyearHaitiHealth-foxy-thumb.jpg" id="foxyshop_cart_product_image_142503" />
+<input type="hidden" name="url||70fe7dcd210a15962b0f7a38464d5364a7cc7917575dfcdd7a956a2a0a8a5684" value="https://crosscatholic.org/products/shelter-for-haiti-earthquake-survivors/" id="fs_url_142503" />
+<input type="hidden" name="quantity_min||124e92b686eaeff3c24e746efed7411f00e25835612dbfe88d55ccda28e73e5c||open" value="0" id="fs_quantity_min_142503" />
+<input type="hidden" name="quantity_max||f0fb76c28a73f7897ee241a2e3e2ff3414967a148e9df68919af0d3ed7ac854c||open" value="0" id="fs_quantity_max_142503" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_142503" />
+<input type="hidden" name="name||824f9c5142825fdf84e9a94e823e659b4aafe5ae29bcf9515f18aaf9fc35bce8" id="fs_name_142503" value="Restore health and hope" />
+<input type="hidden" name="code||10dc9b4dccb5b814034f8a6e83d68f4a56dfa2f581215eaa59136b89b8290fc6" id="fs_code_142503" value="MCCM22W9002" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCM22W9002_1" class="variation-donation">
+<option value="$20,000{p:20000}||095ff70bd187cbd077a32dee93d42f7a8d0f908adabbab3499aab3eb6e063e85" priceset="2000000">$20,000</option>
+<option value="$10,000{p:10000}||d479d58a8055c991f484fbdef4b6554f0e53045b5fc959fb1b8d857303372a29" priceset="1000000">$10,000</option>
+<option selected="" value="$5,000{p:5000}||cf98d804470d108b7f58592ee6fdbd521d42e2df278da852023138189006a405" priceset="500000">$5,000</option>
+<option value="$2,500{p:2500}||6fe622847c10a09ba4a5cf10ca8d7b6a06095b4003213dc8f6acb9243e8244e0" priceset="250000">$2,500</option>
+<option value="Other{dkey:custom-price}||334127bca933196f43e4e0f77b4e034438ddccad1110dcd68168545966b134ad" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCM22W9002_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||28507689403fd7681020a336bf2914361a6870af06c391e4e93947403a30fc80||open" id="MCCM22W9002_2" value="" class="variation-price foxyshop_required required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
