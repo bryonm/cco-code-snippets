@@ -6,7 +6,7 @@ add_shortcode( 'sp-cr-WCS23059001', function () {
 <input type="hidden" name="price||00eea9556d9e83f6c05901b761a0a092b6c613fcfb1e5a4c1010947ce9286fea" id="fs_price_196818" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_196818" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_196818" />
-<input type="hidden" name="image||0a11d597b3d98d457eea4f9c813a25293deae573f6c36d2a4845b2e4a3eef76d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_196818" />
+<input type="hidden" name="image||0a11d597b3d98d457eea4f9c813a25293deae573f6c36d2a4845b2e4a3eef76d||open" value="https://crosscatholic.org/wp-content/uploads/2023/04/FallCore-GuatemalaFood-foxy-thumb.jpg" id="foxyshop_cart_product_image_196818" />
 <input type="hidden" name="url||3b35d8e0a7df088e970a1d619ae9e920df6ea8427f47950a4ee6175c23f47185" value="https://crosscatholic.org/products/comida-sana-donacion-7/" id="fs_url_196818" />
 <input type="hidden" name="quantity_min||86a9b6155c3673960f46d13bfb61ec5355121b7394c98e4f1a950262d467e8bf||open" value="0" id="fs_quantity_min_196818" />
 <input type="hidden" name="quantity_max||316f765ebb1d73b470e4acc81493bc33171b208582824a43431a7ab3fa2a409c||open" value="0" id="fs_quantity_max_196818" />
