@@ -1,0 +1,47 @@
+add_shortcode( 'pcs-boj-JCBJWCB9028-box-qty', function () {
+
+	$out = '    <div class="give-container">
+    <div class="select-container">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_33333" rel="33333">
+<input type="hidden" name="price||f8f9ba333d7d63396e7b15dacceccd3f15d09ed0ab0f67cf6967ebbca7380744" id="fs_price_33333" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_33333" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_33333" />
+<input type="hidden" name="image||c5950e7f8d6102167585e80f1e2c0681a6f4518ce9697c4a8c949c42f3fa229f||open" value="https://crosscatholic.org/wp-content/uploads/2020/08/BoxOfJoy_CreateABox_Boy-150x150.jpg" id="foxyshop_cart_product_image_33333" />
+<input type="hidden" name="url||462154205bea0138ffbb4859d3be0931d144cd5a10e59482689e9387d219b07d" value="https://crosscatholic.org/products/create-a-box-donation/" id="fs_url_33333" />
+<input type="hidden" name="quantity_min||31fe61abd60159e878c1792935f06fce69c9c7182b14ef8091f503013f5e61c4||open" value="0" id="fs_quantity_min_33333" />
+<input type="hidden" name="quantity_max||6afb2a9f1c4be358658fef78bd47762455a94534a8e0496cd38e1b594b4d8fb5||open" value="0" id="fs_quantity_max_33333" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_33333" />
+<input type="hidden" name="name||24273f3f75dcb428504e1a64621457ec453e0d2b3d6191381a3842f12f1b5e8a" id="fs_name_33333" value="Create-A-Box donation" />
+<input type="hidden" name="code||0a10aea60cb5a594a80fe3ff6bb20e6e5ac9dace3fe032342af83f724e6a92a8" id="fs_code_33333" value="JCBJWCB9028" />
+<div class="foxyshop_variations">
+<select name="Donation" id="JCBJWCB9028_1" class="variation-donation">
+<option value="1 Box{p:34}||6abbecb15901a78400973c988a774a0661156d3278ff37fe3c5f20a195e94a84" priceset="3400">1 Box ($34.00)</option>
+<option value="2 Boxes{p:65}||8ee11da5f3e90d9b8c583d58584fcd925c833e915a35800303cc638112c240f9" priceset="6500">2 Boxes ($65.00)</option>
+<option value="5 Boxes{p:150}||7586872a640fba4aa479b0725b5f0872099a383f34ec875701051deffe50880b" priceset="15000">5 Boxes ($150.00)</option>
+<option value="10 Boxes{p:290}||80f64c99060b78d6172bd38f03f115f5bab65bc2c286784acc1d2594437458e8" priceset="29000">10 Boxes ($290.00)</option>
+<option value="25 Boxes{p:700}||d81a0ac4fe27555542896fb251885d3a2dff276dccc6b4d689f308e40895af89" priceset="70000">25 Boxes ($700.00)</option>
+<option value="50 Boxes{p:1350}||0f1930815f5981dc4f16be7b97568eb8a2712addd9232bee7a8b678a06b1bfd9" priceset="135000">50 Boxes ($1,350.00)</option>
+<option value="100 Boxes{p:2500}||cf66d13d1b21e77832a83bce6502a943b321e516c0ad7ad96e2b3b39c64046c8" priceset="250000">100 Boxes ($2,500.00)</option>
+</select>
+<div class="clr"></div>
+</div>
+
+
+<!-- PASTE MONTHLY FORM CODE UP TO JAVA SCRIPT INCLUDING CLOSING DIV ABOVE -->        
+        
+        
+    </div>
+      
+      
+<!-- USE THIS BUTTON CODE -->
+    <div class="btn-container">
+      
+      <button style="margin-right: -10px;" type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_mon">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+ ';
+
+	return $out;
+} );
