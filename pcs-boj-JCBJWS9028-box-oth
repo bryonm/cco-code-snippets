@@ -1,0 +1,37 @@
+add_shortcode( 'pcs-boj-JCBJWS9028-box-oth', function () {
+
+	$out = '<section>
+  <div class="give-container">
+    <div class="select-container">
+
+ <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35725" rel="35725">
+<input type="hidden" name="price||f9e8d99c0f1d71168bcb764affbfc0c1ef2e4b16994c524825f9375c4e499e7c" id="fs_price_35725" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35725" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35725" />
+<input type="hidden" name="image||8f290d242e11edcbfd63c0c80e06703acaea65b97698d27d89190883665a6d94||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/BOJ-Logo-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_35725" />
+<input type="hidden" name="url||f345c5c6b588480612fab44c0a591064be0d5cee9a97422e58c246debc4a91bc" value="https://crosscatholic.org/products/box-of-joy-shipping-2/" id="fs_url_35725" />
+<input type="hidden" name="quantity_min||141d97e2de9daff239767ea7b74395f7cbbb0ffde0bd9497da2b7671b76a210a||open" value="0" id="fs_quantity_min_35725" />
+<input type="hidden" name="quantity_max||6edc1da93de2b79c77792ca24689f080ca85782cf54f7e204d1674fd5d6a289a||open" value="0" id="fs_quantity_max_35725" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35725" />
+<input type="hidden" name="name||91ad578e2d843444ba5fc8d2c11508b53ca43660f7d82c8905856d1561c63d16" id="fs_name_35725" value="Box of Joy Shipping" />
+<input type="hidden" name="code||47c6c28aeba21e9c6becdb73dd3dd1a8c04bf418b32523b3738cc182c3a355a2" id="fs_code_35725" value="JCBJWS9028" />
+        <div class="foxyshop_variations">
+          <div class="clr"></div>
+<label for="JCBJWS9028_1" class="variation-price-lbl foxyshop_required">Or</label>
+<input type="text" name="price||d1ec4327775a9e1010142ae68aee4a44b1795964447ad67c03f75c867017d8e9||open" id="JCBJWS9028_1" value="" class="variation-price foxyshop_required" required="" placeholder="Enter $ amount" />
+        </div>
+    </div>
+
+    <div class="btn-container">
+
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_mon">Donate</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section>';
+
+	return $out;
+} );
