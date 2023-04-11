@@ -1,0 +1,37 @@
+add_shortcode( 'sp-pcs-boj-JCBJWCB9028-box-oth', function () {
+
+	$out = '<section>
+  <div class="give-container">
+    <div class="select-container">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_166026" rel="166026">
+<input type="hidden" name="price||ae5dde93eb29d164db1a04e9ac487d50238ba8e1bec148ad68ea6a199297a02b" id="fs_price_166026" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_166026" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_166026" />
+<input type="hidden" name="image||d3ea94dc68aecc4a91cad85ada340262e2176973b891a60a4e3c3ec0e7d13e57||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/BoxOfJoy_CreateABox_Boy-150x150-1.jpg" id="foxyshop_cart_product_image_166026" />
+<input type="hidden" name="url||9cdf024f2e6af08ffec73794dd588e642dfee1491e8ba3b3db99120a95eaf873" value="https://crosscatholic.org/products/donacion-para-crear-una-caja-2/" id="fs_url_166026" />
+<input type="hidden" name="quantity_min||a7733cde4270fbef7f43a9fc1b39f7b71e00034c625d300b55d518c479083e58||open" value="0" id="fs_quantity_min_166026" />
+<input type="hidden" name="quantity_max||0f56f941ae3256f924ae7befdfa1c3b5229ac9d5fe6199bb023d2a86394ad62b||open" value="0" id="fs_quantity_max_166026" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_166026" />
+<input type="hidden" name="name||9db9c31a477348f5ba53bb59d26f2de902b072c925246f7de55cbdacb6018476" id="fs_name_166026" value="Donación para crear una caja" />
+<input type="hidden" name="code||3dfa14a16d78c955c2b13a364f99a9b805b5d01cb70c147048b643ea453b6d61" id="fs_code_166026" value="JCBJWCBS9028" />
+        <div class="foxyshop_variations">
+          <div class="clr"></div>
+<label for="JCBJWCBS9028_1" class="variation-price-lbl foxyshop_required">O</label>
+<input type="text" name="price||2747e7bf4f6a57ea4e4abc2d1fe00330831997f4d7017f1c6ecb1d51fae5eb28||open" id="JCBJWCBS9028_1" value="" class="variation-price foxyshop_required" required="" style="font-size: 11px;" placeholder="Ingrese la cantidad $" />
+        </div>
+    </div>
+
+    <div class="btn-container">
+
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_mon">Donar</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section>';
+
+	return $out;
+} );
