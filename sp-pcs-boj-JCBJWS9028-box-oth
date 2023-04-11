@@ -1,0 +1,37 @@
+add_shortcode( 'sp-pcs-boj-JCBJWS9028-box-oth', function () {
+
+	$out = '<section>
+  <div class="give-container">
+    <div class="select-container">
+
+ <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_84278" rel="84278">
+<input type="hidden" name="price||5e19d71134e8d28666d58dcd7906a2aa2496ff2050b531014f507d7878a244ed" id="fs_price_84278" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_84278" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_84278" />
+<input type="hidden" name="image||5951ab65dd56a4b40d9d97a42bf540bdc0d84515d4c58ff9b969ffbdcbcb5a2b||open" value="https://crosscatholic.org/wp-content/uploads/2021/07/BOJ-Logo-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_84278" />
+<input type="hidden" name="url||e0bd7d0a706834f8f0dfe8b9ae2e4679d55855d3bdc7abad4552511d0ffc032f" value="https://crosscatholic.org/products/box-of-joy-el-envio/" id="fs_url_84278" />
+<input type="hidden" name="quantity_min||95ae7ff9698b0672ddf366792ab8e55e2c4d1641f75e9b5cdeb938b42f5103dc||open" value="0" id="fs_quantity_min_84278" />
+<input type="hidden" name="quantity_max||1bed9539a4a371ee8e3ad3d02d7143feb6efd4e62d2796e0b03065868b3243cd||open" value="0" id="fs_quantity_max_84278" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_84278" />
+<input type="hidden" name="name||c93e59f3df463f9cd2fc347438a2369d324b941fc13e6eabbfb09c36f644d313" id="fs_name_84278" value="Box of Joy el envío" />
+<input type="hidden" name="code||7219aac72829c859748453f8b64491a701e2188c55b99711d8f25197e564f419" id="fs_code_84278" value="JCSBJWCB9028" />
+        <div class="foxyshop_variations">
+          <div class="clr"></div>
+<label for="JCSBJWCB9028_1" class="variation-price-lbl foxyshop_required">O</label>
+<input type="text" name="price||0c87df60b9c82195becb58b19084a275d5c1cd22f036880b53e77ef5812acb91||open" id="JCSBJWCB9028_1" value="" class="variation-price foxyshop_required" required="" style="font-size: 11px;" placeholder="Ingrese la cantidad $" />
+        </div>
+    </div>
+
+    <div class="btn-container">
+
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_mon">Donar</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section>';
+
+	return $out;
+} );
