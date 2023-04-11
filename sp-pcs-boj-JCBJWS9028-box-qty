@@ -1,0 +1,143 @@
+add_shortcode( 'sp-pcs-boj-JCBJWS9028-box-qty', function () {
+
+	$out = '    <div class="give-container">
+    <div class="select-container">
+      <!-- PASTE MONTHLY CODE BEGINNING WITH OPENING FORMN TAG -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_166019" rel="166019">
+<input type="hidden" name="price||f9e8d99c0f1d71168bcb764affbfc0c1ef2e4b16994c524825f9375c4e499e7c" id="fs_price_166019" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_166019" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_166019" />
+<input type="hidden" name="image||8f290d242e11edcbfd63c0c80e06703acaea65b97698d27d89190883665a6d94||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/BOJ-Logo-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_166019" />
+<input type="hidden" name="url||c15058e5fd075281fe123e980b08076f71262d8179eb453c4d65089120c17db0" value="https://crosscatholic.org/products/box-of-joy-el-envio-9-caja-2/" id="fs_url_166019" />
+<input type="hidden" name="quantity_min||141d97e2de9daff239767ea7b74395f7cbbb0ffde0bd9497da2b7671b76a210a||open" value="0" id="fs_quantity_min_166019" />
+<input type="hidden" name="quantity_max||6edc1da93de2b79c77792ca24689f080ca85782cf54f7e204d1674fd5d6a289a||open" value="0" id="fs_quantity_max_166019" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_166019" />
+<input type="hidden" name="name||e3e4ae31acbf8f2622654c591389e8d7daaf0b80016950a90d2efa7f6822d9c7" id="fs_name_166019" value="Box of Joy - el envío $9 / caja" />
+<input type="hidden" name="code||47c6c28aeba21e9c6becdb73dd3dd1a8c04bf418b32523b3738cc182c3a355a2" id="fs_code_166019" value="JCBJWS9028" />
+<div class="foxyshop_variations">
+<label style="color:#333333;" class="foxyshop_quantity" for="quantity_1320"></label>
+<select name="Donation" id="JCBJWS9028_1" class="variation-donation">
+<option value="1 caja{p:9}||1de5d46949856260392972d9706711cf8a377dcbce31a49fc417fa64ba063edc" priceset="900">1 caja ($9.00)</option>
+<option value="2 cajas{p:18}||b8ef6aa24d7e6110180f24c0d6e35129b0c9ea1c08d85ffe92eaccda08e6c77d" priceset="1800">2 cajas ($18.00)</option>
+<option value="3 cajas{p:27}||9e97681279119f0c39d58682f0441b40bddc740ff1dd444ee51bba0326b7e571" priceset="2700">3 cajas ($27.00)</option>
+<option value="4 cajas{p:36}||9f9f54ef489cc3b2bea9fb5297545bcfcac4296a2ba849f050a19dc974a2cfb5" priceset="3600">4 cajas ($36.00)</option>
+<option value="5 cajas{p:45}||bc0b2b212b9aecda5e95694770e41b7738b0380b6fab9c687e681292f3314237" priceset="4500">5 cajas ($45.00)</option>
+<option value="6 cajas{p:54}||32490292f798c54cc3db7ec36c30c13a9ba9ede64e45a583afeed022c78dde9a" priceset="5400">6 cajas ($54.00)</option>
+<option value="7 cajas{p:63}||97d0a9dd57da4a245616fddc4fd8914d19194569e44fced4aa9904b231274bc4" priceset="6300">7 cajas ($63.00)</option>
+<option value="8 cajas{p:72}||0f9e5178644987d7855c022a4184e9d721a0ec4082ac308f53ed68877b1a13ca" priceset="7200">8 cajas ($72.00)</option>
+<option value="9 cajas{p:81}||68c9e45ad81c5343444d3c2c7a27d73200e52257123723d9fb366b4ab5f2bff1" priceset="8100">9 cajas ($81.00)</option>
+<option value="10 cajas{p:90}||5518e6298dbf7c6d44c90f7ac75aaa3e14315fd864ac2e91083dc5d0f1b17ddf" priceset="9000">10 cajas ($90.00)</option>
+<option value="11 cajas{p:99}||1122146548e391a7922be2e6063cd9476dc96665df4035df78630eaf06a1f2ad" priceset="9900">11 cajas ($99.00)</option>
+<option value="12 cajas{p:108}||208406658bf0b08040699836142b9b0c4af34c1237d86ac41277ca53fe7924cf" priceset="10800">12 cajas ($108.00)</option>
+<option value="13 cajas{p:117}||63e48288296b5a9bf665af3604c8924e60fccc1f619c8d56544ca35a49e7c2c6" priceset="11700">13 cajas ($117.00)</option>
+<option value="14 cajas{p:126}||a4585fea5b3374304d8add4442dd57a3a70471fa6128843f4a7357e624baf420" priceset="12600">14 cajas ($126.00)</option>
+<option value="15 cajas{p:135}||19024317382337a97a5ea8f4e59b97289e0e25e08c269c0d31f6fd82289adfa8" priceset="13500">15 cajas ($135.00)</option>
+<option value="16 cajas{p:144}||41cc5c3d80f06dccf577c85595d378f9769d9af02241d7c123800335bef12f05" priceset="14400">16 cajas ($144.00)</option>
+<option value="17 cajas{p:153}||f9109f9e28cd548458844f91de2b4b4a5c36a815c6025b5d3df0536b01d70703" priceset="15300">17 cajas ($153.00)</option>
+<option value="18 cajas{p:162}||9a6598e81d28b9374ae737792424e4497ef3793eaf525ff9d1535bfe4e4d2bad" priceset="16200">18 cajas ($162.00)</option>
+<option value="19 cajas{p:171}||f2152f718ba9b26c6f8c4ddd8b1846aade1874621e521be22d3d97dfd73b9345" priceset="17100">19 cajas ($171.00)</option>
+<option value="20 cajas{p:180}||de4e957d2a0875e2f03fc63ce389f2296d59042a43db14c57362dded86cdb16b" priceset="18000">20 cajas ($180.00)</option>
+<option value="21 cajas{p:189}||c7f858d78cde9335bc9067754a8aa55b11fa820fbc3d626336b60f18b73ccab1" priceset="18900">21 cajas ($189.00)</option>
+<option value="22 cajas{p:198}||a6b52244cb32f4f2fa6cd69b35c1157aabce9365e4b2334fcab37653d8a03420" priceset="19800">22 cajas ($198.00)</option>
+<option value="23 cajas{p:207}||bcf6700ac0a647ac8713cad4122be39a5889816a622b79013326d598699e35bf" priceset="20700">23 cajas ($207.00)</option>
+<option value="24 cajas{p:216}||4ce2501fc88309a23754b2f35669a22eb4475995acf0ec561be58c3a0050ea7e" priceset="21600">24 cajas ($216.00)</option>
+<option value="25 cajas{p:225}||f4e5d30258cd585a61b744e18755d9f0cac95ba05fcdfc338be7b54eff5b5771" priceset="22500">25 cajas ($225.00)</option>
+<option value="26 cajas{p:234}||37bede18cc0cf1ae062461503a05580a3358d5efc205a8aaed6da5b1f3bf34b0" priceset="23400">26 cajas ($234.00)</option>
+<option value="27 cajas{p:243}||751e4f08cc2077bd0b82714b67738d4acb93bf606d77d2477dd3f9c08b28a501" priceset="24300">27 cajas ($243.00)</option>
+<option value="28 cajas{p:252}||04c9b2be3f89f617ec8e848c833ef516f10fc984cbe7fb6689853a84439e7008" priceset="25200">28 cajas ($252.00)</option>
+<option value="29 cajas{p:261}||1bd03a63ee04e00ae3bc79ce2a401a06a87e2859263abf589d439b3c1842b257" priceset="26100">29 cajas ($261.00)</option>
+<option value="30 cajas{p:270}||ef4bab3d0eb6a9e16e4dd0bc4be43dd0550d7c2178576ae2c63bbca1433d5b91" priceset="27000">30 cajas ($270.00)</option>
+<option value="31 cajas{p:279}||0c19b10cdfddd7b0aab480db6c3f03cee1d1760e068c2418f3fe687149d35200" priceset="27900">31 cajas ($279.00)</option>
+<option value="32 cajas{p:288}||11507734219703e05973c79599d7580caceb800cebb18f14f3a1007c750bf4a1" priceset="28800">32 cajas ($288.00)</option>
+<option value="33 cajas{p:297}||b16d83a534ba13fae36f9157833f3d48a97a37d0ffd2a235c2a7e5e1a3740582" priceset="29700">33 cajas ($297.00)</option>
+<option value="34 cajas{p:306}||2a66b3eefdb3bb1848fb289e99fb5511da7cddab18d22699bad13f95e83f8f92" priceset="30600">34 cajas ($306.00)</option>
+<option value="35 cajas{p:315}||f4debaa9746c13a0704387294b9e29919a8d58405f797e9b3da2646044122925" priceset="31500">35 cajas ($315.00)</option>
+<option value="36 cajas{p:324}||a3436ac93d343f2d9f7ea29f2eb93083fce7c1adc0dac429eda0b5f8e0e13a04" priceset="32400">36 cajas ($324.00)</option>
+<option value="37 cajas{p:333}||52a8b06b5e3b552cc00887b9a522a0060b62225bb37accd3b7605ad4d29f48da" priceset="33300">37 cajas ($333.00)</option>
+<option value="38 cajas{p:342}||68cb433cdbdf121afca1df98d32b24d2c300a63d342fc296b63daed33a3a0068" priceset="34200">38 cajas ($342.00)</option>
+<option value="39 cajas{p:351}||510a920499a65765b360af60a7660e3cb27c04f1fa8d5bb60139dfc26718e101" priceset="35100">39 cajas ($351.00)</option>
+<option value="40 cajas{p:360}||f99e91bdae14fdf5c79663eb1898d37aa3ef8c6a0de3e981c0e0bcc790746b4f" priceset="36000">40 cajas ($360.00)</option>
+<option value="41 cajas{p:369}||1c51fabdef5a4d6ab5418d3e6063662e1180a354447268881e3a087e7afb735b" priceset="36900">41 cajas ($369.00)</option>
+<option value="42 cajas{p:378}||7375012e7fb05ac7f98f8b80b28fc3d3bb4e0293168f33a5fdc84abf40ac3ab4" priceset="37800">42 cajas ($378.00)</option>
+<option value="43 cajas{p:387}||44d58b402373c91b14cc9b0aac8125caac2fa471bae0036dfef36bc8de71e2cf" priceset="38700">43 cajas ($387.00)</option>
+<option value="44 cajas{p:396}||92890c1e1fb954db7914ed973d201a47069d72e9f9437a8e765ceafa3016c9fa" priceset="39600">44 cajas ($396.00)</option>
+<option value="45 cajas{p:405}||72d71db72d5dc54026f31a4da577f89f9a4df1a7a2babfaa24d4291c463cf0b2" priceset="40500">45 cajas ($405.00)</option>
+<option value="46 cajas{p:414}||4aeb2f7c0f8bdb99a7fecc292de149fbf5adbdb1e1e67b5fdc20fe7cf8bb1739" priceset="41400">46 cajas ($414.00)</option>
+<option value="47 cajas{p:423}||bfb394cf6f1a850304c5fcba96442f99df6980d3d45a80cd42f902aecf5798f3" priceset="42300">47 cajas ($423.00)</option>
+<option value="48 cajas{p:432}||879f65a29fe45a4680c8544b60cb03d58dcdec640787df251b04bb96529a76e0" priceset="43200">48 cajas ($432.00)</option>
+<option value="49 cajas{p:441}||e20cc4aa1a820b7be0df2975b6952f214adb54ffed6872410a50301079ac4d25" priceset="44100">49 cajas ($441.00)</option>
+<option value="50 cajas{p:450}||55cf5776f673b4d7c966ec839b4e814786ddc92215c5c33544c4187307f9441f" priceset="45000">50 cajas ($450.00)</option>
+<option value="51 cajas{p:459}||40c9260560fbf8137c1552677055333e71d5d1f9d189c233afcff4f94d4e25a6" priceset="45900">51 cajas ($459.00)</option>
+<option value="52 cajas{p:468}||35f77edfb789ceaff5479453c8370c290638126718c074929acf9330a1f51c09" priceset="46800">52 cajas ($468.00)</option>
+<option value="53 cajas{p:477}||cd975c7c12b690654ea6eb9f64ec0d71d3df3055cc3018fb1903a0949b5debe9" priceset="47700">53 cajas ($477.00)</option>
+<option value="54 cajas{p:486}||f70594888144e06f739f11fc879bfb451aae06ba2337055982929f6a35b30ca3" priceset="48600">54 cajas ($486.00)</option>
+<option value="55 cajas{p:495}||f998b66215b4db70adfa3bf2a7a59e5062b9430a1b12f4f76e4073b18bed43ad" priceset="49500">55 cajas ($495.00)</option>
+<option value="56 cajas{p:504}||ed358528e0b6e435accebbf8c6999378dd32bd20e02b883e2f6ed2c6cda6fd3c" priceset="50400">56 cajas ($504.00)</option>
+<option value="57 cajas{p:513}||4fd0fbbffad262b6bcbd9efb27ce7b591548c8c0741d728c9356f674095d008b" priceset="51300">57 cajas ($513.00)</option>
+<option value="58 cajas{p:522}||f7c627603abaa17e3a6bc2f5f0b67b00308f3e0d565feb77620bf51849a97887" priceset="52200">58 cajas ($522.00)</option>
+<option value="59 cajas{p:531}||2bb1bf93325b5ddca445735d057b5e5ab62ad4260f9bb9fa4ee9b07f52ee5cd2" priceset="53100">59 cajas ($531.00)</option>
+<option value="60 cajas{p:540}||e704c3e623e1a514fb095aac6eee7d84d921b2a245fe240bc53f59a65f549d7f" priceset="54000">60 cajas ($540.00)</option>
+<option value="61 cajas{p:549}||af9bd270655d6108f102bc4fc9a2cb06b772c4cb7436901289e0105443aa702e" priceset="54900">61 cajas ($549.00)</option>
+<option value="62 cajas{p:558}||d9c4655bd12e29928a7f7e4998c2fdb133b95b61f71fca7872ec24d93351d77f" priceset="55800">62 cajas ($558.00)</option>
+<option value="63 cajas{p:567}||ba47d9a950ee4fd06537194267bad9f573496600e77c83667db82511d809b3ce" priceset="56700">63 cajas ($567.00)</option>
+<option value="64 cajas{p:576}||762913ade71f9646455dc6ab855681f840d7b08b7bbc11099f8d8db591f806f3" priceset="57600">64 cajas ($576.00)</option>
+<option value="65 cajas{p:585}||df748ccff9c773a1f7ce758b9d7d3e0fab8f9a4d424583d119e95a4bf4177dc8" priceset="58500">65 cajas ($585.00)</option>
+<option value="66 cajas{p:594}||43fadf3eb19545549e285dd4b443d41f2dcbd6522a7b26a2a40ea76a6bf36357" priceset="59400">66 cajas ($594.00)</option>
+<option value="67 cajas{p:603}||1223017df2163479680cee8d29cc3a7f697c11cb0b966c9824bb42190308fce5" priceset="60300">67 cajas ($603.00)</option>
+<option value="68 cajas{p:612}||1118c797157d0378538dc85a2f281294d84cbd9d2f57f8fcf401243ed805b46f" priceset="61200">68 cajas ($612.00)</option>
+<option value="69 cajas{p:621}||045c4e44d89082a0e4e6756aa0383bb0e7ea3021f7870229f7781ddb40b8b616" priceset="62100">69 cajas ($621.00)</option>
+<option value="70 cajas{p:630}||2114b304d2522fcac4753650a3c812ea347cc586397e1b62960a731b7d40bafe" priceset="63000">70 cajas ($630.00)</option>
+<option value="71 cajas{p:639}||c2cfdd0efa1f56145505ae2a01c33f6f78f1021a6a7368ef2fba3a904bb1ad95" priceset="63900">71 cajas ($639.00)</option>
+<option value="72 cajas{p:648}||118dedb4df7d10bf4ae023c47cfab5493f72edfcc4cd332692b29147cd2b63f7" priceset="64800">72 cajas ($648.00)</option>
+<option value="73 cajas{p:657}||e087b4c9a6dbcb450d7bf2eeca0e1cee2f2239696b3701b5a4650d2e1e5591f5" priceset="65700">73 cajas ($657.00)</option>
+<option value="74 cajas{p:666}||0a6eda440f729bb4696964fbd4adb44727c9056740b84e55eb65196c9b6b3404" priceset="66600">74 cajas ($666.00)</option>
+<option value="75 cajas{p:675}||4edffdedd5ca52fe6420a4214cc28963667e809c493c28e1810300d714a977ed" priceset="67500">75 cajas ($675.00)</option>
+<option value="76 cajas{p:684}||5b6fb8972debd12648ac0c07aa35cf8e026d12447cd076b3ca6ab4e1acda6d74" priceset="68400">76 cajas ($684.00)</option>
+<option value="77 cajas{p:693}||ee1e6415b944af91ff780c6785532b8c40792c23f46c119b436d33587e3f7d17" priceset="69300">77 cajas ($693.00)</option>
+<option value="78 cajas{p:702}||142af98fbaf5ecafacfba8ba27c8bf18ce267eedbcb138f524714f1120bf45a4" priceset="70200">78 cajas ($702.00)</option>
+<option value="79 cajas{p:711}||50beece99b095a811257400792a686083d1a6278e219baeed6e79f6b72fb0b6b" priceset="71100">79 cajas ($711.00)</option>
+<option value="80 cajas{p:720}||aa48563be3893b54fa5dd38dd9fd21223643c7245d5d57e7184927b85adb5d49" priceset="72000">80 cajas ($720.00)</option>
+<option value="81 cajas{p:729}||bcedeee5aa77744ce002a784372e5ef756450daa378c2e0759d2a5d4c121c918" priceset="72900">81 cajas ($729.00)</option>
+<option value="82 cajas{p:738}||a4d8ef17a94f7d1b2c1d9ed0f2a1c516f24ee1c1333a678387e357333a40661c" priceset="73800">82 cajas ($738.00)</option>
+<option value="83 cajas{p:747}||6d461ada8ff8049b4be82b6d721cc060c946badc8ab5328f9bd2d91451ec3bb3" priceset="74700">83 cajas ($747.00)</option>
+<option value="84 cajas{p:756}||8d0343b637e735764a5d3442a8b60ae30bd88b30b837de684fcc584a9436bf88" priceset="75600">84 cajas ($756.00)</option>
+<option value="85 cajas{p:765}||43f97d715ed4258c8af36a0a9c61e0b76258c7863c9037c67c29eb03b9fc524a" priceset="76500">85 cajas ($765.00)</option>
+<option value="86 cajas{p:774}||72477378c617aed379cbfe3f00210e131882a73ade40e2545af89e47ba5b83e8" priceset="77400">86 cajas ($774.00)</option>
+<option value="87 cajas{p:783}||9a568191ed5633c8b9bf92bac8a3430524df9e39398d57e0b87e62626201c607" priceset="78300">87 cajas ($783.00)</option>
+<option value="88 cajas{p:792}||830da952ac9c93e14a4f4ae2f7fcf728f73c01254228389ca81ea2bf850d448e" priceset="79200">88 cajas ($792.00)</option>
+<option value="89 cajas{p:801}||4921163a9e0ed2d9c7bb031f0bfea97e8a5bddfa7bce9612a59aee1dab0d9f03" priceset="80100">89 cajas ($801.00)</option>
+<option value="90 cajas{p:810}||e8ea800ceda0fe67490638d810d4e002db28c9997b207bb95fa934c66f4afab9" priceset="81000">90 cajas ($810.00)</option>
+<option value="91 cajas{p:819}||9158e97d11074d253667dc6967ef310902901bba8b263ee81cb5dc08ccb50980" priceset="81900">91 cajas ($819.00)</option>
+<option value="92 cajas{p:828}||550a4da0c5969aeaafc031467224dc6e8f0ac71b0158dbc8f2755ee613980c48" priceset="82800">92 cajas ($828.00)</option>
+<option value="93 cajas{p:837}||88f9e74068621204ff8d4d740a81965029469d8e64815ac96fc2fb05a89d4448" priceset="83700">93 cajas ($837.00)</option>
+<option value="94 cajas{p:846}||3f0e97da6d7af93d3bc1f2b960260668a208219e42f127955ccdf2ab15bc9d56" priceset="84600">94 cajas ($846.00)</option>
+<option value="95 cajas{p:855}||bb8f91ba587aa7d4aaa8553da8deaeb275d6b281d6f890a931385ad39c3d8fc1" priceset="85500">95 cajas ($855.00)</option>
+<option value="96 cajas{p:864}||999d700ba53300fe228e2d318397312a02c1db0c5a32eb7f535282ae70d40dd3" priceset="86400">96 cajas ($864.00)</option>
+<option value="97 cajas{p:873}||bb1be1c225ad31d14aadf36503ef2d18d842410c63bd76ed31b734e7323479d9" priceset="87300">97 cajas ($873.00)</option>
+<option value="98 cajas{p:882}||3c252bd988a35fba17e77d660e5f0d19c8650fc2e4201f2f81756fa6b5a64a66" priceset="88200">98 cajas ($882.00)</option>
+<option value="100 cajas{p:900}||e91d461f5251f4ca2248e73efde8bf6d4842200065ec48ef11fc6b70e230e691" priceset="90000">100 cajas ($900.00)</option>
+</select>
+<div class="clr"></div>
+</div>
+
+
+<!-- PASTE MONTHLY FORM CODE UP TO JAVA SCRIPT INCLUDING CLOSING DIV ABOVE -->        
+        
+        
+    </div>
+      
+      
+<!-- USE THIS BUTTON CODE -->
+    <div class="btn-container">
+      
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_mon">Donar</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$9.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+ ';
+
+	return $out;
+} );
