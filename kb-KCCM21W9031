@@ -1,0 +1,40 @@
+add_shortcode( 'kb-KCCM21W9031', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_80329" rel="80329">
+<input type="hidden" name="price||239f5da9ab14605ed7cc8253412b599e4df4000cd994656c909bd70e17cc12b0" id="fs_price_80329" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_80329" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_80329" />
+<input type="hidden" name="image||8fb82e522d3db911e3c441f4060502f98ffea1a77be721e30a357f1c021c4b75||open" value="https://crosscatholic.org/wp-content/uploads/2021/07/pop-prog-foxy-thumb.jpg" id="foxyshop_cart_product_image_80329" />
+<input type="hidden" name="url||325b6406cc0f94942d858c9c2a455a171480935f5a58f93d8f0bc201bc06c7f0" value="https://crosscatholic.org/products/bless-the-poor-in-latin-america-2/" id="fs_url_80329" />
+<input type="hidden" name="quantity_min||2f28a0c1600783513397bde799a191ae623509d0609138efbafe67e6680832e2||open" value="0" id="fs_quantity_min_80329" />
+<input type="hidden" name="quantity_max||59e240384290cc9e191dad1691de4e3819d1874b5a8432dc8e4a6d9058f73a3e||open" value="0" id="fs_quantity_max_80329" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_80329" />
+<input type="hidden" name="sub_frequency||40817a784f32dcfdb4792e5c724203b433c513df7a126f1a7df6de91e1b2a312||open" id="fs_sub_frequency_80329" value="" />
+<input type="hidden" name="name||d6553504b66d723e51261e4c858ba37f0f472874da38630de46d7dc77353986f" id="fs_name_80329" value="Bless the Poor in Latin America" />
+<input type="hidden" name="code||1794796636802a55c837cb1125f47183b152b707f77b80b8e2db3c51f7580c12" id="fs_code_80329" value="KCCM21W9031" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCM21W9031_1" class="variation-donation">
+<option value="$5,000{p:5000}||41c4047f3d119e2529904989ff20bc2c4acfdd5e7a7373621b99d4ebbc2cab6d" priceset="500000">$5,000</option>
+<option value="$2,500{p:2500}||2a76e6c461efac56e29f886f0bfdc208aeced6de4ca248a90e4fdbefe1addea0" priceset="250000">$2,500</option>
+<option value="$1,500{p:1500}||8b74f03c6191571ec7d23c31a0d3fd24d5a30fedfada5bf860a25b03470c96eb" priceset="150000">$1,500</option>
+<option selected="" value="$1,000{p:1000}||d46b732e11eb9fa2d76b7a9db6cde9d2aa817047eb170802d2dbdf18c9c45d2b" priceset="100000">$1,000</option>
+<option value="Other{dkey:custom-price}||42aef8ef5c5b19f5a34de18d02baba1e793b7e1cfe6a7fa222744cc43de91c45" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<input type="text" name="price||f455972931fee29905432408926e3af8f1a0181cc9cd5064e4f30a6be95f0c13||open" id="KCCM21W9031_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||44f6b6495b2faf925a3b9b9b0d6b64b876771b31b5641726507e6c3e2cf1c17f" id="KCCM21W9031_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="KCCM21W9031_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||8a3a37d5bc9ccf106f018e3d92a1c59bcb4c17c2bb27e1b26b252f49249533ed" id="KCCM21W9031_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="KCCM21W9031_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+<script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
