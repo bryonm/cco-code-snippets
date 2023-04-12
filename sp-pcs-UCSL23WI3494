@@ -1,0 +1,40 @@
+add_shortcode( 'sp-pcs-UCSL23WI3494', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_187022" rel="187022">
+<input type="hidden" name="price||4e992e7a96df064803b831df037b3f494764d86cec3002372e30121813243085" id="fs_price_187022" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_187022" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_187022" />
+<input type="hidden" name="image||15ca7ff31cecb03a115416f82e1d3279931098a8e1536e25425e216fbce22ba3||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/Lent2023-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_187022" />
+<input type="hidden" name="url||2a5e29c7960d4d11526d75f76128b0bb768913db03781a487f108bbbc7481796" value="https://crosscatholic.org/products/agua-pura-para-los-necesitados-donacion-3/" id="fs_url_187022" />
+<input type="hidden" name="quantity_min||97f88bc9c135e54b2e57a93896364ae87457365801e1c26198db1fd78f21707c||open" value="0" id="fs_quantity_min_187022" />
+<input type="hidden" name="quantity_max||de6893484ba1b3614e6bfa58b266f166021650dcc84924d01063eadf6fb12740||open" value="0" id="fs_quantity_max_187022" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_187022" />
+<input type="hidden" name="sub_frequency||669496e294d69aedf314133622e134668cb530eaf6ead8a2a9fd520fa41055b6||open" id="fs_sub_frequency_187022" value="" />
+<input type="hidden" name="name||22ba6b71aaca9c05b7d5d36e73e11c4d97424eb2fb28191b316d578e678e0e44" id="fs_name_187022" value="Agua Pura para los Necesitados donación" />
+<input type="hidden" name="code||9871842607706512df38a9e1c980bda6a9c5a05bcc553a470248018d6ca4d79e" id="fs_code_187022" value="UCSL23WI3494" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCSL23WI3494_1" class="variation-donation">
+<option value="$250{p:250}||f09ae6e4485725f6677ec4d228d6d66b242891f6abdb386374a876f450fb3448" priceset="25000">$250</option>
+<option value="$125{p:125}||7940bbee3055ef1fdd5715caddbc48bc60a1cd25d455c6a150a207eb997d0408" priceset="12500">$125</option>
+<option selected="" value="$50{p:50}||c88ea4541616706b33ec6f974f07c1960bd72f63ea2f71389625a6adaf710069" priceset="5000">$50</option>
+<option value="$25{p:25}||b38e1452b37e8093143d6d29a407e231a5a50356109fffe2167f62489a7ecc46" priceset="2500">$25</option>
+<option value="Otro{dkey:custom-price}||7bbe88b56928ac68775f144c97386316799afe06ffdcee3937e520324b0e1b40" displaykey="custom-price">Otro</option>
+</select>
+<div class="clr"></div>
+<label for="UCSL23WI3494_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||04a43084f42242eebffd42c46fd95d51a2bf1337bbd9c652049e393a375ec743||open" id="UCSL23WI3494_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||f1d513f53c025fbbcc0a25d70d07db26fb4d5fd8d9d4721478eefcee0254ef32" id="UCSL23WI3494_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="UCSL23WI3494_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+MOT}||ccf4d93bf471f05ccbcc0dfe43e521bf28ac7c3573b74ffcafba7dda610ea79c" id="UCSL23WI3494_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="UCSL23WI3494_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">DONE</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
