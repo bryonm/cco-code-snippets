@@ -29,8 +29,7 @@ add_shortcode( 'kb-KCCM21W9001', function () {
 <label for="KCCM21W9001_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
 <div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||b25c18dd888df663c99750b75b7b82fd904ca52a588b87809b6f51d1f8b001fd" id="KCCM21W9001_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
 <label for="KCCM21W9001_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
-<div class="clr"></div></div><div class="clr"></div>
-<script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
+<div class="clr"></div></div>
 </div>
 
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
