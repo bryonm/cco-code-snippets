@@ -1,0 +1,38 @@
+add_shortcode( 'kb-KCCM21W9007', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_80304" rel="80304">
+<input type="hidden" name="price||464c64f3c2b51d50e1d1eeaef4ad5da03ba9042752a6279159699b30fb45ebb4" id="fs_price_80304" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_80304" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_80304" />
+<input type="hidden" name="image||06ad7764501a2de8110c8d0d0c55c34830ae8fed571343f4139513d06f6bd468||open" value="https://crosscatholic.org/wp-content/uploads/2021/07/md-Clean-Water-foxy-thumb.jpg" id="foxyshop_cart_product_image_80304" />
+<input type="hidden" name="url||77e6769aef34a077a8df63074ca43a89a1b3cccbef632ec11fb52737396a01b8" value="https://crosscatholic.org/products/provide-clean-water-2/" id="fs_url_80304" />
+<input type="hidden" name="quantity_min||881db8a66c21956b1b9f6f1da84558bf3327fed192aee7fb0fda7d64361c7209||open" value="0" id="fs_quantity_min_80304" />
+<input type="hidden" name="quantity_max||9dd7a3903b92316a3ade9a91f2278365d9a49382f30654d26cc23fffbae0d345||open" value="0" id="fs_quantity_max_80304" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_80304" />
+<input type="hidden" name="sub_frequency||973aa198de2ef23347264288b0de8842ee55f1b9758dfb31231cad23a735a451||open" id="fs_sub_frequency_80304" value="" />
+<input type="hidden" name="name||54bb0c70f3ea886925388b134d0c4f97ec780bbc0dd91a8363133a2268e633c4" id="fs_name_80304" value="Provide Clean Water" />
+<input type="hidden" name="code||38e0f2c880c6fbfadfea836a8ac2f23f78836c17ed9d64fccefab8a1c126abb5" id="fs_code_80304" value="KCCM21W9007" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCM21W9007_1" class="variation-donation">
+<option value="$5,000{p:5000}||0b3b727c658d88a828ea1e2f7bc6dfcb904362295d9fa976f9a09aca15212f0b" priceset="500000">$5,000</option>
+<option value="$2,500{p:2500}||9b0b55f3b3f9add9f81f07d3ef6ba5222d2d9e81541fdf3ecc9d55a4fcf56de9" priceset="250000">$2,500</option>
+<option value="$1,500{p:1500}||b523937fc3591fa1bdcadff0f8885007b3bac6355a83a8201b023baa7898fe2c" priceset="150000">$1,500</option>
+<option selected="" value="$1,000{p:1000}||c1ee3d8d909df481d833bba0eacd294c4fa3ad80fd709104837e8775a2836024" priceset="100000">$1,000</option>
+<option value="Other{dkey:custom-price}||817964e673b4cf5d69113e9755d2c759e07ed659360a4ff05b524dfa5657ddd6" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<input type="text" name="price||daec413cf470d95104e666580870f77aff8d75024c2c673b14c4cae86735a4cb||open" id="KCCM21W9007_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||e48e85282019c4ff74a912b275af8f18ec8ab167624572684c495c57a36c7178" id="KCCM21W9007_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="KCCM21W9007_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||cd7e2e1d1e9c0e1489160028629326e714efc68075313e5e75988fd701a72922" id="KCCM21W9007_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="KCCM21W9007_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
