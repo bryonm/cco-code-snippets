@@ -1,0 +1,40 @@
+add_shortcode( 'kb-KCCS23W3494KB', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_189740" rel="189740">
+<input type="hidden" name="price||3f850db6d149ae0670a9fe017e1bcbe6d6e7945fd6099460b6e3b9f6bc6c007d" id="fs_price_189740" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_189740" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_189740" />
+<input type="hidden" name="image||5b8f780aa4d0e9c3be91a6b101da8aff1c497ef5bbab9e163f0cd2bb35b07b01||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/2023SpringMD-WellsOfSalvation-foxy-thumb.jpg" id="foxyshop_cart_product_image_189740" />
+<input type="hidden" name="url||60a41bc852daaf417263f42d7a1f704bb9f440796130d273685640534d0e9966" value="https://crosscatholic.org/products/provide-clean-water-3/" id="fs_url_189740" />
+<input type="hidden" name="quantity_min||50ce785bf1bac2c77feab32aa3b4ed6d6c590c4e52a737e37ee79491c82d17b8||open" value="0" id="fs_quantity_min_189740" />
+<input type="hidden" name="quantity_max||b8217010846a108503b3d7a7137699ff23b15533ad155341281ffa237f9e7839||open" value="0" id="fs_quantity_max_189740" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_189740" />
+<input type="hidden" name="sub_frequency||1c22bcaf40c778cf43825b2ed684dd7b811b1743cac0e1865b1404ab17fcbaa0||open" id="fs_sub_frequency_189740" value="" />
+<input type="hidden" name="name||6dc01898ba04f41e361aca18d434b732d41fbf7b4571a06f6187989a847d5b94" id="fs_name_189740" value="Provide Clean Water" />
+<input type="hidden" name="code||bc72d096c9ccea70a97f9c5a9fd321fd557367c4c5fef907e9b3e859c708250a" id="fs_code_189740" value="KCCS23W3494KB" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCS23W3494KB_1" class="variation-donation">
+<option value="$2,013 will bless 82 people{p:2013}||7f43c7884da18cdcf91572251ed112b0d9f9d3ba7cdbfb03007b31dfc54a0500" priceset="201300">$2,013 will bless 82 people</option>
+<option value="$1,105 will bless 45 people{p:1105}||aa101c29e1ec548c3d28ccf824f58737d2b078f265bfb250ac80264ba343016e" priceset="110500">$1,105 will bless 45 people</option>
+<option selected="" value="$516 will bless 21 people{p:516}||5074b30056dd1aeb705bde27f10e50a13ecc1114b1f2271206389afcdf74d7e8" priceset="51600">$516 will bless 21 people</option>
+<option value="$246 will bless 10 people{p:246}||ec7ca358d6f18ce3492225d3280164d2dffe8216ee83b38e16df3b9884e9753b" priceset="24600">$246 will bless 10 people</option>
+<option value="Other{dkey:custom-price}||1f273875358f3ae0b8da566404f0646239446514b60feb7e95248f293bb46dd1" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="KCCS23W3494KB_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||969d1af8cd811125fec732632e6e8766c1f26b86290560fa7875b3a538a5cd16||open" id="KCCS23W3494KB_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||860b7808aa3b5c20322a437cb253ee5a5ece16efc2e71866be4112cb14a4f2a8" id="KCCS23W3494KB_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="KCCS23W3494KB_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||fd852bba4344c9908f1a86733044b8f2baf33920c667113b1f88461406cbd862" id="KCCS23W3494KB_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="KCCS23W3494KB_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+</div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
