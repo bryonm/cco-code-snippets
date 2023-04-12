@@ -1,0 +1,34 @@
+add_shortcode( 'kb-KCCF22W3484', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_160349" rel="160349">
+<input type="hidden" name="price||17d894697c961f9f2894c359b315e528b410a93fe395362039af389e20a3ef02" id="fs_price_160349" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_160349" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_160349" />
+<input type="hidden" name="image||91f32de857f7ebee5f03f27db63a3613d762683def2388fc52ebb2150b5d6ae1||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/Adventparish2022-foxythumb-1.jpg" id="foxyshop_cart_product_image_160349" />
+<input type="hidden" name="url||d46b9e078b8a91afb1afb9af47611c9e990652b0e86e3171dff449c3f8de57e6" value="https://crosscatholic.org/products/transforming-lives-in-guatemala-3/" id="fs_url_160349" />
+<input type="hidden" name="quantity_min||16b8c4eac68db303624473057da6ba660652ceb1ff0eb2033f0c6acab4356ca2||open" value="0" id="fs_quantity_min_160349" />
+<input type="hidden" name="quantity_max||3988616a5ac3ff11b28068ba8aec848ca68950912e5d756ac14abb49c4b2f905||open" value="0" id="fs_quantity_max_160349" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_160349" />
+<input type="hidden" name="sub_frequency||fa50525e3303870cbba8f247f0587407f1ebeb4ed4be38d506983944bcdd9467||open" id="fs_sub_frequency_160349" value="" />
+<input type="hidden" name="name||16d7625923fd1699565513679ecd381a336c50306aeeddb595f18ae15450dc60" id="fs_name_160349" value="Transforming Lives in Guatemala" />
+<input type="hidden" name="code||489c9162815fd26dbf2f28886f8b2925d0a0e7b53ee8434f9d2c243659964b50" id="fs_code_160349" value="KCCF22W3484" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCF22W3484_1" class="variation-donation">
+<option value="$2,109 will help build a safe new home for a family{p:2109}||ca29494135337955e1b3aabeec96a2b478143ef3207a38fee949eee8165b6cce" priceset="210900">$2,109 will help build a safe new home for a family</option>
+<option value="$1,055 will help build a safe new home for a family{p:1055}||b7648fb87740c57a20d17dbb63b3a6eee682b359749015ddbde9439133d6ef32" priceset="105500">$1,055 will help build a safe new home for a family</option>
+<option selected="" value="$528 will help build a safe new home for a family{p:528}||e7e66690df6c700f0c73968e22175e8a0a9e71c52340c9ba49821e25b70917f8" priceset="52800">$528 will help build a safe new home for a family</option>
+<option value="$264 will help build a safe new home for a family{p:264}||e0044402cf5e748aab6b91a2b34f79f023b222125bc04ea945676137a30dbda0" priceset="26400">$264 will help build a safe new home for a family</option>
+<option value="Other{dkey:custom-price}||e1d3b272e31113bbe57614f19be07899beb084561d5a700d94e0859c806120e2" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="KCCF22W3484_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||f54563f97509c61085de1a7887b8258163ce990af5b2f8be80d36b079d7065ca||open" id="KCCF22W3484_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
