@@ -28,9 +28,7 @@ add_shortcode( 'kb-KCCM21W9031', function () {
 <div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||44f6b6495b2faf925a3b9b9b0d6b64b876771b31b5641726507e6c3e2cf1c17f" id="KCCM21W9031_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
 <label for="KCCM21W9031_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
 <div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||8a3a37d5bc9ccf106f018e3d92a1c59bcb4c17c2bb27e1b26b252f49249533ed" id="KCCM21W9031_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
-<label for="KCCM21W9031_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
-<div class="clr"></div></div><div class="clr"></div>
-<script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
+<label for="KCCM21W9031_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label></div>
 </div>
 
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
