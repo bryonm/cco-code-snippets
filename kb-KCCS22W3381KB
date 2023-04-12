@@ -1,0 +1,39 @@
+add_shortcode( 'kb-KCCS22W3381KB', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_119367" rel="119367">
+<input type="hidden" name="price||54eaaf9e2ee75c6bbe04943d373ccd6b0ada9f49f9cab008db474f15e504d8ca" id="fs_price_119367" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_119367" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_119367" />
+<input type="hidden" name="image||6b7e2f04b1c36fc3baf2eb13dec3dc5bbaa67587200e2786d7ae3da047ed3ce4||open" value="https://crosscatholic.org/wp-content/uploads/2022/02/Multi-Partner-Water-Wells-of-Salvation_1-150x150.jpg" id="foxyshop_cart_product_image_119367" />
+<input type="hidden" name="url||3c304da3c5ce040f9d28a48ef4133aa77937e034193d9edf57d78b5bb1f64e53" value="https://crosscatholic.org/products/clean-water/" id="fs_url_119367" />
+<input type="hidden" name="quantity_min||8465f16746121d61af77e10193b6982768b7facfc20007c68471b9f9bc5819c6||open" value="0" id="fs_quantity_min_119367" />
+<input type="hidden" name="quantity_max||8253eef33434f8a06b61398471dc7cbba6db84166b4a5104e3e202c5e185b9de||open" value="0" id="fs_quantity_max_119367" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_119367" />
+<input type="hidden" name="sub_frequency||9fb905b0c74fa307949e16ece05306e396fd72ecc3a168dd4ff6eb159bf46876||open" id="fs_sub_frequency_119367" value="" />
+<input type="hidden" name="name||6bc6d3f7da32fcf17d32629ad4aff16238bec93889ad860d8a0c0e1a0b0a14b2" id="fs_name_119367" value="Clean Water" />
+<input type="hidden" name="code||9c1e5cb71a20f1c595da533fa431b5984e51f84d5e3c746f120145d6ff903fdd" id="fs_code_119367" value="KCCS22W3381KB" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCS22W3381KB_1" class="variation-donation">
+<option value="$1,008 gives water to 40 people{p:1008}||0d1b9d0332775b5bb469804f7d54ea6f72842b67f8a424c3e290005be1d277a4" priceset="100800">$1,008 gives water to 40 people</option>
+<option value="$1,512 gives water to 60 people{p:1512}||fec0a62d8c4e4b47ea0ca522af8ec8587ab343ee628a78bd969f70645ed63d5d" priceset="151200">$1,512 gives water to 60 people</option>
+<option value="$2,495 gives water to 99 people{p:2495}||aee84d8a70260b792479932efc100719ad206b122f50286654af395066cdc6d4" priceset="249500">$2,495 gives water to 99 people</option>
+<option value="$4,990 gives water to 198 people{p:4990}||398b37cfabc2b98fbfb300966e554a9b123ed43ac998ef2e7102250a2fa39a50" priceset="499000">$4,990 gives water to 198 people</option>
+<option value="Other{dkey:custom-price}||1e1189376dc698929679966d92f63ed7e326820eba092dd9dfdfefa6a52ec22f" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<input type="text" name="price||18bcde5a7e8ed5ec50fe8e46845b17c3e26e0571f2aa177a74e138c230767845||open" id="KCCS22W3381KB_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||4e20388270caf9f469e7e0925767582e70d947a76c93d9e935dd23982d6de3b0" id="KCCS22W3381KB_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="KCCS22W3381KB_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||c12d43a13c7219ffc04889bca1c0ea1f17deca2032f662e1aeb14cbe23d73e2e" id="KCCS22W3381KB_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="KCCS22W3381KB_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+</div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
