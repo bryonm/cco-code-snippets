@@ -27,7 +27,7 @@ add_shortcode( 'pcs-UCPWGH9021', function () {
 <div class="clr"></div>
 </div>
 
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button yvh_style">Donate Now</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form></div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button yvh_style">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form></div>
 ';
 
 	return $out;
