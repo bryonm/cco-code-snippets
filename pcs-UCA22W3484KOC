@@ -1,0 +1,29 @@
+add_shortcode( 'pcs-UCA22W3484KOC', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_163669" rel="163669">
+<input type="hidden" name="price||f10a321888288ab751b0230e51937aa252488db1444255c33fd0ea6ae4131dd5" id="fs_price_163669" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_163669" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_163669" />
+<input type="hidden" name="image||7be35a6223a449262a82d528688b33cf1c1603442bed02d6f6687daad0ce4b88||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/Adventparish2022-foxythumb-2.jpg" id="foxyshop_cart_product_image_163669" />
+<input type="hidden" name="url||db7baff83968770ee9e3fa0192aa5c01e0113173553c9babbce8f636947fa0c0" value="https://crosscatholic.org/products/transforming-lives-in-santa-rosa-4/" id="fs_url_163669" />
+<input type="hidden" name="quantity_min||1b6e1a067a1bc8b21cf79af1be48370d29fa66553584d00343f7ea8f182a0268||open" value="0" id="fs_quantity_min_163669" />
+<input type="hidden" name="quantity_max||325ee15a4fe83a4464ebac9fd821968e8ecafa3d201c6a2254e34ad9347a8f5e||open" value="0" id="fs_quantity_max_163669" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_163669" />
+<input type="hidden" name="name||4875e20e5ee03e3d45d7249c54d670c196a8f2cb0e824e6cec837bd5c76a3b8e" id="fs_name_163669" value="Transforming Lives in Santa Rosa" />
+<input type="hidden" name="code||0b20aec7497123d88c00635b106b8b1a01a04cb352a4fe2ca0d637a8540d9d15" id="fs_code_163669" value="UCA22W3484KOC" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCA22W3484KOC_1" class="variation-donation">
+<option value="$500{p:500}||1e43efdf8e1ea2a969271705c54654695fe0defaea3e6706e4a029266513c8ea" priceset="50000">$500</option>
+<option value="Other{dkey:custom-price}||2aa71d91c04b34a566fe5fb82b11a2829e27e75b6c206d97509176b805ec9ff7" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="UCA22W3484KOC_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||884673c4af1adcb0d03199770aa156d3922f9bcbdb27fc8f5e881c50f3675901||open" id="UCA22W3484KOC_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
