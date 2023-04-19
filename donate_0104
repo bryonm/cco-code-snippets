@@ -1,0 +1,77 @@
+add_shortcode( 'donate_0104', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_113332" rel="113332">
+<input type="hidden" name="price||cbf74da089548d0a022685fbc5476a610f655ba109ea83b19136d82821b2828e" id="fs_price_113332" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_113332" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_113332" />
+<input type="hidden" name="image||3ad89b5f941e1749f2f63f4f9ab0d1307ad91c753c72ef566b7498ea982cc6e9||open" value="https://crosscatholic.org/wp-content/uploads/2022/01/0104-foxy-thumb.jpg" id="foxyshop_cart_product_image_113332" />
+<input type="hidden" name="url||dbae28bdd6f2551abcb11bcbaa365a0b3e409791a29d372cd098ac82e38f61a2" value="https://crosscatholic.org/products/0104-st-anns-home-scholarships-25-gift/" id="fs_url_113332" />
+<input type="hidden" name="quantity_min||6bc1383b01054d10c8d244de11a44218f007874ceca2fce38cbcc938ee0747a7||open" value="0" id="fs_quantity_min_113332" />
+<input type="hidden" name="quantity_max||36273cb8929a5d5855cd591c9677058e7b5972737f3cf0b4fb183d4c4c0f1045||open" value="0" id="fs_quantity_max_113332" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_113332" />
+<input type="hidden" name="name||8086ecd46141fcc66cc72b3fa8294a4256f8e303608196ef6c2e4c3b27e9f099" id="fs_name_113332" value="0104 - St. Ann’s Home Scholarships $25 Gift" />
+<input type="hidden" name="code||243c998b19d1b0533d35fef3717da94c026b74fc11f3e24fe9137b68d02794f9" id="fs_code_113332" value="WCPROJ0104" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||43fec107e196c126944510e038bee83411383c0fac2d608a40b7d7631db68570" id="WCPROJ0104_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_113339" rel="113339">
+<input type="hidden" name="price||1bc5e35cfee08f9084a7c951bb718a33616b0d5716ce32f2ab1d616fa730c030" id="fs_price_113339" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_113339" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_113339" />
+<input type="hidden" name="image||3ad89b5f941e1749f2f63f4f9ab0d1307ad91c753c72ef566b7498ea982cc6e9||open" value="https://crosscatholic.org/wp-content/uploads/2022/01/0104-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_113339" />
+<input type="hidden" name="url||be73de544100799936f3c83382a91afbb3f2617782e3f5f418f70400273de1b1" value="https://crosscatholic.org/products/0104-st-anns-home-scholarships-50-gift/" id="fs_url_113339" />
+<input type="hidden" name="quantity_min||6bc1383b01054d10c8d244de11a44218f007874ceca2fce38cbcc938ee0747a7||open" value="0" id="fs_quantity_min_113339" />
+<input type="hidden" name="quantity_max||36273cb8929a5d5855cd591c9677058e7b5972737f3cf0b4fb183d4c4c0f1045||open" value="0" id="fs_quantity_max_113339" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_113339" />
+<input type="hidden" name="name||922a70985a10502595aa79b626626f60c8b5f8abca2d7b2fac80635e8ed68a19" id="fs_name_113339" value="0104 - St. Ann’s Home Scholarships $50 Gift" />
+<input type="hidden" name="code||243c998b19d1b0533d35fef3717da94c026b74fc11f3e24fe9137b68d02794f9" id="fs_code_113339" value="WCPROJ0104" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||ce45c5799ed86022ec9e6d71924e9c6ac92e22253298cc14b47affdbfe6273b4" id="WCPROJ0104_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_113344" rel="113344">
+<input type="hidden" name="price||afb139b270a5a9e29d0a1ffb0af661d739c0d18dfec21d33bd2a5f1f05b236d7" id="fs_price_113344" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_113344" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_113344" />
+<input type="hidden" name="image||3ad89b5f941e1749f2f63f4f9ab0d1307ad91c753c72ef566b7498ea982cc6e9||open" value="https://crosscatholic.org/wp-content/uploads/2022/01/0104-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_113344" />
+<input type="hidden" name="url||be16031e4d840e4020d106866bd5088d01b327389d150a11c295027ca67d5bbd" value="https://crosscatholic.org/products/0104-st-anns-home-scholarships-100-gift/" id="fs_url_113344" />
+<input type="hidden" name="quantity_min||6bc1383b01054d10c8d244de11a44218f007874ceca2fce38cbcc938ee0747a7||open" value="0" id="fs_quantity_min_113344" />
+<input type="hidden" name="quantity_max||36273cb8929a5d5855cd591c9677058e7b5972737f3cf0b4fb183d4c4c0f1045||open" value="0" id="fs_quantity_max_113344" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_113344" />
+<input type="hidden" name="name||0a4ae757034943ec4273f8cb026767f2841c16956d48a26b351b6784f31603e7" id="fs_name_113344" value="0104 - St. Ann’s Home Scholarships $100 Gift" />
+<input type="hidden" name="code||243c998b19d1b0533d35fef3717da94c026b74fc11f3e24fe9137b68d02794f9" id="fs_code_113344" value="WCPROJ0104" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||9db7fad3abba6e7dc97a4e7cf6c1ac79fc2bc80e4a3203de719534f0e719d137" id="WCPROJ0104_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_113333" rel="113333">
+<input type="hidden" name="price||27276f4401690bec9422807eaacffb093b6d84f8ae9739eedcdd33af70750e06" id="fs_price_113333" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_113333" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_113333" />
+<input type="hidden" name="image||3ad89b5f941e1749f2f63f4f9ab0d1307ad91c753c72ef566b7498ea982cc6e9||open" value="https://crosscatholic.org/wp-content/uploads/2022/01/0104-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_113333" />
+<input type="hidden" name="url||e8d5d09ac3f3c8c7adfd226698931a08c8312764dd1ea5da244ae6da701710c5" value="https://crosscatholic.org/products/0104-st-anns-home-scholarships/" id="fs_url_113333" />
+<input type="hidden" name="quantity_min||6bc1383b01054d10c8d244de11a44218f007874ceca2fce38cbcc938ee0747a7||open" value="0" id="fs_quantity_min_113333" />
+<input type="hidden" name="quantity_max||36273cb8929a5d5855cd591c9677058e7b5972737f3cf0b4fb183d4c4c0f1045||open" value="0" id="fs_quantity_max_113333" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_113333" />
+<input type="hidden" name="name||973b8acfb822cd29fa0fe29e82b105b5fe6ebd430c9858e9063642e447bded1f" id="fs_name_113333" value="0104 - St. Ann’s Home Scholarships" />
+<input type="hidden" name="code||243c998b19d1b0533d35fef3717da94c026b74fc11f3e24fe9137b68d02794f9" id="fs_code_113333" value="WCPROJ0104" />
+<div class="foxyshop_variations">
+<input type="text" name="price||96eb8294ad8f85638f4b6096b5dc5aec026c05b96fbb2a208d63f87ac4235ce9||open" id="WCPROJ0104_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
