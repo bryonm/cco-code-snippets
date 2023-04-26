@@ -6,7 +6,7 @@ add_shortcode( 'cr-WC23059001MOT', function () {
 <input type="hidden" name="price||fe01f5baa60715eb3694f398770ec1a7f6c0cbeaf435d9fd483955511027b79d" id="fs_price_201153" value="15.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_201153" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_201153" />
-<input type="hidden" name="image||b9dd45a9e8fc4074ceb9d5dd7cadcfd86cecd0607f538febe7a41f284d4e6037||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_201153" />
+<input type="hidden" name="image||b9dd45a9e8fc4074ceb9d5dd7cadcfd86cecd0607f538febe7a41f284d4e6037||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/2023food-monthly-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_201153" />
 <input type="hidden" name="url||ea038971d9dda1c71297a1185b27e96db06424859293146bba3f3ab5afb9cf27" value="https://crosscatholic.org/products/15-monthly-donation-feed-the-hungry-and-change-lives-2/" id="fs_url_201153" />
 <input type="hidden" name="quantity_min||ac9e908e410dad7a439f48b7559142be6ee0cc1bba25315d7e48ffdba9d77026||open" value="0" id="fs_quantity_min_201153" />
 <input type="hidden" name="quantity_max||0687559b9a3cb698c2df5ab607b2a63ec61b00fb794c6da02fe18308a520b147||open" value="0" id="fs_quantity_max_201153" />
@@ -23,7 +23,7 @@ add_shortcode( 'cr-WC23059001MOT', function () {
 <input type="hidden" name="price||4134692cf89217cd3e2fc8a3a8f4a0ac5b5768f7e50df1232e501f1cb14fc8e6" id="fs_price_201154" value="25.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_201154" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_201154" />
-<input type="hidden" name="image||b9dd45a9e8fc4074ceb9d5dd7cadcfd86cecd0607f538febe7a41f284d4e6037||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_201154" />
+<input type="hidden" name="image||b9dd45a9e8fc4074ceb9d5dd7cadcfd86cecd0607f538febe7a41f284d4e6037||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/2023food-monthly-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_201154" />
 <input type="hidden" name="url||de081de63bd2c267e77cb3a2a1af9093a2517ca9768b2eaac5caa45c3e9d5990" value="https://crosscatholic.org/products/25-monthly-donation-to-feed-the-hungry-and-change-lives-2/" id="fs_url_201154" />
 <input type="hidden" name="quantity_min||ac9e908e410dad7a439f48b7559142be6ee0cc1bba25315d7e48ffdba9d77026||open" value="0" id="fs_quantity_min_201154" />
 <input type="hidden" name="quantity_max||0687559b9a3cb698c2df5ab607b2a63ec61b00fb794c6da02fe18308a520b147||open" value="0" id="fs_quantity_max_201154" />
@@ -40,7 +40,7 @@ add_shortcode( 'cr-WC23059001MOT', function () {
 <input type="hidden" name="price||7d5093a8eccb4b7cdcadc65fb72c4ad88e4ab21b30075ef5b00a36ddc21b0898" id="fs_price_201155" value="35.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_201155" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_201155" />
-<input type="hidden" name="image||b9dd45a9e8fc4074ceb9d5dd7cadcfd86cecd0607f538febe7a41f284d4e6037||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_201155" />
+<input type="hidden" name="image||b9dd45a9e8fc4074ceb9d5dd7cadcfd86cecd0607f538febe7a41f284d4e6037||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/2023food-monthly-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_201155" />
 <input type="hidden" name="url||26449c29c185172ed2fb817f52456444b1d4a56e98f210c9eaf0185047a681b9" value="https://crosscatholic.org/products/35-monthly-donation-to-feed-the-hungry-and-change-lives-2/" id="fs_url_201155" />
 <input type="hidden" name="quantity_min||ac9e908e410dad7a439f48b7559142be6ee0cc1bba25315d7e48ffdba9d77026||open" value="0" id="fs_quantity_min_201155" />
 <input type="hidden" name="quantity_max||0687559b9a3cb698c2df5ab607b2a63ec61b00fb794c6da02fe18308a520b147||open" value="0" id="fs_quantity_max_201155" />
