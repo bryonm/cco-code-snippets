@@ -1,0 +1,58 @@
+add_shortcode( 'sp-cr-WCS23059001MOT', function () {
+
+	$out = '<div class="flex-container">
+<!-- $15 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_201196" rel="201196">
+<input type="hidden" name="price||8fbc982838d6727739e494b648606696ba331fce69699d5d7927d9f2c44f3586" id="fs_price_201196" value="15.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_201196" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_201196" />
+<input type="hidden" name="image||10b8063aa77c82b0fa0d7ea6928a2abbc505f9813c7e0967649e06a255dee19a||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/2023food-monthly-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_201196" />
+<input type="hidden" name="url||b819a62f13ed62eb0cdf89293c9df62a0f54df6d4f162a044696b0adf07b9c1a" value="https://crosscatholic.org/products/15-donacion-mensual-alimenta-a-los-hambrientos-y-cambia-vidas-2/" id="fs_url_201196" />
+<input type="hidden" name="quantity_min||053055e828675c4fa26bf06ad0d6b068d07c1309ce9c9defebfa06aea779e883||open" value="0" id="fs_quantity_min_201196" />
+<input type="hidden" name="quantity_max||b3232baefec03140149dc5ed7dbb71a9f592470b5e7417f93821d8269ea77024||open" value="0" id="fs_quantity_max_201196" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_201196" />
+<input type="hidden" name="sub_frequency||cccfa5b80afafc10b39f873337444743a36b36255a0bb9258ccc79c99f23c80a||open" id="fs_sub_frequency_201196" value="1m" />
+<input type="hidden" name="name||bc2b8fd8ddd2f0b8b6301215f97d415f351d3204505f00f0b0bce9dad0003ed3" id="fs_name_201196" value="$15 Donación Mensual Alimenta a los Hambrientos y Cambia Vidas" />
+<input type="hidden" name="code||db9368b484065c1d1d859a0499bc9c0a2b29ca6c425c1e44489152f3999b27b5" id="fs_code_201196" value="WCS23059001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$15_monthly_donation||325bd7c7209106ef6c62adae808661c2f504d11fd4cbc2e6fdc066e861bb2d62" id="WCS23059001MOT_1" value="" class="variation-15-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$15 al mes</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$15.00</span></div></div></form>
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_201197" rel="201197">
+<input type="hidden" name="price||d27f96cdf8fd5f5df973fbde6749700235c9957ba99bfa4d5c21f0cf928d61bd" id="fs_price_201197" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_201197" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_201197" />
+<input type="hidden" name="image||10b8063aa77c82b0fa0d7ea6928a2abbc505f9813c7e0967649e06a255dee19a||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/2023food-monthly-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_201197" />
+<input type="hidden" name="url||ac8dbd7ac81b9d62bff631da216b6732de60741a5093b22ba7990eade061ee18" value="https://crosscatholic.org/products/25-donacion-mensual-alimenta-a-los-hambrientos-y-cambia-vidas-2/" id="fs_url_201197" />
+<input type="hidden" name="quantity_min||053055e828675c4fa26bf06ad0d6b068d07c1309ce9c9defebfa06aea779e883||open" value="0" id="fs_quantity_min_201197" />
+<input type="hidden" name="quantity_max||b3232baefec03140149dc5ed7dbb71a9f592470b5e7417f93821d8269ea77024||open" value="0" id="fs_quantity_max_201197" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_201197" />
+<input type="hidden" name="sub_frequency||cccfa5b80afafc10b39f873337444743a36b36255a0bb9258ccc79c99f23c80a||open" id="fs_sub_frequency_201197" value="1m" />
+<input type="hidden" name="name||e04d53059512f86dc629273dc9997405e995ced81052d8e7012e79a597b2693e" id="fs_name_201197" value="$25 Donación Mensual Alimenta a los Hambrientos y Cambia Vidas" />
+<input type="hidden" name="code||db9368b484065c1d1d859a0499bc9c0a2b29ca6c425c1e44489152f3999b27b5" id="fs_code_201197" value="WCS23059001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_monthly_donation||8a2e68934e752f5f9e7a010e990f75ac55d512111462d1161c1bc97bbad49d20" id="WCS23059001MOT_1" value="" class="variation-25-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$25 al mes</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $35 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_201198" rel="201198">
+<input type="hidden" name="price||48927c78b62d1760e54bcaf7027390ef9d890263c921ca34713f2b799ddde4a8" id="fs_price_201198" value="35.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_201198" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_201198" />
+<input type="hidden" name="image||10b8063aa77c82b0fa0d7ea6928a2abbc505f9813c7e0967649e06a255dee19a||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/2023food-monthly-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_201198" />
+<input type="hidden" name="url||dacad2380b7e7afba106d27b9835666259dcdfd8705e18f752e2addcfb15a572" value="https://crosscatholic.org/products/35-donacion-mensual-alimenta-a-los-hambrientos-y-cambia-vidas-2/" id="fs_url_201198" />
+<input type="hidden" name="quantity_min||053055e828675c4fa26bf06ad0d6b068d07c1309ce9c9defebfa06aea779e883||open" value="0" id="fs_quantity_min_201198" />
+<input type="hidden" name="quantity_max||b3232baefec03140149dc5ed7dbb71a9f592470b5e7417f93821d8269ea77024||open" value="0" id="fs_quantity_max_201198" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_201198" />
+<input type="hidden" name="sub_frequency||cccfa5b80afafc10b39f873337444743a36b36255a0bb9258ccc79c99f23c80a||open" id="fs_sub_frequency_201198" value="1m" />
+<input type="hidden" name="name||5ab0d1c79990220dd3c69da3a649a2a5032c33ee037300cff93a4549629fdaa3" id="fs_name_201198" value="$35 Donación Mensual Alimenta a los Hambrientos y Cambia Vidas" />
+<input type="hidden" name="code||db9368b484065c1d1d859a0499bc9c0a2b29ca6c425c1e44489152f3999b27b5" id="fs_code_201198" value="WCS23059001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$35_monthly_donation||e78577a24fe58e67de246a9e875c076353f15ac9de7ed5b3d59c6b966948fcb0" id="WCS23059001MOT_1" value="" class="variation-35-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$35 al mes</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$35.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
