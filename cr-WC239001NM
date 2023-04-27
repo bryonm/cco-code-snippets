@@ -6,7 +6,7 @@ add_shortcode( 'cr-WC239001NM', function () {
 <input type="hidden" name="price||29d3de8c49a2ad922d1a7ef46675450deacd3cfea799959923f264bfe10edb0c" id="fs_price_201759" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_201759" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_201759" />
-<input type="hidden" name="image||1f7ede9cc4601e6dbeb3f87575f540d5f48a777ba91734a04964d9628a84cb48||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_201759" />
+<input type="hidden" name="image||1f7ede9cc4601e6dbeb3f87575f540d5f48a777ba91734a04964d9628a84cb48||open" value="https://crosscatholic.org/wp-content/uploads/2023/04/SpringCore-MalawiFood-HeroUpdate-foxy-thumb.jpg" id="foxyshop_cart_product_image_201759" />
 <input type="hidden" name="url||dde57dbf7944110a396cad2a07d9310cb357442ec3acd453d75719de10f20598" value="https://crosscatholic.org/products/feed-the-hungry-around-the-world-4/" id="fs_url_201759" />
 <input type="hidden" name="quantity_min||8968a3598fef5d9a08ea94c9ac1a72883fbd4c673e0080c5ffa52ffa115c1367||open" value="0" id="fs_quantity_min_201759" />
 <input type="hidden" name="quantity_max||7f799d550f9b9571b7e4dab0dfa114bbb22f37a21f5ecefa365dc7ddc91f84e9||open" value="0" id="fs_quantity_max_201759" />
@@ -16,10 +16,10 @@ add_shortcode( 'cr-WC239001NM', function () {
 <input type="hidden" name="code||0e698b543769ebc0f7d181ef5f4fc525a6f9ae47ca2c65cb331db1684cb79889" id="fs_code_201759" value="WC239001NM" />
 <div class="foxyshop_variations">
 <select name="Donation" id="WC239001NM_1" class="variation-donation">
-<option value="$35 provides 233 meals{p:35}||f750a3285071ab64e9ab868b89573a513e516adfe89841300ff982bc3790c93d" priceset="3500">$35 provides 233 meals ($35.00)</option>
-<option selected value="$50 provides 333 meals{p:50}||1ad165c4fb365749162bf3bcd1a75c61d5e19532f6908a3ba671bda67472ccf4" priceset="5000">$50 provides 333 meals ($50.00)</option>
-<option value="$75 provides 500 meals{p:75}||b193d574dec714ce3b5d8bb5c44195ee22e30a3494deddf6fc6ddb6abf5817ce" priceset="7500">$75 provides 500 meals ($75.00)</option>
-<option value="$150 provides 1,000 meals{p:150}||69e58d1e4eba8b476ceaab920ab47b7bbfc8536c820f384c03313396a14765b4" priceset="15000">$150 provides 1,000 meals ($150.00)</option>
+<option value="$35 provides 233 meals{p:35}||f750a3285071ab64e9ab868b89573a513e516adfe89841300ff982bc3790c93d" priceset="3500">$35 provides 233 meals</option>
+<option selected value="$50 provides 333 meals{p:50}||1ad165c4fb365749162bf3bcd1a75c61d5e19532f6908a3ba671bda67472ccf4" priceset="5000">$50 provides 333 meals</option>
+<option value="$75 provides 500 meals{p:75}||b193d574dec714ce3b5d8bb5c44195ee22e30a3494deddf6fc6ddb6abf5817ce" priceset="7500">$75 provides 500 meals</option>
+<option value="$150 provides 1,000 meals{p:150}||69e58d1e4eba8b476ceaab920ab47b7bbfc8536c820f384c03313396a14765b4" priceset="15000">$150 provides 1,000 meals</option>
 <option value="Other{dkey:custom-price}||da1610c40dbadd29d6b77c50e34a65d227e02439cd0e96b9948cf78f998ac451" displaykey="custom-price">Other</option>
 </select>
 <div class="clr"></div>
