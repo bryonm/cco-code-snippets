@@ -1,0 +1,38 @@
+add_shortcode( 'cr-WC2203C9007', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_117447" rel="117447">
+<input type="hidden" name="price||a4b76ae385b0e7fc75382edc571a9403944d793a458ace407b8d19bd7abe3d4a" id="fs_price_117447" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_117447" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_117447" />
+<input type="hidden" name="image||42db2a80fe1a2984e77f379c2e940345cb9ec5925bdcb90b79f38fe768c9a4cf||open" value="https://crosscatholic.org/wp-content/uploads/2022/02/Kobonal-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_117447" />
+<input type="hidden" name="url||25b74c819e2e8cce3a097728b24414e188f05cd609513b1ff3d45637702dc8c3" value="https://crosscatholic.org/products/transforming-kobonal-2/" id="fs_url_117447" />
+<input type="hidden" name="quantity_min||128a00d4132c38dfa888ad5ae54b77cd37f374d50af024ed04e26e33cbd7e45a||open" value="0" id="fs_quantity_min_117447" />
+<input type="hidden" name="quantity_max||b40173fcbb06819efaae3791aa79dd0b2f1a6f0a60482b94bbfdf4b3acf18ecf||open" value="0" id="fs_quantity_max_117447" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_117447" />
+<input type="hidden" name="sub_frequency||049ef1d92976c2dd82aedc767a41b352f212d0377a3fd5d0697e7eca16724b97||open" id="fs_sub_frequency_117447" value="" />
+<input type="hidden" name="name||446206e4ab4c567e2955df88a59c247fbda78482b4f103f7b3d72be395243aa4" id="fs_name_117447" value="Transforming Kobonal" />
+<input type="hidden" name="code||4f15589980c390a55586ccf14ec75a686a76a5d01bf8c24cec056fa4303331ee" id="fs_code_117447" value="WC2203C9007" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC2203C9007_1" class="variation-donation">
+<option value="$35{p:35}||e18e7038b7e23e0d6dab875872b7f4efdecd0a5926318931142ee5d116d20915" priceset="3500">$35</option>
+<option selected="" value="$50{p:50}||d080f9fdc2f6f73af8381249dac42231de00c8bd84d1ea62ef3cd2560e7df778" priceset="5000">$50</option>
+<option value="$100{p:100}||b6a100c7cbd47201b8fa8c6fb5bb56239777cc1519120a4697271ea1ac7b5fdf" priceset="10000">$100</option>
+<option value="$200{p:200}||1bfd065482f93a38657bb197dc2e8bdbe214fb2e86ba51403c210e562b6a3a9a" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||ac847bcc750fd4e4866076335072ab0c0c82494892a432ab0d90c1c5b588fc49" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC2203C9007_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||622dcbea4f94a68a515ab916810f1a29a0b28068fbf94e62d26eb0c5165eeadc||open" id="WC2203C9007_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||3c5024ca3f49728f5a461a8925668cfd00801636cf92b83b8e44a7ed311fae3c" id="WC2203C9007_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC2203C9007_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||40c9f9bdb9958e6c29feb6250eeae1b9b4f48974b8d22b31dd1cc785f8ce2d90" id="WC2203C9007_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC2203C9007_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
