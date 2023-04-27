@@ -23,7 +23,7 @@ add_shortcode( 'sp-cr-WCS2107C9001N', function () {
 </select>
 <div class="clr"></div>
 <label for="WCS2107C9001N_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
-<input type="text" name="price||37019e3ba9329c144e3b6e6796e1b2e1e09917b7a7564226ec08b9d70bd1fba4||open" id="WCS2107C9001N_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<input type="text" name="price||37019e3ba9329c144e3b6e6796e1b2e1e09917b7a7564226ec08b9d70bd1fba4||open" id="WCS2107C9001N_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
 <div class="clr"></div>
 <div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||eead9909b8176f34ab51b14460c392da91f5e6593b0460653d34ba4ab3874f86" id="WCS2107C9001N_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
 <label for="WCS2107C9001N_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
@@ -31,7 +31,7 @@ add_shortcode( 'sp-cr-WCS2107C9001N', function () {
 <label for="WCS2107C9001N_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
 <div class="clr"></div></div>
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>';
 
 	return $out;
