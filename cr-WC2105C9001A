@@ -1,0 +1,38 @@
+add_shortcode( 'cr-WC2105C9001A', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_68146" rel="68146">
+<input type="hidden" name="price||0c8d46636acea5a83cbeef70529788f387a6c18df065a8dc16304f8a135b1252" id="fs_price_68146" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_68146" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_68146" />
+<input type="hidden" name="image||cd2c64f714677e48e69636a108c5db0ef8df6c6bf0564c05d7a36af671929784||open" value="https://crosscatholic.org/wp-content/uploads/2021/04/rescue-foxy-thumb.jpg" id="foxyshop_cart_product_image_68146" />
+<input type="hidden" name="url||c2eba26d0dd1e24c267306cce9ea9281fe1de09f2dd12ab1ad6a13949bf60c14" value="https://crosscatholic.org/products/rescue-vulnerable-children/" id="fs_url_68146" />
+<input type="hidden" name="quantity_min||7829a5bc880ccdcd0e778b60418afb59367afbeb932d90510d7fb423607a7cd2||open" value="0" id="fs_quantity_min_68146" />
+<input type="hidden" name="quantity_max||7c7804d3eb280f992974c50f0a967273c3606d9f1f8fa869888de8d8816256d6||open" value="0" id="fs_quantity_max_68146" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_68146" />
+<input type="hidden" name="sub_frequency||d220c86d0b9e6a6108738a3da9d4b63713ae6f8eb0ef5991f4565a1c9a245668||open" id="fs_sub_frequency_68146" value="" />
+<input type="hidden" name="name||a94c945f5fd1733eba33b0e8753acaf83d819fe9f705a464441cc9d102197822" id="fs_name_68146" value="Feed Vulnerable Children" />
+<input type="hidden" name="code||4260554fc91c5e454e62a09a0954acb6b269d7fcd1436a420b402d575807adab" id="fs_code_68146" value="WC2105C9001A" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC2105C9001A_1" class="variation-donation">
+<option value="$35{p:35}||e4f0a25b42ea0c59201250924855063743addaf139860200e5c54943c8e87c5a" priceset="3500">$35</option>
+<option selected="" value="$50{p:50}||be8167d65f676b2562e72ed250176e20c448e3ac0634bf1cdc5a40999311168a" priceset="5000">$50</option>
+<option value="$100{p:100}||2171c51904e891d5f158d2f526e2e0f2dd7702a7d918a331208c3292f67c1324" priceset="10000">$100</option>
+<option value="$200{p:200}||7b20803a4eebc49e98efdb99c0d4cfea21df995e1825bf65c48ec994942eb480" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||3ec6007dfed542d56cd93f51bfeef75aea083df165b0b00b33ee1b2e86818b78" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC2105C9001A_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||750b9d8fcf2f1ff4f74c49b1862f17d388ffd948ceeb2b63dfc532de773a257e||open" id="WC2105C9001A_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||287dff6b2326cfb405ea61981cb489c3cb8654b94efdf1b17bb834df08f6e586" id="WC2105C9001A_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC2105C9001A_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||469d6c2fdde9744d13e662d2f1d5545426f942525e2d74932ddf8abf723f9181" id="WC2105C9001A_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC2105C9001A_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
