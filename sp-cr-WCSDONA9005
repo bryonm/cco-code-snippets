@@ -1,0 +1,36 @@
+add_shortcode( 'sp-cr-WCSDONA9005', function () {
+
+	$out = '<section>
+  <div class="give-container">
+    <div class="select-container">
+
+      <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_38742" rel="38742">
+<input type="hidden" name="price||5b060c2bf5458b3f912ce12f102229edecf544f3584bf4e758b6d9f00269532f" id="fs_price_38742" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_38742" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_38742" />
+<input type="hidden" name="image||70429ec1b3bfc06817ca6da79f1e633e7a7342cdb6bc67264e3ea5a1d0d4ee79||open" value="https://crosscatholic.org/wp-content/uploads/2020/10/EducationTile_1-150x150.jpg" id="foxyshop_cart_product_image_38742" />
+<input type="hidden" name="url||523d26afcc58420edbf099dee0434a1a82f0e576d170a7e731bc1a8629fb4b86" value="https://crosscatholic.org/products/educacion-catolica/" id="fs_url_38742" />
+<input type="hidden" name="quantity_min||e9909201b5919e47ee0e78f132839c81ecda078857a286f418305f28d6f3da65||open" value="0" id="fs_quantity_min_38742" />
+<input type="hidden" name="quantity_max||80619ddedfcbb851e9a593fe8c3216147145128f55a9e89655d20514bda44833||open" value="0" id="fs_quantity_max_38742" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_38742" />
+<input type="hidden" name="name||8123f5add7cac2dc6199d18757241beb5c83cb9b34161384130ee76e9edf6465" id="fs_name_38742" value="Educación católica" />
+<input type="hidden" name="code||3815bf54bca8fa932bf9a60c0271d1ac9085f1e9459fa6f906a75727ee28e7d8" id="fs_code_38742" value="WCSDONA9005" />
+        <div class="foxyshop_variations">
+          <div class="clr"></div>
+<input type="text" name="price||7cddd9eae69063887422db502c39f45c8d2c3902a9ff619f06075dfdc9152ba2||open" id="WCSDONA9005_1" value="" class="variation-price-lbl foxyshop_required" placeholder="$" />
+        </div>
+    </div>
+
+    <div class="btn-container">
+
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="donate_button">Donar</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section>';
+
+	return $out;
+} );
