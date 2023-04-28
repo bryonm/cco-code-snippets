@@ -1,0 +1,36 @@
+add_shortcode( 'cr-WCDONA9002', function () {
+
+	$out = '<section>
+  <div class="give-container">
+    <div class="select-container">
+
+      <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_38130" rel="38130">
+<input type="hidden" name="price||4571f4e279684b35f4e48f29ca7678488ec70b79dd28f08d0ab3c3bf46face35" id="fs_price_38130" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_38130" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_38130" />
+<input type="hidden" name="image||e33771fe930415a7b957b66223854b352ac0e0eaa60daa2e94b5b3b1e9ee2e79||open" value="https://crosscatholic.org/wp-content/uploads/2020/10/MedicalTile-150x150.jpg" id="foxyshop_cart_product_image_38130" />
+<input type="hidden" name="url||ac2a4b887e9339a5ebc6b8bea09bb37b963819a4debf6da3797554591a4dc9c2" value="https://crosscatholic.org/products/greatest-need-medical-aid/" id="fs_url_38130" />
+<input type="hidden" name="quantity_min||c9e53f27e75ad8df0e83502bf1e242c01997d7e7183ed40da23ebbb20b62cfca||open" value="0" id="fs_quantity_min_38130" />
+<input type="hidden" name="quantity_max||1095993e57f6d5a44920db46d153be2284c926e46cca67a3def3f94c4d46509d||open" value="0" id="fs_quantity_max_38130" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_38130" />
+<input type="hidden" name="name||2badb83103a378c97d73d9719eb346f3da0051e927d9e2ec5111a5bf36979876" id="fs_name_38130" value="Greatest Need: Medical Aid" />
+<input type="hidden" name="code||c9de33ba7d92651915b6ed752ea8c0082b49a57b991e51c90aa89e940716173e" id="fs_code_38130" value="WCDONA9002" />
+        <div class="foxyshop_variations">
+          <div class="clr"></div>
+<input type="text" name="price||3791ea625a47386502ab68028124446f586feb35193a68741a89a66bcbcbe6d7||open" id="WCDONA9002_1" value="" class="variation-price foxyshop_required" placeholder="Enter $ amount" />
+        </div>
+    </div>
+
+    <div class="btn-container">
+
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="donate_button">Donate</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section>';
+
+	return $out;
+} );
