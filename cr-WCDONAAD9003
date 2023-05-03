@@ -1,0 +1,36 @@
+add_shortcode( 'cr-WCDONAAD9003', function () {
+
+	$out = '<section>
+  <div class="give-container">
+    <div class="select-container">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_71679" rel="71679">
+<input type="hidden" name="price||c64702f89257b2bcafd98441699687d153ab1e652c7eb6107f06ca49b21f8977" id="fs_price_71679" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_71679" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_71679" />
+<input type="hidden" name="image||2514fd5483fdc0d4928201e136856559fb5ebfe08a0e6f75345a390e3f76ec3c||open" value="https://crosscatholic.org/wp-content/uploads/2021/05/OrphanTile-150x150.jpg" id="foxyshop_cart_product_image_71679" />
+<input type="hidden" name="url||14675ecbdbd8cf78d2b02c26f660584babb837e9a5a5945103d17a7595ad9f77" value="https://crosscatholic.org/products/greatest-need-vulnerable-children-2/" id="fs_url_71679" />
+<input type="hidden" name="quantity_min||8fdfe7911a99be7f5a6a4a43a675436cdb5adde7ed7c6465602a3e6b67bdbc75||open" value="0" id="fs_quantity_min_71679" />
+<input type="hidden" name="quantity_max||a256e894b81e3c9f18fa5ce00efd27bee4ae57f8d5721011dce94f1bb923f073||open" value="0" id="fs_quantity_max_71679" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_71679" />
+<input type="hidden" name="name||9048114eb67d8b20bf8d3b98e8d60a7493ea26674b63120207b5652c5de6b11b" id="fs_name_71679" value="Greatest Need: Vulnerable Children" />
+<input type="hidden" name="code||83c930846fde1a6883413619c1ecb3157f95f65c2b241ffee82674ff8ff6d09b" id="fs_code_71679" value="WCDONAAD9003" />
+        <div class="foxyshop_variations">
+          <div class="clr"></div>
+<input type="text" name="price||0bebbac59d2f3e319263a44a2aa8b116d824b2bca9223c4c51a319a87bbcc9d6||open" id="WCDONAAD9003_1" value="" class="variation-price-lbl foxyshop_required" placeholder="$ amount" />
+        </div>
+    </div>
+
+    <div class="btn-container">
+
+      <button type="submit" name="x:productsubmit" id="productsubmit" class="donate_button">Donate</button>
+      <div id="foxyshop_main_price">
+        <div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div>
+      </div>
+    </div>
+    </form>
+  </div>
+</section>';
+
+	return $out;
+} );
