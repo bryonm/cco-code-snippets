@@ -1,0 +1,40 @@
+add_shortcode( 'cr-WC2209W0000', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_154478" rel="154478">
+<input type="hidden" name="price||f9c0ac6c3b62467cfd182f600238cf6b7fd3545c3c2fe462859781e245ed85e3" id="fs_price_154478" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_154478" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_154478" />
+<input type="hidden" name="image||2aac034f1bb2d0300b21ab9fe94078182880822f222bebf06b02adf6cbd6c95e||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/AFD-22-foxy-thumb.jpg" id="foxyshop_cart_product_image_154478" />
+<input type="hidden" name="url||2a719655ca90e52c35c22382c04f6d4a4f981d5a2dcdc6a6be050ced583991a8" value="https://crosscatholic.org/products/donate-to-2022-annual-fund-drive/" id="fs_url_154478" />
+<input type="hidden" name="quantity_min||f83d5fa0ff6c0edee03b4c98f4fa9d4b31697009b7b4c60446bdd46f08ae0d59||open" value="0" id="fs_quantity_min_154478" />
+<input type="hidden" name="quantity_max||c9e19b8a248b456a53620c4fb86f0eac612a53613ad66dfbe8d0b978bd25c941||open" value="0" id="fs_quantity_max_154478" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_154478" />
+<input type="hidden" name="sub_frequency||40e3208517555709eff80345c8a76eb4d0ef70d4da2aeb0783949b9aa6a8b341||open" id="fs_sub_frequency_154478" value="" />
+<input type="hidden" name="name||30a754594e343085c5444a0fbab1136a71a48808b429d1321d376e764cfb9d44" id="fs_name_154478" value="Donate to 2022 Annual Fund Drive" />
+<input type="hidden" name="code||ed9269e3a240001330a83021e9c0986f5496b80585c4e319a12124555ab051f3" id="fs_code_154478" value="WC2209W0000" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC2209W0000_1" class="variation-donation">
+<option value="$50{p:50}||5a9ca72f98e931e81c9b2dc02e5c96d64bcb995df0b9e73346b465be595eead6" priceset="5000">$50</option>
+<option value="$100{p:100}||638863bdf2f1853604bf5694e63e7608a0390504898ad999554a4dee2d31c159" priceset="10000">$100</option>
+<option value="$150{p:150}||b2deb2f32368a9a6489eb0df5df5e10cc7068e043364f2701ff59e9bacc41643" priceset="15000">$150</option>
+<option value="$250{p:250}||f47577e1f2ce57d9097db014e4ee3318b3e89bd5990dcb55ee31d61d497198e5" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||884b21b579061cefd005fe120f01c7bf2a61a2ac15b215313f4246458976e3cf" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC2209W0000_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||7739c87d9694d8a9d6c78aaf117e5aace263b9ef015585089460f4e51a2241c9||open" id="WC2209W0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||9881892ba933bffff1cc6cc84eecaa247bcc0b73c9bf8beec0a726f3add38ba4" id="WC2209W0000_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC2209W0000_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||39ab0a0206e9dcb3065c61de7c1cbf69af0494a68720695400371838f82d7bf0" id="WC2209W0000_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC2209W0000_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
