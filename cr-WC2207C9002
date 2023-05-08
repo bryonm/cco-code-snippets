@@ -1,0 +1,40 @@
+add_shortcode( 'cr-WC2207C9002', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_146980" rel="146980">
+<input type="hidden" name="price||22993df1f5c92a19ba4133650feb9aa4f03cb771a72b468cb5424d11c61f83a7" id="fs_price_146980" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_146980" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_146980" />
+<input type="hidden" name="image||15d73fd8ac39d76e01a32f65abab60e07117444e3df6754c4d9d1632763cbe39||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/MidyearHaitiHealth-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_146980" />
+<input type="hidden" name="url||9f05cb784d6045783fc79d29074a0e3d6c4fcf2c88c33d2779147425a2bc33dd" value="https://crosscatholic.org/products/donate-to-send-lifesaving-medicine/" id="fs_url_146980" />
+<input type="hidden" name="quantity_min||234888ec3c290a54d7c8911bcf5e2bdf274ecaa2f2af77b0925e6ae96088bdf4||open" value="0" id="fs_quantity_min_146980" />
+<input type="hidden" name="quantity_max||cfafe97c28a69f709b84a22444a14863ca1c36e2b5ee3981a6e4f2595b21278f||open" value="0" id="fs_quantity_max_146980" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_146980" />
+<input type="hidden" name="sub_frequency||e75134a74f0c0f75730276b7534bf4b2187818eed2128441b59b284647a0a9a0||open" id="fs_sub_frequency_146980" value="" />
+<input type="hidden" name="name||06d8dfa1677934fc57556a4c47b9af2d71789994c9c4aeea8019839a9cd4a677" id="fs_name_146980" value="Donate to Send Lifesaving Medicine" />
+<input type="hidden" name="code||e24ec794664820ff0d6b0e711a2cfb8b14a3d7e8b19d30578bf07f38d87e18db" id="fs_code_146980" value="WC2207C9002" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC2207C9002_1" class="variation-donation">
+<option value="$35{p:35}||12f03aa918d86b9827cd189597d60a6cc04029be31426ab05c0da3796a92be24" priceset="3500">$35</option>
+<option selected="" value="$50{p:50}||f1dcb79a30e61f762885fde2741620b4ab4b092ffbdb426cd94060a9fd8c1d6a" priceset="5000">$50</option>
+<option value="$100{p:100}||98824f262c8b2abe43effbc49d14b1d9b36033f04641160a1501d6285267292f" priceset="10000">$100</option>
+<option value="$200{p:200}||efffda66a48317680afd68e75c6648cea683cf3dd2f7349107829268d1e50211" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||ec130c89dc89625a210ed62d4a1b38bab4a5ae309a08a8336917cccfff6e6639" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC2207C9002_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||327aa36f54cac0686d340bb70ccdbf5bbc2b005ca7abb4e975dd0354c73cffd9||open" id="WC2207C9002_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||766c18150e090b7d8aafa1d9389961f593fe94f26eb84b06cced8635a1a2acc4" id="WC2207C9002_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC2207C9002_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||99515e063b2a062d2b58ed5649273432839d34c2521b00c73110e6fdefe096f0" id="WC2207C9002_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC2207C9002_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
