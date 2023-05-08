@@ -26,6 +26,12 @@ add_shortcode( 'cr-WCE22C9007N', function () {
 <label for="WCE22C9007N_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
 <input type="text" name="price||d1a98018609f87bd9528db75cd70969593906b0a92885565f37c889894cfae26||open" id="WCE22C9007N_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
 <div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||e4577d8d45aea5da2f5fb7fc0c10edd0eda01abf9511183e480807d310845d5b" id="WCE22C9007N_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCE22C9007N_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||ba5ee32396d78c1b9fcb5aaec0d5670ac22bca14ba7eaf8fca802fd37736b70e" id="WCE22C9007N_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCE22C9007N_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
 </div>
 
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
