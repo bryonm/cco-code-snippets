@@ -1,0 +1,40 @@
+add_shortcode( 'cr-WC2208C0000T', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_151486" rel="151486">
+<input type="hidden" name="price||ec6fbacfbb27b08367a11481cc44d2b27f0ebfaf39eb709c1ff3b7d6ca572e88" id="fs_price_151486" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_151486" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_151486" />
+<input type="hidden" name="image||6637ca9892f09af8f25b5c034f223355a842dd81e750791b35478a80c26560c2||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/RosarySubBanner-150x150.jpg" id="foxyshop_cart_product_image_151486" />
+<input type="hidden" name="url||8207991a03595209c35940bab27e6469e9b64b3be17b7414f5f1a8de12f8a4b3" value="https://crosscatholic.org/products/support-haitis-children-2/" id="fs_url_151486" />
+<input type="hidden" name="quantity_min||faee28d6a956d4f002de79fe8c4345e3b4fab0eb768c194b37ce88d59b52eb19||open" value="0" id="fs_quantity_min_151486" />
+<input type="hidden" name="quantity_max||bfaf271b135aff9cf5b812e83ace005a99ef92367ffb975f41eb00bbc9e849cd||open" value="0" id="fs_quantity_max_151486" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_151486" />
+<input type="hidden" name="sub_frequency||76b27d99b9929268cb95201e55b4ff82799f347e42b0902466db9c06f464b5ee||open" id="fs_sub_frequency_151486" value="" />
+<input type="hidden" name="name||8ae163d0cba380ea83b017e84564be81ced778a5116698f77a089b9c26eb41ab" id="fs_name_151486" value="Support Haiti&#039;s Children" />
+<input type="hidden" name="code||b1384016443dbf0825afd62fa9872db75c602c4d5415f5b59087d5ee5ae3a495" id="fs_code_151486" value="WC2208C0000T" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC2208C0000T_1" class="variation-donation">
+<option value="$35{p:35}||e4fffcd4f5d23a514a0daa46b24313b457661670b4dcf210c2a8de9a1c7d938a" priceset="3500">$35</option>
+<option selected="" value="$50{p:50}||c401e19e894936916cef4f7b84f1c00d201bdb30cc385a8c3ed76423dfb2c8a4" priceset="5000">$50</option>
+<option value="$100{p:100}||0d7e536487213ed942f8f972da7a532b2a5524b157e4ab868222980594d82321" priceset="10000">$100</option>
+<option value="$200{p:200}||3dbaaacef5f079bfcf40e8e1eec2209b3a8be8d29f85587156af54f461b45b3e" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||7e4795297f2ad040ef4bba41d1d7ccf2d438f4b1f48c209d0a91165512995954" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC2208C0000T_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||854a6b0ff3c824474967ebcf2642057d615c43a50717943fc95d1867ac84db13||open" id="WC2208C0000T_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||b7fb880ea7a16137ed567ca2891fea97be9e15e6dcc380f0690dffdd710b913b" id="WC2208C0000T_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC2208C0000T_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||8f309071b68e9754b853e64db44072ec9316e4e74f27b3db3a3153cf5c7d45cf" id="WC2208C0000T_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC2208C0000T_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
