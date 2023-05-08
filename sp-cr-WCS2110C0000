@@ -22,17 +22,16 @@ add_shortcode( 'sp-cr-WCS2110C0000', function () {
 <option value="Otra cantidad{dkey:custom-price}||5cfbbf00ff2d062efee2aa4f2ae87c4925916473399faef647d36cf50ef86687" displaykey="custom-price">Otra cantidad</option>
 </select>
 <div class="clr"></div>
-<input type="text" name="price||bcbbf89adf4354cb443fe05ff22d9e1f0e24265cc1e5adaf0de1cfe1df63fbf9||open" id="WCS2110C0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<label for="WCS2110C0000_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||bcbbf89adf4354cb443fe05ff22d9e1f0e24265cc1e5adaf0de1cfe1df63fbf9||open" id="WCS2110C0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
 <div class="clr"></div>
 <div class="foxyshop_radio_wrapper">
 <div class="foxyshop_short_element_holder"><input type="radio" name="Elija_una:" value="Una sola vez{fr:}||c6d81a111b071ba01052f3faf4291157a8a450d91c08d753a8a67a7cbe44543c" id="WCS2110C0000_3_0" class="variation-elija-una" checked="checked" subfrequency=""></div>
 <label for="WCS2110C0000_3_0" class="variation-elija-una foxyshop_no_width">Una sola vez</label>
 <div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Elija_una:" value="El 25 de cada mes{fr:1m|c+MOT}||045139065371e14ffaa2b34f9d370f3f015b8fa73cdbccb1908e2db3e38ae0e1" id="WCS2110C0000_3_1" class="variation-elija-una" codeadd="MOT" subfrequency="1m"></div>
 <label for="WCS2110C0000_3_1" class="variation-elija-una foxyshop_no_width">Mensual</label>
-<div class="clr"></div></div><div class="clr"></div>
-<script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
+<div class="clr"></div></div>
 </div>
-
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>';
 
