@@ -1,0 +1,40 @@
+add_shortcode( 'sp-cr-WCS2110C0000', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_97975" rel="97975">
+<input type="hidden" name="price||49743f2b802f0688779af91ae6823e175f835ac8fa0ad4ed4ccb8bf8ab46fe54" id="fs_price_97975" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_97975" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_97975" />
+<input type="hidden" name="image||b01e1e1656df130cf0028d914ad54af1a8d938160538c107eacce86935ff4798||open" value="https://crosscatholic.org/wp-content/uploads/2021/10/santa-rosa-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_97975" />
+<input type="hidden" name="url||d42f66cc00c5132fbfc5a3d668a8eb320bf447adbb06462090be7a77c3ca283c" value="https://crosscatholic.org/products/brinde-la-esperanza-de-la-navidad-a-ninos-y-familias-pobres/" id="fs_url_97975" />
+<input type="hidden" name="quantity_min||60ee5b01d4e864e4a1e8b6dca72ff8c18a5dd1ca0a847469af694c6ba25fc61c||open" value="0" id="fs_quantity_min_97975" />
+<input type="hidden" name="quantity_max||00489cb10fc8403e5c737e93956abad601cc3b2161a80f5a80b2021e2a96ff75||open" value="0" id="fs_quantity_max_97975" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_97975" />
+<input type="hidden" name="sub_frequency||13b08f1a58e4cfd2a0e1e75b178acc3975c53234ecb84337e719b701e8b379b1||open" id="fs_sub_frequency_97975" value="" />
+<input type="hidden" name="name||0ef46d5c8bdcbce03a00a80db503c509fb69a074b71399710f61abd5869b9d7a" id="fs_name_97975" value="Brinde la Esperanza de la Navidad a Niños y Familias pobres" />
+<input type="hidden" name="code||f1d688e8b010829b0f0ddb8cfb392b2f7496007498b2856c059c672d0b408965" id="fs_code_97975" value="WCS2110C0000" />
+<div class="foxyshop_variations">
+<select name="Donación" id="WCS2110C0000_1" class="variation-donation">
+<option value="$50{p:50}||29c5a21a4947ea292e421b03f728a4eb191d00e1d37e99917ac38ddab2d5555c" priceset="5000">$50</option>
+<option value="$100{p:100}||813185a8d72a2a1045197115fc7284532611a118bdc74996809cd3a7710c1a2a" priceset="10000">$100</option>
+<option value="$150{p:150}||5db11430e81f27e26bdb86afe13cf4703f8eac863cf8a57132184fe5d48acb49" priceset="15000">$150</option>
+<option value="$250{p:250}||a01951c0d8cfe797567dd2e8efaeb3a0b9c055712809ce6b859b0588a846647c" priceset="25000">$250</option>
+<option value="Otra cantidad{dkey:custom-price}||5cfbbf00ff2d062efee2aa4f2ae87c4925916473399faef647d36cf50ef86687" displaykey="custom-price">Otra cantidad</option>
+</select>
+<div class="clr"></div>
+<input type="text" name="price||bcbbf89adf4354cb443fe05ff22d9e1f0e24265cc1e5adaf0de1cfe1df63fbf9||open" id="WCS2110C0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Elija_una:" value="Una sola vez{fr:}||c6d81a111b071ba01052f3faf4291157a8a450d91c08d753a8a67a7cbe44543c" id="WCS2110C0000_3_0" class="variation-elija-una" checked="checked" subfrequency=""></div>
+<label for="WCS2110C0000_3_0" class="variation-elija-una foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Elija_una:" value="El 25 de cada mes{fr:1m|c+MOT}||045139065371e14ffaa2b34f9d370f3f015b8fa73cdbccb1908e2db3e38ae0e1" id="WCS2110C0000_3_1" class="variation-elija-una" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCS2110C0000_3_1" class="variation-elija-una foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div><div class="clr"></div>
+<script type="text/javascript" src="https://crosscatholic.org/wp-content/plugins/foxyshop/js/variation.process.jquery.js" charset="utf-8"></script>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
