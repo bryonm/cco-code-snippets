@@ -1,0 +1,39 @@
+add_shortcode( 'cr-WC22WATERMW', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179076" rel="179076">
+<input type="hidden" name="price||4a493061960428e95262a72ad02f7ba8e19fb18bf73c6c18564de9042f4fa959" id="fs_price_179076" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179076" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179076" />
+<input type="hidden" name="image||19d9db85ca7aa45311bf70b9c67b4507dabd5653727084e33f148ba911015497||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/water-foxy-thumb-mw.jpg" id="foxyshop_cart_product_image_179076" />
+<input type="hidden" name="url||b87db387f370a320caa7d8fd8fdc405a6c6025b2124e972f836896c70fb1ac17" value="https://crosscatholic.org/products/share-the-gift-of-lifesaving-water/" id="fs_url_179076" />
+<input type="hidden" name="quantity_min||3adfa05df9068356b13b93c9f07059bd9febc595a21526defd04574b44c1b69e||open" value="0" id="fs_quantity_min_179076" />
+<input type="hidden" name="quantity_max||a8de26ad5ad2a2e7f3043bbe76c5cd2ff1f8d3da88c67bbb3165f484b9ce31d2||open" value="0" id="fs_quantity_max_179076" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179076" />
+<input type="hidden" name="sub_frequency||26bbdc88dff2a3d580b5a42aa882de0cc8a90820a5c2ced0fdccad2a4d80e5d8||open" id="fs_sub_frequency_179076" value="" />
+<input type="hidden" name="name||659dc184e5b59c6acc194dc9fcb321f97725129c2b545000f4554377b11bb6ac" id="fs_name_179076" value="Share the Gift of Lifesaving Water" />
+<input type="hidden" name="code||2a5f90c458adfc14ec7f1b2302397acde3f37e850f4538f6f340036ef8648d29" id="fs_code_179076" value="WC22WATERMW" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC22WATERMW_1" class="variation-donation">
+<option value="$50{p:50}||c94a3354e6aeffff1b95c2ef772d8166bf167fab7d4c959b2477c320fcf91f61" priceset="5000">$50</option>
+<option value="$75{p:75}||0fdbf9a1a431451ae35235c0ea98e6c68d99d189eda4f82851fa5478704e7851" priceset="7500">$75</option>
+<option value="$100{p:100}||85cc531515e3f01e119fa8377f4e2fbdbcbc09ec4e10fd146826d34a8247c24b" priceset="10000">$100</option>
+<option value="$200{p:200}||f2d52747e3c61fae1beb8eeadaa8b85293dd95e198cf0663f0d29ea2da421598" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||2547101c534f3ede7a605eadb07fa8e439523b584a2e787cc9ba23ec13d50946" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC22WATERMW_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||b48e59375f86404e95cba07345a3de3045dffea4da3be547bef306014c123ddd||open" id="WC22WATERMW_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||7a4faa6be620142d3e3900cd05278a4ce3fc294fc75fe7322fe86f23a43d4191" id="WC22WATERMW_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC22WATERMW_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||7fbb75f0ac971fb1e017674e631b63ff4979592ecba83cf7a0a1c378c865cb9e" id="WC22WATERMW_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC22WATERMW_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
