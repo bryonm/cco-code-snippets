@@ -1,0 +1,34 @@
+add_shortcode( 'cr-WC22ANTITRMWMMOT', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179095" rel="179095">
+<input type="hidden" name="price||a3f4c4868ecc67e1bbf38684396fa0485405273f91b47ea3b39dbf2c93b5a6a1" id="fs_price_179095" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179095" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179095" />
+<input type="hidden" name="image||ca5d7acebc655c147f1430121f8bb16c3b32bcfa9932c16c91f6f001d4a94875||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/DigAdLP-AntiTrafficking-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_179095" />
+<input type="hidden" name="url||b22f395285d95f450d77551b9dc8924aae5e9de3d2d0f41d6ddb27b20a394f9b" value="https://crosscatholic.org/products/rescue-vulnerable-women-and-girls-in-peril-2/" id="fs_url_179095" />
+<input type="hidden" name="quantity_min||3dd2d0e95d77fb3d18f3c440cfbb1ac701ad2aca3a6ec8a87ff86971566c8aa1||open" value="0" id="fs_quantity_min_179095" />
+<input type="hidden" name="quantity_max||b160f7ce4194d23900596c00144669c969ac0fd9161380113f84e3fd1db33570||open" value="0" id="fs_quantity_max_179095" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179095" />
+<input type="hidden" name="sub_frequency||8fb557a7e3b25864cd56d39ef83acec9cea4f2108abd44afd16b5e1008d41c46||open" id="fs_sub_frequency_179095" value="1m" />
+<input type="hidden" name="name||b19ec3033cd63232e3889661c8ed68d88ff73715a3ef0392aad7006f740fec95" id="fs_name_179095" value="Rescue Vulnerable Women and Girls in Peril" />
+<input type="hidden" name="code||e5ba2cc34cfa3e87ca00adfafdd80ef8d42a77366086816e94c11390b4e08714" id="fs_code_179095" value="WC22ANTITRMWMMOT" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC22ANTITRMWMMOT_1" class="variation-donation">
+<option value="$50{p:50}||6cd2c4c79b509bd7b4904bc8f790d7e871e85297c0acf791303a76479b64a083" priceset="5000">$50/mo.</option>
+<option value="$75{p:75}||0887b9052e057df891468a7acbf04d099c21efb3a59609825307d688dbc072c4" priceset="7500">$75/mo.</option>
+<option value="$100{p:100}||ba6f221f99d31ea5a73e2f772401ad0d598a9d485343f3fe821de58ac1cea7c6" priceset="10000">$100/mo.</option>
+<option value="$200{p:200}||b01c0d7c5895944e3c4eff8f3db440e41e02770bb5b448345d8c107cd3ca91fc" priceset="20000">$200/mo.</option>
+<option value="Other{dkey:custom-price}||2235ae90800ceb660b35509cc97748f05c2dd493ea7a80ae25588a7855676c1f" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC22ANTITRMWMMOT_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||99357a07de5fb6ef21756f63453f03b226d7e154c545ce080b9775e7a8caa20c||open" id="WC22ANTITRMWMMOT_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
