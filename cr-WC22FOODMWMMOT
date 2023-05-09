@@ -1,0 +1,34 @@
+add_shortcode( 'cr-WC22FOODMWMMOT', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179049" rel="179049">
+<input type="hidden" name="price||11157f484d83ef9d410b8f24a1127dc11452736d85766f1067985cb55a66be53" id="fs_price_179049" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179049" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179049" />
+<input type="hidden" name="image||37b4587631ec8abcee1d89c0e5554415f1dca8a88fadb5186608cf8567ed1e70||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/Food-foxy-thumb-mw.jpg" id="foxyshop_cart_product_image_179049" />
+<input type="hidden" name="url||f4211ecac51c30bd51059ab565b72cc5449251b73685d88a15698806816baab7" value="https://crosscatholic.org/products/end-hunger-for-impoverished-children-and-families-2/" id="fs_url_179049" />
+<input type="hidden" name="quantity_min||d33d1d29984ecd7da9c20cb8b71ff058decbb8432e0d10ed3699647b5df2bb23||open" value="0" id="fs_quantity_min_179049" />
+<input type="hidden" name="quantity_max||6bfcecc5e60123ac4f0590f3fe636f3f5b1490caf3c40184265c508d829b0847||open" value="0" id="fs_quantity_max_179049" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179049" />
+<input type="hidden" name="sub_frequency||308f0d93807230cd7f2538da722e108253b9867943084b80f580ff119c8478a4||open" id="fs_sub_frequency_179049" value="1m" />
+<input type="hidden" name="name||7bd1921e047c3d98b2d4a9d2232aa88f3cb6bef43d8fb558c0c3f876e5309117" id="fs_name_179049" value="End Hunger for Impoverished Children and Families" />
+<input type="hidden" name="code||87b160c1e3af1263e8577ad9deddff819c3fc8f0e058c7bc5cf3a545305afa8f" id="fs_code_179049" value="WC22FOODMWMMOT" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC22FOODMWMMOT_1" class="variation-donation">
+<option value="$50 provides 333 meals{p:50}||7c85ed3f778ea8f68295dbbb3d2ba03b7b9715d6058c64e129c79e50e69cd0ca" priceset="5000">$50/mo. provides 333 meals</option>
+<option value="$75 provides 500 meals{p:75}||cdf3cce4a6e6d4fe68813eac15acd468e32207a38dd9939fe6233c5d6bc6d145" priceset="7500">$75/mo. provides 500 meals</option>
+<option value="$100 provides 666 meals{p:100}||b0a3ba093b41593293ef5cf396b35df90c839f31e94cfeb69b1a06379ecc83b1" priceset="10000">$100/mo. provides 666 meals</option>
+<option value="$200 provides 1,332 meals{p:200}||37915209e5a32eb3a80b2675a2a7ce8246ccb187c90de3924397f7f25ddf8c6b" priceset="20000">$200/mo. provides 1,332 meals</option>
+<option value="Other{dkey:custom-price}||313535dd517751b5a5cbcc953f661c680829a7eea2e183a6a9bb311733cb5843" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC22FOODMWMMOT_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||1bfee3ada2ff4b31cf8131624da66c60a9afe0908f276052e474ed71a08de560||open" id="WC22FOODMWMMOT_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
