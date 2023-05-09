@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23KEDUC', function () {
+
+	$out = '<div class="flex-container">
+<!-- $144 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_183528" rel="183528">
+<input type="hidden" name="price||afb318805d0b39b317f1a09c55111048cb0a2f3e2887c556e6d826083abb465a" id="fs_price_183528" value="144.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_183528" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_183528" />
+<input type="hidden" name="image||45c7816ac075ce7a25bcc06d4550642b8c0a8d9bdad44e8a26c7e2829f41c5b4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Kobonal-Education-foxy-thumb.jpg" id="foxyshop_cart_product_image_183528" />
+<input type="hidden" name="url||65863a03790ead6f4ff3ff2089373c4bd5287c43b649654179fc451880cab097" value="https://crosscatholic.org/products/catholic-school-scholarships-in-easter-catalog-144-donation-2/" id="fs_url_183528" />
+<input type="hidden" name="quantity_min||3dee66e49a3c1195a41e8b83f3dd80b9b7417fb3f5ec3c920e6ee3460dc89bfa||open" value="0" id="fs_quantity_min_183528" />
+<input type="hidden" name="quantity_max||39aba9cad52d2d3f55fe8a199d12fc832142c1182ee7263c136952653b1d2fb5||open" value="0" id="fs_quantity_max_183528" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_183528" />
+<input type="hidden" name="name||60141e1a1d3743a4c20efdabc7bec6472375c4b99c89d3ec0a872b24c8e8679a" id="fs_name_183528" value="Catholic School Scholarships in Easter Catalog - $144 donation" />
+<input type="hidden" name="code||c2c8e6be9fa1d2102efc9f16edd5e8bd91bc0e3fb979a4c15b2ec4d769536db1" id="fs_code_183528" value="WCEC23KEDUC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$144_donation||5077c9f37c32e0efc6ae049fa30e2af96ad98256462ec5c4a6989311f5e9ee19" id="WCEC23KEDUC_1" value="" class="variation-144-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$144</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$144.00</span></div></div></form>
+<!-- $288 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_183529" rel="183529">
+<input type="hidden" name="price||d55bdfb90b0b721ddf7249bdda73f45a845ea4ea3c289a77d5516dd086a5b1ed" id="fs_price_183529" value="288.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_183529" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_183529" />
+<input type="hidden" name="image||45c7816ac075ce7a25bcc06d4550642b8c0a8d9bdad44e8a26c7e2829f41c5b4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Kobonal-Education-foxy-thumb.jpg" id="foxyshop_cart_product_image_183529" />
+<input type="hidden" name="url||00028b5a3ed80023888e170fc7c80de72ed88f8260c4c60b982958822ae1c437" value="https://crosscatholic.org/products/catholic-school-scholarships-in-easter-catalog-288-donation-2/" id="fs_url_183529" />
+<input type="hidden" name="quantity_min||3dee66e49a3c1195a41e8b83f3dd80b9b7417fb3f5ec3c920e6ee3460dc89bfa||open" value="0" id="fs_quantity_min_183529" />
+<input type="hidden" name="quantity_max||39aba9cad52d2d3f55fe8a199d12fc832142c1182ee7263c136952653b1d2fb5||open" value="0" id="fs_quantity_max_183529" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_183529" />
+<input type="hidden" name="name||09308d05af559f153066b2dc6880352b0622bfd229cb6a4a987236de8822744a" id="fs_name_183529" value="Catholic School Scholarships in Easter Catalog - $288 donation" />
+<input type="hidden" name="code||c2c8e6be9fa1d2102efc9f16edd5e8bd91bc0e3fb979a4c15b2ec4d769536db1" id="fs_code_183529" value="WCEC23KEDUC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$288_donation||a76087fb644edc525c5913b0b579549e09d9d7b2f3d75c954756d0d07ff733ec" id="WCEC23KEDUC_1" value="" class="variation-288-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$288</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$288</span></div></div></form>
+<!-- $432 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_183530" rel="183530">
+<input type="hidden" name="price||4348d25312a2439009f96b20ae70d7f47311b39a1933feefa78aad9d37895123" id="fs_price_183530" value="432.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_183530" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_183530" />
+<input type="hidden" name="image||45c7816ac075ce7a25bcc06d4550642b8c0a8d9bdad44e8a26c7e2829f41c5b4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Kobonal-Education-foxy-thumb.jpg" id="foxyshop_cart_product_image_183530" />
+<input type="hidden" name="url||ca8bb7f03633aa7c95c609ac6bd18e4f6eb84ade15fcceb19fe42175b914080e" value="https://crosscatholic.org/products/catholic-school-scholarships-in-easter-catalog-432-donation-2/" id="fs_url_183530" />
+<input type="hidden" name="quantity_min||3dee66e49a3c1195a41e8b83f3dd80b9b7417fb3f5ec3c920e6ee3460dc89bfa||open" value="0" id="fs_quantity_min_183530" />
+<input type="hidden" name="quantity_max||39aba9cad52d2d3f55fe8a199d12fc832142c1182ee7263c136952653b1d2fb5||open" value="0" id="fs_quantity_max_183530" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_183530" />
+<input type="hidden" name="name||1e35da45137bc73078690c9f7c46ff61c91929ca5c5fdd5696c82723d191f042" id="fs_name_183530" value="Catholic School Scholarships in Easter Catalog - $432 donation" />
+<input type="hidden" name="code||c2c8e6be9fa1d2102efc9f16edd5e8bd91bc0e3fb979a4c15b2ec4d769536db1" id="fs_code_183530" value="WCEC23KEDUC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$432_donation||0ebdff4c08e6ad99bf48eea2590d84d57fc55efc2b86353d1e436b55c0729b68" id="WCEC23KEDUC_1" value="" class="variation-432-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$432</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$432</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_183531" rel="183531">
+<input type="hidden" name="price||f98f03725ebc36095720dd24a8ee1c3b58fe886698fabf95170f554bf4681adf" id="fs_price_183531" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_183531" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_183531" />
+<input type="hidden" name="image||45c7816ac075ce7a25bcc06d4550642b8c0a8d9bdad44e8a26c7e2829f41c5b4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Kobonal-Education-foxy-thumb.jpg" id="foxyshop_cart_product_image_183531" />
+<input type="hidden" name="url||a5558c74e87669db087a518b286f7903674e4346e7697ddbf4a4354feb23cc55" value="https://crosscatholic.org/products/catholic-school-scholarships-in-easter-catalog-2/" id="fs_url_183531" />
+<input type="hidden" name="quantity_min||3dee66e49a3c1195a41e8b83f3dd80b9b7417fb3f5ec3c920e6ee3460dc89bfa||open" value="0" id="fs_quantity_min_183531" />
+<input type="hidden" name="quantity_max||39aba9cad52d2d3f55fe8a199d12fc832142c1182ee7263c136952653b1d2fb5||open" value="0" id="fs_quantity_max_183531" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_183531" />
+<input type="hidden" name="name||7740bb5e831ab8c40866f5a803a0241a5345b93d93680b5feccf3b553a59cf2e" id="fs_name_183531" value="Catholic School Scholarships in Easter Catalog" />
+<input type="hidden" name="code||c2c8e6be9fa1d2102efc9f16edd5e8bd91bc0e3fb979a4c15b2ec4d769536db1" id="fs_code_183531" value="WCEC23KEDUC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||33d3eaf2f0f82ab094373cb5a0d1fb96d4f41a0b4184266183e595e1ef4e766d||open" id="WCEC23KEDUC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
