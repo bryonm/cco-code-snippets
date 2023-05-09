@@ -1,0 +1,39 @@
+add_shortcode( 'cr-WC22OVCMW', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179102" rel="179102">
+<input type="hidden" name="price||2967e4a09fe029db1a3499d411257c68f7a1701ac2c2ca327a4d0c74d99e82e0" id="fs_price_179102" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179102" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179102" />
+<input type="hidden" name="image||a70e9aecce990ddf7ea0487b4d6ce87736d4f8acb7d25c4b1a6a02d329ea8db4||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/DigAdLP-OVC-foxy-thumb.jpg" id="foxyshop_cart_product_image_179102" />
+<input type="hidden" name="url||e5fa09252c1c435c24fb3dce44971204a61f4574cdd37730ec1cefec08fd9d6f" value="https://crosscatholic.org/products/give-a-gift-that-changes-young-lives/" id="fs_url_179102" />
+<input type="hidden" name="quantity_min||1d256e84d30eff046f0d58b237098a6b85c6fc3a8b6b5d4e08b6bcba15cdd345||open" value="0" id="fs_quantity_min_179102" />
+<input type="hidden" name="quantity_max||badc15c58500fd9593da9c3a4a6e88084937b1b00191a312cc03f9fd49932fd0||open" value="0" id="fs_quantity_max_179102" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179102" />
+<input type="hidden" name="sub_frequency||3c5fbe8403fe49f3a53221819ec4613dd55815640fc7a0c42e1ca5071460251e||open" id="fs_sub_frequency_179102" value="" />
+<input type="hidden" name="name||c23c671aa20082effad5ca22c0ade1766f440e9864aac95a7bbc769658aa71ce" id="fs_name_179102" value="Give a Gift That Changes Young Lives" />
+<input type="hidden" name="code||fbbddc3e084dc1b3938b4a369cbe52d1ad62f14f645cc9eef0b476bcd71c2793" id="fs_code_179102" value="WC22OVCMW" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC22OVCMW_1" class="variation-donation">
+<option value="$50{p:50}||b7cc41ca55968903688ec7b77b6cdbc8053e2f5466714d68ba0f371187d5bcb9" priceset="5000">$50</option>
+<option value="$75{p:75}||712c179a224c997bc4d46c8aa26b573c2d90348b5a5e2014cf734daa0462d6f8" priceset="7500">$75</option>
+<option value="$100{p:100}||3d883dbac7bd6e397bc54c0dbdd569c21ddf7ec4810190d0a5407b9b4e6fac3c" priceset="10000">$100</option>
+<option value="$200{p:200}||fb6fd20f6056e1b387058b177f8ec7f9fc4634bc28c1de32655e4f7de7dad920" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||7d496bc60f0897835b5fb5e13c48eae33620d0a512ccfc7972fb2a141ab06279" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC22OVCMW_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||a5a9860bb09e1a77dc33f335bc2b57fa112b6393ac5ad37e40ab593e481d7921||open" id="WC22OVCMW_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||4673bf58563150601605b864db0e59dd54231ae70a5a5eb02921934d098ec737" id="WC22OVCMW_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC22OVCMW_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||236de11d91c766ba52bddfb78f5fe0646145189f95934e1fe3f0cb089e2d4db5" id="WC22OVCMW_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC22OVCMW_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
