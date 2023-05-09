@@ -1,0 +1,34 @@
+add_shortcode( 'pcs-JCBJ23MW0000MOT', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179940" rel="179940">
+<input type="hidden" name="price||7a3c1333e83c7628f7745e40efd783434b5928059240cbf022c26590ce83256e" id="fs_price_179940" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179940" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179940" />
+<input type="hidden" name="image||cd462750bb2ec83bc96f146eeacdac3aa981cff8560482e9e525f22af4c61839||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/BOJ-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_179940" />
+<input type="hidden" name="url||cac98a9b8b8ad1453fb336f4c135c22a24c8e57f6d34833156ed513061562a1f" value="https://crosscatholic.org/products/bless-children-around-the-world-2/" id="fs_url_179940" />
+<input type="hidden" name="quantity_min||c5ecc792c1b86f634c61f43ed66b52d906bd94f8623084538936c5153dc48f3c||open" value="0" id="fs_quantity_min_179940" />
+<input type="hidden" name="quantity_max||9b3cce550f97bb7c97189015f9a2493dc7fd1d9c6e487ebd70b6599f92ddfa0d||open" value="0" id="fs_quantity_max_179940" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179940" />
+<input type="hidden" name="sub_frequency||34484b9d9fb299958665ee46cd2324e31fc72a05c5edc010dcdeb3d5dacbfee2||open" id="fs_sub_frequency_179940" value="1m" />
+<input type="hidden" name="name||61c82ffec04261ae3babdac3f6e01a552b29c61c9bb4eeb708a84380900e05dd" id="fs_name_179940" value="Bless Children Around the World" />
+<input type="hidden" name="code||e1713f147b11cba17028fda043ae7a8e07e7d0ca38090363c7c5d2d6d59b8afd" id="fs_code_179940" value="JCBJ23MW0000MOT" />
+<div class="foxyshop_variations">
+<select name="Donation" id="JCBJ23MW0000MOT_1" class="variation-donation">
+<option value="$50/mo{p:50}||e3683260ed73335209d97c9e584cfca45f725439eca7e5406a4087c322ae6505" priceset="5000">$50/mo</option>
+<option value="$75/mo{p:75}||fe505c66e8b75c5bcb74f5a74a1efae3bbef88247373afb2b35fee97fa906062" priceset="7500">$75/mo</option>
+<option value="$100/mo{p:100}||54b0d0f09effa0231a9656aed554e6fd3ca6bd34b3bd8bd664542712319a9cd5" priceset="10000">$100/mo</option>
+<option value="$200/mo{p:200}||aab06c222c3dfa29f8929873cd5d36014487e7439f386fb42e68765bfc6eb818" priceset="20000">$200/mo</option>
+<option value="Other{dkey:custom-price}||1b0901d2a63ca23e6398293637816337713c79e779272eba3711308e1661095d" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="JCBJ23MW0000MOT_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||26e9869f91345e367a9d0911cb62ac77f73bfffb62f6efb4a9b62d7b4afd5453||open" id="JCBJ23MW0000MOT_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
