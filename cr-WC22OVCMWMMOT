@@ -1,0 +1,34 @@
+add_shortcode( 'cr-WC22OVCMWMMOT', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179108" rel="179108">
+<input type="hidden" name="price||9a461a43e30504c1a9051dbb0f72488032c60638f5db226cb66a5604ca86a4cc" id="fs_price_179108" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179108" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179108" />
+<input type="hidden" name="image||94303bca22ccbdabe597e91aa33aeae42a4c5a28a15bef45a3d80ae0546dd218||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/DigAdLP-OVC-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_179108" />
+<input type="hidden" name="url||440b7c01bb8c96e169e2c1878b0c34ba591c3a7afd4722abf8495d251365ec39" value="https://crosscatholic.org/products/give-a-gift-that-changes-young-lives-2/" id="fs_url_179108" />
+<input type="hidden" name="quantity_min||170224d7594d757643c33a45a4aa101f78c2b702c60ba1c234c349d9390efc41||open" value="0" id="fs_quantity_min_179108" />
+<input type="hidden" name="quantity_max||ce7c375ec2a2fa3caa2d5dd57018eacee957dee7cb71e3f7bc882fa39842d47a||open" value="0" id="fs_quantity_max_179108" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179108" />
+<input type="hidden" name="sub_frequency||897c3ceaf825bf254a371c347db698fa44f8a527bdee42bb4eb422003105a70e||open" id="fs_sub_frequency_179108" value="1m" />
+<input type="hidden" name="name||c6a5bce03e2add76ce0d5a3390111c1847a64ece63db6a94855dd7b331dde1c2" id="fs_name_179108" value="Give a Gift That Changes Young Lives" />
+<input type="hidden" name="code||86323de48b78594b65a36859b3d904f346a79acacd4c5d0fc360a5a40fb03037" id="fs_code_179108" value="WC22OVCMWMMOT" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC22OVCMWMMOT_1" class="variation-donation">
+<option value="$50{p:50}||5eed07ef876b57822bd8be91079c7c6aa21ad759ee9698ae5c632d9bdacc018a" priceset="5000">$50/mo.</option>
+<option value="$75{p:75}||99f6e3cd3da705515b1b7fbed789506ea1be6761321706dcd08c0091e5571808" priceset="7500">$75/mo.</option>
+<option value="$100{p:100}||60802e9c90a3afc255c4d33476ca78a29d0c7c39f61035aa950edb0b9b53cd14" priceset="10000">$100/mo.</option>
+<option value="$200{p:200}||297dd4056ca2944ac36c6d26877a2faae725e89adc02aa51def0a203f11f7093" priceset="20000">$200/mo.</option>
+<option value="Other{dkey:custom-price}||dc0d0b0dfaa6f2bd402e1549fd2a94691e10e6cf1b39420c821200d049ac2994" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC22OVCMWMMOT_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||5e4e9bb58863fa9d531425b1a7c67f92e5e4956e8f163c2e6053b783065d0580||open" id="WC22OVCMWMMOT_2"080b25cd8f1480ba56f88f8cc77d86a4acd2b945059db8f2c4f5f116ae4||open" id="WCDONA0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
