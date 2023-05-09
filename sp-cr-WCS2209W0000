@@ -1,0 +1,39 @@
+add_shortcode( 'sp-cr-WCS2209W0000', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_155649" rel="155649">
+<input type="hidden" name="price||37d8cfc4de26fcac73383872030ef6c001e948833c447f57ee39b83cf47a0018" id="fs_price_155649" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_155649" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_155649" />
+<input type="hidden" name="image||b24e8b1d770f477e58b0edcd194c961f669a584b916d35e85a16a75c2704406e||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/NovenaLp-foxy-thumb.jpg" id="foxyshop_cart_product_image_155649" />
+<input type="hidden" name="url||528c4c700326d5a990ac3d46af8da8e51e0f3c12c50423bb76894631d6de0362" value="https://crosscatholic.org/products/novena-foxy-cart/" id="fs_url_155649" />
+<input type="hidden" name="quantity_min||00293d109675390abd3dfa5bdebadb1824e377f745e4354ecc50dd6dd5a459b7||open" value="0" id="fs_quantity_min_155649" />
+<input type="hidden" name="quantity_max||edcb10240f0bbcbb4e65035db2e50964736981d49b97f0839643eb035e6b6f77||open" value="0" id="fs_quantity_max_155649" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_155649" />
+<input type="hidden" name="sub_frequency||cc393782b8e34fa898c88fe7619c7d084cfdde6282b3ea2ff711c35fe70c2057||open" id="fs_sub_frequency_155649" value="" />
+<input type="hidden" name="name||1d79a6cf2e92fc5c145795490129931135e641fad46c8f16fedbdb22c457c7f8" id="fs_name_155649" value="Novena" />
+<input type="hidden" name="code||f09abc432256a2b6df535cd23e718479ee643b966d38f55d87ba6a28b5f5bb0a" id="fs_code_155649" value="WCS2209W0000" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCS2209W0000_1" class="variation-donation">
+<option value="$50{p:50}||00bb8b85f31114c928ad1ef3273e6e6645946dbb9f5c404702b3a47215e5f0ce" priceset="5000">$50</option>
+<option value="$100{p:100}||fbaf941f5d014b10aaa5ce34730a54d1fed1165c4fbd73722b3f776fc5508305" priceset="10000">$100</option>
+<option value="$150{p:150}||ecc82401372dece49b41036685c5a49268355c6ca39d51dee6d84827098c2d73" priceset="15000">$150</option>
+<option value="$250{p:250}||0f282b1df227755e3b2e3ea92c7f1d80bef59b2d71720df6f58a2977f54a8748" priceset="25000">$250</option>
+<option value="Otra cantidad{dkey:custom-price}||366576c420f59334a73ae78c9b038ddc4eea31bfefce1717d136de35da2044d5" displaykey="custom-price">Otra cantidad</option>
+</select>
+<div class="clr"></div>
+<label for="WCS2209W0000_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||9935ba18694bccd5239444d63e5f58fc92d07b10c01f85c4535492dfd8e06b98||open" id="WCS2209W0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||321fa9ce9aeb6edb25497461ab0e5759686204f66ae4cf880ba5a21cc92a2c9d" id="WCS2209W0000_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCS2209W0000_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="El 25 de cada mes{fr:1m|c+MOT}||c16b3995807f62aaaa8c675385fd7ac53b877df37bee1f684525096e7f2fecea" id="WCS2209W0000_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCS2209W0000_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
