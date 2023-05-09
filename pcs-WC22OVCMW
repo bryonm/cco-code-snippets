@@ -1,0 +1,42 @@
+add_shortcode( 'pcs-WC22OVCMW', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179932" rel="179932">
+<input type="hidden" name="price||0de48c27328790415d067f1cbb719db74f57118b5241ba648622baaad4da35b2" id="fs_price_179932" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179932" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179932" />
+<input type="hidden" name="image||f7279ff1774e5b103eabb179e3f03709e9e044f25953ff4f5dca4222706a494a||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/BOJ-foxy-thumb.jpg" id="foxyshop_cart_product_image_179932" />
+<input type="hidden" name="url||4e81d9809f252a96b5f0973354259c16c724ef455363892c0c927f4f7a6db226" value="https://crosscatholic.org/products/bless-children-around-the-world/" id="fs_url_179932" />
+<input type="hidden" name="quantity_min||41f0e08f3e621108d8cad8656042ad94bd0eb98025a0f447db983c34420cab00||open" value="0" id="fs_quantity_min_179932" />
+<input type="hidden" name="quantity_max||769ebb1ed2c60f337125cb72050bcbd0757d0f16802d26cfd06d3b498d20cae9||open" value="0" id="fs_quantity_max_179932" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179932" />
+<input type="hidden" name="sub_frequency||359dbb32b1e04f1b73d15878ac95e7a4b001df655b1ab57072c7f3e4e0237d54||open" id="fs_sub_frequency_179932" value="" />
+<input type="hidden" name="name||6789cabe92876e61c92111f69bb98a2f827ffd32db49c449cb62b8eed9da1cb6" id="fs_name_179932" value="Bless Children Around the World" />
+<input type="hidden" name="code||3f6c3ad9865d654dc1d04684a551c0d366174533eb2326af5431d7d9cf9c5623" id="fs_code_179932" value="JCBJ23MW0000" />
+<div class="foxyshop_variations">
+<select name="Donation" id="JCBJ23MW0000_1" class="variation-donation">
+<option value="$34 fills 1 box{p:34}||3da5b6e5a99f9be99b83cd41bdcdf122b0909905b792ef78443fc49ac9035046" priceset="3400">$34 fills 1 box</option>
+<option selected="" value="$65 fills 2 boxes{p:65}||707a6aea36539f40e46fef8c487aaf478e9a97be6a4bcf59fd476c34308a0c73" priceset="6500">$65 fills 2 boxes</option>
+<option value="$150 fills 5 boxes{p:150}||ede76aa25482bc4ab6e0aaeed07f5da3e3cd00d030f532e8b507faf0b1b13184" priceset="15000">$150 fills 5 boxes</option>
+<option value="$290 fills 10 boxes{p:290}||b5c84a97409f20a34f6535e366a36d4409e8c81700f880238767710d52390231" priceset="29000">$290 fills 10 boxes</option>
+<option value="$700 fills 25 boxes{p:700}||252e724fa80a629c8f2f2d8b571dc18c42680cfee4b2729ef60ae1ac0fd34952" priceset="70000">$700 fills 25 boxes</option>
+<option value="$1,350 fills 50 boxes{p:1350}||c0287d16c1d1c0984c52235918735e3eeffb744f4eb348efa2a25e426a2eabfb" priceset="135000">$1,350 fills 50 boxes</option>
+<option value="$2,500 fills 100 boxes{p:2500}||893f7b27a11b8e1623becbdf29a2ea9fd3b1d1171c31995b3fc9bc365c3d6918" priceset="250000">$2,500 fills 100 boxes</option>
+<option value="Other{dkey:custom-price}||2fddb80652725e0cca75ebc7ff833cc7e1479add886d6979d64b7e1f82cb541e" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="JCBJ23MW0000_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||f504e57406f0a92c4e80a42d80de53fc7084a31009691abb5217baf51c4a09c7||open" id="JCBJ23MW0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||2149ba74e13b28786d57bec560428a45db1da09f545143e7f6e3e4ff8789605c" id="JCBJ23MW0000_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="JCBJ23MW0000_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||8aa35dc887c0788dd8f23173cc2d1bd6c8a45b05a183b5b92b717784e1e9702c" id="JCBJ23MW0000_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="JCBJ23MW0000_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
