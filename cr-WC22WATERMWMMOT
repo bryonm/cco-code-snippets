@@ -1,0 +1,34 @@
+add_shortcode( 'cr-WC22WATERMWMMOT', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_179082" rel="179082">
+<input type="hidden" name="price||c0ba2c84427c57e99d9556dedca838583222650c169b5fbc5e4a3cf06996154e" id="fs_price_179082" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_179082" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_179082" />
+<input type="hidden" name="image||3660d35d030e3090272224e9ec82c0cd09bc49ef23b1c1da1d0f851505b2029e||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/water-foxy-thumb-mw.jpg" id="foxyshop_cart_product_image_179082" />
+<input type="hidden" name="url||33f5072ecd5f3baf6497113e0f03226df0fc9c4d7679c5389dfdfc95ac0bad68" value="https://crosscatholic.org/products/share-the-gift-of-lifesaving-water-2/" id="fs_url_179082" />
+<input type="hidden" name="quantity_min||89df7dc1e69883b753bc78147897daa92bc7a5311993cf1952394e3488d6832b||open" value="0" id="fs_quantity_min_179082" />
+<input type="hidden" name="quantity_max||4a16b35ddd4f4d8077d112eeb139cd00ff4599455c4fe65730371d90e5511da3||open" value="0" id="fs_quantity_max_179082" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_179082" />
+<input type="hidden" name="sub_frequency||64c74b2a8004e57535a1043bd4b0df8e132ce120c3d1652676fb0fed74b0afa6||open" id="fs_sub_frequency_179082" value="1m" />
+<input type="hidden" name="name||e0825ad072affe35dee9bf973bdfa087eda997b5d4f28c8d73a8700ca75850f2" id="fs_name_179082" value="Share the Gift of Lifesaving Water" />
+<input type="hidden" name="code||c53fda60d20aee248cf73427d32298f352919eb409afbbb7c6825c74e5e570e6" id="fs_code_179082" value="WC22WATERMWMMOT" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC22WATERMWMMOT_1" class="variation-donation">
+<option value="$50{p:50}||4f219ac05c8541c7ff4f9be578ea848c6bff2340fc2bd89e1fc135e012e69fa7" priceset="5000">$50/mo.</option>
+<option value="$75{p:75}||06c8ff623b22949387efe32e2e27e9c23a16a11c4fc93810b4d1818157520409" priceset="7500">$75/mo.</option>
+<option value="$100{p:100}||bdb1c0117e522bf2105e05b2b7167c2c84703c46e3ce8b280eb1a558e10abb5c" priceset="10000">$100/mo.</option>
+<option value="$200{p:200}||9c6f5de43fada924b2549b48319697dc89690791860f97459e27d44ee20bbfa0" priceset="20000">$200/mo.</option>
+<option value="Other{dkey:custom-price}||504a6f76af34264b3b90f58b59a02f04681be4d2f84d197ddeb9d21ca0ab2490" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC22WATERMWMMOT_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||a0aa2970ee07e9274f6ccd1847ca7893757b0d8fbd95a1a25e72695ab260ef4f||open" id="WC22WATERMWMMOT_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
