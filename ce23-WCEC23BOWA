@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23BOWA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $550 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182405" rel="182405">
+<input type="hidden" name="price||b5589c1c9df671c55f8aee7c15ea61794be93eddf35dcc4888bcde738328ec29" id="fs_price_182405" value="550.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182405" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182405" />
+<input type="hidden" name="image||7b04b8760daa58df3f7c548615968c2db4edfa4cc2bb30fe5c667fcd5bb38a5f||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Bolivia-Water-foxy-thumb.jpg" id="foxyshop_cart_product_image_182405" />
+<input type="hidden" name="url||3863a78a805166f6158811de1e9d18f274c4128fa10e09c1a3f7152b4e5a3f12" value="https://crosscatholic.org/products/clean-water-for-impoverished-communities-in-easter-catalog-550-donation/" id="fs_url_182405" />
+<input type="hidden" name="quantity_min||3e7a7c92aa9702553d614833a6a679b342b561a872c643cc4fcd848c4eb5f3e5||open" value="0" id="fs_quantity_min_182405" />
+<input type="hidden" name="quantity_max||cd662c1d6bb4819b59f52fdc3926d9f087c2ab5397cedb2e0084e4dac353158a||open" value="0" id="fs_quantity_max_182405" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182405" />
+<input type="hidden" name="name||24dcf6d9d5237cb40109e2153f2f7498ccb3f343bc20b6813e396b64a1247d53" id="fs_name_182405" value="Clean Water for Impoverished Communities in Easter Catalog - $550 donation" />
+<input type="hidden" name="code||6441546a9a877252d92c51185259cac7ebc446d01663d80be5debcc731800764" id="fs_code_182405" value="WCEC23BOWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$550_donation||95d74b3d00bed51d14e75b2bc4ddff41271e41f1372b85288a31a418405bf1b8" id="WCEC23BOWA_1" value="" class="variation-550-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$550</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$550.00</span></div></div></form>
+<!-- $1,100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182406" rel="182406">
+<input type="hidden" name="price||c74fb0b934c67fc288c0048f481a7ef9292dc0d1aa3db339e9b950bd22ac258f" id="fs_price_182406" value="1100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182406" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182406" />
+<input type="hidden" name="image||7b04b8760daa58df3f7c548615968c2db4edfa4cc2bb30fe5c667fcd5bb38a5f||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Bolivia-Water-foxy-thumb.jpg" id="foxyshop_cart_product_image_182406" />
+<input type="hidden" name="url||9d259e923cf5f361a7d86b6bdac48db2ced94b0261b2c226c51cbf2e2c6f79d3" value="https://crosscatholic.org/products/clean-water-for-impoverished-communities-in-easter-catalog-1562-donation/" id="fs_url_182406" />
+<input type="hidden" name="quantity_min||3e7a7c92aa9702553d614833a6a679b342b561a872c643cc4fcd848c4eb5f3e5||open" value="0" id="fs_quantity_min_182406" />
+<input type="hidden" name="quantity_max||cd662c1d6bb4819b59f52fdc3926d9f087c2ab5397cedb2e0084e4dac353158a||open" value="0" id="fs_quantity_max_182406" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182406" />
+<input type="hidden" name="name||800da086306a5061a8379fc538e7aab8c8a5158262d6f0040138e8a432f64867" id="fs_name_182406" value="Clean Water for Impoverished Communities in Easter Catalog - $1,100 donation" />
+<input type="hidden" name="code||6441546a9a877252d92c51185259cac7ebc446d01663d80be5debcc731800764" id="fs_code_182406" value="WCEC23BOWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1,100_donation||b446209a6276831938d43aeeb7864c74770c7d9250b94a7e96c1f1eaa0e3b1da" id="WCEC23BOWA_1" value="" class="variation-1100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,100</span></div></div></form>
+<!-- $1,650 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182407" rel="182407">
+<input type="hidden" name="price||73954dc05915c468ac09bf8acc1bc6053d0d62b4bc89a19a43289cc7f7629ed7" id="fs_price_182407" value="1650.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182407" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182407" />
+<input type="hidden" name="image||7b04b8760daa58df3f7c548615968c2db4edfa4cc2bb30fe5c667fcd5bb38a5f||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Bolivia-Water-foxy-thumb.jpg" id="foxyshop_cart_product_image_182407" />
+<input type="hidden" name="url||a3bbf8b00f04a66e2c8212aa96d20c4e60265a815cab7d1a5d6d9939ab1dfecf" value="https://crosscatholic.org/products/clean-water-for-impoverished-communities-in-easter-catalog-12045-donation/" id="fs_url_182407" />
+<input type="hidden" name="quantity_min||3e7a7c92aa9702553d614833a6a679b342b561a872c643cc4fcd848c4eb5f3e5||open" value="0" id="fs_quantity_min_182407" />
+<input type="hidden" name="quantity_max||cd662c1d6bb4819b59f52fdc3926d9f087c2ab5397cedb2e0084e4dac353158a||open" value="0" id="fs_quantity_max_182407" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182407" />
+<input type="hidden" name="name||b37cc8389999daaf111d2b38d040c93c0f4b5e482bec1ec8e756bd50576b1aa9" id="fs_name_182407" value="Clean Water for Impoverished Communities in Easter Catalog - $1,650 donation" />
+<input type="hidden" name="code||6441546a9a877252d92c51185259cac7ebc446d01663d80be5debcc731800764" id="fs_code_182407" value="WCEC23BOWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1,650_donation||2926adfcf6d051ea38065a2132eba050cf8956f453ce2308dd93ab86ed6de96c" id="WCEC23BOWA_1" value="" class="variation-1650-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,650</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,650</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182408" rel="182408">
+<input type="hidden" name="price||8dd24adf373d6d85c465145d1c79d912642da9af00b2e7f6ed728224c7d63600" id="fs_price_182408" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182408" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182408" />
+<input type="hidden" name="image||7b04b8760daa58df3f7c548615968c2db4edfa4cc2bb30fe5c667fcd5bb38a5f||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Bolivia-Water-foxy-thumb.jpg" id="foxyshop_cart_product_image_182408" />
+<input type="hidden" name="url||322e028b30c51129293af395866f605f252193cae61f39281ea0b386f987b140" value="https://crosscatholic.org/products/clean-water-for-impoverished-communities-in-easter-catalog/" id="fs_url_182408" />
+<input type="hidden" name="quantity_min||3e7a7c92aa9702553d614833a6a679b342b561a872c643cc4fcd848c4eb5f3e5||open" value="0" id="fs_quantity_min_182408" />
+<input type="hidden" name="quantity_max||cd662c1d6bb4819b59f52fdc3926d9f087c2ab5397cedb2e0084e4dac353158a||open" value="0" id="fs_quantity_max_182408" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182408" />
+<input type="hidden" name="name||43fa5e5407b438a943bd2ffb373c3b4499bed43ab114d1b65c23764f25cf657a" id="fs_name_182408" value="Clean Water for Impoverished Communities in Easter Catalog" />
+<input type="hidden" name="code||6441546a9a877252d92c51185259cac7ebc446d01663d80be5debcc731800764" id="fs_code_182408" value="WCEC23BOWA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||1750ca4f64f9ad5a81284b7be1c38257bc8743c890a66b1953cdb510bc9677dc||open" id="WCEC23BOWA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
