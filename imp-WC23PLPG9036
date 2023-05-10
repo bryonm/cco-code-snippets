@@ -1,0 +1,75 @@
+add_shortcode( 'imp-WC23PLPG9036', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191433" rel="191433">
+<input type="hidden" name="price||da5b02a085097ca138b7f0c9bf86488cec2604fc597dcf1aa7135643478dc42c" id="fs_price_191433" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191433" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191433" />
+<input type="hidden" name="image||7f6987e6815f457ee3f327b0c6b138fb8d911cdb8732ceeda636b141c6a3f997||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/AgricultureImpact-foxy-thumb.jpg" id="foxyshop_cart_product_image_191433" />
+<input type="hidden" name="url||53eccb4ec8d87c1b15006aa73b8015e04a760af3eb24286a20aa71f718d564be" value="https://crosscatholic.org/products/donate-to-agriculture-25-gift/" id="fs_url_191433" />
+<input type="hidden" name="quantity_min||2d2883bf91a63a35c82b57814dfad53c86ca615cd544e646af3c672b61eb0025||open" value="0" id="fs_quantity_min_191433" />
+<input type="hidden" name="quantity_max||1dbaf378a5bf002f3b97a5bffee4f615ce40db0e63df3db62d791599d3e38466||open" value="0" id="fs_quantity_max_191433" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191433" />
+<input type="hidden" name="name||a38dbcd096a61ec45559e033f4c1bd72ec0f7a42859daaccc219b7a5f9b7a585" id="fs_name_191433" value="Donate to Agriculture $25 Gift" />
+<input type="hidden" name="code||3d27c82e536fb07a83c0564eeabe048ce218abfb10d0bf7042fbeeff8b513a10" id="fs_code_191433" value="WC23PLPG9036" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||8ba8891df7c68a92f8cec7b94b9cf9e696a09d0cbc67c7b47d6ff69cf4013334" id="WC23PLPG9036_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191434" rel="191434">
+<input type="hidden" name="price||9a5e194003181cf13eb009bc577624eb1662a19d4fbe2ed04f7627244aa2281f" id="fs_price_191434" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191434" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191434" />
+<input type="hidden" name="image||7f6987e6815f457ee3f327b0c6b138fb8d911cdb8732ceeda636b141c6a3f997||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/AgricultureImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_191434" />
+<input type="hidden" name="url||09f0815c3dfb5c2814c56c6c8beb62b38df251e18ba8ccd237fddae978984155" value="https://crosscatholic.org/products/donate-to-agriculture-50-gift/" id="fs_url_191434" />
+<input type="hidden" name="quantity_min||2d2883bf91a63a35c82b57814dfad53c86ca615cd544e646af3c672b61eb0025||open" value="0" id="fs_quantity_min_191434" />
+<input type="hidden" name="quantity_max||1dbaf378a5bf002f3b97a5bffee4f615ce40db0e63df3db62d791599d3e38466||open" value="0" id="fs_quantity_max_191434" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191434" />
+<input type="hidden" name="name||34e0ad2908ef3f42ca96624afb68ee1b47ddc6caf0febe86bcec86a09558ce32" id="fs_name_191434" value="Donate to Agriculture $50 Gift" />
+<input type="hidden" name="code||3d27c82e536fb07a83c0564eeabe048ce218abfb10d0bf7042fbeeff8b513a10" id="fs_code_191434" value="WC23PLPG9036" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||91a19a9809d7809c2a7802f664705e1eb1f8061e87b3b31df4b4f75cb4a37da2" id="WC23PLPG9036_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191435" rel="191435">
+<input type="hidden" name="price||1da879d622ec04f6eb465849855281d9fe38a0fd645d0a351b71501b814ef606" id="fs_price_191435" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191435" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191435" />
+<input type="hidden" name="image||7f6987e6815f457ee3f327b0c6b138fb8d911cdb8732ceeda636b141c6a3f997||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/AgricultureImpact-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_191435" />
+<input type="hidden" name="url||cf06dae2dfa841a93b2d0f28ca450e6536136e7ecb29779ddfa8d839e9cf2981" value="https://crosscatholic.org/products/donate-to-agriculture-100-gift/" id="fs_url_191435" />
+<input type="hidden" name="quantity_min||2d2883bf91a63a35c82b57814dfad53c86ca615cd544e646af3c672b61eb0025||open" value="0" id="fs_quantity_min_191435" />
+<input type="hidden" name="quantity_max||1dbaf378a5bf002f3b97a5bffee4f615ce40db0e63df3db62d791599d3e38466||open" value="0" id="fs_quantity_max_191435" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191435" />
+<input type="hidden" name="name||fadc42296962950735e965f263a066639128d1d73118f71d96572b76baddd467" id="fs_name_191435" value="Donate to Agriculture $100 Gift" />
+<input type="hidden" name="code||3d27c82e536fb07a83c0564eeabe048ce218abfb10d0bf7042fbeeff8b513a10" id="fs_code_191435" value="WC23PLPG9036" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||1941125a08df2495d5aadbc808722de6e84fb5ad0b9ed071f8d6409e959ecd91" id="WC23PLPG9036_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191436" rel="191436">
+<input type="hidden" name="price||71a10c6c5e9187aa0e9a6216ca5dfe5648deb1750c8bf4714e9603e99df43222" id="fs_price_191436" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191436" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191436" />
+<input type="hidden" name="image||7f6987e6815f457ee3f327b0c6b138fb8d911cdb8732ceeda636b141c6a3f997||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/AgricultureImpact-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_191436" />
+<input type="hidden" name="url||18bf4609f2cccadc5ac15bf676dcc8f0c2ae32d6844358bb7f58b590ab658d49" value="https://crosscatholic.org/products/donate-to-agriculture-gift/" id="fs_url_191436" />
+<input type="hidden" name="quantity_min||2d2883bf91a63a35c82b57814dfad53c86ca615cd544e646af3c672b61eb0025||open" value="0" id="fs_quantity_min_191436" />
+<input type="hidden" name="quantity_max||1dbaf378a5bf002f3b97a5bffee4f615ce40db0e63df3db62d791599d3e38466||open" value="0" id="fs_quantity_max_191436" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191436" />
+<input type="hidden" name="name||9859acfda85b333a37249d57ad84047dd5af66ee14b4135aeb47091cebc72f8e" id="fs_name_191436" value="Donate to Agriculture Gift" />
+<input type="hidden" name="code||3d27c82e536fb07a83c0564eeabe048ce218abfb10d0bf7042fbeeff8b513a10" id="fs_code_191436" value="WC23PLPG9036" />
+<div class="foxyshop_variations">
+<input type="text" name="price||a8022b7218f991e47ad63964fd05f28b2a9ac63522c4684f1b151ec6f27c245e||open" id="WC23PLPG9036_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
