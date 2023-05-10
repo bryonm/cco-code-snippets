@@ -1,0 +1,33 @@
+add_shortcode( 'ce23-WCEC23DRLP', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_190532" rel="190532">
+<input type="hidden" name="price||872765d5d9a5045f60ceccedfeb825dbd4b79539060a23ba9a4b93502eecb607" id="fs_price_190532" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_190532" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_190532" />
+<input type="hidden" name="image||7315f8c166ce36a8c732165bb7975304288d45b7bee26bcd779f8e40ac00580f||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/EC2023-DRLP-foxy-thumb.jpg" id="foxyshop_cart_product_image_190532" />
+<input type="hidden" name="url||15e460696ce6a05f37798b5caae359664a7f348848e3ba62758ce9b78268792a" value="https://crosscatholic.org/products/donate-to-share-hope-in-the-dominican-republic/" id="fs_url_190532" />
+<input type="hidden" name="quantity_min||9b32c957723773cc38eb76339766464f7b3c552655f9d4712d86d2a529014ec9||open" value="0" id="fs_quantity_min_190532" />
+<input type="hidden" name="quantity_max||f317907f76625194aa6a190a4d64519e8ade901aec5f0f44fc0d08d688c7d4a0||open" value="0" id="fs_quantity_max_190532" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_190532" />
+<input type="hidden" name="name||810596ae29d2aeb24143988f25e9bde9baf3827a7615ad158bd7f5367620a786" id="fs_name_190532" value="Donate to Share Hope in the Dominican Republic" />
+<input type="hidden" name="code||a050674b1b2d243f39ef43ac0186ab291153246191782194d93df18851172731" id="fs_code_190532" value="WCEC23DRLP" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCEC23DRLP_1" class="variation-donation">
+<option value="$50{p:50}||08cdaeeeba2114a44a40401463e63a5eb5ccd711e75a8a614d5c65d638c46662" priceset="5000">$50</option>
+<option selected="" value="$100{p:100}||4fac9f6161fb317f46ea6b7f3e79f957b46defd13ff9f29ca4526be2234fb857" priceset="10000">$100</option>
+<option value="$150{p:150}||1cf716ca77639921775ba93508f9b478807af61a2604554a9370e42479c95f8f" priceset="15000">$150</option>
+<option value="$200{p:200}||54c6543a314f0e7f6f675da1b2c6941ddb27c6565bf74047fb320e1efb57d0fd" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||98ffc1a4efa4554c8d35d6b40361a6cbfd9fb1f18486fa1d6375e44a1cf7671c" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCEC23DRLP_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||ce020488696e60e984aa638d350e32d07343f81532b605a7f5a69984dcffb713||open" id="WCEC23DRLP_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
