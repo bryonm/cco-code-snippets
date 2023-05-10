@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23ANTI', function () {
+
+	$out = '<div class="flex-container">
+<!-- $89 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182450" rel="182450">
+<input type="hidden" name="price||b1a0fa17c165b45a6bebf50b0c83a42642581a7bfffa3dd27263c6e85f304471" id="fs_price_182450" value="89.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182450" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182450" />
+<input type="hidden" name="image||a432818903ccdc605ab3dc9865bd8881ab3417b3e733917d10aba1600a39fe98||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Anti-Trafficking-foxy-thumb.jpg" id="foxyshop_cart_product_image_182450" />
+<input type="hidden" name="url||be0084ea9842008fce156bfe6e1820ad05e0ea47e2a0cd715ca72f6cf7223f86" value="https://crosscatholic.org/products/vulnerable-children-in-easter-catalog-89-donation/" id="fs_url_182450" />
+<input type="hidden" name="quantity_min||7393f8432f2b6f2d313cdbca4e9c28900c9e13ef8a3953d33e254ac7cb55bc83||open" value="0" id="fs_quantity_min_182450" />
+<input type="hidden" name="quantity_max||6838631cf466101b7c0bc4f8cdec7877e82e678f1170b845b03fa5232676f0f6||open" value="0" id="fs_quantity_max_182450" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182450" />
+<input type="hidden" name="name||4b5b9d518d1f047ec6fe955000b212d046c137de554c19acdc0cd76103f8c892" id="fs_name_182450" value="Vulnerable Children in Easter Catalog - $89 donation" />
+<input type="hidden" name="code||3d3d1ae7a83ef354d7fee835d5202c51c563762efe6131b1905701e3af845281" id="fs_code_182450" value="WCEC23ANTI" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$89_donation||7dd7c3f54b36428681fd7bdbbf081c0b4bf6d26d3d3b51c97ad6545563b5dfaa" id="WCEC23ANTI_1" value="" class="variation-89-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$89</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">89.00</span></div></div></form>
+<!-- $178 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182451" rel="182451">
+<input type="hidden" name="price||52690f3e2ba1be09def703d5c6cb5e14950db0613a8debff56c0ea19c25281c4" id="fs_price_182451" value="178.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182451" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182451" />
+<input type="hidden" name="image||a432818903ccdc605ab3dc9865bd8881ab3417b3e733917d10aba1600a39fe98||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Anti-Trafficking-foxy-thumb.jpg" id="foxyshop_cart_product_image_182451" />
+<input type="hidden" name="url||6002837a7e0209bdaa85e27b45c04a0ae78be70ead1e4e91902f32c3bd70a532" value="https://crosscatholic.org/products/vulnerable-children-in-easter-catalog-408-donation/" id="fs_url_182451" />
+<input type="hidden" name="quantity_min||7393f8432f2b6f2d313cdbca4e9c28900c9e13ef8a3953d33e254ac7cb55bc83||open" value="0" id="fs_quantity_min_182451" />
+<input type="hidden" name="quantity_max||6838631cf466101b7c0bc4f8cdec7877e82e678f1170b845b03fa5232676f0f6||open" value="0" id="fs_quantity_max_182451" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182451" />
+<input type="hidden" name="name||fa27ca701430201cd11badaafc7e651c328b75ba6520f83db07f94c0d09f69c1" id="fs_name_182451" value="Vulnerable Children in Easter Catalog - $178 donation" />
+<input type="hidden" name="code||3d3d1ae7a83ef354d7fee835d5202c51c563762efe6131b1905701e3af845281" id="fs_code_182451" value="WCEC23ANTI" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$178_donation||a4fdbe521a9cad0a054d21e8079b43a379e2d93d0b1397a03afa1531bd2ed403" id="WCEC23ANTI_1" value="" class="variation-178-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$178</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$178</span></div></div></form>
+<!-- $267 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182452" rel="182452">
+<input type="hidden" name="price||6671ab44027f79bb65c5910c167ec233439ed231dc6cd190555a1ecf175be124" id="fs_price_182452" value="267.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182452" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182452" />
+<input type="hidden" name="image||a432818903ccdc605ab3dc9865bd8881ab3417b3e733917d10aba1600a39fe98||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Anti-Trafficking-foxy-thumb.jpg" id="foxyshop_cart_product_image_182452" />
+<input type="hidden" name="url||b651d708f15c1f9326af29d023de1d8ee1e750fd845123fc4b6530f376f849eb" value="https://crosscatholic.org/products/vulnerable-children-in-easter-catalog-612-donation/" id="fs_url_182452" />
+<input type="hidden" name="quantity_min||7393f8432f2b6f2d313cdbca4e9c28900c9e13ef8a3953d33e254ac7cb55bc83||open" value="0" id="fs_quantity_min_182452" />
+<input type="hidden" name="quantity_max||6838631cf466101b7c0bc4f8cdec7877e82e678f1170b845b03fa5232676f0f6||open" value="0" id="fs_quantity_max_182452" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182452" />
+<input type="hidden" name="name||5dc6b2973ce03f53df704f575565c3bbf2fa72f4fc155324c0a824b56a0c5375" id="fs_name_182452" value="Vulnerable Children in Easter Catalog - $267 donation" />
+<input type="hidden" name="code||3d3d1ae7a83ef354d7fee835d5202c51c563762efe6131b1905701e3af845281" id="fs_code_182452" value="WCEC23ANTI" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$267_donation||dedd576d6b0f4a1b48a84ac9a30465acf99512157a749d52d2e4c9ca90828a54" id="WCEC23ANTI_1" value="" class="variation-267-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$267</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$267</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182453" rel="182453">
+<input type="hidden" name="price||4546755a3ea563490645bd374aead2d6ea1069c65aecbfaaa2e636a81db5de5e" id="fs_price_182453" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182453" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182453" />
+<input type="hidden" name="image||a432818903ccdc605ab3dc9865bd8881ab3417b3e733917d10aba1600a39fe98||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Anti-Trafficking-foxy-thumb.jpg" id="foxyshop_cart_product_image_182453" />
+<input type="hidden" name="url||55458202be64b3f4a18224d60aafcdf591a66d77290c0f8d34660b08258d4fb3" value="https://crosscatholic.org/products/vulnerable-children-in-easter-catalog/" id="fs_url_182453" />
+<input type="hidden" name="quantity_min||7393f8432f2b6f2d313cdbca4e9c28900c9e13ef8a3953d33e254ac7cb55bc83||open" value="0" id="fs_quantity_min_182453" />
+<input type="hidden" name="quantity_max||6838631cf466101b7c0bc4f8cdec7877e82e678f1170b845b03fa5232676f0f6||open" value="0" id="fs_quantity_max_182453" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182453" />
+<input type="hidden" name="name||d463aa7be97f5e7d621edcaf54597620287a5c70830dc50e4f6310bda04b2512" id="fs_name_182453" value="Vulnerable Children in Easter Catalog" />
+<input type="hidden" name="code||3d3d1ae7a83ef354d7fee835d5202c51c563762efe6131b1905701e3af845281" id="fs_code_182453" value="WCEC23ANTI" />
+<div class="foxyshop_variations">
+<input type="text" name="price||da9d5e2e383375b51daa071cc3449ad8e8c8c156362a3b4e0a0b15ea13ea3353||open" id="WCEC23ANTI_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
