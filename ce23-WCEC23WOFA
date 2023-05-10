@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23WOFA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $204 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182441" rel="182441">
+<input type="hidden" name="price||e8d784632d9dbf8cf746711cc87aa86b2ee642f289a9a3e8080f7881119279b8" id="fs_price_182441" value="204.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182441" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182441" />
+<input type="hidden" name="image||c7555a9eb696202b5922191d843acca2aa51ed7b7806116e72d88fce1b9f6bdc||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Women-Owned-Farms-in-Haiti-foxy-thumb.jpg" id="foxyshop_cart_product_image_182441" />
+<input type="hidden" name="url||ed33495565cebe7d8cf72060c9a1b2d97efe52662a600266c5d564b94a281802" value="https://crosscatholic.org/products/women-owned-farms-in-easter-catalog-204-donation/" id="fs_url_182441" />
+<input type="hidden" name="quantity_min||504d61429cc44dd3556356d0b5a6dbccbc9ebb8f4145c157f30f2faba4200291||open" value="0" id="fs_quantity_min_182441" />
+<input type="hidden" name="quantity_max||f045480845433f6f6b040155cf6b851227e673a8dca3b54a84afa0fa80a2f9ba||open" value="0" id="fs_quantity_max_182441" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182441" />
+<input type="hidden" name="name||985078f57a6b76f6590570ae192540b2667c4dc9b1262962170ab2b6e6832bdf" id="fs_name_182441" value="Women-Owned Farms in Easter Catalog - $204 donation" />
+<input type="hidden" name="code||4df6037318982ec945106466d23f4e6dfc9eaf7e24bfeef7613cbde37a3c1c39" id="fs_code_182441" value="WCEC23WOFA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$204_donation||fc7a86647b8ee8e4030a58925ae790689c987554d7fc34cf7f1e4a8181286761" id="WCEC23WOFA_1" value="" class="variation-204-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$204</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">204.00</span></div></div></form>
+<!-- $408 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182442" rel="182442">
+<input type="hidden" name="price||affac60902e06350bf583ce05fb5c733762601cddadc913393d0156c839ab18b" id="fs_price_182442" value="408.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182442" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182442" />
+<input type="hidden" name="image||c7555a9eb696202b5922191d843acca2aa51ed7b7806116e72d88fce1b9f6bdc||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Women-Owned-Farms-in-Haiti-foxy-thumb.jpg" id="foxyshop_cart_product_image_182442" />
+<input type="hidden" name="url||48f2d90641e10db8ccb83ec551c2c4c06a46e620ba4711b31ca97ee49859bd71" value="https://crosscatholic.org/products/women-owned-farms-in-easter-catalog-408-donation/" id="fs_url_182442" />
+<input type="hidden" name="quantity_min||504d61429cc44dd3556356d0b5a6dbccbc9ebb8f4145c157f30f2faba4200291||open" value="0" id="fs_quantity_min_182442" />
+<input type="hidden" name="quantity_max||f045480845433f6f6b040155cf6b851227e673a8dca3b54a84afa0fa80a2f9ba||open" value="0" id="fs_quantity_max_182442" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182442" />
+<input type="hidden" name="name||fba20f957f3ffc235d92818cec9c005ffc2168632e3dd820a16e9cd9934aa115" id="fs_name_182442" value="Women-Owned Farms in Easter Catalog - $408 donation" />
+<input type="hidden" name="code||4df6037318982ec945106466d23f4e6dfc9eaf7e24bfeef7613cbde37a3c1c39" id="fs_code_182442" value="WCEC23WOFA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$408_donation||bf295f2d6a3bc3bfe5e8f36f0e3680432b71c1a8f17b5381e1b692c539a66e6a" id="WCEC23WOFA_1" value="" class="variation-408-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$408</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$408</span></div></div></form>
+<!-- $612 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182443" rel="182443">
+<input type="hidden" name="price||e733050bec3e7661ed8ef2aab73115125f6199c966ba0b88bc30506da67a81d6" id="fs_price_182443" value="612.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182443" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182443" />
+<input type="hidden" name="image||c7555a9eb696202b5922191d843acca2aa51ed7b7806116e72d88fce1b9f6bdc||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Women-Owned-Farms-in-Haiti-foxy-thumb.jpg" id="foxyshop_cart_product_image_182443" />
+<input type="hidden" name="url||9c0032485a7befc3f2f49452eb6937b835f40eab74af1c1e9a0308c434ee0a15" value="https://crosscatholic.org/products/women-owned-farms-in-easter-catalog-612-donation/" id="fs_url_182443" />
+<input type="hidden" name="quantity_min||504d61429cc44dd3556356d0b5a6dbccbc9ebb8f4145c157f30f2faba4200291||open" value="0" id="fs_quantity_min_182443" />
+<input type="hidden" name="quantity_max||f045480845433f6f6b040155cf6b851227e673a8dca3b54a84afa0fa80a2f9ba||open" value="0" id="fs_quantity_max_182443" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182443" />
+<input type="hidden" name="name||917712c61ed6af35d4b7eab35b94bb9dbc0ffb7142c3aa613090379c63716de6" id="fs_name_182443" value="Women-Owned Farms in Easter Catalog - $612 donation" />
+<input type="hidden" name="code||4df6037318982ec945106466d23f4e6dfc9eaf7e24bfeef7613cbde37a3c1c39" id="fs_code_182443" value="WCEC23WOFA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$612_donation||001eca86bddfff6dfe9e4868105c490c5d9fafcd4c79f4b29f7ee3690e5cd01c" id="WCEC23WOFA_1" value="" class="variation-612-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$612</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$612</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182444" rel="182444">
+<input type="hidden" name="price||2dbb4f8ff82180993e5b08c91b0cc3c62693d12f13b402c7f6ebf6ca41d6cd64" id="fs_price_182444" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182444" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182444" />
+<input type="hidden" name="image||c7555a9eb696202b5922191d843acca2aa51ed7b7806116e72d88fce1b9f6bdc||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Women-Owned-Farms-in-Haiti-foxy-thumb.jpg" id="foxyshop_cart_product_image_182444" />
+<input type="hidden" name="url||910aa964e5973a1cf3e9414d9e7a0240bfde6122cc58880cf4bb5be4e8a6ae9c" value="https://crosscatholic.org/products/women-owned-farms-in-easter-catalog/" id="fs_url_182444" />
+<input type="hidden" name="quantity_min||504d61429cc44dd3556356d0b5a6dbccbc9ebb8f4145c157f30f2faba4200291||open" value="0" id="fs_quantity_min_182444" />
+<input type="hidden" name="quantity_max||f045480845433f6f6b040155cf6b851227e673a8dca3b54a84afa0fa80a2f9ba||open" value="0" id="fs_quantity_max_182444" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182444" />
+<input type="hidden" name="name||ac6d270080e3a61f90463781a51bc2bd94ced6a8992264735127ddd83b1262bd" id="fs_name_182444" value="Women-Owned Farms in Easter Catalog" />
+<input type="hidden" name="code||4df6037318982ec945106466d23f4e6dfc9eaf7e24bfeef7613cbde37a3c1c39" id="fs_code_182444" value="WCEC23WOFA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||b5e97ec34af379829873e84567ef2e5af0022839f9052bc2b774aa19edf07730||open" id="WCEC23WOFA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
