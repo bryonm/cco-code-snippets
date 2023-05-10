@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-JCEC23W9028', function () {
+
+	$out = '<div class="flex-container">
+<!-- $34 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_180960" rel="180960">
+<input type="hidden" name="price||70d8449ded8071cdbce1babaa63b3b90e9f6e2e8080e77dc518897a413d6de46" id="fs_price_180960" value="34.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_180960" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_180960" />
+<input type="hidden" name="image||4bf0df95da0ee6d7de615e0819e27fee5dd7991ccedfce57a96eeca80e9011e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Box-of-Joy-foxy-thumb.jpg" id="foxyshop_cart_product_image_180960" />
+<input type="hidden" name="url||333f67d7e7d81df64d51300fde94614e8918f5c83506ba1bb3eed246559928a7" value="https://crosscatholic.org/products/box-of-joy-in-easter-catalog-34-donation/" id="fs_url_180960" />
+<input type="hidden" name="quantity_min||3a1042b4c52a222cabbb4c16ca3408573aa33b116ca563f45663a4b76ee49c71||open" value="0" id="fs_quantity_min_180960" />
+<input type="hidden" name="quantity_max||a0aeeefa983f39cac3bd1842149d59dfcb11a2b13257ef898b785e7644056997||open" value="0" id="fs_quantity_max_180960" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_180960" />
+<input type="hidden" name="name||24224a3a64411543d83b4e8766cbd3dfde2f9cfef03c111ad7c6437be363b3b9" id="fs_name_180960" value="Box of Joy in Easter Catalog - $34 donation" />
+<input type="hidden" name="code||147674f2e5c02a9a4d2cdf8bdf6f2c2e7aa70b08961b7f56644dd32b813196a7" id="fs_code_180960" value="JCEC23W9028" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$34_donation||05f076d0904c5ec2c6773d397cc7d91563a8c188ce4b40cc584b6e541aa43401" id="JCEC23W9028_1" value="" class="variation-34-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$34</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$34.00</span></div></div></form>
+<!-- $65 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_180959" rel="180959">
+<input type="hidden" name="price||8ac3cd7bd9e79ca0e9e4b06f11b2b0546108ca38f49bb0b2f71832ea42ba4991" id="fs_price_180959" value="65.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_180959" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_180959" />
+<input type="hidden" name="image||4bf0df95da0ee6d7de615e0819e27fee5dd7991ccedfce57a96eeca80e9011e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Box-of-Joy-foxy-thumb.jpg" id="foxyshop_cart_product_image_180959" />
+<input type="hidden" name="url||578b09eeeb024bbc8d243ced0e3484634a7b9a13a15531aecd757c35e34151fa" value="https://crosscatholic.org/products/box-of-joy-in-easter-catalog-65-donation/" id="fs_url_180959" />
+<input type="hidden" name="quantity_min||3a1042b4c52a222cabbb4c16ca3408573aa33b116ca563f45663a4b76ee49c71||open" value="0" id="fs_quantity_min_180959" />
+<input type="hidden" name="quantity_max||a0aeeefa983f39cac3bd1842149d59dfcb11a2b13257ef898b785e7644056997||open" value="0" id="fs_quantity_max_180959" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_180959" />
+<input type="hidden" name="name||769eb1228134f84ccdf071685be0dda856fb0208673cf148495a109b0c6cadbe" id="fs_name_180959" value="Box of Joy in Easter Catalog - $65 donation" />
+<input type="hidden" name="code||147674f2e5c02a9a4d2cdf8bdf6f2c2e7aa70b08961b7f56644dd32b813196a7" id="fs_code_180959" value="JCEC23W9028" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$65_donation||8d31e49ab2f991944846d28587c9f88d7ff51f680a3ed115d8ea910adfe45ef5" id="JCEC23W9028_1" value="" class="variation-65-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$65</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$65</span></div></div></form>
+<!-- $150 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_180958" rel="180958">
+<input type="hidden" name="price||327589e28722e582b23aecffb78389c8a610e7c354660e7edd9c8f61077d9ab7" id="fs_price_180958" value="150.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_180958" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_180958" />
+<input type="hidden" name="image||4bf0df95da0ee6d7de615e0819e27fee5dd7991ccedfce57a96eeca80e9011e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Box-of-Joy-foxy-thumb.jpg" id="foxyshop_cart_product_image_180958" />
+<input type="hidden" name="url||a9f2591a0798fd4965c26a53b7d8f956bbb17382e888ee8bb2428bb45f9b4f34" value="https://crosscatholic.org/products/box-of-joy-in-easter-catalog-150-donation/" id="fs_url_180958" />
+<input type="hidden" name="quantity_min||3a1042b4c52a222cabbb4c16ca3408573aa33b116ca563f45663a4b76ee49c71||open" value="0" id="fs_quantity_min_180958" />
+<input type="hidden" name="quantity_max||a0aeeefa983f39cac3bd1842149d59dfcb11a2b13257ef898b785e7644056997||open" value="0" id="fs_quantity_max_180958" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_180958" />
+<input type="hidden" name="name||c75b7f29e840a248ee3996e4a58a3f12f69a9377f9320108459eadcb7824b234" id="fs_name_180958" value="Box of Joy in Easter Catalog - $150 donation" />
+<input type="hidden" name="code||147674f2e5c02a9a4d2cdf8bdf6f2c2e7aa70b08961b7f56644dd32b813196a7" id="fs_code_180958" value="JCEC23W9028" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$150_donation||4c3e7c9c2443e7562883c03f61f5689787a4c3306f9d67a5fc0f54cadbfbf8b8" id="JCEC23W9028_1" value="" class="variation-150-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$150</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$150</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_180957" rel="180957">
+<input type="hidden" name="price||8561ca790734618fdca382188b31970c1dbeac2301e1c77d2bbe908be62c65fc" id="fs_price_180957" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_180957" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_180957" />
+<input type="hidden" name="image||4bf0df95da0ee6d7de615e0819e27fee5dd7991ccedfce57a96eeca80e9011e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Box-of-Joy-foxy-thumb.jpg" id="foxyshop_cart_product_image_180957" />
+<input type="hidden" name="url||ccf6a5d9ccc6d8d82e83003337a8b28bbd03d621d7dfd8e6e3aac824e9fcd3b5" value="https://crosscatholic.org/products/box-of-joy-in-easter-catalog/" id="fs_url_180957" />
+<input type="hidden" name="quantity_min||3a1042b4c52a222cabbb4c16ca3408573aa33b116ca563f45663a4b76ee49c71||open" value="0" id="fs_quantity_min_180957" />
+<input type="hidden" name="quantity_max||a0aeeefa983f39cac3bd1842149d59dfcb11a2b13257ef898b785e7644056997||open" value="0" id="fs_quantity_max_180957" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_180957" />
+<input type="hidden" name="name||c7375a9bdf026afed8637e34f3623f600584f8270f99213728ff5fb8ae919557" id="fs_name_180957" value="Box of Joy in Easter Catalog" />
+<input type="hidden" name="code||147674f2e5c02a9a4d2cdf8bdf6f2c2e7aa70b08961b7f56644dd32b813196a7" id="fs_code_180957" value="JCEC23W9028" />
+<div class="foxyshop_variations">
+<input type="text" name="price||31d01d475cf3deb364413ce7cef855f024791efa013701320cbeaf52e856f320||open" id="JCEC23W9028_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
