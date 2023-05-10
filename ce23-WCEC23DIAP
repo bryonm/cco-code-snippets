@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23DIAP', function () {
+
+	$out = '<div class="flex-container">
+<!-- $38 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182363" rel="182363">
+<input type="hidden" name="price||a594e13c86c892514c25721b6f68d5dd49af5e688c3bc71bb90ebeb6da88e434" id="fs_price_182363" value="38.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182363" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182363" />
+<input type="hidden" name="image||514bb1048b689b8eb9b68af86df8ce6ec0b29fae1593938586c17a25e693ad0b||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Diapers-for-Children-foxy-thumb.jpg" id="foxyshop_cart_product_image_182363" />
+<input type="hidden" name="url||6fe9519b1dfda5d2946ec9bd6ed04e13348cec61ffacc0f6d4ff96bf88c1640b" value="https://crosscatholic.org/products/diapers-for-children-in-easter-catalog-38-donation/" id="fs_url_182363" />
+<input type="hidden" name="quantity_min||4c2f3db472d42db3da24f13a2e8b22c68b7c20ab82e504df86bd337230689218||open" value="0" id="fs_quantity_min_182363" />
+<input type="hidden" name="quantity_max||8368c9be2a70c9048da357cc52fe25f061705af8f41d72e2377bd3c7aa3574f4||open" value="0" id="fs_quantity_max_182363" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182363" />
+<input type="hidden" name="name||e3f2f1fbee78ff184cb8ec9a12ade37979b58858318ac80476b91b688e8b41c8" id="fs_name_182363" value="Diapers for Children in Easter Catalog - $38 donation" />
+<input type="hidden" name="code||35b5df9b8b1b995a3fb8d1e5379a466ea87b2e943a8d1a080aa9fc2418aa05ac" id="fs_code_182363" value="WCEC23DIAP" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$38_donation||f47ca0d4adb205153e36f6ff04f5e5e0cb4fad811fc33d7aaae48d6a359ee85d" id="WCEC23DIAP_1" value="" class="variation-38-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$38</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$38.00</span></div></div></form>
+<!-- $76 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182364" rel="182364">
+<input type="hidden" name="price||2b0260be426171a1faddbe13a6c3bcc11d0aedb767de36a259eb897866588086" id="fs_price_182364" value="76.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182364" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182364" />
+<input type="hidden" name="image||514bb1048b689b8eb9b68af86df8ce6ec0b29fae1593938586c17a25e693ad0b||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Diapers-for-Children-foxy-thumb.jpg" id="foxyshop_cart_product_image_182364" />
+<input type="hidden" name="url||0f50128ca35b293a856ef698e41ef9dbec27b467034c523dbc76f91936f5714f" value="https://crosscatholic.org/products/diapers-for-children-in-easter-catalog-76-donation/" id="fs_url_182364" />
+<input type="hidden" name="quantity_min||4c2f3db472d42db3da24f13a2e8b22c68b7c20ab82e504df86bd337230689218||open" value="0" id="fs_quantity_min_182364" />
+<input type="hidden" name="quantity_max||8368c9be2a70c9048da357cc52fe25f061705af8f41d72e2377bd3c7aa3574f4||open" value="0" id="fs_quantity_max_182364" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182364" />
+<input type="hidden" name="name||3aca5bc94b4049d16467cc7f774a8037a9a043cccca538187a8d458545fe44df" id="fs_name_182364" value="Diapers for Children in Easter Catalog - $76 donation" />
+<input type="hidden" name="code||35b5df9b8b1b995a3fb8d1e5379a466ea87b2e943a8d1a080aa9fc2418aa05ac" id="fs_code_182364" value="WCEC23DIAP" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$76_donation||788b57caeb60ff661d9922f5680c798fa1781a21661bc42c53d568308b5a4151" id="WCEC23DIAP_1" value="" class="variation-76-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$76</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$76</span></div></div></form>
+<!-- $114 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182365" rel="182365">
+<input type="hidden" name="price||9e97d34224c13bd040e345e8341dab984fe804e51f03893fdd5bdec222731824" id="fs_price_182365" value="114.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182365" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182365" />
+<input type="hidden" name="image||514bb1048b689b8eb9b68af86df8ce6ec0b29fae1593938586c17a25e693ad0b||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Diapers-for-Children-foxy-thumb.jpg" id="foxyshop_cart_product_image_182365" />
+<input type="hidden" name="url||ecebd72cba35d1f3530850660fdefbd7063b7100f359fd1857df07b063f9aacd" value="https://crosscatholic.org/products/diapers-for-children-in-easter-catalog-114-donation/" id="fs_url_182365" />
+<input type="hidden" name="quantity_min||4c2f3db472d42db3da24f13a2e8b22c68b7c20ab82e504df86bd337230689218||open" value="0" id="fs_quantity_min_182365" />
+<input type="hidden" name="quantity_max||8368c9be2a70c9048da357cc52fe25f061705af8f41d72e2377bd3c7aa3574f4||open" value="0" id="fs_quantity_max_182365" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182365" />
+<input type="hidden" name="name||b681bf192f98628981fbd2d0109258ab31fd0cb24ef13e8b59cda9ecd4f288ad" id="fs_name_182365" value="Diapers for Children in Easter Catalog - $114 donation" />
+<input type="hidden" name="code||35b5df9b8b1b995a3fb8d1e5379a466ea87b2e943a8d1a080aa9fc2418aa05ac" id="fs_code_182365" value="WCEC23DIAP" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$114_donation||70f0fe5991ec4f5b5fe8b26246972561f54335b2b5bc64cfd8afbed6eab394c3" id="WCEC23DIAP_1" value="" class="variation-114-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$114</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$114</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182366" rel="182366">
+<input type="hidden" name="price||5aab1851c0720834eb5c5c9bc1b94f353618c9afdf4c5d675821d05bf2b777d6" id="fs_price_182366" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182366" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182366" />
+<input type="hidden" name="image||514bb1048b689b8eb9b68af86df8ce6ec0b29fae1593938586c17a25e693ad0b||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Diapers-for-Children-foxy-thumb.jpg" id="foxyshop_cart_product_image_182366" />
+<input type="hidden" name="url||4d5146b8c3e5d11cb22cd4950f91e293e6d64796946e9e63eb0387dc11e60d92" value="https://crosscatholic.org/products/diapers-for-children-in-easter-catalog/" id="fs_url_182366" />
+<input type="hidden" name="quantity_min||4c2f3db472d42db3da24f13a2e8b22c68b7c20ab82e504df86bd337230689218||open" value="0" id="fs_quantity_min_182366" />
+<input type="hidden" name="quantity_max||8368c9be2a70c9048da357cc52fe25f061705af8f41d72e2377bd3c7aa3574f4||open" value="0" id="fs_quantity_max_182366" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182366" />
+<input type="hidden" name="name||27b02c4451405be7baefdc7f2e0d165776eabcf7c9d1472ee5850a3dc7383a3d" id="fs_name_182366" value="Diapers for Children in Easter Catalog" />
+<input type="hidden" name="code||35b5df9b8b1b995a3fb8d1e5379a466ea87b2e943a8d1a080aa9fc2418aa05ac" id="fs_code_182366" value="WCEC23DIAP" />
+<div class="foxyshop_variations">
+<input type="text" name="price||900653a1088a9e1b39989838838ea21a65888fe2a13d1035dcf4b586b0694a53||open" id="WCEC23DIAP_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
