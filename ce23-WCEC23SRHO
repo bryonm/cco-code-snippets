@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23SRHO', function () {
+
+	$out = '<div class="flex-container">
+<!-- $210 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182336" rel="182336">
+<input type="hidden" name="price||05098078d850f5da4ab3e739e0ff5a30b1ee3807940c88003609077c55e3364b" id="fs_price_182336" value="210.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182336" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182336" />
+<input type="hidden" name="image||948f0a99aab57f94a7bced47c5dad20e9078e02b41d36e3bd9cbb5693d742034||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Safe-Homes-in-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182336" />
+<input type="hidden" name="url||96611f80c0f9ae8325a009a660824160cc63c081b2040249fd372f0faae68dda" value="https://crosscatholic.org/products/safe-homes-guatemala-in-easter-catalog-210-donation/" id="fs_url_182336" />
+<input type="hidden" name="quantity_min||1477855870f71ebc933d2399ce33f793e84cd1a8d49cc37d1e9b94b6860e4481||open" value="0" id="fs_quantity_min_182336" />
+<input type="hidden" name="quantity_max||7b1bc1aa6b5bda831478fdacdac1e4521fe8a5e77d6926b092ca669b1f2e64eb||open" value="0" id="fs_quantity_max_182336" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182336" />
+<input type="hidden" name="name||56a46568a77b60afb2c7362355fbddf294e1db80e45d8d3e34c9427905664689" id="fs_name_182336" value="Safe Homes in Easter Catalog - $210 donation" />
+<input type="hidden" name="code||85d5b4274eee3559f5a93df1707a2c27947913864e8eb0a1dd04f98a27978455" id="fs_code_182336" value="WCEC23SRHO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$210_donation||5af3bdf72e4f2356cfaea4ee11b2c07f6f57f9302a5460c75b9558babf49a43a" id="WCEC23SRHO_1" value="" class="variation-210-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$210</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$210.00</span></div></div></form>
+<!-- $420 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182337" rel="182337">
+<input type="hidden" name="price||027908aafca9208f514384c11f2ecaade26d9c7fac426854212ca5304fbe87ab" id="fs_price_182337" value="420.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182337" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182337" />
+<input type="hidden" name="image||948f0a99aab57f94a7bced47c5dad20e9078e02b41d36e3bd9cbb5693d742034||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Safe-Homes-in-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182337" />
+<input type="hidden" name="url||d3be865e60d8167350168e09091522df6f9a19775d26d6cfe3c36c94a940c1d9" value="https://crosscatholic.org/products/safe-homes-guatemala-in-easter-catalog-420-donation/" id="fs_url_182337" />
+<input type="hidden" name="quantity_min||1477855870f71ebc933d2399ce33f793e84cd1a8d49cc37d1e9b94b6860e4481||open" value="0" id="fs_quantity_min_182337" />
+<input type="hidden" name="quantity_max||7b1bc1aa6b5bda831478fdacdac1e4521fe8a5e77d6926b092ca669b1f2e64eb||open" value="0" id="fs_quantity_max_182337" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182337" />
+<input type="hidden" name="name||9549a9b57469ebf5bb41f7a3c650599f893dc0ceadbfaf64559a72d2131e392c" id="fs_name_182337" value="Safe Homes in Easter Catalog - $420 donation" />
+<input type="hidden" name="code||85d5b4274eee3559f5a93df1707a2c27947913864e8eb0a1dd04f98a27978455" id="fs_code_182337" value="WCEC23SRHO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$420_donation||5b12bbd881535b84c032b6e6fb4f8819d7a3483f38eed4ab6e5d27a04305edaa" id="WCEC23SRHO_1" value="" class="variation-420-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$420</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$420</span></div></div></form>
+<!-- $840 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182338" rel="182338">
+<input type="hidden" name="price||b2d351552d2deb7abc9680c0c04f5bb9febb853bef37e0d2ae4b93ab1bf8e8b6" id="fs_price_182338" value="840.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182338" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182338" />
+<input type="hidden" name="image||948f0a99aab57f94a7bced47c5dad20e9078e02b41d36e3bd9cbb5693d742034||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Safe-Homes-in-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182338" />
+<input type="hidden" name="url||a3e79a6f2004de2bfaecbcb6a7a4f028eed77eb3d67ec5b88a9ed38e698d7418" value="https://crosscatholic.org/products/safe-homes-guatemala-in-easter-catalog-8434-donation/" id="fs_url_182338" />
+<input type="hidden" name="quantity_min||1477855870f71ebc933d2399ce33f793e84cd1a8d49cc37d1e9b94b6860e4481||open" value="0" id="fs_quantity_min_182338" />
+<input type="hidden" name="quantity_max||7b1bc1aa6b5bda831478fdacdac1e4521fe8a5e77d6926b092ca669b1f2e64eb||open" value="0" id="fs_quantity_max_182338" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182338" />
+<input type="hidden" name="name||108f163bbb847690117caa5fe3bfa66cdef3015b75487110fc3bbd483438a5d4" id="fs_name_182338" value="Safe Homes in Easter Catalog - $840 donation" />
+<input type="hidden" name="code||85d5b4274eee3559f5a93df1707a2c27947913864e8eb0a1dd04f98a27978455" id="fs_code_182338" value="WCEC23SRHO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$840_donation||5cc092e81a8ccbeae8b9c4d7f5b70b78295c512ae39b9dafed4b536e0ae5961b" id="WCEC23SRHO_1" value="" class="variation-840-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$840</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$840</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182339" rel="182339">
+<input type="hidden" name="price||48db0166f715b97d206120ab383942e5d5c6fb19b0564dbdc09a9163ed711fef" id="fs_price_182339" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182339" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182339" />
+<input type="hidden" name="image||948f0a99aab57f94a7bced47c5dad20e9078e02b41d36e3bd9cbb5693d742034||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Safe-Homes-in-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182339" />
+<input type="hidden" name="url||dae44c0c7d698f5f98ca1d8048d764421b38221dbed196ec73d0c2fabd4a205e" value="https://crosscatholic.org/products/safe-homes-guatemala-in-easter-catalog/" id="fs_url_182339" />
+<input type="hidden" name="quantity_min||1477855870f71ebc933d2399ce33f793e84cd1a8d49cc37d1e9b94b6860e4481||open" value="0" id="fs_quantity_min_182339" />
+<input type="hidden" name="quantity_max||7b1bc1aa6b5bda831478fdacdac1e4521fe8a5e77d6926b092ca669b1f2e64eb||open" value="0" id="fs_quantity_max_182339" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182339" />
+<input type="hidden" name="name||8357c37ed5b63e7d70abbbe1efbb1b2945458c2743d3dd7e6b4cf867446b11fb" id="fs_name_182339" value="Safe Homes in Easter Catalog" />
+<input type="hidden" name="code||85d5b4274eee3559f5a93df1707a2c27947913864e8eb0a1dd04f98a27978455" id="fs_code_182339" value="WCEC23SRHO" />
+<div class="foxyshop_variations">
+<input type="text" name="price||5d74a6135b5c39ba9eb9572ed0360b3188900d06fe8b9ca98a9d12c265f5d3dd||open" id="WCEC23SRHO_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
