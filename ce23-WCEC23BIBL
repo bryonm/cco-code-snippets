@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23BIBL', function () {
+
+	$out = '<div class="flex-container">
+<!-- $40 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182396" rel="182396">
+<input type="hidden" name="price||2f6a5d904122e734d2371fca9911dba792467cda75b9c86080b404505c6dad17" id="fs_price_182396" value="40.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182396" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182396" />
+<input type="hidden" name="image||e811f6949b2fc206904c00ca6bf489d1cff17e22d1a8ffd30823d71cd53142b3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Catholic-Bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_182396" />
+<input type="hidden" name="url||4245d9ad3df4250031ef1d30cd992cfa842988ae766c18a5e9c1e7cfc3ac4872" value="https://crosscatholic.org/products/catholic-bibles-in-easter-catalog-40-donation/" id="fs_url_182396" />
+<input type="hidden" name="quantity_min||26106c3e722d2e686a461fd266eb521229240e02354187cc5377144f0e4778a6||open" value="0" id="fs_quantity_min_182396" />
+<input type="hidden" name="quantity_max||dc08bc6f08c6ef04459d98b8f1662d474a2ee24705d87e2054db6aeccb0f6ec8||open" value="0" id="fs_quantity_max_182396" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182396" />
+<input type="hidden" name="name||d092194043c6ee8ecc9a6c60c9d6e48c77fcec0e96080835e847d6eb23f132bd" id="fs_name_182396" value="Catholic Bibles in Easter Catalog - $40 donation" />
+<input type="hidden" name="code||98b7d076f1e30aaf3fe39dc1eec58c5e988e2352f7120a13a0c811337732d8a5" id="fs_code_182396" value="WCEC23BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$40_donation||38114adc05e33437532c9794adda54d30abfccc6b7078552d7e16891b41d0314" id="WCEC23BIBL_1" value="" class="variation-40-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$40</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$40.00</span></div></div></form>
+<!-- $80 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182397" rel="182397">
+<input type="hidden" name="price||338ffc02042f2d5a6b824a168b583c4a7c3f7402a8bd32470703fb721f50d479" id="fs_price_182397" value="80.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182397" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182397" />
+<input type="hidden" name="image||e811f6949b2fc206904c00ca6bf489d1cff17e22d1a8ffd30823d71cd53142b3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Catholic-Bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_182397" />
+<input type="hidden" name="url||86decbefb9d4cc90b337bec1f9654326f3eafbe5467553920ee5eb8ff9d713c9" value="https://crosscatholic.org/products/catholic-bibles-in-easter-catalog-80-donation/" id="fs_url_182397" />
+<input type="hidden" name="quantity_min||26106c3e722d2e686a461fd266eb521229240e02354187cc5377144f0e4778a6||open" value="0" id="fs_quantity_min_182397" />
+<input type="hidden" name="quantity_max||dc08bc6f08c6ef04459d98b8f1662d474a2ee24705d87e2054db6aeccb0f6ec8||open" value="0" id="fs_quantity_max_182397" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182397" />
+<input type="hidden" name="name||9de62ca6489ff30fa8c10b96e9333b743b2effb319e4a8e8783162d15c08ac9b" id="fs_name_182397" value="Catholic Bibles in Easter Catalog - $80 donation" />
+<input type="hidden" name="code||98b7d076f1e30aaf3fe39dc1eec58c5e988e2352f7120a13a0c811337732d8a5" id="fs_code_182397" value="WCEC23BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$80_donation||ec455e7c48d1c1d776477dc0e126bb0a965ff1137e096102e83f3c4e03afc90b" id="WCEC23BIBL_1" value="" class="variation-80-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$80</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$80</span></div></div></form>
+<!-- $120 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182398" rel="182398">
+<input type="hidden" name="price||e01bc7e8f2e8fbf3c43c8bccfdc36e3297950edaebd0648d99ef7a290b3a51e0" id="fs_price_182398" value="120.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182398" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182398" />
+<input type="hidden" name="image||e811f6949b2fc206904c00ca6bf489d1cff17e22d1a8ffd30823d71cd53142b3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Catholic-Bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_182398" />
+<input type="hidden" name="url||7f5040a5dd31b383ae6f65f67a2b785d43e5eb249cbc37887206e4a9110dc4d0" value="https://crosscatholic.org/products/catholic-bibles-in-easter-catalog-120-donation/" id="fs_url_182398" />
+<input type="hidden" name="quantity_min||26106c3e722d2e686a461fd266eb521229240e02354187cc5377144f0e4778a6||open" value="0" id="fs_quantity_min_182398" />
+<input type="hidden" name="quantity_max||dc08bc6f08c6ef04459d98b8f1662d474a2ee24705d87e2054db6aeccb0f6ec8||open" value="0" id="fs_quantity_max_182398" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182398" />
+<input type="hidden" name="name||42aca30416de6bf90191fea406d783c33a8e1bea64da1f1b7134940ac4441625" id="fs_name_182398" value="Catholic Bibles in Easter Catalog - $120 donation" />
+<input type="hidden" name="code||98b7d076f1e30aaf3fe39dc1eec58c5e988e2352f7120a13a0c811337732d8a5" id="fs_code_182398" value="WCEC23BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$120_donation||d0d62c6d3424d868ec71fdd5f71039233143ee100916b3fd7f04e19c447fce57" id="WCEC23BIBL_1" value="" class="variation-120-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$120</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$120</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182399" rel="182399">
+<input type="hidden" name="price||0dc022994eec0217e67042244a4b02afa850b7c1a87e5e23fa255c42f0fd87f2" id="fs_price_182399" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182399" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182399" />
+<input type="hidden" name="image||e811f6949b2fc206904c00ca6bf489d1cff17e22d1a8ffd30823d71cd53142b3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Catholic-Bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_182399" />
+<input type="hidden" name="url||cf7f85f9e9cb26e3b0cd4c541de6a7278a985d039b8068222a0f163186f6df59" value="https://crosscatholic.org/products/catholic-bibles-in-easter-catalog/" id="fs_url_182399" />
+<input type="hidden" name="quantity_min||26106c3e722d2e686a461fd266eb521229240e02354187cc5377144f0e4778a6||open" value="0" id="fs_quantity_min_182399" />
+<input type="hidden" name="quantity_max||dc08bc6f08c6ef04459d98b8f1662d474a2ee24705d87e2054db6aeccb0f6ec8||open" value="0" id="fs_quantity_max_182399" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182399" />
+<input type="hidden" name="name||aacd6478873820788052588feafa24eec61fb2fefb130d884c74b259d9caa357" id="fs_name_182399" value="Catholic Bibles in Easter Catalog" />
+<input type="hidden" name="code||98b7d076f1e30aaf3fe39dc1eec58c5e988e2352f7120a13a0c811337732d8a5" id="fs_code_182399" value="WCEC23BIBL" />
+<div class="foxyshop_variations">
+<input type="text" name="price||46d598ba615d58133ce9dab08a4532325c991b447c37bf81bc390e0a0ac3d2fe||open" id="WCEC23BIBL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
