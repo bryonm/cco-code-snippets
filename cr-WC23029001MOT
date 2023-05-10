@@ -1,0 +1,61 @@
+add_shortcode( 'cr-WC23029001MOT', function () {
+
+	$out = '<div class="flex-container">
+<!-- $15 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186576" rel="186576">
+<input type="hidden" name="price||6f2f034db787065fa156152a2278da773aa0ab9e6b6815d017930f2ea1257fdf" id="fs_price_186576" value="15.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_186576" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_186576" />
+<input type="hidden" name="image||e73d558076aaf89fcdedeb040b9a0ee5ac12127da4286a52e72e2efdea547cac||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/MilkPowder2023-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_186576" />
+<input type="hidden" name="url||4c360a7f9ff4c466c64628786bd271aa21ddfe5cc904301e3be35ebe754fcb3f" value="https://crosscatholic.org/products/15-monthly-donation-to-milk-powder/" id="fs_url_186576" />
+<input type="hidden" name="quantity_min||b97d25e300e728dc044a455aea63fe98767f16111e77cf3c29a5b88f70bc2e0f||open" value="0" id="fs_quantity_min_186576" />
+<input type="hidden" name="quantity_max||61642a1eb740716d806af451019d1a9a6f8309b7642c0899bc4c2482fdeaf100||open" value="0" id="fs_quantity_max_186576" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_186576" />
+<input type="hidden" name="sub_frequency||fb9e0ca9c90ab90319e5795025c553df3ebeee08e36ac1fd5f48ca6fd3a9eda0||open" id="fs_sub_frequency_186576" value="1m" />
+<input type="hidden" name="name||aaecd26f025ac28b452485f42bc47699496e387e0bc372c8ff6c46a87376ebb7" id="fs_name_186576" value="$15 Monthly Donation to Milk Powder" />
+<input type="hidden" name="code||bc7c910494bc3a9b4fc7c021cbd8f76293ebdce6e234478ee90479ff5b1d15b9" id="fs_code_186576" value="WC23029001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$15_monthly_donation||daaa798a78557119c3f812f84ec8cc631802316390e9ed40bb4ea585a37f66d1" id="WC23029001MOT_1" value="" class="variation-15-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$15 a month</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$15.00</span></div></div></form>
+  
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186577" rel="186577">
+<input type="hidden" name="price||82e329c452e0fb66125ae9d6d6af16338c5a3686c008c59acd06b907f69adce0" id="fs_price_186577" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_186577" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_186577" />
+<input type="hidden" name="image||e73d558076aaf89fcdedeb040b9a0ee5ac12127da4286a52e72e2efdea547cac||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/MilkPowder2023-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_186577" />
+<input type="hidden" name="url||6c187d09f4df4ab392d9bb5d7414b7221cb4f311a627157ea661441041520bab" value="https://crosscatholic.org/products/25-monthly-donation-to-milk-powder/" id="fs_url_186577" />
+<input type="hidden" name="quantity_min||b97d25e300e728dc044a455aea63fe98767f16111e77cf3c29a5b88f70bc2e0f||open" value="0" id="fs_quantity_min_186577" />
+<input type="hidden" name="quantity_max||61642a1eb740716d806af451019d1a9a6f8309b7642c0899bc4c2482fdeaf100||open" value="0" id="fs_quantity_max_186577" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_186577" />
+<input type="hidden" name="sub_frequency||fb9e0ca9c90ab90319e5795025c553df3ebeee08e36ac1fd5f48ca6fd3a9eda0||open" id="fs_sub_frequency_186577" value="1m" />
+<input type="hidden" name="name||556a6026594eb839963568e29a9ee0ec61d0a309b7a80e572528eb5396cac136" id="fs_name_186577" value="$25 Monthly Donation to Milk Powder" />
+<input type="hidden" name="code||bc7c910494bc3a9b4fc7c021cbd8f76293ebdce6e234478ee90479ff5b1d15b9" id="fs_code_186577" value="WC23029001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_monthly_donation||b0888316f38e1ed8ade338be98aeb6fba572d4a72614c24080b6d1a075a32644" id="WC23029001MOT_1" value="" class="variation-25-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$25 a month</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $35 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186578" rel="186578">
+<input type="hidden" name="price||880d57e01cdaa30632d12f85435994773d0633d7594ff0b81f4ff2e92e6772ec" id="fs_price_186578" value="35.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_186578" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_186578" />
+<input type="hidden" name="image||e73d558076aaf89fcdedeb040b9a0ee5ac12127da4286a52e72e2efdea547cac||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/MilkPowder2023-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_186578" />
+<input type="hidden" name="url||d476455595e4b25e5d5f3cbd38301623bcba4d1acb1f3d3809ef3bf44cd46a54" value="https://crosscatholic.org/products/35-monthly-donation-to-milk-powder/" id="fs_url_186578" />
+<input type="hidden" name="quantity_min||b97d25e300e728dc044a455aea63fe98767f16111e77cf3c29a5b88f70bc2e0f||open" value="0" id="fs_quantity_min_186578" />
+<input type="hidden" name="quantity_max||61642a1eb740716d806af451019d1a9a6f8309b7642c0899bc4c2482fdeaf100||open" value="0" id="fs_quantity_max_186578" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_186578" />
+<input type="hidden" name="sub_frequency||fb9e0ca9c90ab90319e5795025c553df3ebeee08e36ac1fd5f48ca6fd3a9eda0||open" id="fs_sub_frequency_186578" value="1m" />
+<input type="hidden" name="name||88891b0ee5f5490302b6ca23d43986c59a2af682b7a82f64b3b26a802c804bfa" id="fs_name_186578" value="$35 Monthly Donation to Milk Powder" />
+<input type="hidden" name="code||bc7c910494bc3a9b4fc7c021cbd8f76293ebdce6e234478ee90479ff5b1d15b9" id="fs_code_186578" value="WC23029001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$35_monthly_donation||625ebdc2d83b71cb7e21350c8c1db5f73e0791e8cf729fab10316a067c01c71f" id="WC23029001MOT_1" value="" class="variation-35-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$35 a month</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$35.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
