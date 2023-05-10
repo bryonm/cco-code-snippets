@@ -1,0 +1,75 @@
+add_shortcode( 'imp-WC23PLPG9007', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191363" rel="191363">
+<input type="hidden" name="price||561b5e48d3bf3a9dde605ee560112e671940b942f3a4bcc82f19ea6ad9b42893" id="fs_price_191363" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191363" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191363" />
+<input type="hidden" name="image||422a39cadff427617dd403d4de6506b161526987d343db60ed4a504dd8fe54ad||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/WaterImpact-foxy-thumb.jpg" id="foxyshop_cart_product_image_191363" />
+<input type="hidden" name="url||60b86264088c90327069347d32eb117a473f0bea0db8404279e57d7fea7b2b05" value="https://crosscatholic.org/products/donate-to-water-25-gift/" id="fs_url_191363" />
+<input type="hidden" name="quantity_min||e0ad1b8d615a8664c73dbcbf46a39183bb288b7c3d0bbfffa143839a8037b1b8||open" value="0" id="fs_quantity_min_191363" />
+<input type="hidden" name="quantity_max||5575658d80bc3a00d9658db8c72dc4137df22ee220addbcfe6f218194cabc36c||open" value="0" id="fs_quantity_max_191363" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191363" />
+<input type="hidden" name="name||0e430e08888d2c5c90ec812c15fe0b0e3a1f41e4277e8f16b741979066907ae8" id="fs_name_191363" value="Donate to Water $25 Gift" />
+<input type="hidden" name="code||e01063edcef33626718d311d9f3063cc45b74b931b8838b40668e25ef8dcbb80" id="fs_code_191363" value="WC23PLPG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||6bc52a344500ad12c04eece963f3c14647baa2608fbd73bee52a0744ff19834f" id="WC23PLPG9007_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191364" rel="191364">
+<input type="hidden" name="price||e95e289062ecae02c67e6b78b600c886f201817fb5755bd21cefbe710702e01b" id="fs_price_191364" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191364" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191364" />
+<input type="hidden" name="image||422a39cadff427617dd403d4de6506b161526987d343db60ed4a504dd8fe54ad||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/WaterImpact-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_191364" />
+<input type="hidden" name="url||fe34a7d66cba9ac59913f7836925ab27b99efdbe3e935118ebddb5dd856b8ba8" value="https://crosscatholic.org/products/donate-to-water-50-gift/" id="fs_url_191364" />
+<input type="hidden" name="quantity_min||e0ad1b8d615a8664c73dbcbf46a39183bb288b7c3d0bbfffa143839a8037b1b8||open" value="0" id="fs_quantity_min_191364" />
+<input type="hidden" name="quantity_max||5575658d80bc3a00d9658db8c72dc4137df22ee220addbcfe6f218194cabc36c||open" value="0" id="fs_quantity_max_191364" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191364" />
+<input type="hidden" name="name||466c7d991de69c681d58eb10383628b8d8318ba95240b00652dc9d731d5e4b58" id="fs_name_191364" value="Donate to Water $50 Gift" />
+<input type="hidden" name="code||e01063edcef33626718d311d9f3063cc45b74b931b8838b40668e25ef8dcbb80" id="fs_code_191364" value="WC23PLPG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||63c1713c6876f07030c42fa393309cb53aef5a768c64877242cd2d97dc127488" id="WC23PLPG9007_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191365" rel="191365">
+<input type="hidden" name="price||e1ed0472845d954865cc638c76f83fe408d1bf19cbcd22275fe38afdb6242359" id="fs_price_191365" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191365" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191365" />
+<input type="hidden" name="image||422a39cadff427617dd403d4de6506b161526987d343db60ed4a504dd8fe54ad||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/WaterImpact-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_191365" />
+<input type="hidden" name="url||7c700e6d213b4873245cf0577acaa992044ee0984c5fdeaec4afe02dfee637ee" value="https://crosscatholic.org/products/donate-to-water-100-gift/" id="fs_url_191365" />
+<input type="hidden" name="quantity_min||e0ad1b8d615a8664c73dbcbf46a39183bb288b7c3d0bbfffa143839a8037b1b8||open" value="0" id="fs_quantity_min_191365" />
+<input type="hidden" name="quantity_max||5575658d80bc3a00d9658db8c72dc4137df22ee220addbcfe6f218194cabc36c||open" value="0" id="fs_quantity_max_191365" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191365" />
+<input type="hidden" name="name||3b99f8ab8ec04565d83ae2416a139765fc39a49cb156cb7a716e155b7bdf868e" id="fs_name_191365" value="Donate to Water $100 Gift" />
+<input type="hidden" name="code||e01063edcef33626718d311d9f3063cc45b74b931b8838b40668e25ef8dcbb80" id="fs_code_191365" value="WC23PLPG9007" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||2051a9a2be748ef7313eb2be826b3be7d51bbe93354fdd7228a9a0e88aad669a" id="WC23PLPG9007_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_191366" rel="191366">
+<input type="hidden" name="price||364800d8e8c5e6d89101b42b524c2bcbc4505b6e891b338eb24f8fb9e4dd1f0d" id="fs_price_191366" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_191366" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_191366" />
+<input type="hidden" name="image||422a39cadff427617dd403d4de6506b161526987d343db60ed4a504dd8fe54ad||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/WaterImpact-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_191366" />
+<input type="hidden" name="url||05a6dbebfb40f157d69e113d8b2ce32d5e49206dda97dd6fa1cc2927fa62d891" value="https://crosscatholic.org/products/donate-to-water-gift/" id="fs_url_191366" />
+<input type="hidden" name="quantity_min||e0ad1b8d615a8664c73dbcbf46a39183bb288b7c3d0bbfffa143839a8037b1b8||open" value="0" id="fs_quantity_min_191366" />
+<input type="hidden" name="quantity_max||5575658d80bc3a00d9658db8c72dc4137df22ee220addbcfe6f218194cabc36c||open" value="0" id="fs_quantity_max_191366" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_191366" />
+<input type="hidden" name="name||76ae14fe2d51c45baaddee4fdc6d9b85b56de1750a3bb435db20aed98bfbe9ba" id="fs_name_191366" value="Donate to Water Gift" />
+<input type="hidden" name="code||e01063edcef33626718d311d9f3063cc45b74b931b8838b40668e25ef8dcbb80" id="fs_code_191366" value="WC23PLPG9007" />
+<div class="foxyshop_variations">
+<input type="text" name="price||c79623eade95d9b82cf73e5b017e4c5b5dfb7102cde6264d53f275b2e817a5a5||open" id="WC23PLPG9007_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
