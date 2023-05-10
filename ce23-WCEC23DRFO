@@ -1,0 +1,74 @@
+add_shortcode( 'ce23-WCEC23DRFO', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182315" rel="182315">
+<input type="hidden" name="price||a5258f67de8c530644eaff9f5d6159da949371de6c0e456469c0abda0ae19eb0" id="fs_price_182315" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182315" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182315" />
+<input type="hidden" name="image||46e94919daec0fa5def07615bb2b63944ef2a953109b9be89353e4c35590159e||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Vitafood-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182315" />
+<input type="hidden" name="url||1d3bba8661af21d3acd89667eb688c518f451cf4d10706925acfe4387115cb7a" value="https://crosscatholic.org/products/feed-the-hungry-worldwide-in-easter-catalog-50-donation/" id="fs_url_182315" />
+<input type="hidden" name="quantity_min||523af682da668f5081d2629bac4382a7f5429498fc919b196f079d50f1b4e938||open" value="0" id="fs_quantity_min_182315" />
+<input type="hidden" name="quantity_max||46c61055e35ecfeea1a4ddd96a3b0e7ce88b6df970fc5d67a7457bbc9949db56||open" value="0" id="fs_quantity_max_182315" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182315" />
+<input type="hidden" name="name||3705b3d0bf291bd50e4a635014a8e1697747efa4b4c9cbb3320aff162b106790" id="fs_name_182315" value="Feed the Hungry in Easter Catalog - $50 donation" />
+<input type="hidden" name="code||2ba4de0a927f0144b0165be2bb24e88b7c60a693fed4523dcc0ff0e3d961f699" id="fs_code_182315" value="WCEC23DRFO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||69c53e495f6e816d1b054dccd24bd214b605879eb4b5247918b076dc9704a45a" id="WCEC23DRFO_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182316" rel="182316">
+<input type="hidden" name="price||1b14b8a169bd096957a5aa03a563b8b8eb933cd36cbc9ae2a987d91f5b72c8df" id="fs_price_182316" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182316" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182316" />
+<input type="hidden" name="image||46e94919daec0fa5def07615bb2b63944ef2a953109b9be89353e4c35590159e||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Vitafood-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182316" />
+<input type="hidden" name="url||eda7651dfbdf11281837dfcce4eeac6189174cbab7f5c4d99bea1fca9d10dd66" value="https://crosscatholic.org/products/feed-the-hungry-worldwide-in-easter-catalog-100-donation/" id="fs_url_182316" />
+<input type="hidden" name="quantity_min||523af682da668f5081d2629bac4382a7f5429498fc919b196f079d50f1b4e938||open" value="0" id="fs_quantity_min_182316" />
+<input type="hidden" name="quantity_max||46c61055e35ecfeea1a4ddd96a3b0e7ce88b6df970fc5d67a7457bbc9949db56||open" value="0" id="fs_quantity_max_182316" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182316" />
+<input type="hidden" name="name||c4b52df37d41e4276b9ba032f35360ddd77ab02a67321bc688f65eb21bb599c0" id="fs_name_182316" value="Feed the Hungry in Easter Catalog - $100 donation" />
+<input type="hidden" name="code||2ba4de0a927f0144b0165be2bb24e88b7c60a693fed4523dcc0ff0e3d961f699" id="fs_code_182316" value="WCEC23DRFO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||ca40541b56a4fb5ae5911f5b81fb892d9dbaa5538032c9a5d142c7e27fc063e6" id="WCEC23DRFO_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100</span></div></div></form>
+<!-- $200 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182317" rel="182317">
+<input type="hidden" name="price||0162d8d9c06e6c4b7952d81019feb38e2f57a43c56143b0f0082a72bbd5040c6" id="fs_price_182317" value="200.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182317" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182317" />
+<input type="hidden" name="image||46e94919daec0fa5def07615bb2b63944ef2a953109b9be89353e4c35590159e||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Vitafood-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182317" />
+<input type="hidden" name="url||6b9ba8dbe8b4c2d6f2bf5aabc4378ac437286a8845d6d133f607b465046b3038" value="https://crosscatholic.org/products/feed-the-hungry-worldwide-in-easter-catalog-200-donation/" id="fs_url_182317" />
+<input type="hidden" name="quantity_min||523af682da668f5081d2629bac4382a7f5429498fc919b196f079d50f1b4e938||open" value="0" id="fs_quantity_min_182317" />
+<input type="hidden" name="quantity_max||46c61055e35ecfeea1a4ddd96a3b0e7ce88b6df970fc5d67a7457bbc9949db56||open" value="0" id="fs_quantity_max_182317" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182317" />
+<input type="hidden" name="name||599ec174b554b6f7711c92fb178098838ad6e7860d854d1bc23027d953906bc8" id="fs_name_182317" value="Feed the Hungry in Easter Catalog - $200 donation" />
+<input type="hidden" name="code||2ba4de0a927f0144b0165be2bb24e88b7c60a693fed4523dcc0ff0e3d961f699" id="fs_code_182317" value="WCEC23DRFO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$200_donation||0bacf15bc3b1ee6bba995fbe09a9330b96cdebddb590891f8e859881ea9122a1" id="WCEC23DRFO_1" value="" class="variation-200-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$200</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$200</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_182318" rel="182318">
+<input type="hidden" name="price||ebe06533d047745c2b58dbec4ad5fd90c92c4f97af7951278763f98618d86058" id="fs_price_182318" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_182318" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_182318" />
+<input type="hidden" name="image||46e94919daec0fa5def07615bb2b63944ef2a953109b9be89353e4c35590159e||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Vitafood-Guatemala-foxy-thumb.jpg" id="foxyshop_cart_product_image_182318" />
+<input type="hidden" name="url||0b848d8952c17428c59f5acaab2cef8ef8586f70588c91a08c2ffbd98984eec7" value="https://crosscatholic.org/products/feed-the-hungry-worldwide-in-easter-catalog/" id="fs_url_182318" />
+<input type="hidden" name="quantity_min||523af682da668f5081d2629bac4382a7f5429498fc919b196f079d50f1b4e938||open" value="0" id="fs_quantity_min_182318" />
+<input type="hidden" name="quantity_max||46c61055e35ecfeea1a4ddd96a3b0e7ce88b6df970fc5d67a7457bbc9949db56||open" value="0" id="fs_quantity_max_182318" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_182318" />
+<input type="hidden" name="name||4f9b113882fbe8bf106290884b14db87fefac3c0b06cdc72ebc978f2ac863773" id="fs_name_182318" value="Feed the Hungry in Easter Catalog" />
+<input type="hidden" name="code||2ba4de0a927f0144b0165be2bb24e88b7c60a693fed4523dcc0ff0e3d961f699" id="fs_code_182318" value="WCEC23DRFO" />
+<div class="foxyshop_variations">
+<input type="text" name="price||ef9503591a4e51c061192b430428883603f2d239921c0f887532c8a0cd3cd8b2||open" id="WCEC23DRFO_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
