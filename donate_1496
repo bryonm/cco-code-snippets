@@ -1,0 +1,78 @@
+add_shortcode( 'donate_1496', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_56076" rel="56076">
+<input type="hidden" name="price||cc55df777a78c20545dbe188aa659c3f1292a1d02052e3de40e44b1c60045637" id="fs_price_56076" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_56076" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_56076" />
+<input type="hidden" name="image||599d9abb55aff3462dfceb71f85769e8962649710d976da1bfade502de2ce569||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/1496-thumb_1.jpg" id="foxyshop_cart_product_image_56076" />
+<input type="hidden" name="url||085b0fef43b743360eff2ca8bc0ca07a4b4382c4a8e31bedc8a3d494cf6cf079" value="https://crosscatholic.org/products/1496-st-joseph-health-center-2/" id="fs_url_56076" />
+<input type="hidden" name="quantity_min||4bdca5f9ec3e3ccf25fa1e9755903cb83b6e4c2b9adcd79e971cad811f5d7cde||open" value="0" id="fs_quantity_min_56076" />
+<input type="hidden" name="quantity_max||a17e0642b0f0c160b50832cf2092041e5eecff42c9875fd6ab81874567105c04||open" value="0" id="fs_quantity_max_56076" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_56076" />
+<input type="hidden" name="name||ec41731c2dafc29ed28f3c14aaa437ce01d3f278312aebe4b92d4c32d0efe9c4" id="fs_name_56076" value="1496 – St. Joseph Health Center" />
+<input type="hidden" name="code||65f3975f3f7ff50cf004b4bdd43ae46a01f424f0b30be76518e40f28933a3f7c" id="fs_code_56076" value="WCPROJ1496" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||a569138649a2c2629674ebfbaaf7bbbddd0edd6a7718d96fcb995d2824691f39" id="WCPROJ1496_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+  
+<!-- $50 BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_56083" rel="56083">
+<input type="hidden" name="price||4e917bfcd0f8d55b060ef1ae6c93448d62fcf6a549253e3a5029562b38cffecf" id="fs_price_56083" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_56083" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_56083" />
+<input type="hidden" name="image||599d9abb55aff3462dfceb71f85769e8962649710d976da1bfade502de2ce569||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/1496-thumb_2.jpg" id="foxyshop_cart_product_image_56083" />
+<input type="hidden" name="url||e1b31adcfcd3eff8e51d5412dac6c29ca9b4660d6352f2bda44617ace4cf0bde" value="https://crosscatholic.org/products/1496-st-joseph-health-center-3/" id="fs_url_56083" />
+<input type="hidden" name="quantity_min||4bdca5f9ec3e3ccf25fa1e9755903cb83b6e4c2b9adcd79e971cad811f5d7cde||open" value="0" id="fs_quantity_min_56083" />
+<input type="hidden" name="quantity_max||a17e0642b0f0c160b50832cf2092041e5eecff42c9875fd6ab81874567105c04||open" value="0" id="fs_quantity_max_56083" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_56083" />
+<input type="hidden" name="name||ec41731c2dafc29ed28f3c14aaa437ce01d3f278312aebe4b92d4c32d0efe9c4" id="fs_name_56083" value="1496 – St. Joseph Health Center" />
+<input type="hidden" name="code||65f3975f3f7ff50cf004b4bdd43ae46a01f424f0b30be76518e40f28933a3f7c" id="fs_code_56083" value="WCPROJ1496" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||4734efa822b0cda04336e400714d306fa60d44d257bdb3ab9760a6e1248f7036" id="WCPROJ1496_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+  
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_56089" rel="56089">
+<input type="hidden" name="price||38d27a143f6ef4f00d23c306d9df7c861f5fc7f35ff1524001d73a4a37daa756" id="fs_price_56089" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_56089" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_56089" />
+<input type="hidden" name="image||599d9abb55aff3462dfceb71f85769e8962649710d976da1bfade502de2ce569||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/1496-thumb_3.jpg" id="foxyshop_cart_product_image_56089" />
+<input type="hidden" name="url||116644644bcec7a0edc6f0e51ca40ec02bfd27d02085d5df610cb0f983348ef3" value="https://crosscatholic.org/products/1496-st-joseph-health-center-4/" id="fs_url_56089" />
+<input type="hidden" name="quantity_min||4bdca5f9ec3e3ccf25fa1e9755903cb83b6e4c2b9adcd79e971cad811f5d7cde||open" value="0" id="fs_quantity_min_56089" />
+<input type="hidden" name="quantity_max||a17e0642b0f0c160b50832cf2092041e5eecff42c9875fd6ab81874567105c04||open" value="0" id="fs_quantity_max_56089" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_56089" />
+<input type="hidden" name="name||ec41731c2dafc29ed28f3c14aaa437ce01d3f278312aebe4b92d4c32d0efe9c4" id="fs_name_56089" value="1496 – St. Joseph Health Center" />
+<input type="hidden" name="code||65f3975f3f7ff50cf004b4bdd43ae46a01f424f0b30be76518e40f28933a3f7c" id="fs_code_56089" value="WCPROJ1496" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||e0144a34d52310be4b79e0cc9e18a927b21fd87856045ca783921d2183c9e3b3" id="WCPROJ1496_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+  
+<!-- OTHER BUTTON -->
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_56077" rel="56077">
+<input type="hidden" name="price||0924fbdab871edfea23ee0d7e057f32fd8eb11b995529c18360850e004a77d26" id="fs_price_56077" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_56077" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_56077" />
+<input type="hidden" name="image||599d9abb55aff3462dfceb71f85769e8962649710d976da1bfade502de2ce569||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/1496-thumb.jpg" id="foxyshop_cart_product_image_56077" />
+<input type="hidden" name="url||6f3c349dc793482d69f212744991c26bc04c129f0b73dc72370a9106f1e41bf7" value="https://crosscatholic.org/products/1496-st-joseph-health-center/" id="fs_url_56077" />
+<input type="hidden" name="quantity_min||4bdca5f9ec3e3ccf25fa1e9755903cb83b6e4c2b9adcd79e971cad811f5d7cde||open" value="0" id="fs_quantity_min_56077" />
+<input type="hidden" name="quantity_max||a17e0642b0f0c160b50832cf2092041e5eecff42c9875fd6ab81874567105c04||open" value="0" id="fs_quantity_max_56077" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_56077" />
+<input type="hidden" name="name||ec41731c2dafc29ed28f3c14aaa437ce01d3f278312aebe4b92d4c32d0efe9c4" id="fs_name_56077" value="1496 – St. Joseph Health Center" />
+<input type="hidden" name="code||65f3975f3f7ff50cf004b4bdd43ae46a01f424f0b30be76518e40f28933a3f7c" id="fs_code_56077" value="WCPROJ1496" />
+<div class="foxyshop_variations">
+<input type="text" name="price||144e68e4564afb1576d90704f7471b0fa7fbb5f20586b834dd4b1a3afe08170d||open" id="WCPROJ1496_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/><button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
