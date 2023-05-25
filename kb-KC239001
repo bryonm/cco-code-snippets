@@ -1,0 +1,39 @@
+add_shortcode( 'kb-KC239001', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_206399" rel="206399">
+<input type="hidden" name="price||35800f9e25ba87dad20a138c535b5e80cde09f628e16e7e1264adf2e79257f62" id="fs_price_206399" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_206399" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_206399" />
+<input type="hidden" name="image||e8d47dec4cb3df48be40f08a62429766aba1357c782336747d870fcd4e50e623||open" value="https://crosscatholic.org/wp-content/uploads/2023/05/hungry-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_206399" />
+<input type="hidden" name="url||bb14e4c88a7c57fed430502ca94248b8d047dfccc04418574b600a48a3168116" value="https://crosscatholic.org/products/feed-the-hungry-around-the-world-7/" id="fs_url_206399" />
+<input type="hidden" name="quantity_min||e08d0c27ea8c98b02c4375126a8ea5f1d1d7baa0ce5a1c85433dba5d84f5bdc0||open" value="0" id="fs_quantity_min_206399" />
+<input type="hidden" name="quantity_max||97110cb2102cee880a89ee829a613aa6accda235290d7cd2e51883accc2bc5e4||open" value="0" id="fs_quantity_max_206399" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_206399" />
+<input type="hidden" name="sub_frequency||11ce5c24efb958c11bc2d9c5b3162cc68f857e48c07491393e43a8c8addc5b15||open" id="fs_sub_frequency_206399" value="" />
+<input type="hidden" name="name||69e33387686b47be75e866f2dde9df975e5e447101fe2d2d51221e4449b17114" id="fs_name_206399" value="Feed the Hungry Around the World" />
+<input type="hidden" name="code||080abfd1f7bcb079bf865cc355c380f203b5e2f0bf0c9bcaa5012099385e89d6" id="fs_code_206399" value="KC239001" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KC239001_1" class="variation-donation">
+<option value="$500 provides 3,333 meals{p:500}||09b08c6ac4f75371a6288f74e602d3f3c5b1f8054b350726fd4e01c9f2133a92" priceset="50000">$500 provides 3,333 meals</option>
+<option value="$250 provides 1,667 meals{p:250}||1fb1fa227d4d313223a01d197758ca6e4cfc56ee3868a5b7aff3e6e07caa5710" priceset="25000">$250 provides 1,667 meals</option>
+<option value="$150 provides 1,000 meals{p:150}||4f7e5cee407e9801233e91a09c369e87feff413d506d271ffc6e7546fc661da0" priceset="15000">$150 provides 1,000 meals</option>
+<option value="$75 provides 500 meals{p:75}||81e20a4a45491891b0f6d2c12eca757fcc2a77ca523787d1741a619aca5b567d" priceset="7500">$75 provides 500 meals</option>
+<option value="Other{dkey:custom-price}||7be2d9d89442a9a6fab6a9be0eda22471908afa5ca3f41221dfef4bb1c1cc34b" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="KC239001_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||64d8dd61aef57b7470ecc6f25c987d24e68d885f0708b95a19aed90461459b8a||open" id="KC239001_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||21c2d6e7b6397ca526b1d485fb9eae56cdc7034cc1a880fd1d1abfaff30e944c" id="KC239001_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="KC239001_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||d4e64fe925337b9e4346329442bb1ce884d770b79f2b0a2d18fc1fb8f6436e5f" id="KC239001_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="KC239001_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
