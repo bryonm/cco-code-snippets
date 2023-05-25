@@ -1,0 +1,58 @@
+add_shortcode( 'kb-KC239001MOT', function () {
+
+	$out = '<div class="flex-container">
+<!-- $15 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_206405" rel="206405">
+<input type="hidden" name="price||568dfeb90c9ea0bca9a45bc2d136288e5fbaa0001f62ee81716f0fabc94b9a7e" id="fs_price_206405" value="15.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_206405" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_206405" />
+<input type="hidden" name="image||5f8da26648327511d0e538067b1532dc5e358c2c5f0046602c32d0cb43432e0d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_206405" />
+<input type="hidden" name="url||4453128c0bf34848b7a07999c13f2ff5e4d9eaeb81180c3c499be304739c9b99" value="https://crosscatholic.org/products/15-monthly-donation-feed-the-hungry-and-change-lives-5/" id="fs_url_206405" />
+<input type="hidden" name="quantity_min||b74a5b3b53cc7b1dfaf241fe2b9a68347d49068fba02bf5ec8eda60a8d00ebd9||open" value="0" id="fs_quantity_min_206405" />
+<input type="hidden" name="quantity_max||592bf11fdf477e87699738ffa622125a136bf9409248236a94873dd38a524456||open" value="0" id="fs_quantity_max_206405" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_206405" />
+<input type="hidden" name="sub_frequency||ee3153e3c83517cfebf3a31cbc996c5b585db1fa87a7cb9cc2504767183c11a5||open" id="fs_sub_frequency_206405" value="1m" />
+<input type="hidden" name="name||5361baa96ef28debac731ae2e54b5858bf7a24fb9726271cd3a5309fd5a2a731" id="fs_name_206405" value="$15 Monthly Donation Feed the Hungry and Change Lives" />
+<input type="hidden" name="code||aedc41762bfa0c9b53ce31bc325f69c749862862eedc902b5374c155db2e661a" id="fs_code_206405" value="KC239001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$15_monthly_donation||12efddc523e63505a7149324d43b21aba2bd8d5faed88a0db894514f11f54789" id="KC239001MOT_1" value="" class="variation-15-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$15 a month</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$15.00</span></div></div></form>
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_206406" rel="206406">
+<input type="hidden" name="price||de054e1e3cbca947cb586a6814f6e1ac297d2c29a9ee58cb40d1a6d2e145293b" id="fs_price_206406" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_206406" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_206406" />
+<input type="hidden" name="image||5f8da26648327511d0e538067b1532dc5e358c2c5f0046602c32d0cb43432e0d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_206406" />
+<input type="hidden" name="url||52328800fe65a4c2f8855497e868b91b2d456388f62fd5bf0b5cb42f651843e8" value="https://crosscatholic.org/products/25-monthly-donation-to-feed-the-hungry-and-change-lives-5/" id="fs_url_206406" />
+<input type="hidden" name="quantity_min||b74a5b3b53cc7b1dfaf241fe2b9a68347d49068fba02bf5ec8eda60a8d00ebd9||open" value="0" id="fs_quantity_min_206406" />
+<input type="hidden" name="quantity_max||592bf11fdf477e87699738ffa622125a136bf9409248236a94873dd38a524456||open" value="0" id="fs_quantity_max_206406" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_206406" />
+<input type="hidden" name="sub_frequency||ee3153e3c83517cfebf3a31cbc996c5b585db1fa87a7cb9cc2504767183c11a5||open" id="fs_sub_frequency_206406" value="1m" />
+<input type="hidden" name="name||6ea16c44f335ce1e866d01273ce5cd58ffec3079d4ff9e69d2edd7b07e989c50" id="fs_name_206406" value="$25 Monthly Donation to Feed the Hungry and Change Lives" />
+<input type="hidden" name="code||aedc41762bfa0c9b53ce31bc325f69c749862862eedc902b5374c155db2e661a" id="fs_code_206406" value="KC239001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_monthly_donation||5641988f4786447b256c45908ae7a50b3b493505281da091fdc83704217e06bf" id="KC239001MOT_1" value="" class="variation-25-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$25 a month</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $35 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_206407" rel="206407">
+<input type="hidden" name="price||f2b924204f7f0362d5717649c4f345697b375bbb79d9b66c47a403f6dfd3815a" id="fs_price_206407" value="35.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_206407" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_206407" />
+<input type="hidden" name="image||5f8da26648327511d0e538067b1532dc5e358c2c5f0046602c32d0cb43432e0d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_206407" />
+<input type="hidden" name="url||94ba93f3136f9e81bd1e89333d64f43a803fb6ad9da436343ddb04a2744752cf" value="https://crosscatholic.org/products/35-monthly-donation-to-feed-the-hungry-and-change-lives-5/" id="fs_url_206407" />
+<input type="hidden" name="quantity_min||b74a5b3b53cc7b1dfaf241fe2b9a68347d49068fba02bf5ec8eda60a8d00ebd9||open" value="0" id="fs_quantity_min_206407" />
+<input type="hidden" name="quantity_max||592bf11fdf477e87699738ffa622125a136bf9409248236a94873dd38a524456||open" value="0" id="fs_quantity_max_206407" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_206407" />
+<input type="hidden" name="sub_frequency||ee3153e3c83517cfebf3a31cbc996c5b585db1fa87a7cb9cc2504767183c11a5||open" id="fs_sub_frequency_206407" value="1m" />
+<input type="hidden" name="name||96edf3c46bc77382d266152ed5f1d44c348e6307fe3ef864da5a9ce039057d90" id="fs_name_206407" value="$35 Monthly Donation to Feed the Hungry and Change Lives" />
+<input type="hidden" name="code||aedc41762bfa0c9b53ce31bc325f69c749862862eedc902b5374c155db2e661a" id="fs_code_206407" value="KC239001MOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$35_monthly_donation||80924d9dc5c1479a524fb36fddff8b03d609fda62be77675910d8ec5def3f284" id="KC239001MOT_1" value="" class="variation-35-monthly-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="monthly_button">$35 a month</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$35.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
