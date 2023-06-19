@@ -1,0 +1,35 @@
+add_shortcode( 'sp-cr-WCSMOTLP', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_208515" rel="208515">
+<input type="hidden" name="price||78180e8fb6ce863247ac1b43370daa89ce5ee5e092fee83da00cd7a7c008a49f" id="fs_price_208515" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_208515" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_208515" />
+<input type="hidden" name="image||75063ff72f8849ad4805a50ce3f36f205cebae74a03566483147f4bd293a610c||open" value="https://crosscatholic.org/wp-content/uploads/2023/06/2023-MarchMonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_208515" />
+<input type="hidden" name="url||8fd5b80cb8c8c664a1a0ca1cac1ed45da43d204a76208132c03d4a6e0d307ed4" value="https://crosscatholic.org/products/donacion-mensual/" id="fs_url_208515" />
+<input type="hidden" name="quantity_min||005d8762b72bf6970a38215110b5ac498b09c4118933c4962602d86aa0a8fa09||open" value="0" id="fs_quantity_min_208515" />
+<input type="hidden" name="quantity_max||28f36a7bef8c8a3023ca6c5139410b74afa86438dda20aeeb801713d5063e7b4||open" value="0" id="fs_quantity_max_208515" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_208515" />
+<input type="hidden" name="sub_frequency||bc62f34ba23f79f3d4c6313d05725f78de7dbc45bd69804ad86de3f9f1fdfdb4||open" id="fs_sub_frequency_208515" value="1m" />
+<input type="hidden" name="name||1cd17bc5d83452e1b992f65e7f236047f966391eb4a647e08f921a46625ba3fe" id="fs_name_208515" value="Donación mensual" />
+<input type="hidden" name="code||f79d87eaaf129c780f3431f7255b3ef46840bd10cdc6ba58fbfec61d8f23f9a6" id="fs_code_208515" value="WCSMOTLP" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCSMOTLP_1" class="variation-donation">
+<option value="$35{p:35}||9a191536cfd700f2ae8417feb9c8c49a612aa579974f871e44a3d2bb780f7380" priceset="3500">$35</option>
+<option value="$50{p:50}||66e161cfdbe4c47389129ba60aaddd863aff941f8e4e0a16cded1691a6a68bb3" priceset="5000">$50</option>
+<option value="$100{p:100}||0ea456870e22cb7b0520145f5c5057a98e8dd7be45c1392a8d565ea2e6e12bf0" priceset="10000">$100</option>
+<option value="$200{p:200}||d9cf1e46a00046b82a929fb7cbf7d71a26479c9bd20ad504a7b0e6acf5625e3a" priceset="20000">$200</option>
+<option value="Otro{dkey:custom-price}||eed95b73e0ae9a154152d5b9b266dcf05c488a0bdcd138a0882d8d481e6b1a2d" displaykey="custom-price">Otro</option>
+</select>
+<div class="clr"></div>
+<label for="MCCM23W9001_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||3a49ff0e9278d3fc92be452d41c076e6ce9a3f48688db2ac3fe57f4969a46e5c||open" id="WCSMOTLP_2" value="" class="variation-price foxyshop_required required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">DONA MENSUALMENTE</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
