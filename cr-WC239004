@@ -1,24 +1,24 @@
 add_shortcode( 'cr-WC239004', function () {
 
 	$out = '<div class="donation_radio_btns">
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_204898" rel="204898">
-<input type="hidden" name="price||e2c9ce9e8141f4e802839a1b095c66831a03cd196ea5310c2393c0dd4caee512" id="fs_price_204898" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_204898" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_204898" />
-<input type="hidden" name="image||47483ff95d51d4989f786a5e6800a778a9f565c389c78a801f4250ea3fe2ba24||open" value="https://crosscatholic.org/wp-content/uploads/2023/05/SummerCore-DRHousing-foxy-thumb.jpg" id="foxyshop_cart_product_image_204898" />
-<input type="hidden" name="url||b018b0f5bb4c229a12322291930251927e6b71d60fb6bc5ae81f9c059cccf082" value="https://crosscatholic.org/products/transform-lives-with-safe-homes-2/" id="fs_url_204898" />
-<input type="hidden" name="quantity_min||c141813e66fb93c1a318877797a98c12fe2c351819a09f6e2b2438e9c4ff634c||open" value="0" id="fs_quantity_min_204898" />
-<input type="hidden" name="quantity_max||a0f117c741f900415667d62151fae66bf91529b9f7d695f2f048b012ab821b7f||open" value="0" id="fs_quantity_max_204898" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_204898" />
-<input type="hidden" name="sub_frequency||a69b5fd03d488a0f381eec9b61adb93280de0be6ef497d5d4f34d04ebb57f7d6||open" id="fs_sub_frequency_204898" value="" />
-<input type="hidden" name="name||d0b4db88fbf33186629fee7b1269ad2cb3554b90233060aa64bce4355275957c" id="fs_name_204898" value="Transform Lives with Safe Homes" />
-<input type="hidden" name="code||bfcde09e29bff9a94c8b61ff18681e7a02553cf9cd8bc3c9eb18105a567c6010" id="fs_code_204898" value="WC239004" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_208503" rel="208503">
+<input type="hidden" name="price||e2c9ce9e8141f4e802839a1b095c66831a03cd196ea5310c2393c0dd4caee512" id="fs_price_208503" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_208503" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_208503" />
+<input type="hidden" name="image||47483ff95d51d4989f786a5e6800a778a9f565c389c78a801f4250ea3fe2ba24||open" value="https://crosscatholic.org/wp-content/uploads/2023/06/SummerCore-DRHousing-foxy-thumb.jpg" id="foxyshop_cart_product_image_208503" />
+<input type="hidden" name="url||f3687bc71b43337f8008e276a6903f75b054564bc040e352f24e5398c08c2d42" value="https://crosscatholic.org/products/transform-lives-with-safe-homes-3/" id="fs_url_208503" />
+<input type="hidden" name="quantity_min||c141813e66fb93c1a318877797a98c12fe2c351819a09f6e2b2438e9c4ff634c||open" value="0" id="fs_quantity_min_208503" />
+<input type="hidden" name="quantity_max||a0f117c741f900415667d62151fae66bf91529b9f7d695f2f048b012ab821b7f||open" value="0" id="fs_quantity_max_208503" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_208503" />
+<input type="hidden" name="sub_frequency||a69b5fd03d488a0f381eec9b61adb93280de0be6ef497d5d4f34d04ebb57f7d6||open" id="fs_sub_frequency_208503" value="" />
+<input type="hidden" name="name||d0b4db88fbf33186629fee7b1269ad2cb3554b90233060aa64bce4355275957c" id="fs_name_208503" value="Transform Lives with Safe Homes" />
+<input type="hidden" name="code||bfcde09e29bff9a94c8b61ff18681e7a02553cf9cd8bc3c9eb18105a567c6010" id="fs_code_208503" value="WC239004" />
 <div class="foxyshop_variations">
 <select name="Donation" id="WC239004_1" class="variation-donation">
-<option value="$35{p:35}||50ad2b103f9aa3296042ba57c39c583d6cceb3d6c7b59ea2c9d05cf189c950a1" priceset="3500">$35</option>
-<option selected value="$50{p:50}||d0fa389197058b3ca1bb6a6d7c5f25214a49d397e7669ce045c26c049880da0b" priceset="5000">$50</option>
-<option value="$100{p:100}||cfe24e79bedd55fe0457b236a8cd16679e45aed2a9b3141e32651713a9f0e97d" priceset="10000">$100</option>
-<option value="$200{p:200}||6a7f050d6d28818d606278d0017966ceff9878a50f4793b3aabe57a27b444553" priceset="20000">$200</option>
+<option value="$50{p:50}||d0fa389197058b3ca1bb6a6d7c5f25214a49d397e7669ce045c26c049880da0b" priceset="5000">$50</option>
+<option value="$95{p:95}||775534d297a617fa0ad3bddf81e375d84b667fdae4e717c33754ea70078d4cbe" priceset="9500">$95</option>
+<option value="$250{p:250}||c3d35e9a0ba719855fe22d12fec9bc52b6ecf9d86421a1f7137a98a87bae0706" priceset="25000">$250</option>
+<option value="$2,500{p:2500}||e9acfc11159bb1e7618f32d9e587357d82bff472bf95a2ae2d8e2ae01545b8de" priceset="250000">$2,500</option>
 <option value="Other{dkey:custom-price}||052fbdff8d841d0b2189db4ae4edff0bd7600709e822cae58cc3a9f78dd2505c" displaykey="custom-price">Other</option>
 </select>
 <div class="clr"></div>
