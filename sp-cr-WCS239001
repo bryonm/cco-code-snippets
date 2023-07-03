@@ -6,7 +6,7 @@ add_shortcode( 'sp-cr-WCS239001', function () {
 <input type="hidden" name="price||8f5792ba04416f9682aad8fea6bf07a3365f8466cacbb2e53cf53e3454f2af95" id="fs_price_206515" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_206515" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_206515" />
-<input type="hidden" name="image||10d4b508faa34cb51ac8a0d581d24870fe3823a20fb3874c8f5cd17dfe5fb38c||open" value="https://crosscatholic.org/wp-content/uploads/2023/05/hungry-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_206515" />
+<input type="hidden" name="image||10d4b508faa34cb51ac8a0d581d24870fe3823a20fb3874c8f5cd17dfe5fb38c||open" value="https://crosscatholic.org/wp-content/uploads/2023/06/JulyCore-Food-foxy-thumb.jpg" id="foxyshop_cart_product_image_206515" />
 <input type="hidden" name="url||a7b82346b7e2460533a6d566ae2016af7826e9b765122a26536593ad13c1a79a" value="https://crosscatholic.org/products/comida-sana-donacion-9/" id="fs_url_206515" />
 <input type="hidden" name="quantity_min||ab0a65a5c7dd39ccfad95a841d3193de8c20f25719ce2f3b7b9694de24d808f2||open" value="0" id="fs_quantity_min_206515" />
 <input type="hidden" name="quantity_max||edc5453b30837eb759c9b89257ac70363d5df6dedb02656df08861411bc55a11||open" value="0" id="fs_quantity_max_206515" />
