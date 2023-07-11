@@ -1,0 +1,34 @@
+add_shortcode( 'md-MCCM23W3497', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_209469" rel="209469">
+<input type="hidden" name="price||76722ebf03e2cf94a9ff2e160797f3830d2d65650bcf703885a73f448a1ad6ab" id="fs_price_209469" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_209469" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_209469" />
+<input type="hidden" name="image||17694614193408a70eac79b4031a1593754ddc1e310219e84485ba44cb053de6||open" value="https://crosscatholic.org/wp-content/uploads/2023/06/SummerCore-DRHousing-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_209469" />
+<input type="hidden" name="url||736ca3b4478234f2a0d8dc983d41e5d0f1d5531abcab05ce7f175e447dfae972" value="https://crosscatholic.org/products/donate-to-empower-impoverished-families-2/" id="fs_url_209469" />
+<input type="hidden" name="quantity_min||256a8671bdfe434eb32b3ffb32e5abaa06c22dcbe7a2b0ba7cced119e7b174f5||open" value="0" id="fs_quantity_min_209469" />
+<input type="hidden" name="quantity_max||d47911dff6493f4ba046ce598284c28edf0af38dc3501103f03b3c6c92a2a6d2||open" value="0" id="fs_quantity_max_209469" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_209469" />
+<input type="hidden" name="name||c9542ddf71b574bffc2db1c50bd389bc234e777c8b0a81b0dfa4769df3022143" id="fs_name_209469" value="Donate to Empower Impoverished Families" />
+<input type="hidden" name="code||28ebf34c4b57477480ad67c1a7c9ebc591b587017a4ddf901699908db8adf200" id="fs_code_209469" value="MCCM23W3497" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCM23W3497_1" class="variation-donation">
+<option value="$11,394{p:11394}||80998b26583d6121b40b8636b714cb130150082dff011583e47be53af32f68bd" priceset="1139400">$11,394</option>
+<option value="$5,697{p:5697}||2e62377e22a57a12b46d6f75d071ee4ae5067a809b91e5ad64c6d2541ec5226a" priceset="569700">$5,697</option>
+<option selected value="$2,894{p:2894}||a940bcd4822927905ff7c83206cb97a1ef96df87b4cb0308a96503bf0edab186" priceset="289400">$2,894</option>
+<option value="$1,424{p:1424}||a218dee4d46bc2d286a581c9d966b7dc641ba8d5bfbe9ac4c01f9de20169a450" priceset="142400">$1,424</option>
+<option value="Other{dkey:custom-price}||010fdf95095898a454e2306ea1f2bc6f315900387ac0015734152cb7718d0f6d" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCM23W3497_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||79b8b87a39ef45711a134154ee8aa81bcb96776ec6376120bc27e5d4d8ee5e7e||open" id="MCCM23W3497_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
