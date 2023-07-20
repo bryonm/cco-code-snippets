@@ -1,0 +1,41 @@
+add_shortcode( 'kb-KCCM23W3497', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_210443" rel="210443">
+<input type="hidden" name="price||5226d3b1a6002d4679d6c5085662b1bdf30d287f490e52f154be10d7b667e829" id="fs_price_210443" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_210443" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_210443" />
+<input type="hidden" name="image||ca573f1142012eb82fad30b4fb87e10b22f87e3db0482a21d3be5a7f6cbcca1e||open" value="https://crosscatholic.org/wp-content/uploads/2023/06/SummerCore-DRHousing-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_210443" />
+<input type="hidden" name="url||c828c9b9b4acabef44b29d6cc1196e3a7775a6e72208641cfef0857b9fb35ac3" value="https://crosscatholic.org/products/donate-to-provide-safe-homes-2/" id="fs_url_210443" />
+<input type="hidden" name="quantity_min||d005d229493b8e5443c717e1cad2c5330a3dc5cf9e450380b0927b867d8750a9||open" value="0" id="fs_quantity_min_210443" />
+<input type="hidden" name="quantity_max||02586e49cf8097dea1acd54480ade40b81430283b42330c5dd0f05a1ebb6a78f||open" value="0" id="fs_quantity_max_210443" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_210443" />
+<input type="hidden" name="sub_frequency||5d7d30730a0b4dc763e0ed5d4fa9c1add80317c04ac08b1e611deffd5383e740||open" id="fs_sub_frequency_210443" value="" />
+<input type="hidden" name="name||f283e1923fa9a507cf1e9928a3c39e668f5bdfef382fbde03ca97284bc536c40" id="fs_name_210443" value="Donate to Provide Safe Homes" />
+<input type="hidden" name="code||77a7ae5215243fb1d2cf3cfc9d0dd7b90748f37ca0a4e8a952e82e637181f82f" id="fs_code_210443" value="KCCM23W3497" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCM23W3497_1" class="variation-donation">
+<option value="$1,628{p:1628}||8328ca14f75681835d3464fda0ce96d274ba5890cee056b0a652b7d66742752a" priceset="162800">$1,628</option>
+<option value="$1,036{p:1036}||f8e60ea4627122bf16cd20d85f6d85da7047bff2353ffab2c8b546ad2218142f" priceset="103600">$1,036</option>
+<option selected value="$518{p:518}||d5eb3572af20fb455c856778d20367bf453cd57efdc0c374f87d236dac0851a7" priceset="51800">$518</option>
+<option value="$259{p:259}||46db28630bf581789e2a6efaa7571d1ceeb6f301a8703b17801e44608953b813" priceset="25900">$259</option>
+<option value="Other{dkey:custom-price}||f6b70289e1f56f6e53e409b96a1b90d2f8fffe79f270d72e85602359768be451" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="KCCM23W3497_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||046f9f8e4f0f9001fa2a05aae83e834d6f95ffebb56fe9f939c11e020906884a||open" id="KCCM23W3497_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||1d91a8e644616bce5c94d1717c4ec41facc5dac7556b2608745477f0e686356b" id="KCCM23W3497_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="KCCM23W3497_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||d335bd9c0f1af945be715bd890f7279f4990239471f7775a213adaf7b570a34a" id="KCCM23W3497_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="KCCM23W3497_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
