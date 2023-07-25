@@ -1,0 +1,73 @@
+add_shortcode( 'donate_0109', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34970" rel="34970">
+<input type="hidden" name="price||80a7009885c6bfa55ad71fd60e8765b90ce4ed832934b78ae957165d27909114" id="fs_price_34970" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34970" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34970" />
+<input type="hidden" name="image||663ec2716d35a70869f02c175d0c423bd988273dcf35a1a43909eadca41a1f4c||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0109-thumb.jpg" id="foxyshop_cart_product_image_34970" />
+<input type="hidden" name="url||7335e0558a8277436696af2cd0b3dbfe6284e74fbec744a3fdead031169a6647" value="https://crosscatholic.org/products/0109-espwa-housing/" id="fs_url_34970" />
+<input type="hidden" name="quantity_min||68334d3b8d5e2977fae16be7f3b10094ef95280cf012740a5fbdca0e87176d29||open" value="0" id="fs_quantity_min_34970" />
+<input type="hidden" name="quantity_max||fcd78e7249f0446794e5a13c5a96d8903e38daad17a13af631ff5581db647478||open" value="0" id="fs_quantity_max_34970" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34970" />
+<input type="hidden" name="name||eae6906d0d3523d7bdbbef4e956d89cf8d9140634beb4f977ac7135a10d25029" id="fs_name_34970" value="0109 – ESPWA Housing" />
+<input type="hidden" name="code||c1c00c4c872caabe485a7717cfe8799a58db78fb6b6bb1ebb8a8947cccac92ec" id="fs_code_34970" value="WCPROJ0109" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||8e4f75c4ba1517500894faa211b4600dcbaf3d7dfe0ab61d23c01f75707a8c0d" id="WCPROJ0109_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34973" rel="34973">
+<input type="hidden" name="price||34de49123323ae37fea2dfbc36771cd43c7aaa81535bd094e6a640d9eed130cf" id="fs_price_34973" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34973" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34973" />
+<input type="hidden" name="image||663ec2716d35a70869f02c175d0c423bd988273dcf35a1a43909eadca41a1f4c||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0109-thumb_1.jpg" id="foxyshop_cart_product_image_34973" />
+<input type="hidden" name="url||d47b17b0593148951b0b399104b372a6e132e9c777bbc0a6cd12cf9fd9db966e" value="https://crosscatholic.org/products/0109-espwa-housing-2/" id="fs_url_34973" />
+<input type="hidden" name="quantity_min||68334d3b8d5e2977fae16be7f3b10094ef95280cf012740a5fbdca0e87176d29||open" value="0" id="fs_quantity_min_34973" />
+<input type="hidden" name="quantity_max||fcd78e7249f0446794e5a13c5a96d8903e38daad17a13af631ff5581db647478||open" value="0" id="fs_quantity_max_34973" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34973" />
+<input type="hidden" name="name||eae6906d0d3523d7bdbbef4e956d89cf8d9140634beb4f977ac7135a10d25029" id="fs_name_34973" value="0109 – ESPWA Housing" />
+<input type="hidden" name="code||c1c00c4c872caabe485a7717cfe8799a58db78fb6b6bb1ebb8a8947cccac92ec" id="fs_code_34973" value="WCPROJ0109" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||fd3e1f2c938e6e0d2a708172bdd9544fd385348332dcf37d2e799a84801edbd7" id="WCPROJ0109_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34976" rel="34976">
+<input type="hidden" name="price||d99db5ad32759cb1e1c0a00b2684030149f3804600ad7e83745c623bd021aa91" id="fs_price_34976" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34976" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34976" />
+<input type="hidden" name="image||663ec2716d35a70869f02c175d0c423bd988273dcf35a1a43909eadca41a1f4c||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0109-thumb_2.jpg" id="foxyshop_cart_product_image_34976" />
+<input type="hidden" name="url||c4c5b018fd75a3559c6f89288e3989823b561dfeab99c11ce6e0c001a37e942a" value="https://crosscatholic.org/products/0109-espwa-housing-3/" id="fs_url_34976" />
+<input type="hidden" name="quantity_min||68334d3b8d5e2977fae16be7f3b10094ef95280cf012740a5fbdca0e87176d29||open" value="0" id="fs_quantity_min_34976" />
+<input type="hidden" name="quantity_max||fcd78e7249f0446794e5a13c5a96d8903e38daad17a13af631ff5581db647478||open" value="0" id="fs_quantity_max_34976" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34976" />
+<input type="hidden" name="name||eae6906d0d3523d7bdbbef4e956d89cf8d9140634beb4f977ac7135a10d25029" id="fs_name_34976" value="0109 – ESPWA Housing" />
+<input type="hidden" name="code||c1c00c4c872caabe485a7717cfe8799a58db78fb6b6bb1ebb8a8947cccac92ec" id="fs_code_34976" value="WCPROJ0109" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||0c0dc1313f5c928c8d27461a72272a81f22b8233318831eac19cfbb2b79ba93d" id="WCPROJ0109_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34979" rel="34979">
+<input type="hidden" name="price||012faaf0ee5a1075e067722bc7fedd6990a33b747ded15fd328f0fb02bd56ef0" id="fs_price_34979" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34979" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34979" />
+<input type="hidden" name="image||663ec2716d35a70869f02c175d0c423bd988273dcf35a1a43909eadca41a1f4c||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0109-thumb_3.jpg" id="foxyshop_cart_product_image_34979" />
+<input type="hidden" name="url||0ccdc1af86dc15b77092b55990d850b1d7029fda0b353fda8308a1ff1a7fda9c" value="https://crosscatholic.org/products/0109-espwa-housing-4/" id="fs_url_34979" />
+<input type="hidden" name="quantity_min||68334d3b8d5e2977fae16be7f3b10094ef95280cf012740a5fbdca0e87176d29||open" value="0" id="fs_quantity_min_34979" />
+<input type="hidden" name="quantity_max||fcd78e7249f0446794e5a13c5a96d8903e38daad17a13af631ff5581db647478||open" value="0" id="fs_quantity_max_34979" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34979" />
+<input type="hidden" name="name||eae6906d0d3523d7bdbbef4e956d89cf8d9140634beb4f977ac7135a10d25029" id="fs_name_34979" value="0109 – ESPWA Housing" />
+<input type="hidden" name="code||c1c00c4c872caabe485a7717cfe8799a58db78fb6b6bb1ebb8a8947cccac92ec" id="fs_code_34979" value="WCPROJ0109" />
+<div class="foxyshop_variations">
+<input type="text" name="price||fd3a7f05fc83667e05eeb3c9ea6402de11dad65389b4eb65cb4e3dd8b3ab6b5c||open" id="WCPROJ0109_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
