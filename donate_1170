@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1170', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78715" rel="78715">
+<input type="hidden" name="price||37d5aeabd8b4816d7b729fbe885800447867ac400d5dd6bfcb295848178dcedd" id="fs_price_78715" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78715" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78715" />
+<input type="hidden" name="image||6aa4ee51ff06bc9c46e1fd738aa1c7d2a409bd7477c18fac6ca5f2ab948faa7a||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1170-foxy-thumb.jpg" id="foxyshop_cart_product_image_78715" />
+<input type="hidden" name="url||a5d6fa76c2bdaddf9f238be728f9a4946928f48fbd12ff86daa6d3b5549b59a1" value="https://crosscatholic.org/products/1170-hope-house-repairs-25-gift/" id="fs_url_78715" />
+<input type="hidden" name="quantity_min||6d48cba28544bf07a3f62f4d47b027946dee8732d9132d4f4f394da299c10f15||open" value="0" id="fs_quantity_min_78715" />
+<input type="hidden" name="quantity_max||71838c24c2d97b6deb7a8211a6870bed96b07389efa41ad3cc67d3bc782aacab||open" value="0" id="fs_quantity_max_78715" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78715" />
+<input type="hidden" name="name||da529d00cecdc8a6e8cf698fffd63c330fd1e325b78eb1c2dbc48adc16926672" id="fs_name_78715" value="1170 - HOPE House Repairs $25 Gift" />
+<input type="hidden" name="code||de554199af0261a00b3998b7f6b8b0d5448a32eaeb6f25a12a440b61f3f1359f" id="fs_code_78715" value="WCPROJ1170" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||663e6703ca9db20b5a2126f523d15b9ec01b111db88f2a7b15c2c502ef698b97" id="WCPROJ1170_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78725" rel="78725">
+<input type="hidden" name="price||eee896c8d0b2af2e14371497173e7983dffd58fb067bf01bf715f18cfd47e7b1" id="fs_price_78725" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78725" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78725" />
+<input type="hidden" name="image||6aa4ee51ff06bc9c46e1fd738aa1c7d2a409bd7477c18fac6ca5f2ab948faa7a||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1170-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_78725" />
+<input type="hidden" name="url||4021909490fb64e4682f4eb34f32fc44711fca35c14257fa59ca7b8464c0911c" value="https://crosscatholic.org/products/1170-hope-house-repairs-50-gift/" id="fs_url_78725" />
+<input type="hidden" name="quantity_min||6d48cba28544bf07a3f62f4d47b027946dee8732d9132d4f4f394da299c10f15||open" value="0" id="fs_quantity_min_78725" />
+<input type="hidden" name="quantity_max||71838c24c2d97b6deb7a8211a6870bed96b07389efa41ad3cc67d3bc782aacab||open" value="0" id="fs_quantity_max_78725" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78725" />
+<input type="hidden" name="name||415926742467743078e60d0c8964cd5d5d52141b5b69aaabaee9601fdadfe0d9" id="fs_name_78725" value="1170 - HOPE House Repairs $50 Gift" />
+<input type="hidden" name="code||de554199af0261a00b3998b7f6b8b0d5448a32eaeb6f25a12a440b61f3f1359f" id="fs_code_78725" value="WCPROJ1170" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||64d05084fcc81b0b97408b287a1a04ff4776be1c1f96ec53eac917a9fe942227" id="WCPROJ1170_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78728" rel="78728">
+<input type="hidden" name="price||93421cf4fedbc64adf063b07b766804d3dd118575b5893b9c9819f95bcf19c91" id="fs_price_78728" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78728" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78728" />
+<input type="hidden" name="image||6aa4ee51ff06bc9c46e1fd738aa1c7d2a409bd7477c18fac6ca5f2ab948faa7a||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1170-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_78728" />
+<input type="hidden" name="url||cdebbd2aaa7ce1419f19429370311d97b84a48e14aaf06a52b66e026d3c10488" value="https://crosscatholic.org/products/1170-hope-house-repairs-100-gift/" id="fs_url_78728" />
+<input type="hidden" name="quantity_min||6d48cba28544bf07a3f62f4d47b027946dee8732d9132d4f4f394da299c10f15||open" value="0" id="fs_quantity_min_78728" />
+<input type="hidden" name="quantity_max||71838c24c2d97b6deb7a8211a6870bed96b07389efa41ad3cc67d3bc782aacab||open" value="0" id="fs_quantity_max_78728" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78728" />
+<input type="hidden" name="name||d0a3c0f42e689c1c05073a80c102217aae6ad5a064610291677026049ef741dc" id="fs_name_78728" value="1170 - HOPE House Repairs $100 Gift" />
+<input type="hidden" name="code||de554199af0261a00b3998b7f6b8b0d5448a32eaeb6f25a12a440b61f3f1359f" id="fs_code_78728" value="WCPROJ1170" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||c67e95524f55270f142d40fdc036620960982a2053885c2920712b81c78c2052" id="WCPROJ1170_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78714" rel="78714">
+<input type="hidden" name="price||db9217ab856c173550304cc36934a210b17e8920dbdb0959071e06ca22ee218a" id="fs_price_78714" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78714" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78714" />
+<input type="hidden" name="image||6aa4ee51ff06bc9c46e1fd738aa1c7d2a409bd7477c18fac6ca5f2ab948faa7a||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1170-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_78714" />
+<input type="hidden" name="url||b369c60a89fff407d2a1c040b0ab8b96c9fe45fba6d9ea55f36d17b0abfbb202" value="https://crosscatholic.org/products/1170-hope-house-repairs/" id="fs_url_78714" />
+<input type="hidden" name="quantity_min||6d48cba28544bf07a3f62f4d47b027946dee8732d9132d4f4f394da299c10f15||open" value="0" id="fs_quantity_min_78714" />
+<input type="hidden" name="quantity_max||71838c24c2d97b6deb7a8211a6870bed96b07389efa41ad3cc67d3bc782aacab||open" value="0" id="fs_quantity_max_78714" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78714" />
+<input type="hidden" name="name||7c5ef1a017e7dc4bdaec57e45a54704adac8efa3c533000b1697784f6f699fcf" id="fs_name_78714" value="1170 - HOPE House Repairs" />
+<input type="hidden" name="code||de554199af0261a00b3998b7f6b8b0d5448a32eaeb6f25a12a440b61f3f1359f" id="fs_code_78714" value="WCPROJ1170" />
+<div class="foxyshop_variations">
+<input type="text" name="price||3fe17d4490fc58de59c657f43a1a5f410078fcaecfd93f7af5c9a04cf2283124||open" id="WCPROJ1170_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
