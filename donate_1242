@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1242', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78805" rel="78805">
+<input type="hidden" name="price||51357fe729bb97bb5df6afb35cea078c050e1c3495942e97158a8a7d21263596" id="fs_price_78805" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78805" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78805" />
+<input type="hidden" name="image||e096f5450ee669910370e33f11891e5c811d9bcdb4a8218b5b8130dc4696be30||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1242-foxy-thumb.jpg" id="foxyshop_cart_product_image_78805" />
+<input type="hidden" name="url||f77cecc3358c96a930e98e95178e45cb25665108bbf825a45397bfd685d6a8aa" value="https://crosscatholic.org/products/1242-bgw-housing-and-construction-25-gift/" id="fs_url_78805" />
+<input type="hidden" name="quantity_min||d650f4198714e06b9c641a0b8b6ca381c7add51856dc73c4eddf715749b5bdf2||open" value="0" id="fs_quantity_min_78805" />
+<input type="hidden" name="quantity_max||048eed90ee534fda900d3a7577a658a234720740453e37d9d3d945b6c87445db||open" value="0" id="fs_quantity_max_78805" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78805" />
+<input type="hidden" name="name||c3fa9c49a6cd7a50af55c030c4bbbe4a7d0a38f3452aba7a931d639121fe3c90" id="fs_name_78805" value="1242 - BGW Housing and Construction $25 Gift" />
+<input type="hidden" name="code||b08e726d7a38059237648c1a784ff759bfc4bcdc205da2122be06f44279e2e5b" id="fs_code_78805" value="WCPROJ1242" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||804700069e9aec2062d051202ef93a10d5a2748ceefed094f7eedcbcbfbc781c" id="WCPROJ1242_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78811" rel="78811">
+<input type="hidden" name="price||3a41ed5798c08756cccb0f79d52968608bfbf437c269bbf9f39c8fab0d2d527a" id="fs_price_78811" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78811" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78811" />
+<input type="hidden" name="image||e096f5450ee669910370e33f11891e5c811d9bcdb4a8218b5b8130dc4696be30||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1242-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_78811" />
+<input type="hidden" name="url||ca681994a947436a536290ae24a2ad4a7d0981885079136d4a76163dbf40bcf6" value="https://crosscatholic.org/products/1242-bgw-housing-and-construction-50-gift/" id="fs_url_78811" />
+<input type="hidden" name="quantity_min||d650f4198714e06b9c641a0b8b6ca381c7add51856dc73c4eddf715749b5bdf2||open" value="0" id="fs_quantity_min_78811" />
+<input type="hidden" name="quantity_max||048eed90ee534fda900d3a7577a658a234720740453e37d9d3d945b6c87445db||open" value="0" id="fs_quantity_max_78811" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78811" />
+<input type="hidden" name="name||7d4fe9138e96e1d972c8e6d2c4d9721cf8895fd91714ab33472d6d437532c02c" id="fs_name_78811" value="1242 - BGW Housing and Construction $50 Gift" />
+<input type="hidden" name="code||b08e726d7a38059237648c1a784ff759bfc4bcdc205da2122be06f44279e2e5b" id="fs_code_78811" value="WCPROJ1242" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||3b9afc7b021fbec27f85e0e68e99f37f4a8c81e9d2ffd458ddf38fa9e3695fe8" id="WCPROJ1242_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78814" rel="78814">
+<input type="hidden" name="price||6c77224ba934b6c791b48e79e6c8098965493bb540feab01d3b0f2070cd2ed8b" id="fs_price_78814" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78814" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78814" />
+<input type="hidden" name="image||e096f5450ee669910370e33f11891e5c811d9bcdb4a8218b5b8130dc4696be30||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1242-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_78814" />
+<input type="hidden" name="url||6e879c65867476cc33b54469017a18f1e730a5e3572f1d485a92316a31f294ab" value="https://crosscatholic.org/products/1242-bgw-housing-and-construction-100-gift/" id="fs_url_78814" />
+<input type="hidden" name="quantity_min||d650f4198714e06b9c641a0b8b6ca381c7add51856dc73c4eddf715749b5bdf2||open" value="0" id="fs_quantity_min_78814" />
+<input type="hidden" name="quantity_max||048eed90ee534fda900d3a7577a658a234720740453e37d9d3d945b6c87445db||open" value="0" id="fs_quantity_max_78814" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78814" />
+<input type="hidden" name="name||fca6b542755514c4d7bb852b59a2fc8008512d1be9a60a699d35881216b72969" id="fs_name_78814" value="1242 - BGW Housing and Construction $100 Gift" />
+<input type="hidden" name="code||b08e726d7a38059237648c1a784ff759bfc4bcdc205da2122be06f44279e2e5b" id="fs_code_78814" value="WCPROJ1242" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||f243a63dd859e1ee90a53724630d5f8d50bc41aff43f6b46f46ded825a512bfb" id="WCPROJ1242_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78804" rel="78804">
+<input type="hidden" name="price||acf58ce6dd1d64e8f9551406074361e86d2c4af19fec15fa99676882a644097f" id="fs_price_78804" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78804" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78804" />
+<input type="hidden" name="image||e096f5450ee669910370e33f11891e5c811d9bcdb4a8218b5b8130dc4696be30||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1242-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_78804" />
+<input type="hidden" name="url||d7b40ef80c412054d1720f4e7ec7e0b5518fc79c8a6a936e2b617b3e5bd4515a" value="https://crosscatholic.org/products/1242-bgw-housing-and-construction/" id="fs_url_78804" />
+<input type="hidden" name="quantity_min||d650f4198714e06b9c641a0b8b6ca381c7add51856dc73c4eddf715749b5bdf2||open" value="0" id="fs_quantity_min_78804" />
+<input type="hidden" name="quantity_max||048eed90ee534fda900d3a7577a658a234720740453e37d9d3d945b6c87445db||open" value="0" id="fs_quantity_max_78804" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78804" />
+<input type="hidden" name="name||f48f8375061e24901522de4b527f5a1c8288aed60386cfb874e6c40ceb6ef9ca" id="fs_name_78804" value="1242 - BGW Housing and Construction" />
+<input type="hidden" name="code||b08e726d7a38059237648c1a784ff759bfc4bcdc205da2122be06f44279e2e5b" id="fs_code_78804" value="WCPROJ1242" />
+<div class="foxyshop_variations">
+<input type="text" name="price||e3ba256a437b802524d0e7dfc694c6794aeaa1c53aff1e9a2e56bf2d19cec4bd||open" id="WCPROJ1242_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
