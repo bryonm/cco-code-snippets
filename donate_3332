@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3332', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78832" rel="78832">
+<input type="hidden" name="price||97c466a678e4ff8c3636af05fd298496d3f1868111e6d23f9f4273cb00c30b24" id="fs_price_78832" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78832" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78832" />
+<input type="hidden" name="image||239340918e8b09c0cbb4ae51f13efb3f0446ea717a9b1a3625b466d5126146c3||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/3332-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_78832" />
+<input type="hidden" name="url||8bddcc2e256f33432bed46156c29dc99e3f3a3127465df1e5e3f1307d08f6a57" value="https://crosscatholic.org/products/3332-elderly-people-support-25-gift/" id="fs_url_78832" />
+<input type="hidden" name="quantity_min||a45a21ea2011af29f195f8226ab8c8bb633f5431b49c885045accbdf0ea16ffc||open" value="0" id="fs_quantity_min_78832" />
+<input type="hidden" name="quantity_max||0934f59d09751c5d081bf011974f088f70ed05c7b012947987aa6a02436893e8||open" value="0" id="fs_quantity_max_78832" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78832" />
+<input type="hidden" name="name||56f3f31eeedaff069705ebb473187fa9daa3b42bacde9c69cb92066b95ae4142" id="fs_name_78832" value="3332 - Elderly People Support $25 Gift" />
+<input type="hidden" name="code||de6a470b8adbf1851f4b14ffc0323b91c555051d194b5aade89cc6112d2cadc0" id="fs_code_78832" value="WCPROJ3332" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||6282ccb6a77b5f4c463a5dd448357f5c1ea366cf5eeed66f047ed1b2c0c5a40a" id="WCPROJ3332_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78838" rel="78838">
+<input type="hidden" name="price||6eeb024a6df8acb02c3bdfaec38e4a19dd3340719501f0896ae6a996208a7956" id="fs_price_78838" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78838" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78838" />
+<input type="hidden" name="image||239340918e8b09c0cbb4ae51f13efb3f0446ea717a9b1a3625b466d5126146c3||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/3332-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_78838" />
+<input type="hidden" name="url||c66fd0bffe4f563066f535403c0a25ba203f6c67f7d241e8fad87daefe8d1c85" value="https://crosscatholic.org/products/3332-elderly-people-support-50-gift/" id="fs_url_78838" />
+<input type="hidden" name="quantity_min||a45a21ea2011af29f195f8226ab8c8bb633f5431b49c885045accbdf0ea16ffc||open" value="0" id="fs_quantity_min_78838" />
+<input type="hidden" name="quantity_max||0934f59d09751c5d081bf011974f088f70ed05c7b012947987aa6a02436893e8||open" value="0" id="fs_quantity_max_78838" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78838" />
+<input type="hidden" name="name||ae537b45a4556951cb02d8779ca6c9fcfaf01ef29fc906a3b2e0c18cd985d4ef" id="fs_name_78838" value="3332 - Elderly People Support $50 Gift" />
+<input type="hidden" name="code||de6a470b8adbf1851f4b14ffc0323b91c555051d194b5aade89cc6112d2cadc0" id="fs_code_78838" value="WCPROJ3332" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||34b0690a0ddf2990abd60bb5ba63f3416845c262a0b63b5391937805a013e6fb" id="WCPROJ3332_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78841" rel="78841">
+<input type="hidden" name="price||216537e38b0edbe5eaca06ae682bf7bdb01f82fe788437a66af7b380572cff41" id="fs_price_78841" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78841" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78841" />
+<input type="hidden" name="image||239340918e8b09c0cbb4ae51f13efb3f0446ea717a9b1a3625b466d5126146c3||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/3332-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_78841" />
+<input type="hidden" name="url||3cb88d3ca79d858fe0f74409cdba985530db200f11c452d6abb13765b2337078" value="https://crosscatholic.org/products/3332-elderly-people-support-100-gift/" id="fs_url_78841" />
+<input type="hidden" name="quantity_min||a45a21ea2011af29f195f8226ab8c8bb633f5431b49c885045accbdf0ea16ffc||open" value="0" id="fs_quantity_min_78841" />
+<input type="hidden" name="quantity_max||0934f59d09751c5d081bf011974f088f70ed05c7b012947987aa6a02436893e8||open" value="0" id="fs_quantity_max_78841" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78841" />
+<input type="hidden" name="name||c9ac0fbab77a0010104edeb48e9e3a4b3a473b56497a00f2209e049b115f050a" id="fs_name_78841" value="3332 - Elderly People Support $100 Gift" />
+<input type="hidden" name="code||de6a470b8adbf1851f4b14ffc0323b91c555051d194b5aade89cc6112d2cadc0" id="fs_code_78841" value="WCPROJ3332" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||11fc15c740744d4947ead1429b65a8cc497bc275332d0a8a9a7313101c4a2c21" id="WCPROJ3332_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78833" rel="78833">
+<input type="hidden" name="price||d2c9217658456aa4cec5f728cee99330612ca5cf062cbd61b50b7cf344a41ee8" id="fs_price_78833" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78833" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78833" />
+<input type="hidden" name="image||239340918e8b09c0cbb4ae51f13efb3f0446ea717a9b1a3625b466d5126146c3||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/3332-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_78833" />
+<input type="hidden" name="url||6b3c09fb167ad0f500fbbd21b653573c01e06e674652af77a47854588b7346c2" value="https://crosscatholic.org/products/3332-elderly-people-support/" id="fs_url_78833" />
+<input type="hidden" name="quantity_min||a45a21ea2011af29f195f8226ab8c8bb633f5431b49c885045accbdf0ea16ffc||open" value="0" id="fs_quantity_min_78833" />
+<input type="hidden" name="quantity_max||0934f59d09751c5d081bf011974f088f70ed05c7b012947987aa6a02436893e8||open" value="0" id="fs_quantity_max_78833" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78833" />
+<input type="hidden" name="name||89ac758e1904203bd5f81ae8bbe59cdd4b6985e281e8a9ddb83daf0a3a727641" id="fs_name_78833" value="3332 - Elderly People Support" />
+<input type="hidden" name="code||de6a470b8adbf1851f4b14ffc0323b91c555051d194b5aade89cc6112d2cadc0" id="fs_code_78833" value="WCPROJ3332" />
+<div class="foxyshop_variations">
+<input type="text" name="price||0cfbca764ec8913c4ca08aaf9bb481407be7ec1e4aca05be743c1e4a8b95c06a||open" id="WCPROJ3332_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
