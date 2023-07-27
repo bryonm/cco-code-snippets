@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3447', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212823" rel="212823">
+<input type="hidden" name="price||56339fd74d045f9768020366205d783e04b865ce118bf8acdbb1e13b5dd34173" id="fs_price_212823" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212823" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212823" />
+<input type="hidden" name="image||220c13e8a3bad32b37e373b06684b42a45f06d5536d464d8f69cb0bcc980d02d||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/3447-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_212823" />
+<input type="hidden" name="url||ea160642c8218f3e8d249772a3672dfc0c7bdeedd30deca01969d546b734739f" value="https://crosscatholic.org/products/3447-batey-relief-alliance-housing-25-donation/" id="fs_url_212823" />
+<input type="hidden" name="quantity_min||2fb6e4d52e23930c67577b5d68a7ab6839e6b8d5f542da46dc9ceed58ab7f1e0||open" value="0" id="fs_quantity_min_212823" />
+<input type="hidden" name="quantity_max||5a9792925ee3e43438a0710b10b5c8022f9753e58beab68e843787f07aea6b09||open" value="0" id="fs_quantity_max_212823" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212823" />
+<input type="hidden" name="name||5e5fb0c37d997bf21e149c2ea3bd2236d3329ed13656749f6f42076c05f26fd7" id="fs_name_212823" value="3447 - Batey Relief Alliance Housing - $25 donation" />
+<input type="hidden" name="code||f25c0343e3a272f2a1a5a10bcca705379da4150c00251869c9680754f816c719" id="fs_code_212823" value="WCPROJ3447" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||9392f5e8fbd2418230d67c99d9b50ab5f2dd9ba05db89d6fa48df11875fea139" id="WCPROJ3447_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212824" rel="212824">
+<input type="hidden" name="price||be2bbaa749c4b5d52899fe4ffe98262c08822caee2bbcef899ebaa68625bb086" id="fs_price_212824" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212824" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212824" />
+<input type="hidden" name="image||220c13e8a3bad32b37e373b06684b42a45f06d5536d464d8f69cb0bcc980d02d||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/3447-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_212824" />
+<input type="hidden" name="url||41ce05427588a2e9139fb634caedd047aed0fd97d246561f04cab7492bfedeae" value="https://crosscatholic.org/products/3447-batey-relief-alliance-housing-50-donation/" id="fs_url_212824" />
+<input type="hidden" name="quantity_min||2fb6e4d52e23930c67577b5d68a7ab6839e6b8d5f542da46dc9ceed58ab7f1e0||open" value="0" id="fs_quantity_min_212824" />
+<input type="hidden" name="quantity_max||5a9792925ee3e43438a0710b10b5c8022f9753e58beab68e843787f07aea6b09||open" value="0" id="fs_quantity_max_212824" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212824" />
+<input type="hidden" name="name||478865c34286b2825670e3d0db7d4b893bf618e6317c6f16a644a5962ebdf8d7" id="fs_name_212824" value="3447 - Batey Relief Alliance Housing - $50 donation" />
+<input type="hidden" name="code||f25c0343e3a272f2a1a5a10bcca705379da4150c00251869c9680754f816c719" id="fs_code_212824" value="WCPROJ3447" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||67a4756ed9e7f6d5767ef309bddd60f20f55fb1bc4dd8b746b43f325f0d74e16" id="WCPROJ3447_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212825" rel="212825">
+<input type="hidden" name="price||bb445cf6261a1348e181ce127469ee20d24c4adc3d5cc174e4d4cc9cc4b9f8cf" id="fs_price_212825" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212825" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212825" />
+<input type="hidden" name="image||220c13e8a3bad32b37e373b06684b42a45f06d5536d464d8f69cb0bcc980d02d||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/3447-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_212825" />
+<input type="hidden" name="url||c8468f49403e75483da2d5b28274df224f30e9f7341dbc83e4bc01f3c4f55807" value="https://crosscatholic.org/products/3447-batey-relief-alliance-housing-100-donation/" id="fs_url_212825" />
+<input type="hidden" name="quantity_min||2fb6e4d52e23930c67577b5d68a7ab6839e6b8d5f542da46dc9ceed58ab7f1e0||open" value="0" id="fs_quantity_min_212825" />
+<input type="hidden" name="quantity_max||5a9792925ee3e43438a0710b10b5c8022f9753e58beab68e843787f07aea6b09||open" value="0" id="fs_quantity_max_212825" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212825" />
+<input type="hidden" name="name||5b13f85e5383d7b51907f68c222a3437688d4e28e0bc7de6a135c69cfdf28220" id="fs_name_212825" value="3447 - Batey Relief Alliance Housing - $100 donation" />
+<input type="hidden" name="code||f25c0343e3a272f2a1a5a10bcca705379da4150c00251869c9680754f816c719" id="fs_code_212825" value="WCPROJ3447" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||231ab6ad710a7c1ed58fe5e4d2feea5d8e0717cd1452e47e5aa1218dedf3a1a9" id="WCPROJ3447_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212826" rel="212826">
+<input type="hidden" name="price||2aab0146d1475a570e9906566edf440c7569cdc613d20e5c4039733cb6bb5dd9" id="fs_price_212826" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212826" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212826" />
+<input type="hidden" name="image||220c13e8a3bad32b37e373b06684b42a45f06d5536d464d8f69cb0bcc980d02d||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/3447-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_212826" />
+<input type="hidden" name="url||92708ea3919bad9b21a78dd60c9ac2b4338bb3fff112484e5d94ebb3ada82f68" value="https://crosscatholic.org/products/3447-batey-relief-alliance-housing/" id="fs_url_212826" />
+<input type="hidden" name="quantity_min||2fb6e4d52e23930c67577b5d68a7ab6839e6b8d5f542da46dc9ceed58ab7f1e0||open" value="0" id="fs_quantity_min_212826" />
+<input type="hidden" name="quantity_max||5a9792925ee3e43438a0710b10b5c8022f9753e58beab68e843787f07aea6b09||open" value="0" id="fs_quantity_max_212826" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212826" />
+<input type="hidden" name="name||aecb999a587a9f04f670f51e83c52d4aebb118d5a3d4073b3aeb0670485fe708" id="fs_name_212826" value="3447 - Batey Relief Alliance Housing" />
+<input type="hidden" name="code||f25c0343e3a272f2a1a5a10bcca705379da4150c00251869c9680754f816c719" id="fs_code_212826" value="WCPROJ3447" />
+<div class="foxyshop_variations">
+<input type="text" name="price||1f44fa665e3f1b875975f910a3797f05f602f77c998b40da4e8af5f7c8c193f3||open" id="WCPROJ3447_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
