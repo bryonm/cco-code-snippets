@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1096', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_76355" rel="76355">
+<input type="hidden" name="price||be94e5c0895b97c41a85b6f586c7e4fbac00ea5edb9ef8bb4f14eb9969eebf1f" id="fs_price_76355" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_76355" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_76355" />
+<input type="hidden" name="image||15072e08027e1747e72c2c76e96d126d3d7513ba9d68cd578ca9fe41847dc8ab||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1096-foxy-thumb.jpg" id="foxyshop_cart_product_image_76355" />
+<input type="hidden" name="url||51d32cb01a1b68b9a970dc18450ec840e688b2576e6c0a8b63882507e3680e98" value="https://crosscatholic.org/products/1096-marie-louise-bayle-center-25-gift/" id="fs_url_76355" />
+<input type="hidden" name="quantity_min||d8ddf94d984e2794f15e23e2d795848d4a4b754e11ec0ee81c9ef79274b3138b||open" value="0" id="fs_quantity_min_76355" />
+<input type="hidden" name="quantity_max||b2090e91f9302c27be836af68464022acc188c0bb7bd37e8e012a8b31b7c34ec||open" value="0" id="fs_quantity_max_76355" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_76355" />
+<input type="hidden" name="name||5611ae4e22b779990a5a6122c8af2c6fb1fc54763d4d8dc0825ec1e9df00f8b9" id="fs_name_76355" value="1096-Marie Louise Bayle Center $25 Gift" />
+<input type="hidden" name="code||93921dbcc3866dd56c93c0b89b62d39de66fbc82cf98134e011fb946fbe3ca0b" id="fs_code_76355" value="WCPROJ1096" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||3b47debf3c2334749ee3fed65468a62a6473f878a8e2c237d3b884cdff76ef65" id="WCPROJ1096_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_76363" rel="76363">
+<input type="hidden" name="price||178432032cfca78c0676cd1ae6890f6f6380388277b88d00fd19e6957136b3f4" id="fs_price_76363" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_76363" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_76363" />
+<input type="hidden" name="image||15072e08027e1747e72c2c76e96d126d3d7513ba9d68cd578ca9fe41847dc8ab||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1096-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_76363" />
+<input type="hidden" name="url||3fac4d650981c8404921031ee40a94593560378a1c18936893490bc12382f4c6" value="https://crosscatholic.org/products/1096-marie-louise-bayle-center-50-gift/" id="fs_url_76363" />
+<input type="hidden" name="quantity_min||d8ddf94d984e2794f15e23e2d795848d4a4b754e11ec0ee81c9ef79274b3138b||open" value="0" id="fs_quantity_min_76363" />
+<input type="hidden" name="quantity_max||b2090e91f9302c27be836af68464022acc188c0bb7bd37e8e012a8b31b7c34ec||open" value="0" id="fs_quantity_max_76363" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_76363" />
+<input type="hidden" name="name||e19508bd3a951e7aa7f6dbce2a42504c4bc9f310bfe845e4009754998af29e57" id="fs_name_76363" value="1096-Marie Louise Bayle Center $50 Gift" />
+<input type="hidden" name="code||93921dbcc3866dd56c93c0b89b62d39de66fbc82cf98134e011fb946fbe3ca0b" id="fs_code_76363" value="WCPROJ1096" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||24a6c0e500b2f69325906d29c683cc9bd6cc360ad739ed75c295a8232712fedd" id="WCPROJ1096_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_76366" rel="76366">
+<input type="hidden" name="price||5f965103ef32a44fddd56d4f8aa5d9ffc516eae499947eb4293fce4e00f2f636" id="fs_price_76366" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_76366" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_76366" />
+<input type="hidden" name="image||15072e08027e1747e72c2c76e96d126d3d7513ba9d68cd578ca9fe41847dc8ab||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1096-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_76366" />
+<input type="hidden" name="url||30a451ea8f115bc61e4f34d55c68ec38b7fb6a71b25b9daaf24304567f719554" value="https://crosscatholic.org/products/1096-marie-louise-bayle-center-100-gift/" id="fs_url_76366" />
+<input type="hidden" name="quantity_min||d8ddf94d984e2794f15e23e2d795848d4a4b754e11ec0ee81c9ef79274b3138b||open" value="0" id="fs_quantity_min_76366" />
+<input type="hidden" name="quantity_max||b2090e91f9302c27be836af68464022acc188c0bb7bd37e8e012a8b31b7c34ec||open" value="0" id="fs_quantity_max_76366" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_76366" />
+<input type="hidden" name="name||0a2f5cbe3c6457534da4446a80983c9ff8c8263ee3e0449e06c2b6679b5bda0e" id="fs_name_76366" value="1096-Marie Louise Bayle Center $100 Gift" />
+<input type="hidden" name="code||93921dbcc3866dd56c93c0b89b62d39de66fbc82cf98134e011fb946fbe3ca0b" id="fs_code_76366" value="WCPROJ1096" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||9ffd68ef6f2e1dba7aa6dd0d01f41e99eaf1ebe9c83769d260d8a842964a1d9e" id="WCPROJ1096_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_136431" rel="136431">
+<input type="hidden" name="price||a28c7e0bc0952e9e1a074afdaed3c977037b64dfd50bc134fe36b99ac2214a07" id="fs_price_136431" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_136431" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_136431" />
+<input type="hidden" name="image||15072e08027e1747e72c2c76e96d126d3d7513ba9d68cd578ca9fe41847dc8ab||open" value="https://crosscatholic.org/wp-content/uploads/2022/05/1096-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_136431" />
+<input type="hidden" name="url||ce856a651015746074148bf4a8d4d321a2f513011232b9e3376f5f2ffd99587b" value="https://crosscatholic.org/products/1096-marie-louise-bayle-center-2/" id="fs_url_136431" />
+<input type="hidden" name="quantity_min||d8ddf94d984e2794f15e23e2d795848d4a4b754e11ec0ee81c9ef79274b3138b||open" value="0" id="fs_quantity_min_136431" />
+<input type="hidden" name="quantity_max||b2090e91f9302c27be836af68464022acc188c0bb7bd37e8e012a8b31b7c34ec||open" value="0" id="fs_quantity_max_136431" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_136431" />
+<input type="hidden" name="name||8dbf1eefd34c90f66bb731964505eb1915f7629f55dd6f8f3bbd370e916d0d42" id="fs_name_136431" value="1096-Marie Louise Bayle Center" />
+<input type="hidden" name="code||93921dbcc3866dd56c93c0b89b62d39de66fbc82cf98134e011fb946fbe3ca0b" id="fs_code_136431" value="WCPROJ1096" />
+<div class="foxyshop_variations">
+<input type="text" name="price||3365d60f3cdbd954475996e3305de9a5c44a5dff833c8a9179ddcac616bbaf12||open" id="WCPROJ1096_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
