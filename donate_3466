@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3466', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212864" rel="212864">
+<input type="hidden" name="price||3913e1b4741cc997b603567bbde944d65a80c11739dd1f9d9391cc269433835b" id="fs_price_212864" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212864" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212864" />
+<input type="hidden" name="image||8217e4fdc23ecc332715a696e2c3e1989eb1c266ed6244b66d2c647f50cbdf1d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_212864" />
+<input type="hidden" name="url||25c34988dbaa2178a1e95e0bc4c5bc2f5c20fc8a707992d473ce3e7ee98d8c55" value="https://crosscatholic.org/products/3466-diocese-of-mandeville-housing-25-donation/" id="fs_url_212864" />
+<input type="hidden" name="quantity_min||5a62c5824ecb41972ed0483044a1209b3885bb72a0f05c5bf1c6356c24f922c0||open" value="0" id="fs_quantity_min_212864" />
+<input type="hidden" name="quantity_max||939a8966cf338742146870701548c5d53785288811a9c7715ee99758733acd84||open" value="0" id="fs_quantity_max_212864" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212864" />
+<input type="hidden" name="name||e6727449069590f3f7556fcf4d6fa717e86e834272d64aac3d95add6eb22ddc4" id="fs_name_212864" value="3466 - Diocese of Mandeville Housing - $25 donation" />
+<input type="hidden" name="code||a631c241b8fae26338183e80d5cddea658f65a3ddaf2b3c63dcb2e2a07444258" id="fs_code_212864" value="WCPROJ3466" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||3f931839ea700e08307d8219d4632fdff98348241ad79f1712774abfbe8e8955" id="WCPROJ3466_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212865" rel="212865">
+<input type="hidden" name="price||0e097455837cc02cfdc005d0b82cefbbd1893b76acd8866bbf0844f4e18ef222" id="fs_price_212865" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212865" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212865" />
+<input type="hidden" name="image||8217e4fdc23ecc332715a696e2c3e1989eb1c266ed6244b66d2c647f50cbdf1d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_212865" />
+<input type="hidden" name="url||739788d92a50c6ef57664879cf24089c89bebd8d14c210646661b60a0f12450c" value="https://crosscatholic.org/products/3466-diocese-of-mandeville-housing-50-donation/" id="fs_url_212865" />
+<input type="hidden" name="quantity_min||5a62c5824ecb41972ed0483044a1209b3885bb72a0f05c5bf1c6356c24f922c0||open" value="0" id="fs_quantity_min_212865" />
+<input type="hidden" name="quantity_max||939a8966cf338742146870701548c5d53785288811a9c7715ee99758733acd84||open" value="0" id="fs_quantity_max_212865" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212865" />
+<input type="hidden" name="name||8ff35497939ce8e8efffc280d5878dd1f28412aa17c32025d94c1ba6a7bb3624" id="fs_name_212865" value="3466 - Diocese of Mandeville Housing - $50 donation" />
+<input type="hidden" name="code||a631c241b8fae26338183e80d5cddea658f65a3ddaf2b3c63dcb2e2a07444258" id="fs_code_212865" value="WCPROJ3466" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0808b20213da55134625eec111fdf39f055056263adbb7aba9bc7ef9702cfd76" id="WCPROJ3466_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212866" rel="212866">
+<input type="hidden" name="price||e515440b6664247ae09dfd873e6a8e6aec73e26ca54b5bd4d066ea2c90241fd7" id="fs_price_212866" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212866" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212866" />
+<input type="hidden" name="image||8217e4fdc23ecc332715a696e2c3e1989eb1c266ed6244b66d2c647f50cbdf1d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_212866" />
+<input type="hidden" name="url||b9672c98c02e4b5914384b47892a6fae90e69b984ae158b96bc5f1d8dfbef785" value="https://crosscatholic.org/products/3466-diocese-of-mandeville-housing-100-donation/" id="fs_url_212866" />
+<input type="hidden" name="quantity_min||5a62c5824ecb41972ed0483044a1209b3885bb72a0f05c5bf1c6356c24f922c0||open" value="0" id="fs_quantity_min_212866" />
+<input type="hidden" name="quantity_max||939a8966cf338742146870701548c5d53785288811a9c7715ee99758733acd84||open" value="0" id="fs_quantity_max_212866" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212866" />
+<input type="hidden" name="name||31e80fc8feb8f88914fd668c50509f1110bd99bb7fbe6b478b58d69090c3be64" id="fs_name_212866" value="3466 - Diocese of Mandeville Housing - $100 donation" />
+<input type="hidden" name="code||a631c241b8fae26338183e80d5cddea658f65a3ddaf2b3c63dcb2e2a07444258" id="fs_code_212866" value="WCPROJ3466" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||c288b5540cd8942a24a7eb15b544a43de492163429ae9cdee8f1c818d4c106a4" id="WCPROJ3466_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_212867" rel="212867">
+<input type="hidden" name="price||933a86f62d48ec279929a3f092f7b1910f20ec685a678bd95adc7fbfa5b5feb6" id="fs_price_212867" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_212867" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_212867" />
+<input type="hidden" name="image||8217e4fdc23ecc332715a696e2c3e1989eb1c266ed6244b66d2c647f50cbdf1d||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_212867" />
+<input type="hidden" name="url||1903fa56864258d6bf66db763c1c7297849bb650806886ef6b3303336096c103" value="https://crosscatholic.org/products/3466-diocese-of-mandeville-housing/" id="fs_url_212867" />
+<input type="hidden" name="quantity_min||5a62c5824ecb41972ed0483044a1209b3885bb72a0f05c5bf1c6356c24f922c0||open" value="0" id="fs_quantity_min_212867" />
+<input type="hidden" name="quantity_max||939a8966cf338742146870701548c5d53785288811a9c7715ee99758733acd84||open" value="0" id="fs_quantity_max_212867" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_212867" />
+<input type="hidden" name="name||e2882554efc488c191c508fa5d059688c8163e452dc8f76f815f859f3854d850" id="fs_name_212867" value="3466 - Diocese of Mandeville Housing" />
+<input type="hidden" name="code||a631c241b8fae26338183e80d5cddea658f65a3ddaf2b3c63dcb2e2a07444258" id="fs_code_212867" value="WCPROJ3466" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f0d80b6da19daafdb557c9add73062011c32b0ca28147c8cf6353b91ef68cfdb||open" id="WCPROJ3466_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
