@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1402', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37750" rel="37750">
+<input type="hidden" name="price||c6c0939e5a5ef5bfb6c23c9e4c8dfce15186d22b54dffa1601754a350bb67e8d" id="fs_price_37750" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37750" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37750" />
+<input type="hidden" name="image||95c79e8adbc17511d4b90f0a5aca2c85de107b7ea3d456a8be7232cfbeb2b9fb||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1402-thumb.jpg" id="foxyshop_cart_product_image_37750" />
+<input type="hidden" name="url||2286a32ff49c4d2cbe086a0c9d17b9614db6863564724d6cce78088fcc07ac1a" value="https://crosscatholic.org/products/1402-rainbow-house/" id="fs_url_37750" />
+<input type="hidden" name="quantity_min||84de9c3b6822bd3436861c499579e9c03e2aae95044e2e770a75bb2871a6f004||open" value="0" id="fs_quantity_min_37750" />
+<input type="hidden" name="quantity_max||4509dfbfc13ea7fd0c8fb4b48552303b0d84574b6cce4d3765169ff1ac84ef79||open" value="0" id="fs_quantity_max_37750" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37750" />
+<input type="hidden" name="name||ffb596fedad81bbf17eff046e57779d65f9b42b0463298fa03d3d2734e5e9afc" id="fs_name_37750" value="1402 – Rainbow House" />
+<input type="hidden" name="code||4c2b55cedf396045e26c3b9fcb6cfb4a988122e2d66f5b31f48f3b65b823c295" id="fs_code_37750" value="WCPROJ1402" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||19dc054b2d63548995657003e324330d93c07410de2b4aa825497ed560cb133f" id="WCPROJ1402_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37756" rel="37756">
+<input type="hidden" name="price||bf9230f263cf50f13b0234a37c09a43f047a3e63948745ad7b3b77c35cf3043a" id="fs_price_37756" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37756" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37756" />
+<input type="hidden" name="image||95c79e8adbc17511d4b90f0a5aca2c85de107b7ea3d456a8be7232cfbeb2b9fb||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1402-thumb_2.jpg" id="foxyshop_cart_product_image_37756" />
+<input type="hidden" name="url||f1f76e56a8210c037e0e9252a5a70155b1df96c98686001cbe9a7c1c91c1da54" value="https://crosscatholic.org/products/1402-rainbow-house-3/" id="fs_url_37756" />
+<input type="hidden" name="quantity_min||84de9c3b6822bd3436861c499579e9c03e2aae95044e2e770a75bb2871a6f004||open" value="0" id="fs_quantity_min_37756" />
+<input type="hidden" name="quantity_max||4509dfbfc13ea7fd0c8fb4b48552303b0d84574b6cce4d3765169ff1ac84ef79||open" value="0" id="fs_quantity_max_37756" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37756" />
+<input type="hidden" name="name||ffb596fedad81bbf17eff046e57779d65f9b42b0463298fa03d3d2734e5e9afc" id="fs_name_37756" value="1402 – Rainbow House" />
+<input type="hidden" name="code||4c2b55cedf396045e26c3b9fcb6cfb4a988122e2d66f5b31f48f3b65b823c295" id="fs_code_37756" value="WCPROJ1402" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||acc4a7c2444afd0cfb3af339716dcbf61751f4714254e5c59883f5da956799bb" id="WCPROJ1402_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37759" rel="37759">
+<input type="hidden" name="price||22bf7a7844e84ffcdacfbd2731021bc28405bf159b43406cf6e5da1827ec02a9" id="fs_price_37759" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37759" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37759" />
+<input type="hidden" name="image||95c79e8adbc17511d4b90f0a5aca2c85de107b7ea3d456a8be7232cfbeb2b9fb||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1402-thumb_3.jpg" id="foxyshop_cart_product_image_37759" />
+<input type="hidden" name="url||6be33b55ed7c4ffd55c8c37f28ef5c8bf9813759ec55403e37710666f78830ab" value="https://crosscatholic.org/products/1402-rainbow-house-4/" id="fs_url_37759" />
+<input type="hidden" name="quantity_min||84de9c3b6822bd3436861c499579e9c03e2aae95044e2e770a75bb2871a6f004||open" value="0" id="fs_quantity_min_37759" />
+<input type="hidden" name="quantity_max||4509dfbfc13ea7fd0c8fb4b48552303b0d84574b6cce4d3765169ff1ac84ef79||open" value="0" id="fs_quantity_max_37759" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37759" />
+<input type="hidden" name="name||ffb596fedad81bbf17eff046e57779d65f9b42b0463298fa03d3d2734e5e9afc" id="fs_name_37759" value="1402 – Rainbow House" />
+<input type="hidden" name="code||4c2b55cedf396045e26c3b9fcb6cfb4a988122e2d66f5b31f48f3b65b823c295" id="fs_code_37759" value="WCPROJ1402" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||b496707f359e66d4c673a60ad62664ce6301d8b4b728e3583a83313c3cae85b4" id="WCPROJ1402_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37753" rel="37753">
+<input type="hidden" name="price||de3f3d786d9ea880a15fde43282c76f4c302febc4820e9e36955fe743fc7a525" id="fs_price_37753" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37753" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37753" />
+<input type="hidden" name="image||95c79e8adbc17511d4b90f0a5aca2c85de107b7ea3d456a8be7232cfbeb2b9fb||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1402-thumb_1.jpg" id="foxyshop_cart_product_image_37753" />
+<input type="hidden" name="url||7cf742e2b07e6328bfc09fb99a3e33031824eb63f5eb64f327835ea2c1d12698" value="https://crosscatholic.org/products/1402-rainbow-house-2/" id="fs_url_37753" />
+<input type="hidden" name="quantity_min||84de9c3b6822bd3436861c499579e9c03e2aae95044e2e770a75bb2871a6f004||open" value="0" id="fs_quantity_min_37753" />
+<input type="hidden" name="quantity_max||4509dfbfc13ea7fd0c8fb4b48552303b0d84574b6cce4d3765169ff1ac84ef79||open" value="0" id="fs_quantity_max_37753" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37753" />
+<input type="hidden" name="name||ffb596fedad81bbf17eff046e57779d65f9b42b0463298fa03d3d2734e5e9afc" id="fs_name_37753" value="1402 – Rainbow House" />
+<input type="hidden" name="code||4c2b55cedf396045e26c3b9fcb6cfb4a988122e2d66f5b31f48f3b65b823c295" id="fs_code_37753" value="WCPROJ1402" />
+<div class="foxyshop_variations">
+<input type="text" name="price||1bf7fdaa9e8734a80102c47e702706fca03e3e06ffd93ff81ea59f055c46e479||open" id="WCPROJ1402_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
