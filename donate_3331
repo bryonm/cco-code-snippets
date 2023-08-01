@@ -2,16 +2,17 @@ add_shortcode( 'donate_3331', function () {
 
 	$out = '<div class="flex-container">
 <!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52956" rel="52956">
-<input type="hidden" name="price||097f06d905a86469f94417b9c9a01623cf41afd86e62dc8c5891f16c2bf2cabe" id="fs_price_52956" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52956" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52956" />
-<input type="hidden" name="image||7af11ba92433d7b2f786a013f986aa035cea607f5b4c14bf448d5b683207ca36||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/1062-foxy-thumb.jpg" id="foxyshop_cart_product_image_52956" />
-<input type="hidden" name="url||4c19f17473b0022245fd2616c64243ee1e964385913791a859734d9e3bc98120" value="https://crosscatholic.org/products/1062-st-martins-home/" id="fs_url_52956" />
-<input type="hidden" name="quantity_min||55f184a1d229f1f124829d51c71f4b3b044c2876e66ade1da4dff43646c6bdc3||open" value="0" id="fs_quantity_min_52956" />
-<input type="hidden" name="quantity_max||9a1273e3cbec5d3f3ab680d180ccafa52088236afebb520fb82c9d26f503ff6d||open" value="0" id="fs_quantity_max_52956" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52956" />
-<input type="hidden" name="name||20db95e251e50422b9515c5f28a1628f78fa6f028a927d9218df3787948452fb" id="fs_name_52956" value="3331 - St. Martin’s Home" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_213487" rel="213487">
+<input type="hidden" name="price||097f06d905a86469f94417b9c9a01623cf41afd86e62dc8c5891f16c2bf2cabe" id="fs_price_213487" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_213487" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_213487" />
+<input type="hidden" name="image||7af11ba92433d7b2f786a013f986aa035cea607f5b4c14bf448d5b683207ca36||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/1062-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_213487" />
+<input type="hidden" name="url||811c38c2c144868ffab855e528d8ccf3881585eea4395b1beb219e9ae45bcd3d" value="https://crosscatholic.org/products/3331-st-martins-home-25-donation/" id="fs_url_213487" />
+<input type="hidden" name="quantity_min||55f184a1d229f1f124829d51c71f4b3b044c2876e66ade1da4dff43646c6bdc3||open" value="0" id="fs_quantity_min_213487" />
+<input type="hidden" name="quantity_max||9a1273e3cbec5d3f3ab680d180ccafa52088236afebb520fb82c9d26f503ff6d||open" value="0" id="fs_quantity_max_213487" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_213487" />
+<input type="hidden" name="name||86d6b6fddb9b954209ee6b1756991706aa97c67a1f37343741c151b275c3eb89" id="fs_name_213487" value="3331 - St. Martin’s Home - $25 donation" />
+<input type="hidden" name="code||be239d36a38fb406c6599e7a1a2f32cdc742a4b6464c415f8e623cfed673a126" id="fs_code_213487" value="WCPROJ3331" />
 <div class="foxyshop_variations">
 <input type="hidden" name="$25_donation||f1e4b25c103126a2ac5151220dc1ae63b363e1b14c23699d5f9461849b423de8" id="WCPROJ3331_1" value="" class="variation-25-donation" />
 </div>
