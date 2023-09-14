@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23GENS', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_158957" rel="158957">
+<input type="hidden" name="price||5c911d5f409da2c68a3c2c9e386f47c441bc6e66c533cccd7b53770c90f0e53d" id="fs_price_158957" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_158957" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_158957" />
+<input type="hidden" name="image||ca52ee8deeed17b0047e10663c4d201aef0ad6fba7e87f68060bcd96a1650e56||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb.jpg" id="foxyshop_cart_product_image_158957" />
+<input type="hidden" name="url||50aa9cdefd00962b583cce534d7475d5d3aafa154d0154235c5845e420c12c16" value="https://crosscatholic.org/products/spiritual-outreach-around-the-world-200-donation/" id="fs_url_158957" />
+<input type="hidden" name="quantity_min||a2e7f90920301e0b142258c9db5b3cdd88641a2b02f64d33fd16351715ad37a3||open" value="0" id="fs_quantity_min_158957" />
+<input type="hidden" name="quantity_max||7450d58edb0a1f3e1e4deda048aba7fb66736de368f120a360a9fdca3efb3a63||open" value="0" id="fs_quantity_max_158957" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_158957" />
+<input type="hidden" name="name||ffa2160a53c826be26f37f975e00e2f550cf2c949260355e6278d4a273c28c37" id="fs_name_158957" value="Spiritual Outreach Around the World - $25 donation" />
+<input type="hidden" name="code||018b41e99eb7ce122aa6e93487e2714bf1fa6ae4455440ce0d7374eae45e66b6" id="fs_code_158957" value="WCCC23GENS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||5211724004e6f77de6781ce7531ce84875d9d2eb1e86ba5cb324215de059f5e5" id="WCCC23GENS_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_158959" rel="158959">
+<input type="hidden" name="price||4b21896af616e724ba3cc1a53b0434732b85accac3c54d8ba4ec14e31baac363" id="fs_price_158959" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_158959" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_158959" />
+<input type="hidden" name="image||ca52ee8deeed17b0047e10663c4d201aef0ad6fba7e87f68060bcd96a1650e56||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_158959" />
+<input type="hidden" name="url||7f6c956b15035ad15ad7c5b6ca350f17c06d656db449adc20182e4bd3f8c7223" value="https://crosscatholic.org/products/spiritual-outreach-around-the-world-50-donation/" id="fs_url_158959" />
+<input type="hidden" name="quantity_min||a2e7f90920301e0b142258c9db5b3cdd88641a2b02f64d33fd16351715ad37a3||open" value="0" id="fs_quantity_min_158959" />
+<input type="hidden" name="quantity_max||7450d58edb0a1f3e1e4deda048aba7fb66736de368f120a360a9fdca3efb3a63||open" value="0" id="fs_quantity_max_158959" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_158959" />
+<input type="hidden" name="name||cbd30d992b3448139446037ac132fc44220f9b18b26f80e7c794597420e9b533" id="fs_name_158959" value="Spiritual Outreach Around the World - $50 donation" />
+<input type="hidden" name="code||018b41e99eb7ce122aa6e93487e2714bf1fa6ae4455440ce0d7374eae45e66b6" id="fs_code_158959" value="WCCC23GENS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||fe9d1616fc6ef4365ae141b121e612422054d759edaf035c2e41a71fbdd7dbe9" id="WCCC23GENS_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_158958" rel="158958">
+<input type="hidden" name="price||8c31439e9cbcdd670b1bba9cb194a412cffab6afd7bab1ccdd3abd9f2223168a" id="fs_price_158958" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_158958" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_158958" />
+<input type="hidden" name="image||ca52ee8deeed17b0047e10663c4d201aef0ad6fba7e87f68060bcd96a1650e56||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_158958" />
+<input type="hidden" name="url||5782d0d5ada392e6ddbc72367b9caf68d6fb80552c3ae8fa246a84b49ba9423a" value="https://crosscatholic.org/products/spiritual-outreach-around-the-world-100-donation/" id="fs_url_158958" />
+<input type="hidden" name="quantity_min||a2e7f90920301e0b142258c9db5b3cdd88641a2b02f64d33fd16351715ad37a3||open" value="0" id="fs_quantity_min_158958" />
+<input type="hidden" name="quantity_max||7450d58edb0a1f3e1e4deda048aba7fb66736de368f120a360a9fdca3efb3a63||open" value="0" id="fs_quantity_max_158958" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_158958" />
+<input type="hidden" name="name||2210c40999c96b6d58691f16c88b2f99bb7f4e77f05b3dca0bb32547c74d4678" id="fs_name_158958" value="Spiritual Outreach Around the World - $100 donation" />
+<input type="hidden" name="code||018b41e99eb7ce122aa6e93487e2714bf1fa6ae4455440ce0d7374eae45e66b6" id="fs_code_158958" value="WCCC23GENS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||41815026e418a3e6fd8997304b66336b64e0b1e00177f78a5108c917ade2095f" id="WCCC23GENS_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_158956" rel="158956">
+<input type="hidden" name="price||60bcecb6636c04a55b3f7d06050fad9ed6b16b1de695c09d133d42576f38573a" id="fs_price_158956" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_158956" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_158956" />
+<input type="hidden" name="image||ca52ee8deeed17b0047e10663c4d201aef0ad6fba7e87f68060bcd96a1650e56||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_158956" />
+<input type="hidden" name="url||a538a878e9d861dd3bff7d5e6e2d93465a198d60bffdcc12028d1e28eb6ab6f8" value="https://crosscatholic.org/products/spiritual-outreach-around-the-world/" id="fs_url_158956" />
+<input type="hidden" name="quantity_min||a2e7f90920301e0b142258c9db5b3cdd88641a2b02f64d33fd16351715ad37a3||open" value="0" id="fs_quantity_min_158956" />
+<input type="hidden" name="quantity_max||7450d58edb0a1f3e1e4deda048aba7fb66736de368f120a360a9fdca3efb3a63||open" value="0" id="fs_quantity_max_158956" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_158956" />
+<input type="hidden" name="name||3e98619c393cd4f64be4f5967cbc1f3d4b67faa0d517849d2f3eec01a434c8c7" id="fs_name_158956" value="Spiritual Outreach Around the World" />
+<input type="hidden" name="code||018b41e99eb7ce122aa6e93487e2714bf1fa6ae4455440ce0d7374eae45e66b6" id="fs_code_158956" value="WCCC23GENS" />
+<div class="foxyshop_variations">
+<input type="text" name="price||b7af1c7ee936cb67d57fa72aa59d9a2673ff1b99c29dfcec0959303e0d07402f||open" id="WCCC23GENS_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
