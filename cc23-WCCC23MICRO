@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23MICRO', function () {
+
+	$out = '<div class="flex-container">
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156963" rel="156963">
+<input type="hidden" name="price||c1939b657f21bdfcaf8a601046f79853116441de88359e8d9e25ec601a107bfb" id="fs_price_156963" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156963" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156963" />
+<input type="hidden" name="image||b75a25684ed34ca501e32a637e84da692137fbc8d3a83382226c96f6480fc2ce||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Microfinance-foxy-thumb.jpg" id="foxyshop_cart_product_image_156963" />
+<input type="hidden" name="url||07cfd99fbfe34f24489865760b49232a5ee3499982f7f3301642880c0abd91c9" value="https://crosscatholic.org/products/microloans-for-small-business-development-350-donation/" id="fs_url_156963" />
+<input type="hidden" name="quantity_min||f71317599b1604a827e752b6cc50dc399675d2f309e25f7197415a0659ddcb95||open" value="0" id="fs_quantity_min_156963" />
+<input type="hidden" name="quantity_max||8885f54f8b71fc96e0c3f013a140b9fac0067faee6e427f4234e285bacfc988f||open" value="0" id="fs_quantity_max_156963" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156963" />
+<input type="hidden" name="name||b321d0ee7b6694765bc8253fe17f15dc5d3eeb2708242c42d8d7fba7a7a1dff0" id="fs_name_156963" value="Microloans for Small Business Development - $100 donation" />
+<input type="hidden" name="code||f243c9ef54e389c59e91a0a4811a58af0eec61851dec4589c5740a42fd863fd7" id="fs_code_156963" value="WCCC23MICRO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||5871f02043e8077e55dc83dfb02cdc72d4d9bbc522b675406dce972fff2959c4" id="WCCC23MICRO_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $200 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156964" rel="156964">
+<input type="hidden" name="price||4f7d1bc333fc7cff083f7d5bb66b4f1fd502f53db4dd8b883388c976911db1a9" id="fs_price_156964" value="200.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156964" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156964" />
+<input type="hidden" name="image||b75a25684ed34ca501e32a637e84da692137fbc8d3a83382226c96f6480fc2ce||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Microfinance-foxy-thumb.jpg" id="foxyshop_cart_product_image_156964" />
+<input type="hidden" name="url||58c03070a20d255b3f2844b802cfc7e474032a9af229fb06b8f3052c246318cc" value="https://crosscatholic.org/products/microloans-for-small-business-development-700-donation/" id="fs_url_156964" />
+<input type="hidden" name="quantity_min||f71317599b1604a827e752b6cc50dc399675d2f309e25f7197415a0659ddcb95||open" value="0" id="fs_quantity_min_156964" />
+<input type="hidden" name="quantity_max||8885f54f8b71fc96e0c3f013a140b9fac0067faee6e427f4234e285bacfc988f||open" value="0" id="fs_quantity_max_156964" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156964" />
+<input type="hidden" name="name||35371743204d2c3a95fd9fe442c9d60acce2468054f4a1f7a79622c1c807e03f" id="fs_name_156964" value="Microloans for Small Business Development - $200 donation" />
+<input type="hidden" name="code||f243c9ef54e389c59e91a0a4811a58af0eec61851dec4589c5740a42fd863fd7" id="fs_code_156964" value="WCCC23MICRO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$200_donation||0f0cbdf7974bc56eb3359ddf3d1d4b152a7a84e63c81cc241099e522b65c7ca0" id="WCCC23MICRO_1" value="" class="variation-200-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$200</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$200</span></div></div></form>
+<!-- $400 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156965" rel="156965">
+<input type="hidden" name="price||b34d2bd61542d62d88d12ff93ee96785707491eb027619a8aecb3c48d095bd5d" id="fs_price_156965" value="400.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156965" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156965" />
+<input type="hidden" name="image||b75a25684ed34ca501e32a637e84da692137fbc8d3a83382226c96f6480fc2ce||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Microfinance-foxy-thumb.jpg" id="foxyshop_cart_product_image_156965" />
+<input type="hidden" name="url||9021a905d0552f08c683f6b44e04817d15c0136d2d8f4687146b10a18a8b409a" value="https://crosscatholic.org/products/microloans-for-small-business-development-1050-donation/" id="fs_url_156965" />
+<input type="hidden" name="quantity_min||f71317599b1604a827e752b6cc50dc399675d2f309e25f7197415a0659ddcb95||open" value="0" id="fs_quantity_min_156965" />
+<input type="hidden" name="quantity_max||8885f54f8b71fc96e0c3f013a140b9fac0067faee6e427f4234e285bacfc988f||open" value="0" id="fs_quantity_max_156965" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156965" />
+<input type="hidden" name="name||e70267cf93b4de46c335c4f25a6b8141669174510a5cf31fabe86276b9dd60bc" id="fs_name_156965" value="Microloans for Small Business Development - $400 donation" />
+<input type="hidden" name="code||f243c9ef54e389c59e91a0a4811a58af0eec61851dec4589c5740a42fd863fd7" id="fs_code_156965" value="WCCC23MICRO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$400_donation||ef22acee28a597153bd1a0cd93879a5f39f0bb7a7ff2ab1aba7e826bc2c0c20d" id="WCCC23MICRO_1" value="" class="variation-400-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$400</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$400.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156966" rel="156966">
+<input type="hidden" name="price||0ec716933a7b0fe35d13ab80be742b91c3e2748337a86a41e980ea45d46163b0" id="fs_price_156966" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156966" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156966" />
+<input type="hidden" name="image||b75a25684ed34ca501e32a637e84da692137fbc8d3a83382226c96f6480fc2ce||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Microfinance-foxy-thumb.jpg" id="foxyshop_cart_product_image_156966" />
+<input type="hidden" name="url||43e311ef90f2015c619f5b3db391005c64fb02023e0a33358df2a4a117d2a48d" value="https://crosscatholic.org/products/microloans-for-small-business-development/" id="fs_url_156966" />
+<input type="hidden" name="quantity_min||f71317599b1604a827e752b6cc50dc399675d2f309e25f7197415a0659ddcb95||open" value="0" id="fs_quantity_min_156966" />
+<input type="hidden" name="quantity_max||8885f54f8b71fc96e0c3f013a140b9fac0067faee6e427f4234e285bacfc988f||open" value="0" id="fs_quantity_max_156966" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156966" />
+<input type="hidden" name="name||1fbf2389da6f9999d51ff9ebc5211059e5c15916550d47676765a199765f9bc4" id="fs_name_156966" value="Microloans for Small Business Development" />
+<input type="hidden" name="code||f243c9ef54e389c59e91a0a4811a58af0eec61851dec4589c5740a42fd863fd7" id="fs_code_156966" value="WCCC23MICRO" />
+<div class="foxyshop_variations">
+<input type="text" name="price||98ce7f17dd036d9ef275209ac64f315b9f48e404bb65132e7a818de992a8f0ed||open" id="WCCC23MICRO_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
