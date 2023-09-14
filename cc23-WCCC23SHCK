@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23SHCK', function () {
+
+	$out = '<div class="flex-container">
+<!-- $132 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218406" rel="218406">
+<input type="hidden" name="price||661faa1c975b87bd76b2355e8ae8135e10172f4a69350a48f7b7b56d635f2c04" id="fs_price_218406" value="132.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218406" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218406" />
+<input type="hidden" name="image||4d9809e33a6299a31e2edebb35c8fff6c2c68a7b733ef6e79c17dfff5ec1057a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/shambu-foxy-thumb.jpg" id="foxyshop_cart_product_image_218406" />
+<input type="hidden" name="url||c1381986a3d2bb5c8df5738113224a792e4cc7b11cfcd49d3ad22d3e713c6535" value="https://crosscatholic.org/products/shambu-catholic-kindergarten-200-donation/" id="fs_url_218406" />
+<input type="hidden" name="quantity_min||92d5206bb94a6597b68a436b214cf70fa5596ec837a5c7af06e2e7faa5dcf89d||open" value="0" id="fs_quantity_min_218406" />
+<input type="hidden" name="quantity_max||c1de94e7a946f2e78a1b52e41553bb2bdb0511257bf1b83f7c0502b19f3802e1||open" value="0" id="fs_quantity_max_218406" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218406" />
+<input type="hidden" name="name||81b8272134507243b10002bb9acc3eec335d3399c23e1ad3f8550bbf0aa6223d" id="fs_name_218406" value="Shambu Catholic Kindergarten - $132 donation" />
+<input type="hidden" name="code||eebb0453ec6be7935347b14d87b31aa72783d9e3a63ff4f438c577ac2cb17902" id="fs_code_218406" value="WCCC23SHCK" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$132_donation||7aa6f8d733a07318f1d05de121880a43ed8affc30d908331315dc184876f0755" id="WCCC23SHCK_1" value="" class="variation-132-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$132</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$132.00</span></div></div></form>
+<!-- $263 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218407" rel="218407">
+<input type="hidden" name="price||7f55439eaca394d6e695bfdaee9853d8b53684ba1a8280392478c48c831a1f9a" id="fs_price_218407" value="263.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218407" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218407" />
+<input type="hidden" name="image||4d9809e33a6299a31e2edebb35c8fff6c2c68a7b733ef6e79c17dfff5ec1057a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/shambu-foxy-thumb.jpg" id="foxyshop_cart_product_image_218407" />
+<input type="hidden" name="url||4224d7c7265392c01855e6814cd6402bc8aacf48cad2803fb9d895f0085967f1" value="https://crosscatholic.org/products/shambu-catholic-kindergarten-400-donation/" id="fs_url_218407" />
+<input type="hidden" name="quantity_min||92d5206bb94a6597b68a436b214cf70fa5596ec837a5c7af06e2e7faa5dcf89d||open" value="0" id="fs_quantity_min_218407" />
+<input type="hidden" name="quantity_max||c1de94e7a946f2e78a1b52e41553bb2bdb0511257bf1b83f7c0502b19f3802e1||open" value="0" id="fs_quantity_max_218407" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218407" />
+<input type="hidden" name="name||97cce3677c0d47a1d3fd3589500596537297e4f9d78496537bd50e8d410ca33c" id="fs_name_218407" value="Shambu Catholic Kindergarten - $263 donation" />
+<input type="hidden" name="code||eebb0453ec6be7935347b14d87b31aa72783d9e3a63ff4f438c577ac2cb17902" id="fs_code_218407" value="WCCC23SHCK" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$263_donation||e6b673afe87ef0eba549a5b4ccced59d736ed2c436be98d0d2a92784f2e74529" id="WCCC23SHCK_1" value="" class="variation-263-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$263</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$263</span></div></div></form>
+<!-- $527 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218408" rel="218408">
+<input type="hidden" name="price||f547507015c49baa4030b9013eed2b27c10ea236cbc29d025864d422c036440d" id="fs_price_218408" value="527.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218408" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218408" />
+<input type="hidden" name="image||4d9809e33a6299a31e2edebb35c8fff6c2c68a7b733ef6e79c17dfff5ec1057a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/shambu-foxy-thumb.jpg" id="foxyshop_cart_product_image_218408" />
+<input type="hidden" name="url||2884b82c41d1808decd220e67eb1d2cce34bf8380a08d08e695d762587d4028a" value="https://crosscatholic.org/products/shambu-catholic-kindergarten-600-donation/" id="fs_url_218408" />
+<input type="hidden" name="quantity_min||92d5206bb94a6597b68a436b214cf70fa5596ec837a5c7af06e2e7faa5dcf89d||open" value="0" id="fs_quantity_min_218408" />
+<input type="hidden" name="quantity_max||c1de94e7a946f2e78a1b52e41553bb2bdb0511257bf1b83f7c0502b19f3802e1||open" value="0" id="fs_quantity_max_218408" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218408" />
+<input type="hidden" name="name||39b2ef54c67ab604e6337628512f1fc97221102a6af57d6419777b596384d9b7" id="fs_name_218408" value="Shambu Catholic Kindergarten - $527 donation" />
+<input type="hidden" name="code||eebb0453ec6be7935347b14d87b31aa72783d9e3a63ff4f438c577ac2cb17902" id="fs_code_218408" value="WCCC23SHCK" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$527_donation||d1ab235109188a17d835acfa4e56b70f3700cdb26c8c909f9af9a970adc864ba" id="WCCC23SHCK_1" value="" class="variation-527-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$527</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$527.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218409" rel="218409">
+<input type="hidden" name="price||718a1d75a7fc1b1c810e2c4d0d12071cf55966d4901dd9a0dc18bccddd2cbea2" id="fs_price_218409" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218409" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218409" />
+<input type="hidden" name="image||4d9809e33a6299a31e2edebb35c8fff6c2c68a7b733ef6e79c17dfff5ec1057a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/shambu-foxy-thumb.jpg" id="foxyshop_cart_product_image_218409" />
+<input type="hidden" name="url||3df371f13fee17691a7c6de8100af6bbb23f1ae329c60e241c2a30c77d1e2d2e" value="https://crosscatholic.org/products/shambu-catholic-kindergarten/" id="fs_url_218409" />
+<input type="hidden" name="quantity_min||92d5206bb94a6597b68a436b214cf70fa5596ec837a5c7af06e2e7faa5dcf89d||open" value="0" id="fs_quantity_min_218409" />
+<input type="hidden" name="quantity_max||c1de94e7a946f2e78a1b52e41553bb2bdb0511257bf1b83f7c0502b19f3802e1||open" value="0" id="fs_quantity_max_218409" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218409" />
+<input type="hidden" name="name||edafa19039b8d3e33e4e1c9f36b5f10d1e979a592e6d43f36381ad25671fd2d5" id="fs_name_218409" value="Shambu Catholic Kindergarten" />
+<input type="hidden" name="code||eebb0453ec6be7935347b14d87b31aa72783d9e3a63ff4f438c577ac2cb17902" id="fs_code_218409" value="WCCC23SHCK" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9ee1017db5dc56dab3d2b1d2ceb19b0956204684870d3ff2c99b4e169a30cdc7||open" id="WCCC23SHCK_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
