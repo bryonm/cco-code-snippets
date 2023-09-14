@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23SFTA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $90 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218426" rel="218426">
+<input type="hidden" name="price||2cf2c5c6c69a3d8cbe8fb14a962dcc1111546412ffd658125c6d3fdf06b57f07" id="fs_price_218426" value="90.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218426" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218426" />
+<input type="hidden" name="image||3c56ad6f588bed91d1ffbb723db23a721e66d2eb2fba577ab4890566a2e08f43||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/family-agriculture-foxy-thumb.jpg" id="foxyshop_cart_product_image_218426" />
+<input type="hidden" name="url||b9863c329f1b7f4e5516f96403919ac4f8cc6be3a42973401d010c09b389b95d" value="https://crosscatholic.org/products/strengthening-families-through-agriculture-50-donation/" id="fs_url_218426" />
+<input type="hidden" name="quantity_min||b752f03884da42f2a389ba07f1551943d5280e0b86aba4e901c59f0fa6c6cfa3||open" value="0" id="fs_quantity_min_218426" />
+<input type="hidden" name="quantity_max||242d3d262417689125f8e8d46974a22307a2a98115bb9700813823250a2fc239||open" value="0" id="fs_quantity_max_218426" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218426" />
+<input type="hidden" name="name||6aa0ac3edceae7ec3a8c3af38a630581e68fdbbd3416cadce655af884235ca65" id="fs_name_218426" value="Strengthening Families Through Agriculture - $90 donation" />
+<input type="hidden" name="code||d3f50463c628d05c02d70a75520ada172ed35e847820bdb52f9a6cb0beb10dd4" id="fs_code_218426" value="WCCC23SFTA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$90_donation||a827313ae65dee525ce6a8fe4c25c5fd4913061cfcd0090298dd1fd5ccf8d831" id="WCCC23SFTA_1" value="" class="variation-90-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$90</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$90.00</span></div></div></form>
+<!-- $270 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218427" rel="218427">
+<input type="hidden" name="price||ee2c165cb37ffdc6006a1889bda7ebb89185489e7ed16dde925032383b6a60a5" id="fs_price_218427" value="270.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218427" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218427" />
+<input type="hidden" name="image||3c56ad6f588bed91d1ffbb723db23a721e66d2eb2fba577ab4890566a2e08f43||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/family-agriculture-foxy-thumb.jpg" id="foxyshop_cart_product_image_218427" />
+<input type="hidden" name="url||a0b8833a46f72b81b67dd7e144ca407ca88ff200de006a249382813f47f93461" value="https://crosscatholic.org/products/strengthening-families-through-agriculture-100-donation/" id="fs_url_218427" />
+<input type="hidden" name="quantity_min||b752f03884da42f2a389ba07f1551943d5280e0b86aba4e901c59f0fa6c6cfa3||open" value="0" id="fs_quantity_min_218427" />
+<input type="hidden" name="quantity_max||242d3d262417689125f8e8d46974a22307a2a98115bb9700813823250a2fc239||open" value="0" id="fs_quantity_max_218427" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218427" />
+<input type="hidden" name="name||e07c5a6d275d6ba5a8bf64f7c6220f98606977ff60ded214a8494ee876383c2c" id="fs_name_218427" value="Strengthening Families Through Agriculture - $270 donation" />
+<input type="hidden" name="code||d3f50463c628d05c02d70a75520ada172ed35e847820bdb52f9a6cb0beb10dd4" id="fs_code_218427" value="WCCC23SFTA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$270_donation||371ca60e77141425c49d96085a90f9844a264ea9a9b47cfcba6eb6498a6517ee" id="WCCC23SFTA_1" value="" class="variation-270-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$270</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$270</span></div></div></form>
+<!-- $635 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218428" rel="218428">
+<input type="hidden" name="price||0a0125ef67e3096fcf889e1ff6e9bc534c3a41fa0a20c44d45a5d56f6220c8bd" id="fs_price_218428" value="635.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218428" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218428" />
+<input type="hidden" name="image||3c56ad6f588bed91d1ffbb723db23a721e66d2eb2fba577ab4890566a2e08f43||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/family-agriculture-foxy-thumb.jpg" id="foxyshop_cart_product_image_218428" />
+<input type="hidden" name="url||866dc89ebab440bda06618852a87c15d27010fcbe1a3997248ca46b82ca1dded" value="https://crosscatholic.org/products/strengthening-families-through-agriculture-25-donation/" id="fs_url_218428" />
+<input type="hidden" name="quantity_min||b752f03884da42f2a389ba07f1551943d5280e0b86aba4e901c59f0fa6c6cfa3||open" value="0" id="fs_quantity_min_218428" />
+<input type="hidden" name="quantity_max||242d3d262417689125f8e8d46974a22307a2a98115bb9700813823250a2fc239||open" value="0" id="fs_quantity_max_218428" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218428" />
+<input type="hidden" name="name||0d5a75f671ff5219fae4363f78f5c3dbf985c3a81935e2217cecaa31bb069529" id="fs_name_218428" value="Strengthening Families Through Agriculture - $635 donation" />
+<input type="hidden" name="code||d3f50463c628d05c02d70a75520ada172ed35e847820bdb52f9a6cb0beb10dd4" id="fs_code_218428" value="WCCC23SFTA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$635_donation||3cfad0832bfdc229b1644c9d2219887b90d4640119836575d333ba454dc17279" id="WCCC23SFTA_1" value="" class="variation-635-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$635</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$635.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218429" rel="218429">
+<input type="hidden" name="price||4e5d1c2402b5a215f4dcce69080da4090ee03da693d4acf36d4abd9f631e8a1a" id="fs_price_218429" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218429" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218429" />
+<input type="hidden" name="image||3c56ad6f588bed91d1ffbb723db23a721e66d2eb2fba577ab4890566a2e08f43||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/family-agriculture-foxy-thumb.jpg" id="foxyshop_cart_product_image_218429" />
+<input type="hidden" name="url||d3680df9c85fda3412d69254897e9c1b8349f7a5d5db596e8a3e883287bccf74" value="https://crosscatholic.org/products/strengthening-families-through-agriculture/" id="fs_url_218429" />
+<input type="hidden" name="quantity_min||b752f03884da42f2a389ba07f1551943d5280e0b86aba4e901c59f0fa6c6cfa3||open" value="0" id="fs_quantity_min_218429" />
+<input type="hidden" name="quantity_max||242d3d262417689125f8e8d46974a22307a2a98115bb9700813823250a2fc239||open" value="0" id="fs_quantity_max_218429" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218429" />
+<input type="hidden" name="name||4acebe815d97e41a61c2e9a3bab31d3ecbfb94106174748470f99593077f16e7" id="fs_name_218429" value="Strengthening Families Through Agriculture" />
+<input type="hidden" name="code||d3f50463c628d05c02d70a75520ada172ed35e847820bdb52f9a6cb0beb10dd4" id="fs_code_218429" value="WCCC23SFTA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||b0daa192233c0b86cdafd36368e5046ff91040ea1affa098d0b2358bb07783c5||open" id="WCCC23SFTA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
