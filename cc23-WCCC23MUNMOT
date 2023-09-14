@@ -1,0 +1,77 @@
+add_shortcode( 'cc23-WCCC23MUNMOT', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156981" rel="156981">
+<input type="hidden" name="price||26dadcb252d00bfe813583809897024cc7305c30974e8c2310d13a5a630ed3c9" id="fs_price_156981" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156981" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156981" />
+<input type="hidden" name="image||ffb10df7f42f54b18d2076039a8e5a760bc2ede704ed1e1b0bb4c6151121505b||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_156981" />
+<input type="hidden" name="url||b0c532f7cfe8cbc06fa7fc2ab9ceca1eb4b9db238ae26b8d0bcf19bd17845589" value="https://crosscatholic.org/products/monthly-gifts-to-cross-catholic-outreach-50-donation/" id="fs_url_156981" />
+<input type="hidden" name="quantity_min||1234a2103123f905bb4ec54f7b80054ff30953479b1b73e369b31aa31eb3ab76||open" value="0" id="fs_quantity_min_156981" />
+<input type="hidden" name="quantity_max||b136ecdeef67021cf90bd8e7369670ee7b0262ce5a9415ff5a55d653c5ce9b7f||open" value="0" id="fs_quantity_max_156981" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156981" />
+<input type="hidden" name="sub_frequency||22696e080504e332ec73be058ddac8a7c0d75de1f641cf87988ae53d1a0a5979||open" id="fs_sub_frequency_156981" value="1m" />
+<input type="hidden" name="name||3a552e69ede4b583f0f128c5a13da0be29074dbb694459811303299d15c1e0a3" id="fs_name_156981" value="Monthly Gifts to Cross Catholic Outreach - $50 donation" />
+<input type="hidden" name="code||a3a9a03febff26484145cd84bfc44c792dce642c52314ebb5bfacbd200f44590" id="fs_code_156981" value="WCCC23MUNMOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||4ee858e9b02947c6081ac074755a27b67a51261aa7deb5e225e67a2120c53273" id="WCCC23MUNMOT_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156982" rel="156982">
+<input type="hidden" name="price||8ce01b3071ac06e95e40f021bde5699a021c1fb86d6b058fdb6601bf5f1ec1cc" id="fs_price_156982" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156982" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156982" />
+<input type="hidden" name="image||ffb10df7f42f54b18d2076039a8e5a760bc2ede704ed1e1b0bb4c6151121505b||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_156982" />
+<input type="hidden" name="url||9ac66ed52867295407d12987f5ff67e50fc1a5dccc02d95fded2001942ef6119" value="https://crosscatholic.org/products/monthly-gifts-to-cross-catholic-outreach-100-donation/" id="fs_url_156982" />
+<input type="hidden" name="quantity_min||1234a2103123f905bb4ec54f7b80054ff30953479b1b73e369b31aa31eb3ab76||open" value="0" id="fs_quantity_min_156982" />
+<input type="hidden" name="quantity_max||b136ecdeef67021cf90bd8e7369670ee7b0262ce5a9415ff5a55d653c5ce9b7f||open" value="0" id="fs_quantity_max_156982" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156982" />
+<input type="hidden" name="sub_frequency||22696e080504e332ec73be058ddac8a7c0d75de1f641cf87988ae53d1a0a5979||open" id="fs_sub_frequency_156982" value="1m" />
+<input type="hidden" name="name||078076c775b159778e5f10331f84a7352d283870d394fe71828f8da56d22ed8e" id="fs_name_156982" value="Monthly Gifts to Cross Catholic Outreach - $100 donation" />
+<input type="hidden" name="code||a3a9a03febff26484145cd84bfc44c792dce642c52314ebb5bfacbd200f44590" id="fs_code_156982" value="WCCC23MUNMOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||25f2e38c981d6a6652a12c8271e21df695377f1905e68746298e6ca4e3440779" id="WCCC23MUNMOT_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100</span></div></div></form>
+<!-- $200 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156983" rel="156983">
+<input type="hidden" name="price||4a340dc4672bf792255b3af7cd6a6b2aa37cd2d5845f0ca1857bdbfcc5fb7a8c" id="fs_price_156983" value="200.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156983" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156983" />
+<input type="hidden" name="image||ffb10df7f42f54b18d2076039a8e5a760bc2ede704ed1e1b0bb4c6151121505b||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_156983" />
+<input type="hidden" name="url||a9afa8db7587a05d095dfe5556fc64708e660cd7364c47cafa4a649739a2aa02" value="https://crosscatholic.org/products/monthly-gifts-to-cross-catholic-outreach-200-donation/" id="fs_url_156983" />
+<input type="hidden" name="quantity_min||1234a2103123f905bb4ec54f7b80054ff30953479b1b73e369b31aa31eb3ab76||open" value="0" id="fs_quantity_min_156983" />
+<input type="hidden" name="quantity_max||b136ecdeef67021cf90bd8e7369670ee7b0262ce5a9415ff5a55d653c5ce9b7f||open" value="0" id="fs_quantity_max_156983" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156983" />
+<input type="hidden" name="sub_frequency||22696e080504e332ec73be058ddac8a7c0d75de1f641cf87988ae53d1a0a5979||open" id="fs_sub_frequency_156983" value="1m" />
+<input type="hidden" name="name||9810b74a35cde63ac5291b544a8c696f2bd61f59bd7f7f0b4bfef88ec405a041" id="fs_name_156983" value="Monthly Gifts to Cross Catholic Outreach - $200 donation" />
+<input type="hidden" name="code||a3a9a03febff26484145cd84bfc44c792dce642c52314ebb5bfacbd200f44590" id="fs_code_156983" value="WCCC23MUNMOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$200_donation||f2152b56876e7dd0b3f78debf6fdcfa3296f16678097d6f91a0293676f6eb3e4" id="WCCC23MUNMOT_1" value="" class="variation-200-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$200</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$200.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156984" rel="156984">
+<input type="hidden" name="price||e6bc7544afd5989d0c3917f7427c919aa6b10c3b2728f9c60af80af0c4614a47" id="fs_price_156984" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156984" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156984" />
+<input type="hidden" name="image||ffb10df7f42f54b18d2076039a8e5a760bc2ede704ed1e1b0bb4c6151121505b||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_156984" />
+<input type="hidden" name="url||edc35c0399e041cc2ac8f060865500df9ff2c6190882efcdde5ea52ecec851d4" value="https://crosscatholic.org/products/monthly-gifts-to-cross-catholic-outreach/" id="fs_url_156984" />
+<input type="hidden" name="quantity_min||1234a2103123f905bb4ec54f7b80054ff30953479b1b73e369b31aa31eb3ab76||open" value="0" id="fs_quantity_min_156984" />
+<input type="hidden" name="quantity_max||b136ecdeef67021cf90bd8e7369670ee7b0262ce5a9415ff5a55d653c5ce9b7f||open" value="0" id="fs_quantity_max_156984" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156984" />
+<input type="hidden" name="sub_frequency||22696e080504e332ec73be058ddac8a7c0d75de1f641cf87988ae53d1a0a5979||open" id="fs_sub_frequency_156984" value="1m" />
+<input type="hidden" name="name||9af83d89dafa70675cee04a69e326afa342ba182cacbc49e2101a413181d4e96" id="fs_name_156984" value="Monthly Gifts to Cross Catholic Outreach" />
+<input type="hidden" name="code||a3a9a03febff26484145cd84bfc44c792dce642c52314ebb5bfacbd200f44590" id="fs_code_156984" value="WCCC23MUNMOT" />
+<div class="foxyshop_variations">
+<input type="text" name="price||aa2ca1e2d02749b7c500ea7e99aa8df5c03c0e17d6efe43efcf7dd0a582e4cbb||open" id="WCCC23MUNMOT_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
