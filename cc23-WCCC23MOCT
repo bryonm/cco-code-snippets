@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23MOCT', function () {
+
+	$out = '<div class="flex-container">
+<!-- $122 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217679" rel="217679">
+<input type="hidden" name="price||afeeb5779b89470dd1dcef4f523a94facdd0801573b52810b74453dd45f3a775" id="fs_price_217679" value="122.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217679" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217679" />
+<input type="hidden" name="image||415c91bbdb6b903b6097d201e4db06192d4b9017f1bb60904c4e67e4cc7716f5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Mobility-Carts-foxy-thumb.jpg" id="foxyshop_cart_product_image_217679" />
+<input type="hidden" name="url||b9ada7a45808e0106109a64411c61314a5600a96540dc953b6ceae0e368644e4" value="https://crosscatholic.org/products/mobility-carts-122-donation/" id="fs_url_217679" />
+<input type="hidden" name="quantity_min||b1bac7d6e99628cb9500b33f4b67794688b6447187f5ebbb6b490ccd4d48b774||open" value="0" id="fs_quantity_min_217679" />
+<input type="hidden" name="quantity_max||a1cc8de668bc4f3b65effb1ada3e5d67b94719716f8da96eeb82195fd41a7ada||open" value="0" id="fs_quantity_max_217679" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217679" />
+<input type="hidden" name="name||9abf243c70aae176805449ecdb437a33de91007bdc19f940a1ba1cb148020f05" id="fs_name_217679" value="Mobility Carts - $122 donation" />
+<input type="hidden" name="code||03444d8dae94dd2f4a1ffec4b36b6c734f63beeba22ebbbc0b5efca6af7426a8" id="fs_code_217679" value="WCCC23MOCT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$122_donation||6451d55b10a215918a5ba4f9ebd9781a5df0b433e66a1ec11de0711c6faa643b" id="WCCC23MOCT_1" value="" class="variation-122-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$122</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$122.00</span></div></div></form>
+<!-- $244 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217678" rel="217678">
+<input type="hidden" name="price||dd581d456812fc5108d993c35cd5808ce14d75c0cb17e5c464d6463ab5766dcf" id="fs_price_217678" value="244.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217678" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217678" />
+<input type="hidden" name="image||415c91bbdb6b903b6097d201e4db06192d4b9017f1bb60904c4e67e4cc7716f5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Mobility-Carts-foxy-thumb.jpg" id="foxyshop_cart_product_image_217678" />
+<input type="hidden" name="url||767b89dbcecb2ecd6d911424489fb25f0dcdc58b20afa87ba22eac2aa457a229" value="https://crosscatholic.org/products/mobility-carts-244-donation/" id="fs_url_217678" />
+<input type="hidden" name="quantity_min||b1bac7d6e99628cb9500b33f4b67794688b6447187f5ebbb6b490ccd4d48b774||open" value="0" id="fs_quantity_min_217678" />
+<input type="hidden" name="quantity_max||a1cc8de668bc4f3b65effb1ada3e5d67b94719716f8da96eeb82195fd41a7ada||open" value="0" id="fs_quantity_max_217678" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217678" />
+<input type="hidden" name="name||86debea4320d1ebdfbf5b6839c5959b221c9f0daade0f875c496c1c90c90f702" id="fs_name_217678" value="Mobility Carts - $244 donation" />
+<input type="hidden" name="code||03444d8dae94dd2f4a1ffec4b36b6c734f63beeba22ebbbc0b5efca6af7426a8" id="fs_code_217678" value="WCCC23MOCT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$244_donation||4a4c16623e777fea33c4dc82eb3770d39e74a2ca4b1d0d76da958d80dc0702a9" id="WCCC23MOCT_1" value="" class="variation-244-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$244</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$244</span></div></div></form>
+<!-- $366 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217677" rel="217677">
+<input type="hidden" name="price||51799b4d6b7fc729513282953db737469579d5f9193eb7981a90717208f377a5" id="fs_price_217677" value="366.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217677" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217677" />
+<input type="hidden" name="image||415c91bbdb6b903b6097d201e4db06192d4b9017f1bb60904c4e67e4cc7716f5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Mobility-Carts-foxy-thumb.jpg" id="foxyshop_cart_product_image_217677" />
+<input type="hidden" name="url||4de00fe6ec5d53e14fbea5aa1867d979a55ea73fb8ac8c05b210c0e7a6890150" value="https://crosscatholic.org/products/mobility-carts-366-donation/" id="fs_url_217677" />
+<input type="hidden" name="quantity_min||b1bac7d6e99628cb9500b33f4b67794688b6447187f5ebbb6b490ccd4d48b774||open" value="0" id="fs_quantity_min_217677" />
+<input type="hidden" name="quantity_max||a1cc8de668bc4f3b65effb1ada3e5d67b94719716f8da96eeb82195fd41a7ada||open" value="0" id="fs_quantity_max_217677" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217677" />
+<input type="hidden" name="name||f8a4ca01f5cec55f9a1c23908954942ef8034df2848f02002cf914cdeec24618" id="fs_name_217677" value="Mobility Carts - $366 donation" />
+<input type="hidden" name="code||03444d8dae94dd2f4a1ffec4b36b6c734f63beeba22ebbbc0b5efca6af7426a8" id="fs_code_217677" value="WCCC23MOCT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$366_donation||f108e2a7a85ec6d6fa5f52e84a3d52a4783ee879f51ec499a3a929dbde9d38b7" id="WCCC23MOCT_1" value="" class="variation-366-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$366</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$366.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217676" rel="217676">
+<input type="hidden" name="price||3593af0097dbfab08548151a11eb71044e90407db38d232a4864cc62993bd225" id="fs_price_217676" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217676" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217676" />
+<input type="hidden" name="image||415c91bbdb6b903b6097d201e4db06192d4b9017f1bb60904c4e67e4cc7716f5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Mobility-Carts-foxy-thumb.jpg" id="foxyshop_cart_product_image_217676" />
+<input type="hidden" name="url||fa653fb0be1fa78e735b7b7edcb668ee152df424d9bd7255f3e2611ccd42f563" value="https://crosscatholic.org/products/mobility-carts/" id="fs_url_217676" />
+<input type="hidden" name="quantity_min||b1bac7d6e99628cb9500b33f4b67794688b6447187f5ebbb6b490ccd4d48b774||open" value="0" id="fs_quantity_min_217676" />
+<input type="hidden" name="quantity_max||a1cc8de668bc4f3b65effb1ada3e5d67b94719716f8da96eeb82195fd41a7ada||open" value="0" id="fs_quantity_max_217676" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217676" />
+<input type="hidden" name="name||04c1b72b7ae970531f3419325ec515f744f6ba2a997e8bed0a33521546e49636" id="fs_name_217676" value="Mobility Carts" />
+<input type="hidden" name="code||03444d8dae94dd2f4a1ffec4b36b6c734f63beeba22ebbbc0b5efca6af7426a8" id="fs_code_217676" value="WCCC23MOCT" />
+<div class="foxyshop_variations">
+<input type="text" name="price||ddc36472918cfd301868b62bb60c5d3da7f0fe5a49bcb7d66aee8ce8b48cba7a||open" id="WCCC23MOCT_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
