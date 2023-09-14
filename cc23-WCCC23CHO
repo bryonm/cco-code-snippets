@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23CHO', function () {
+
+	$out = '<div class="flex-container">
+<!-- $92 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156880" rel="156880">
+<input type="hidden" name="price||73c5622ae155816e58ee2abe970328be0413035ec22923d474cb038363ec33f7" id="fs_price_156880" value="92.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156880" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156880" />
+<input type="hidden" name="image||cb63c81f86373a5301918eb697165410adca31da5599dea6ae700a7d1b919033||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0482-Cholle-Kindergarten-foxy-thumb-19.jpg" id="foxyshop_cart_product_image_156880" />
+<input type="hidden" name="url||d7e54b2bbaf53b58b4bafbd471ab225105b4c52d85a6e5c1ecc5bb342b3f9830" value="https://crosscatholic.org/products/kindergarten-education-in-ethiopia-92-donation/" id="fs_url_156880" />
+<input type="hidden" name="quantity_min||4331bf5ad0cd209397ea70526f60d7ed53156d7d8af4cf39f3da322fdb8b16b7||open" value="0" id="fs_quantity_min_156880" />
+<input type="hidden" name="quantity_max||ae0fccb11bb81514a1444a401a00ec9950a53bf4f6702f94da0a49bb516a4255||open" value="0" id="fs_quantity_max_156880" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156880" />
+<input type="hidden" name="name||94fa450eb08bdd02503ce8cf2bfc8cf3377b550b0f7f40bfbec6f08224f98719" id="fs_name_156880" value="Kindergarten Education in Ethiopia - $92 donation" />
+<input type="hidden" name="code||cc75c9227bda61973c59a266519babd99a5669702cf020e12266b9c7e4ded5cb" id="fs_code_156880" value="WCCC23CHO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$92_donation||3e9264a9479d5e3cdd6f9dab26b8b28a73eb0a7d826d3c4c4a9b369161f80609" id="WCCC23CHO_1" value="" class="variation-92-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$92</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$92.00</span></div></div></form>
+<!-- $185 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156881" rel="156881">
+<input type="hidden" name="price||b0c7dc1a1341119a71e8a6787e080f696fc7fea18551c97ef762f054fd0eca45" id="fs_price_156881" value="185.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156881" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156881" />
+<input type="hidden" name="image||cb63c81f86373a5301918eb697165410adca31da5599dea6ae700a7d1b919033||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0482-Cholle-Kindergarten-foxy-thumb-19-1.jpg" id="foxyshop_cart_product_image_156881" />
+<input type="hidden" name="url||1d80626da6ea3884840e48ea335abbbc9c64476b8ceec65ab4baa4ceda4d7136" value="https://crosscatholic.org/products/kindergarten-education-in-ethiopia-185-donation/" id="fs_url_156881" />
+<input type="hidden" name="quantity_min||4331bf5ad0cd209397ea70526f60d7ed53156d7d8af4cf39f3da322fdb8b16b7||open" value="0" id="fs_quantity_min_156881" />
+<input type="hidden" name="quantity_max||ae0fccb11bb81514a1444a401a00ec9950a53bf4f6702f94da0a49bb516a4255||open" value="0" id="fs_quantity_max_156881" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156881" />
+<input type="hidden" name="name||ff2a956f1142130be73a3612f758bf10a90b7ae3d05465991287ca2b7cfe8579" id="fs_name_156881" value="Kindergarten Education in Ethiopia - $185 donation" />
+<input type="hidden" name="code||cc75c9227bda61973c59a266519babd99a5669702cf020e12266b9c7e4ded5cb" id="fs_code_156881" value="WCCC23CHO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$185_donation||b4e388baab0d32a71d71a16a9d3814db5ea43cc5f087fcaf7f32aeca382a38a2" id="WCCC23CHO_1" value="" class="variation-185-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$185</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$185</span></div></div></form>
+<!-- $276 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156882" rel="156882">
+<input type="hidden" name="price||165caa71e2540f148c814ce8af7ff9e44d40cf35e302c2937b8f724d15d2f72e" id="fs_price_156882" value="276.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156882" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156882" />
+<input type="hidden" name="image||cb63c81f86373a5301918eb697165410adca31da5599dea6ae700a7d1b919033||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0482-Cholle-Kindergarten-foxy-thumb-19-2.jpg" id="foxyshop_cart_product_image_156882" />
+<input type="hidden" name="url||f4cb4d34a974f90fe37a7554c0afd0ab4940b9ef6e7d295e86972876fc60f72b" value="https://crosscatholic.org/products/kindergarten-education-in-ethiopia-276-donation/" id="fs_url_156882" />
+<input type="hidden" name="quantity_min||4331bf5ad0cd209397ea70526f60d7ed53156d7d8af4cf39f3da322fdb8b16b7||open" value="0" id="fs_quantity_min_156882" />
+<input type="hidden" name="quantity_max||ae0fccb11bb81514a1444a401a00ec9950a53bf4f6702f94da0a49bb516a4255||open" value="0" id="fs_quantity_max_156882" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156882" />
+<input type="hidden" name="name||c266198d9d3b8bc6746ea7f15697e487dab3a807e41324cfc5b054a0f1fd4a0c" id="fs_name_156882" value="Kindergarten Education in Ethiopia - $276 donation" />
+<input type="hidden" name="code||cc75c9227bda61973c59a266519babd99a5669702cf020e12266b9c7e4ded5cb" id="fs_code_156882" value="WCCC23CHO" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$276_donation||2c5b62d511381a75ffa15c67ceec5d9a4c0ca5a603398de00094461acaad0853" id="WCCC23CHO_1" value="" class="variation-276-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$276</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$276.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156883" rel="156883">
+<input type="hidden" name="price||8687599dcca0b4d417b355e2a59c4ba6feaab99e61c28e16ffc3d21b69b49dab" id="fs_price_156883" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156883" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156883" />
+<input type="hidden" name="image||cb63c81f86373a5301918eb697165410adca31da5599dea6ae700a7d1b919033||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0482-Cholle-Kindergarten-foxy-thumb-19-3.jpg" id="foxyshop_cart_product_image_156883" />
+<input type="hidden" name="url||56b2ff778e66b97a4d849d93445f9c826146f231bc4fff963e33daf4059725dc" value="https://crosscatholic.org/products/kindergarten-education-in-ethiopia/" id="fs_url_156883" />
+<input type="hidden" name="quantity_min||4331bf5ad0cd209397ea70526f60d7ed53156d7d8af4cf39f3da322fdb8b16b7||open" value="0" id="fs_quantity_min_156883" />
+<input type="hidden" name="quantity_max||ae0fccb11bb81514a1444a401a00ec9950a53bf4f6702f94da0a49bb516a4255||open" value="0" id="fs_quantity_max_156883" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156883" />
+<input type="hidden" name="name||961b0a6cdd672766d6aa4475e53d0ebcf868012021f33c4544e404c054269edc" id="fs_name_156883" value="Kindergarten Education in Ethiopia" />
+<input type="hidden" name="code||cc75c9227bda61973c59a266519babd99a5669702cf020e12266b9c7e4ded5cb" id="fs_code_156883" value="WCCC23CHO" />
+<div class="foxyshop_variations">
+<input type="text" name="price||89bb1cec1e64bb648960a8a450131247c066fd860c6d2b197e0630bee82a70e0||open" id="WCCC23CHO_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
