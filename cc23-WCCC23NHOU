@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23NHOU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $727 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157102" rel="157102">
+<input type="hidden" name="price||0ac80bebb24aea9c00291a591ba16dad3816201b34f94bb3a57f7af5e3611323" id="fs_price_157102" value="727.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157102" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157102" />
+<input type="hidden" name="image||7616edfeb5bbe60d58f5eb32d6726470a857029e1086f20652f311247f532302||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3375-Rainbow-Network-Housing-Nicaragua-foxy-thumb-34.jpg" id="foxyshop_cart_product_image_157102" />
+<input type="hidden" name="url||989b76cae5ddde6244b1b3e9e2cf46946b26ba314c6ee03689030fe8ae93f8ec" value="https://crosscatholic.org/products/safe-homes-in-nicaragua-727-donation/" id="fs_url_157102" />
+<input type="hidden" name="quantity_min||b1be7e71eb1da21a07a676bba64d5e234a3f11ea65b8911db01e9a94a5371e7c||open" value="0" id="fs_quantity_min_157102" />
+<input type="hidden" name="quantity_max||2e7ec7029b76f1c14c31ca0ae97a844c0631ee60d4ba12082a4acc143f55c152||open" value="0" id="fs_quantity_max_157102" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157102" />
+<input type="hidden" name="name||1e1d93cd8ae8d784f3750e0fe45716cc0d488e69886acecf3e48f522f9eb2c25" id="fs_name_157102" value="Safe Homes in Nicaragua - $727 donation" />
+<input type="hidden" name="code||fa23be2431d65c7e18f49753b77b13d052673afecf749df2abcf569902570d27" id="fs_code_157102" value="WCCC23NHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$737_donation||5c6c7d96e7ec5696744d07cd8c78b3d9871d93ca01d248253e4e6c6f9b9b504e" id="WCCC23NHOU_1" value="" class="variation-737-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$727</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$727.00</span></div></div></form>
+<!-- $3,267 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157103" rel="157103">
+<input type="hidden" name="price||4ef035b9d046902bf2934fa63cb5a4d83125cebe1cd44feda127f60adcd28c8f" id="fs_price_157103" value="3267.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157103" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157103" />
+<input type="hidden" name="image||7616edfeb5bbe60d58f5eb32d6726470a857029e1086f20652f311247f532302||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3375-Rainbow-Network-Housing-Nicaragua-foxy-thumb-34-1.jpg" id="foxyshop_cart_product_image_157103" />
+<input type="hidden" name="url||b8fc0a7955d36ca5d731956bf0eca3285da21a3e05d82d54d74b3caa9e1d69b8" value="https://crosscatholic.org/products/safe-homes-in-nicaragua-1454-donation/" id="fs_url_157103" />
+<input type="hidden" name="quantity_min||b1be7e71eb1da21a07a676bba64d5e234a3f11ea65b8911db01e9a94a5371e7c||open" value="0" id="fs_quantity_min_157103" />
+<input type="hidden" name="quantity_max||2e7ec7029b76f1c14c31ca0ae97a844c0631ee60d4ba12082a4acc143f55c152||open" value="0" id="fs_quantity_max_157103" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157103" />
+<input type="hidden" name="name||bffed36c63f14f0079add92afba8a32e8075956c37ff47549b56d41191fadd1d" id="fs_name_157103" value="Safe Homes in Nicaragua - $3,267 donation" />
+<input type="hidden" name="code||fa23be2431d65c7e18f49753b77b13d052673afecf749df2abcf569902570d27" id="fs_code_157103" value="WCCC23NHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$3,267_donation||ca7217f0fe0456467bba1cffa267f8fcabb2d2eab5eae8586b3d29162926ef03" id="WCCC23NHOU_1" value="" class="variation-3267-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$3,267</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$3,267.00</span></div></div></form>
+<!-- $13,069 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157104" rel="157104">
+<input type="hidden" name="price||057237a883fa5b99870d28062a64c4f566089ade1166cf692a015302e6145858" id="fs_price_157104" value="13069.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157104" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157104" />
+<input type="hidden" name="image||7616edfeb5bbe60d58f5eb32d6726470a857029e1086f20652f311247f532302||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3375-Rainbow-Network-Housing-Nicaragua-foxy-thumb-34-2.jpg" id="foxyshop_cart_product_image_157104" />
+<input type="hidden" name="url||026421b8065114990f4acdbb196d7392bd05197d925d7c50a854c0f1e5308623" value="https://crosscatholic.org/products/safe-homes-in-nicaragua-11631-donation/" id="fs_url_157104" />
+<input type="hidden" name="quantity_min||b1be7e71eb1da21a07a676bba64d5e234a3f11ea65b8911db01e9a94a5371e7c||open" value="0" id="fs_quantity_min_157104" />
+<input type="hidden" name="quantity_max||2e7ec7029b76f1c14c31ca0ae97a844c0631ee60d4ba12082a4acc143f55c152||open" value="0" id="fs_quantity_max_157104" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157104" />
+<input type="hidden" name="name||0b0b5c98c5771e3990eed560f1863093f9ab2c2270ab2c8d732f3a1590e8a4f7" id="fs_name_157104" value="Safe Homes in Nicaragua - $13,069 donation" />
+<input type="hidden" name="code||fa23be2431d65c7e18f49753b77b13d052673afecf749df2abcf569902570d27" id="fs_code_157104" value="WCCC23NHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$13,069_donation||f87437f85340ab79d176aab9f846a1e57b10be9a612a730bbf338aecf5a4eab9" id="WCCC23NHOU_1" value="" class="variation-13069-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$13,069</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$13,069.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157105" rel="157105">
+<input type="hidden" name="price||b40cbcc019d52f7a4435016d8a0c61b2a67940e2068a157eff5a4b57f8195611" id="fs_price_157105" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157105" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157105" />
+<input type="hidden" name="image||7616edfeb5bbe60d58f5eb32d6726470a857029e1086f20652f311247f532302||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3375-Rainbow-Network-Housing-Nicaragua-foxy-thumb-34-3.jpg" id="foxyshop_cart_product_image_157105" />
+<input type="hidden" name="url||9dbacb9254cc4a2efd20ceb8e3c784a1c064977075eb974045702d1ef56992b4" value="https://crosscatholic.org/products/safe-homes-in-nicaragua/" id="fs_url_157105" />
+<input type="hidden" name="quantity_min||b1be7e71eb1da21a07a676bba64d5e234a3f11ea65b8911db01e9a94a5371e7c||open" value="0" id="fs_quantity_min_157105" />
+<input type="hidden" name="quantity_max||2e7ec7029b76f1c14c31ca0ae97a844c0631ee60d4ba12082a4acc143f55c152||open" value="0" id="fs_quantity_max_157105" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157105" />
+<input type="hidden" name="name||d2c8f8e7d2e1a5e544031bd36a589e79450a771733e1986481100cbc81fe517b" id="fs_name_157105" value="Safe Homes in Nicaragua" />
+<input type="hidden" name="code||fa23be2431d65c7e18f49753b77b13d052673afecf749df2abcf569902570d27" id="fs_code_157105" value="WCCC23NHOU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||1748a95cb2285548da296a6b7a0a4c69b3fba7e95c7becf4a7eb07b3f91fbfa5||open" id="WCCC23NHOU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
