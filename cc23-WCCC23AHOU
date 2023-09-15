@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23AHOU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $2,834 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217503" rel="217503">
+<input type="hidden" name="price||90642ed92f67a8f4d3e288cd3964ca22890e56b55eb785500b50943ebf0f2e02" id="fs_price_217503" value="2834.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217503" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217503" />
+<input type="hidden" name="image||542dff427388726acebc52997ffc544d6d56b6b86c8d35a2b966abf819630dea||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/ancop-foxy-thumb.jpg" id="foxyshop_cart_product_image_217503" />
+<input type="hidden" name="url||b68562d774dfb82cb5517567d0606e5c6a85ec9cfa49eec8d7df23834b0ac14e" value="https://crosscatholic.org/products/ancop-housing-2834-donation/" id="fs_url_217503" />
+<input type="hidden" name="quantity_min||16f186d2ea77d9bfc763e31f9eb938a29ad8734df5a55745ece8286b19968a2e||open" value="0" id="fs_quantity_min_217503" />
+<input type="hidden" name="quantity_max||6c637c13522e12385d99a38741316d99eb925c806d8f912bc867f3bdba41b43a||open" value="0" id="fs_quantity_max_217503" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217503" />
+<input type="hidden" name="name||aaf317e6602ced6acda2a38b766890c754c664f234cbff40a0c3367105648a51" id="fs_name_217503" value="Safe Homes in the Philippines - $2,834 donation" />
+<input type="hidden" name="code||5530b2423ef738ac9b71d8cf793f29247e37af2a97890d31a6edcc2581d2328f" id="fs_code_217503" value="WCCC23AHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$2834_donation||affa3c6dde21f7b5216190ef56e6fbe3357a042e13562b479940396ecb773969" id="WCCC23AHOU_1" value="" class="variation-2834-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$2,834</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$2,834</span></div></div></form>
+<!-- $5,667 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217504" rel="217504">
+<input type="hidden" name="price||77282c3ea95cacac5f4aee4c648783a35a51a10af13c5b58bd39b6b6634b3615" id="fs_price_217504" value="5667.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217504" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217504" />
+<input type="hidden" name="image||542dff427388726acebc52997ffc544d6d56b6b86c8d35a2b966abf819630dea||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/ancop-foxy-thumb.jpg" id="foxyshop_cart_product_image_217504" />
+<input type="hidden" name="url||caa03c1d8f14c9caeb27e47e9eb31a9a5f5512b33337b1d32f9b129bb808be03" value="https://crosscatholic.org/products/ancop-housing-5667-donation/" id="fs_url_217504" />
+<input type="hidden" name="quantity_min||16f186d2ea77d9bfc763e31f9eb938a29ad8734df5a55745ece8286b19968a2e||open" value="0" id="fs_quantity_min_217504" />
+<input type="hidden" name="quantity_max||6c637c13522e12385d99a38741316d99eb925c806d8f912bc867f3bdba41b43a||open" value="0" id="fs_quantity_max_217504" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217504" />
+<input type="hidden" name="name||773260a399c2b04ca64971aeefe630f3cfeec180aac2ba8e21dda9a9acff8a03" id="fs_name_217504" value="Safe Homes in the Philippines - $5,667 donation" />
+<input type="hidden" name="code||5530b2423ef738ac9b71d8cf793f29247e37af2a97890d31a6edcc2581d2328f" id="fs_code_217504" value="WCCC23AHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$5667_donation||de850083e85d493a41ecbe2e3d018e4a932759d542ebdc2d6325816121022ccf" id="WCCC23AHOU_1" value="" class="variation-5667-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$5,667</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$5,667.00</span></div></div></form>
+<!-- $11,334 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217505" rel="217505">
+<input type="hidden" name="price||366fb63bbc9dc6896be18f2304efe95897ea48c126841701059d8417974d9a72" id="fs_price_217505" value="11334.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217505" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217505" />
+<input type="hidden" name="image||542dff427388726acebc52997ffc544d6d56b6b86c8d35a2b966abf819630dea||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/ancop-foxy-thumb.jpg" id="foxyshop_cart_product_image_217505" />
+<input type="hidden" name="url||5c5643517475c90a4629e4bf05772e697d73cf571ba863f04f4b3c34c8bad178" value="https://crosscatholic.org/products/ancop-housing-11334-donation/" id="fs_url_217505" />
+<input type="hidden" name="quantity_min||16f186d2ea77d9bfc763e31f9eb938a29ad8734df5a55745ece8286b19968a2e||open" value="0" id="fs_quantity_min_217505" />
+<input type="hidden" name="quantity_max||6c637c13522e12385d99a38741316d99eb925c806d8f912bc867f3bdba41b43a||open" value="0" id="fs_quantity_max_217505" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217505" />
+<input type="hidden" name="name||2b7365f724af5b12e79aa0e75e25fe7dcd42e00d6b164df1e2d58fe3f00e54f2" id="fs_name_217505" value="Safe Homes in the Philippines - $11,334 donation" />
+<input type="hidden" name="code||5530b2423ef738ac9b71d8cf793f29247e37af2a97890d31a6edcc2581d2328f" id="fs_code_217505" value="WCCC23AHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$11334_donation||c4a47ddd4b72bb0eb99397a64d21bf0ad984458b1715c2349afc92076eb5b984" id="WCCC23AHOU_1" value="" class="variation-11334-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$11,334</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$11,334</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217502" rel="217502">
+<input type="hidden" name="price||30c54379f5ad1ab061e27917773a309585d9d53b871a9431c979ab53982009f3" id="fs_price_217502" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217502" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217502" />
+<input type="hidden" name="image||542dff427388726acebc52997ffc544d6d56b6b86c8d35a2b966abf819630dea||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/ancop-foxy-thumb.jpg" id="foxyshop_cart_product_image_217502" />
+<input type="hidden" name="url||22a3dd314c23614475df10bda600729c5876783bdbb170379dfd6c2ee40d2d29" value="https://crosscatholic.org/products/ancop-housing/" id="fs_url_217502" />
+<input type="hidden" name="quantity_min||16f186d2ea77d9bfc763e31f9eb938a29ad8734df5a55745ece8286b19968a2e||open" value="0" id="fs_quantity_min_217502" />
+<input type="hidden" name="quantity_max||6c637c13522e12385d99a38741316d99eb925c806d8f912bc867f3bdba41b43a||open" value="0" id="fs_quantity_max_217502" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217502" />
+<input type="hidden" name="name||5fa5ee34cb933f8e6c3a033f5286087df9b0f9123ffcfc13eb1e4816943a53dd" id="fs_name_217502" value="Safe Homes in the Philippines" />
+<input type="hidden" name="code||5530b2423ef738ac9b71d8cf793f29247e37af2a97890d31a6edcc2581d2328f" id="fs_code_217502" value="WCCC23AHOU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2d932b83ea7f0a2dce5b85b054a520cdda18f9864d0843f3955a87d502dea56a||open" id="WCCC23AHOU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
