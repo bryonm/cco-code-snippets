@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23TSPF', function () {
+
+	$out = '<div class="flex-container">
+<!-- $338 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218438" rel="218438">
+<input type="hidden" name="price||642c8c97743336912e676893d54e8689e602883388e5c43696ff39bc92361030" id="fs_price_218438" value="338.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218438" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218438" />
+<input type="hidden" name="image||c9b251f41d95c081c340e2e7b913d651ef8c96a6f852c9ca13b12bd78029a358||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/pig-farmers-foxy-thumb.jpg" id="foxyshop_cart_product_image_218438" />
+<input type="hidden" name="url||dfd0f9f6ed371c882aa920172bc8f7dd3c0cafe4f00bf9d81e6dd5441b2baa29" value="https://crosscatholic.org/products/training-and-support-for-pig-farmers-25-donation/" id="fs_url_218438" />
+<input type="hidden" name="quantity_min||b28c65374c87e55c857c9416e27a516490b31f8c15938289c216432435b5e0a0||open" value="0" id="fs_quantity_min_218438" />
+<input type="hidden" name="quantity_max||b4090370652a38f818068db9d52f92368e9346fa575fee6d9d35980517bc850c||open" value="0" id="fs_quantity_max_218438" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218438" />
+<input type="hidden" name="name||82a51e57cd8024cb219c9bb8ef989bb1ff235cc43652c98ae8059d52c375e065" id="fs_name_218438" value="Training and Support for Pig Farmers - $338 donation" />
+<input type="hidden" name="code||a6ac098ac4c5d3b415a241bd9b58fc31b647c26a82438a6e34ee156a2b0d0185" id="fs_code_218438" value="WCCC23TSPF" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$338_donation||8512849c74e8f2a6cd304609c5f21cf5e95730ce4742d3d366c74be36ef80c7e" id="WCCC23TSPF_1" value="" class="variation-338-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$338</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$338.00</span></div></div></form>
+<!-- $676 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218439" rel="218439">
+<input type="hidden" name="price||72e053b4ccbf1726d37a8e72276ccfcb27943430b207faa98a81961c10bf19d5" id="fs_price_218439" value="676.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218439" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218439" />
+<input type="hidden" name="image||c9b251f41d95c081c340e2e7b913d651ef8c96a6f852c9ca13b12bd78029a358||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/pig-farmers-foxy-thumb.jpg" id="foxyshop_cart_product_image_218439" />
+<input type="hidden" name="url||6062320c2e3a6a2252c6361b1926244ca352abe8401a7626fd773c8699cb16dc" value="https://crosscatholic.org/products/training-and-support-for-pig-farmers-50-donation/" id="fs_url_218439" />
+<input type="hidden" name="quantity_min||b28c65374c87e55c857c9416e27a516490b31f8c15938289c216432435b5e0a0||open" value="0" id="fs_quantity_min_218439" />
+<input type="hidden" name="quantity_max||b4090370652a38f818068db9d52f92368e9346fa575fee6d9d35980517bc850c||open" value="0" id="fs_quantity_max_218439" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218439" />
+<input type="hidden" name="name||7afafb59b917e490669105a1fb13de94b8ed0da83cb0b24ba7ca0c880e5007dc" id="fs_name_218439" value="Training and Support for Pig Farmers - $676 donation" />
+<input type="hidden" name="code||a6ac098ac4c5d3b415a241bd9b58fc31b647c26a82438a6e34ee156a2b0d0185" id="fs_code_218439" value="WCCC23TSPF" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$676_donation||8e218f2b9367ee1deccefce6fa722f6d701e940f609c597f35a16e8fce619e50" id="WCCC23TSPF_1" value="" class="variation-676-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$676</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$676</span></div></div></form>
+<!-- $1,014 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218440" rel="218440">
+<input type="hidden" name="price||2196cfc7d2915e9c611827a4e4fc0fe2c1f76ee1f8871671367ee6488a2973a5" id="fs_price_218440" value="1014.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218440" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218440" />
+<input type="hidden" name="image||c9b251f41d95c081c340e2e7b913d651ef8c96a6f852c9ca13b12bd78029a358||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/pig-farmers-foxy-thumb.jpg" id="foxyshop_cart_product_image_218440" />
+<input type="hidden" name="url||15427587f3cb451b5635190d79a38eadc434f6f62597d21a41f6e148432978eb" value="https://crosscatholic.org/products/training-and-support-for-pig-farmers-100-donation/" id="fs_url_218440" />
+<input type="hidden" name="quantity_min||b28c65374c87e55c857c9416e27a516490b31f8c15938289c216432435b5e0a0||open" value="0" id="fs_quantity_min_218440" />
+<input type="hidden" name="quantity_max||b4090370652a38f818068db9d52f92368e9346fa575fee6d9d35980517bc850c||open" value="0" id="fs_quantity_max_218440" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218440" />
+<input type="hidden" name="name||c140dfbaf53044b1fecda9dcb51602928e54b697196f1b17be120d9b580243be" id="fs_name_218440" value="Training and Support for Pig Farmers - $1,014 donation" />
+<input type="hidden" name="code||a6ac098ac4c5d3b415a241bd9b58fc31b647c26a82438a6e34ee156a2b0d0185" id="fs_code_218440" value="WCCC23TSPF" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1,014_donation||ce0a6b07136c2b919847ce873ca24e6f4d5f23967da1b5de95c02989d8dd2e40" id="WCCC23TSPF_1" value="" class="variation-1014-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,014</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,014.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218441" rel="218441">
+<input type="hidden" name="price||4fe5bf10c717b7c82500a87cbec53cc9d1a22674adc518e442116020743723c7" id="fs_price_218441" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218441" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218441" />
+<input type="hidden" name="image||c9b251f41d95c081c340e2e7b913d651ef8c96a6f852c9ca13b12bd78029a358||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/pig-farmers-foxy-thumb.jpg" id="foxyshop_cart_product_image_218441" />
+<input type="hidden" name="url||78b2ff8fb76c2cfb57c4f348eb921191bd245edd944ee84b8460481a63568572" value="https://crosscatholic.org/products/training-and-support-for-pig-farmers/" id="fs_url_218441" />
+<input type="hidden" name="quantity_min||b28c65374c87e55c857c9416e27a516490b31f8c15938289c216432435b5e0a0||open" value="0" id="fs_quantity_min_218441" />
+<input type="hidden" name="quantity_max||b4090370652a38f818068db9d52f92368e9346fa575fee6d9d35980517bc850c||open" value="0" id="fs_quantity_max_218441" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218441" />
+<input type="hidden" name="name||3e4b746243cefa78b08593a841df18cbd33ae86ad0689e406db3a208567f7655" id="fs_name_218441" value="Training and Support for Pig Farmers" />
+<input type="hidden" name="code||a6ac098ac4c5d3b415a241bd9b58fc31b647c26a82438a6e34ee156a2b0d0185" id="fs_code_218441" value="WCCC23TSPF" />
+<div class="foxyshop_variations">
+<input type="text" name="price||6cae1d23a198c54bf2214b64b4e609af2a2f8ebd54bba2c79f26a69a27fb64b2||open" id="WCCC23TSPF_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
