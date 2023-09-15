@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23WPTH', function () {
+
+	$out = '<div class="flex-container">
+<!-- $132 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218474" rel="218474">
+<input type="hidden" name="price||4cee9b359936920bd216eb3b177603aced59458f8eb5c0394e6e154693c1bd0c" id="fs_price_218474" value="132.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218474" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218474" />
+<input type="hidden" name="image||95a7183f51c2e7fe1e5b05b701dcfe7e7f83e9654671b042c4765437f83611e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/water-piped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218474" />
+<input type="hidden" name="url||1efcbed9e3450e4d05e3251e39525e71c9ef6b9bd808443437e9bfe1fc271c7e" value="https://crosscatholic.org/products/water-piped-to-homes-49-donation/" id="fs_url_218474" />
+<input type="hidden" name="quantity_min||173cf805d9205d1fcf7f147f0f2ef69da2c80ba488153f07793b11cea02a1578||open" value="0" id="fs_quantity_min_218474" />
+<input type="hidden" name="quantity_max||94c5cba3f734d87290ec3f29fea39e27a87bc9b68b768fa0b998f8ad248ab9ce||open" value="0" id="fs_quantity_max_218474" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218474" />
+<input type="hidden" name="name||96b9a4c3fd30fe5a69b46b65c0dc8d63cfc718cc0cdb041245ad427826d18a67" id="fs_name_218474" value="Water Piped to Homes - $132 donation" />
+<input type="hidden" name="code||856a8a7eeb059d140f3e87c6c7a3a31231f73f14eb904bf0be6f76a1bf0937ca" id="fs_code_218474" value="WCCC23WPTH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$132_donation||54bd02ba84eaafafc906849112ac6b8a46b03f2efc7c5d4d9276cec5bcdc5c2f" id="WCCC23WPTH_1" value="" class="variation-132-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$132</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$132.00</span></div></div></form>
+<!-- $264 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218475" rel="218475">
+<input type="hidden" name="price||73c269198ef3bce7a4bb506a4768ff21a0940981335d45a4ce53397200a1245f" id="fs_price_218475" value="264.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218475" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218475" />
+<input type="hidden" name="image||95a7183f51c2e7fe1e5b05b701dcfe7e7f83e9654671b042c4765437f83611e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/water-piped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218475" />
+<input type="hidden" name="url||a72e16b8a6c799109048cf89ad3001ac6e26533c468c915fd1f69a3663ddaa2f" value="https://crosscatholic.org/products/water-piped-to-homes-98-donation/" id="fs_url_218475" />
+<input type="hidden" name="quantity_min||173cf805d9205d1fcf7f147f0f2ef69da2c80ba488153f07793b11cea02a1578||open" value="0" id="fs_quantity_min_218475" />
+<input type="hidden" name="quantity_max||94c5cba3f734d87290ec3f29fea39e27a87bc9b68b768fa0b998f8ad248ab9ce||open" value="0" id="fs_quantity_max_218475" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218475" />
+<input type="hidden" name="name||a70a0207da8a3637dd0829b825c3987e6932d394d500e473629e4554769a24d6" id="fs_name_218475" value="Water Piped to Homes - $264 donation" />
+<input type="hidden" name="code||856a8a7eeb059d140f3e87c6c7a3a31231f73f14eb904bf0be6f76a1bf0937ca" id="fs_code_218475" value="WCCC23WPTH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$264_donation||6dabac90a6d70f0730b92e5bbdf46c16422a52ee6290e15d78252bd60ad28065" id="WCCC23WPTH_1" value="" class="variation-264-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$264</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$264</span></div></div></form>
+<!-- $660 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218476" rel="218476">
+<input type="hidden" name="price||98b5161756599358bde82776c691fb8a86ae8178d418d959a6c7099a9082ce69" id="fs_price_218476" value="660.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218476" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218476" />
+<input type="hidden" name="image||95a7183f51c2e7fe1e5b05b701dcfe7e7f83e9654671b042c4765437f83611e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/water-piped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218476" />
+<input type="hidden" name="url||d0a208b6bbd7c7d4cff5882dd8ad6d82730992326b20c5d8ec1ea9f406040146" value="https://crosscatholic.org/products/water-piped-to-homes-147-donation/" id="fs_url_218476" />
+<input type="hidden" name="quantity_min||173cf805d9205d1fcf7f147f0f2ef69da2c80ba488153f07793b11cea02a1578||open" value="0" id="fs_quantity_min_218476" />
+<input type="hidden" name="quantity_max||94c5cba3f734d87290ec3f29fea39e27a87bc9b68b768fa0b998f8ad248ab9ce||open" value="0" id="fs_quantity_max_218476" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218476" />
+<input type="hidden" name="name||40a2977c7fe4265b8eacb82f865f7323e4322468f32a83c7d3de4a240c844452" id="fs_name_218476" value="Water Piped to Homes - $660 donation" />
+<input type="hidden" name="code||856a8a7eeb059d140f3e87c6c7a3a31231f73f14eb904bf0be6f76a1bf0937ca" id="fs_code_218476" value="WCCC23WPTH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$660_donation||6b3c472dd9fa051d2c8720880ea4a0503d0458f3795ae2029975f32168737f3f" id="WCCC23WPTH_1" value="" class="variation-660-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$660</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$660.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218477" rel="218477">
+<input type="hidden" name="price||cb4ff882619daabe132c2e9b4a6b56dfae6b1e0c695f1865326bfd2bb4b778a0" id="fs_price_218477" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218477" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218477" />
+<input type="hidden" name="image||95a7183f51c2e7fe1e5b05b701dcfe7e7f83e9654671b042c4765437f83611e4||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/water-piped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218477" />
+<input type="hidden" name="url||8b392ada1df75a04e7334f106bef11fae64b0ea76fe827a20280b98e12ab302a" value="https://crosscatholic.org/products/water-piped-to-homes/" id="fs_url_218477" />
+<input type="hidden" name="quantity_min||173cf805d9205d1fcf7f147f0f2ef69da2c80ba488153f07793b11cea02a1578||open" value="0" id="fs_quantity_min_218477" />
+<input type="hidden" name="quantity_max||94c5cba3f734d87290ec3f29fea39e27a87bc9b68b768fa0b998f8ad248ab9ce||open" value="0" id="fs_quantity_max_218477" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218477" />
+<input type="hidden" name="name||fc04744c7a8ef1b7bd8f9cf6d096a342ef6cf51fe4333826a6dd20e74143caed" id="fs_name_218477" value="Water Piped to Homes" />
+<input type="hidden" name="code||856a8a7eeb059d140f3e87c6c7a3a31231f73f14eb904bf0be6f76a1bf0937ca" id="fs_code_218477" value="WCCC23WPTH" />
+<div class="foxyshop_variations">
+<input type="text" name="price||08798ad095baeb3e79727b6a498dfc7c99e818735a8efe6c7e474eb6abd3ece0||open" id="WCCC23WPTH_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
