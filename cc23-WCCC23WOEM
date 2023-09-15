@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23WOEM', function () {
+
+	$out = '<div class="flex-container">
+<!-- $438 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157205" rel="157205">
+<input type="hidden" name="price||6d961d0a9d391e1987bc1d3896972ab2842a1ed30d0dbe0816742aab7aef1c36" id="fs_price_157205" value="438.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157205" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157205" />
+<input type="hidden" name="image||9d1f7a841e8fa09beafe5340b10a5048ad14d8fe51220740fdb32284c3a21d5a||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3021-Womens-Empowerment-in-Mozambique-foxy-thumb-43.jpg" id="foxyshop_cart_product_image_157205" />
+<input type="hidden" name="url||73e99b984ab2ad9ae7dcab780edbd55d7d2d95b9a828854fe7c8b401566b1615" value="https://crosscatholic.org/products/womens-empowerment-in-mozambique-438-donation/" id="fs_url_157205" />
+<input type="hidden" name="quantity_min||651cdc0287a0bf2992d263cea757664fd44b0f4baf68b11cb8325cd8cace6132||open" value="0" id="fs_quantity_min_157205" />
+<input type="hidden" name="quantity_max||d7cb3ef1f7a84c56e0d02d8c3ad40dc1884536996a29c4b0ea3e5b35be522180||open" value="0" id="fs_quantity_max_157205" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157205" />
+<input type="hidden" name="name||4f144909e87b5c7a9a3da77d09466c5973f798f968e87d67b9ca042681e9e827" id="fs_name_157205" value="Womens Empowerment in Mozambique - $438 donation" />
+<input type="hidden" name="code||d63787a597684a32bf56f3e32e76e83795daa6e0d95c37818106c881add66fb3" id="fs_code_157205" value="WCCC23WOEM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$438_donation||64f3afbcc7964ffb6c64134d2b2ff05826cb9b6baa1d09ba496d804aa72209dd" id="WCCC23WOEM_1" value="" class="variation-438-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$438</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$438.00</span></div></div></form>
+<!-- $875 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157206" rel="157206">
+<input type="hidden" name="price||a7cc3a1158c4891e58cdd6bdd4fbf071bb75fb3e1b03489bc92e9ea658d970d3" id="fs_price_157206" value="875.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157206" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157206" />
+<input type="hidden" name="image||9d1f7a841e8fa09beafe5340b10a5048ad14d8fe51220740fdb32284c3a21d5a||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3021-Womens-Empowerment-in-Mozambique-foxy-thumb-43-1.jpg" id="foxyshop_cart_product_image_157206" />
+<input type="hidden" name="url||931acb4a2e546490c2b8f551c9c90cb9e02c20d70cfc3308abd7042bdfc8be59" value="https://crosscatholic.org/products/womens-empowerment-in-mozambique-875-donation/" id="fs_url_157206" />
+<input type="hidden" name="quantity_min||651cdc0287a0bf2992d263cea757664fd44b0f4baf68b11cb8325cd8cace6132||open" value="0" id="fs_quantity_min_157206" />
+<input type="hidden" name="quantity_max||d7cb3ef1f7a84c56e0d02d8c3ad40dc1884536996a29c4b0ea3e5b35be522180||open" value="0" id="fs_quantity_max_157206" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157206" />
+<input type="hidden" name="name||0410faa7cafb5adf15328b51a87d8f70df50cea103024afa6f826101cb7370f1" id="fs_name_157206" value="Womens Empowerment in Mozambique - $875 donation" />
+<input type="hidden" name="code||d63787a597684a32bf56f3e32e76e83795daa6e0d95c37818106c881add66fb3" id="fs_code_157206" value="WCCC23WOEM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$875_donation||6d7e679e8c2bf3a23eb6f26a652d21f79b21c901d887c69154e8b13946e31aa9" id="WCCC23WOEM_1" value="" class="variation-875-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$875</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$875.00</span></div></div></form>
+<!-- $1,313 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157207" rel="157207">
+<input type="hidden" name="price||10366c3d375461d787ab99ac3cdef5fa484485cf9541882b407d971b0138386b" id="fs_price_157207" value="1313.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157207" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157207" />
+<input type="hidden" name="image||9d1f7a841e8fa09beafe5340b10a5048ad14d8fe51220740fdb32284c3a21d5a||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3021-Womens-Empowerment-in-Mozambique-foxy-thumb-43-2.jpg" id="foxyshop_cart_product_image_157207" />
+<input type="hidden" name="url||551a9cdcf9ade79e5952c2f5bad11010bb6570a130aa252b54fc9f05c6646a16" value="https://crosscatholic.org/products/womens-empowerment-in-mozambique-1313-donation/" id="fs_url_157207" />
+<input type="hidden" name="quantity_min||651cdc0287a0bf2992d263cea757664fd44b0f4baf68b11cb8325cd8cace6132||open" value="0" id="fs_quantity_min_157207" />
+<input type="hidden" name="quantity_max||d7cb3ef1f7a84c56e0d02d8c3ad40dc1884536996a29c4b0ea3e5b35be522180||open" value="0" id="fs_quantity_max_157207" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157207" />
+<input type="hidden" name="name||b28309a588df5c5b0629532ec84ff8a1b37ec8734c80928c3fdd2f608640a4b9" id="fs_name_157207" value="Womens Empowerment in Mozambique - $1,313 donation" />
+<input type="hidden" name="code||d63787a597684a32bf56f3e32e76e83795daa6e0d95c37818106c881add66fb3" id="fs_code_157207" value="WCCC23WOEM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1,313_donation||0c1c682fcf69145ee459c5eb88b72f2fc1b430512c080a2c6e61e867462ec29a" id="WCCC23WOEM_1" value="" class="variation-1313-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,313</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,313.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157208" rel="157208">
+<input type="hidden" name="price||bf2c1337b205d39ca3eae593e51193107a79d6ba2be744eef75958a9ec04dff4" id="fs_price_157208" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157208" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157208" />
+<input type="hidden" name="image||9d1f7a841e8fa09beafe5340b10a5048ad14d8fe51220740fdb32284c3a21d5a||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3021-Womens-Empowerment-in-Mozambique-foxy-thumb-43-3.jpg" id="foxyshop_cart_product_image_157208" />
+<input type="hidden" name="url||98b96c224d01495c62b98fdf8d29fa3ae38b5811ff48a61a1b8db975881d2ad3" value="https://crosscatholic.org/products/womens-empowerment-in-mozambique/" id="fs_url_157208" />
+<input type="hidden" name="quantity_min||651cdc0287a0bf2992d263cea757664fd44b0f4baf68b11cb8325cd8cace6132||open" value="0" id="fs_quantity_min_157208" />
+<input type="hidden" name="quantity_max||d7cb3ef1f7a84c56e0d02d8c3ad40dc1884536996a29c4b0ea3e5b35be522180||open" value="0" id="fs_quantity_max_157208" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157208" />
+<input type="hidden" name="name||02d9e0cddedaf0cad0cc7bca0e3809ba1dd99c00f4945feb413b6b925d68bae2" id="fs_name_157208" value="Womens Empowerment in Mozambique" />
+<input type="hidden" name="code||d63787a597684a32bf56f3e32e76e83795daa6e0d95c37818106c881add66fb3" id="fs_code_157208" value="WCCC23WOEM" />
+<div class="foxyshop_variations">
+<input type="text" name="price||7b4776ae63a47ab82444942ccf36a4291603d6fc6146402bab54c746e7db11c7||open" id="WCCC23WOEM_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
