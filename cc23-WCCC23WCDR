@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23WCDR', function () {
+
+	$out = '<div class="flex-container">
+<!-- $49 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157168" rel="157168">
+<input type="hidden" name="price||35429118a7f397463a7126d65e98cd19f0afbd6cf930468565b86f9a1c81921a" id="fs_price_157168" value="49.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157168" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157168" />
+<input type="hidden" name="image||c4fa3b9f0b64886f2feb4eeb4e753a9fa1416a4637b3372ae1015c4a25dfe461||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Agriculture-foxy-thumb-40.jpg" id="foxyshop_cart_product_image_157168" />
+<input type="hidden" name="url||e728a469b17a495741c6c02ac193311357c018ccfa63925b872913b3b4005ae9" value="https://crosscatholic.org/products/water-for-crops-and-cows-in-the-dominican-republic-49-donation/" id="fs_url_157168" />
+<input type="hidden" name="quantity_min||bcc3c6d1790e6e1dc6cbc468ad9bb2aa5e998d2b3096317236cda5d3c21ab9b8||open" value="0" id="fs_quantity_min_157168" />
+<input type="hidden" name="quantity_max||c3b713bd62ddb412ca7d75c88891c29d8ec381ba1f68a8e629b655a75d9bad82||open" value="0" id="fs_quantity_max_157168" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157168" />
+<input type="hidden" name="name||537450e4592adfaf0d8effa53b9b6bac787356c65d25f4d35ec2e3402b3339d5" id="fs_name_157168" value="Water for Crops in the Dominican Republic - $49 donation" />
+<input type="hidden" name="code||6fe813478df9a9a20862d959e983ba20cceed5dd2e2f498e6402a585c8e5d4d4" id="fs_code_157168" value="WCCC23WCDR" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$49_donation||11730c837b7edc42e97ae91ac59a765760f510beabd6b909b2e9d5cefb73f9c2" id="WCCC23WCDR_1" value="" class="variation-49-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$49</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$49.00</span></div></div></form>
+<!-- $98 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157169" rel="157169">
+<input type="hidden" name="price||fdc486b74b18a592985f51e1bd87d39d867209726b62195c9471454d31d8534f" id="fs_price_157169" value="98.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157169" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157169" />
+<input type="hidden" name="image||c4fa3b9f0b64886f2feb4eeb4e753a9fa1416a4637b3372ae1015c4a25dfe461||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Agriculture-foxy-thumb-40.jpg" id="foxyshop_cart_product_image_157169" />
+<input type="hidden" name="url||dbc7532d4aa6b9299b3f638a95aa273da9076e410f0f1ab6c49fdaad92efc35f" value="https://crosscatholic.org/products/water-for-crops-and-cows-in-the-dominican-republic-98-donation/" id="fs_url_157169" />
+<input type="hidden" name="quantity_min||bcc3c6d1790e6e1dc6cbc468ad9bb2aa5e998d2b3096317236cda5d3c21ab9b8||open" value="0" id="fs_quantity_min_157169" />
+<input type="hidden" name="quantity_max||c3b713bd62ddb412ca7d75c88891c29d8ec381ba1f68a8e629b655a75d9bad82||open" value="0" id="fs_quantity_max_157169" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157169" />
+<input type="hidden" name="name||62b6c5cc27dfb95fd3280f88a039c2e10faac0eb06299782d3d5c91f3c3cc4a3" id="fs_name_157169" value="Water for Crops in the Dominican Republic - $98 donation" />
+<input type="hidden" name="code||6fe813478df9a9a20862d959e983ba20cceed5dd2e2f498e6402a585c8e5d4d4" id="fs_code_157169" value="WCCC23WCDR" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$98_donation||9a4975037b43c028784a3a0f4287379e7ead8db37f5bcad52432048959fe19cd" id="WCCC23WCDR_1" value="" class="variation-98-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$98</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$98.00</span></div></div></form>
+<!-- $147 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157170" rel="157170">
+<input type="hidden" name="price||5bd20d546e80d5619e0743dc6cde2dc010c945e3706c1d9ec702b5fb71a79fd1" id="fs_price_157170" value="147.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157170" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157170" />
+<input type="hidden" name="image||c4fa3b9f0b64886f2feb4eeb4e753a9fa1416a4637b3372ae1015c4a25dfe461||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Agriculture-foxy-thumb-40.jpg" id="foxyshop_cart_product_image_157170" />
+<input type="hidden" name="url||46384e9be64a4f6928f088ac7be24b36fb6e751ac4498a13ff89fbb62f42e1d5" value="https://crosscatholic.org/products/water-for-crops-and-cows-in-the-dominican-republic-147-donation/" id="fs_url_157170" />
+<input type="hidden" name="quantity_min||bcc3c6d1790e6e1dc6cbc468ad9bb2aa5e998d2b3096317236cda5d3c21ab9b8||open" value="0" id="fs_quantity_min_157170" />
+<input type="hidden" name="quantity_max||c3b713bd62ddb412ca7d75c88891c29d8ec381ba1f68a8e629b655a75d9bad82||open" value="0" id="fs_quantity_max_157170" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157170" />
+<input type="hidden" name="name||8a5c122a1474163edf199081f4d52e078802a700be2b302edb6036e51b45bc0c" id="fs_name_157170" value="Water for Crops in the Dominican Republic - $147 donation" />
+<input type="hidden" name="code||6fe813478df9a9a20862d959e983ba20cceed5dd2e2f498e6402a585c8e5d4d4" id="fs_code_157170" value="WCCC23WCDR" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$147_donation||56a13b9d9962b16902effbbe7d8966b869325f6ba4c523d66438987477e855b4" id="WCCC23WCDR_1" value="" class="variation-147-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$147</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$147.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157171" rel="157171">
+<input type="hidden" name="price||61738ef35954e1d17fd5c609a24f2206b008aca391f527b7bb0bc8ca209f59a9" id="fs_price_157171" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157171" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157171" />
+<input type="hidden" name="image||c4fa3b9f0b64886f2feb4eeb4e753a9fa1416a4637b3372ae1015c4a25dfe461||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Agriculture-foxy-thumb-40.jpg" id="foxyshop_cart_product_image_157171" />
+<input type="hidden" name="url||4f01fbc0bf3806442f21fffba70a76d2abf8605c6007eff5223efd62194b6f5b" value="https://crosscatholic.org/products/water-for-crops-and-cows-in-the-dominican-republic/" id="fs_url_157171" />
+<input type="hidden" name="quantity_min||bcc3c6d1790e6e1dc6cbc468ad9bb2aa5e998d2b3096317236cda5d3c21ab9b8||open" value="0" id="fs_quantity_min_157171" />
+<input type="hidden" name="quantity_max||c3b713bd62ddb412ca7d75c88891c29d8ec381ba1f68a8e629b655a75d9bad82||open" value="0" id="fs_quantity_max_157171" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157171" />
+<input type="hidden" name="name||0f82cfb5e5c7e9f4952ff145d71eaca1b9006a85539baa38d54d1cf6247d6da4" id="fs_name_157171" value="Water for Crops in the Dominican Republic" />
+<input type="hidden" name="code||6fe813478df9a9a20862d959e983ba20cceed5dd2e2f498e6402a585c8e5d4d4" id="fs_code_157171" value="WCCC23WCDR" />
+<div class="foxyshop_variations">
+<input type="text" name="price||7723dc9ca1c76eb80447c834232927695887f0805d1d02ef763419e0346a5501||open" id="WCCC23WCDR_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
