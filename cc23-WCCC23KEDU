@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23KEDU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $144 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156741" rel="156741">
+<input type="hidden" name="price||6bc8bb6560081202165cd9ae65ebae07a3e3bc6210923366a9e10543948098af" id="fs_price_156741" value="144.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156741" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156741" />
+<input type="hidden" name="image||6c1fd7b3fd8191aeb60109b08fca6b9944965a5a838306d5e9cb986f156f4f18||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1058-Kobonal-Education-foxy-thumb-10.jpg" id="foxyshop_cart_product_image_156741" />
+<input type="hidden" name="url||fff7ee8fa4781072b8200cc250f1e5eff27d9c8d5c72c57785d58b31c808fbb3" value="https://crosscatholic.org/products/catholic-schools-in-rural-haiti-144-donation/" id="fs_url_156741" />
+<input type="hidden" name="quantity_min||9f38776628da9d5e4ab5fee47d296bee173ab851e4bb4110b59cd3df1330f3ba||open" value="0" id="fs_quantity_min_156741" />
+<input type="hidden" name="quantity_max||b15f6524b688b6ebd53019e1349cb53cc430145bb0de175078b2bfc579736693||open" value="0" id="fs_quantity_max_156741" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156741" />
+<input type="hidden" name="name||15eb6b26a2fa1ca230e9e6e5c8314d1669891565ecad0082e300625d67ae6652" id="fs_name_156741" value="Catholic Schools in Rural Haiti - $144 donation" />
+<input type="hidden" name="code||b99e69127699670b49f3f1d21482c59916011c6b416391f3eeac560f2c575976" id="fs_code_156741" value="WCCC23KEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$144_donation||0505df430d43d4c3833cc556b16c0d72d4de71dd489987aa8c24a14e9b43f85c" id="WCCC23KEDU_1" value="" class="variation-144-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$144</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$144.00</span></div></div></form>
+<!-- $288 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156742" rel="156742">
+<input type="hidden" name="price||17ffd383b35e91511a099d5b5b340ba41e2c737bc779281866f497f1cd6b6ef3" id="fs_price_156742" value="288.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156742" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156742" />
+<input type="hidden" name="image||6c1fd7b3fd8191aeb60109b08fca6b9944965a5a838306d5e9cb986f156f4f18||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1058-Kobonal-Education-foxy-thumb-10.jpg" id="foxyshop_cart_product_image_156742" />
+<input type="hidden" name="url||2a618a3de9afd42ef082aa2ab8a40e0b0cbb9de47e01cdb668c5ff5469ef2cc3" value="https://crosscatholic.org/products/catholic-schools-in-rural-haiti-288-donation/" id="fs_url_156742" />
+<input type="hidden" name="quantity_min||9f38776628da9d5e4ab5fee47d296bee173ab851e4bb4110b59cd3df1330f3ba||open" value="0" id="fs_quantity_min_156742" />
+<input type="hidden" name="quantity_max||b15f6524b688b6ebd53019e1349cb53cc430145bb0de175078b2bfc579736693||open" value="0" id="fs_quantity_max_156742" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156742" />
+<input type="hidden" name="name||808172f5ca1a75cc7ba0bf12f0991ece7a72e79a3ce5dd5d49970cd89928ecef" id="fs_name_156742" value="Catholic Schools in Rural Haiti - $288 donation" />
+<input type="hidden" name="code||b99e69127699670b49f3f1d21482c59916011c6b416391f3eeac560f2c575976" id="fs_code_156742" value="WCCC23KEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$288_donation||fd9c1d68f0200c214dafbc16ee6ee6a6ccf2cb597464dda505b984793d1dfe00" id="WCCC23KEDU_1" value="" class="variation-288-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$288</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$288</span></div></div></form>
+<!-- $432 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156743" rel="156743">
+<input type="hidden" name="price||19e49aaa19579287f2529c22deca03df232aa5cbda75d91c6fa85396df63082e" id="fs_price_156743" value="432.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156743" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156743" />
+<input type="hidden" name="image||6c1fd7b3fd8191aeb60109b08fca6b9944965a5a838306d5e9cb986f156f4f18||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1058-Kobonal-Education-foxy-thumb-10.jpg" id="foxyshop_cart_product_image_156743" />
+<input type="hidden" name="url||bff9ad7a2685c5d500c9c251c6964cf749929fd6305420013ccab0aba7893e39" value="https://crosscatholic.org/products/catholic-schools-in-rural-haiti-432-donation/" id="fs_url_156743" />
+<input type="hidden" name="quantity_min||9f38776628da9d5e4ab5fee47d296bee173ab851e4bb4110b59cd3df1330f3ba||open" value="0" id="fs_quantity_min_156743" />
+<input type="hidden" name="quantity_max||b15f6524b688b6ebd53019e1349cb53cc430145bb0de175078b2bfc579736693||open" value="0" id="fs_quantity_max_156743" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156743" />
+<input type="hidden" name="name||e14826fb325960f1d202be32bca77f3d63c21a268b9eb65c26301e6320cb52c1" id="fs_name_156743" value="Catholic Schools in Rural Haiti - $432 donation" />
+<input type="hidden" name="code||b99e69127699670b49f3f1d21482c59916011c6b416391f3eeac560f2c575976" id="fs_code_156743" value="WCCC23KEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$432_donation||c205a168f48f2b21ef2c401beb6b44bd012bcc0532d9a92158134a45b5f20dde" id="WCCC23KEDU_1" value="" class="variation-432-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$432</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$432.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156744" rel="156744">
+<input type="hidden" name="price||8fe7057adc296c4d246060ed48a0af7abe8700991bd689570417ab7640d0c233" id="fs_price_156744" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156744" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156744" />
+<input type="hidden" name="image||6c1fd7b3fd8191aeb60109b08fca6b9944965a5a838306d5e9cb986f156f4f18||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1058-Kobonal-Education-foxy-thumb-10.jpg" id="foxyshop_cart_product_image_156744" />
+<input type="hidden" name="url||43dc07fba3febdd7ae5f47aa1b04fa655555089038a72eaa130190164a098545" value="https://crosscatholic.org/products/catholic-schools-in-rural-haiti/" id="fs_url_156744" />
+<input type="hidden" name="quantity_min||9f38776628da9d5e4ab5fee47d296bee173ab851e4bb4110b59cd3df1330f3ba||open" value="0" id="fs_quantity_min_156744" />
+<input type="hidden" name="quantity_max||b15f6524b688b6ebd53019e1349cb53cc430145bb0de175078b2bfc579736693||open" value="0" id="fs_quantity_max_156744" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156744" />
+<input type="hidden" name="name||d3a9f4dac28e5dcfe9483c0e0c859bdab0bb3ec390135c7399371c29a60e25ba" id="fs_name_156744" value="Catholic Schools in Rural Haiti" />
+<input type="hidden" name="code||b99e69127699670b49f3f1d21482c59916011c6b416391f3eeac560f2c575976" id="fs_code_156744" value="WCCC23KEDU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||6939c27be052f9c5dfcc9ebb1c193a38be1205eff62707d41cfb12099d1cb7ec||open" id="WCCC23KEDU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
