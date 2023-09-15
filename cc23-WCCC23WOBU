@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23WOBU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $241 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156686" rel="156686">
+<input type="hidden" name="price||6889ad8579ef57b4cb99559f34805ea0486a6dc158c7f1e1533775541a4ae817" id="fs_price_156686" value="241.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156686" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156686" />
+<input type="hidden" name="image||c8ee70e507f91e17e25bc61fd66c18f7b7b49a00e9c4815af9388beb9b9cd05c||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Microcredit-foxy-thumb-6.jpg" id="foxyshop_cart_product_image_156686" />
+<input type="hidden" name="url||b8b27833d67af1fbc0cfdcabe83a16b1dce614843dfec0cc80f5ed55a29a8caf" value="https://crosscatholic.org/products/business-and-finance-training-for-women-241-donation/" id="fs_url_156686" />
+<input type="hidden" name="quantity_min||07140b3721f4907e5dcfab9f5a26b90894994c0a03a6a0e3b449d1bb9884e150||open" value="0" id="fs_quantity_min_156686" />
+<input type="hidden" name="quantity_max||6225ad5a2506ab02d48a1742e6b460ec6868054359aaa27ae2713db3760aa54c||open" value="0" id="fs_quantity_max_156686" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156686" />
+<input type="hidden" name="name||2ca41010f84f6bb4b6d771be48178ecc33c0430ca9af434bc821183fbc567075" id="fs_name_156686" value="Business and Finance Training - $241 donation" />
+<input type="hidden" name="code||5ce096353f45d67048ddffea40d734821b0fb0ffe0a04d4f020c2a92e2c6102c" id="fs_code_156686" value="WCCC23WOBU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$241_donation||4db2e983866592a9e5dcbe93d5ff355b807aea354215841106737ccff28fe994" id="WCCC23WOBU_1" value="" class="variation-241-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$241</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$241.00</span></div></div></form>
+<!-- $482 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156687" rel="156687">
+<input type="hidden" name="price||a3c4d55062e85f050da57be399f1fe809decdd2225d229c461a910173df8c4e4" id="fs_price_156687" value="482.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156687" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156687" />
+<input type="hidden" name="image||c8ee70e507f91e17e25bc61fd66c18f7b7b49a00e9c4815af9388beb9b9cd05c||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Microcredit-foxy-thumb-6-1.jpg" id="foxyshop_cart_product_image_156687" />
+<input type="hidden" name="url||f5581bbc7375a7795198cf7a8000e157023326757ad23cee5289bed2708c4ac8" value="https://crosscatholic.org/products/business-and-finance-training-for-women-482-donation/" id="fs_url_156687" />
+<input type="hidden" name="quantity_min||07140b3721f4907e5dcfab9f5a26b90894994c0a03a6a0e3b449d1bb9884e150||open" value="0" id="fs_quantity_min_156687" />
+<input type="hidden" name="quantity_max||6225ad5a2506ab02d48a1742e6b460ec6868054359aaa27ae2713db3760aa54c||open" value="0" id="fs_quantity_max_156687" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156687" />
+<input type="hidden" name="name||d8d81e29e658ee64eedd6f9eb6a638a416501241e69d05661812d1f39c3a015b" id="fs_name_156687" value="Business and Finance Training - $482 donation" />
+<input type="hidden" name="code||5ce096353f45d67048ddffea40d734821b0fb0ffe0a04d4f020c2a92e2c6102c" id="fs_code_156687" value="WCCC23WOBU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$482_donation||61b6352d6a42a0c959e8efd8b438643320aab4afa6743fc9b8c4a6e262871d89" id="WCCC23WOBU_1" value="" class="variation-482-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$482</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$482</span></div></div></form>
+<!-- $964 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156688" rel="156688">
+<input type="hidden" name="price||d5599aa6c3d1b892f0e974feb36cecdbff0c9905fef1fc76a637391735fbf289" id="fs_price_156688" value="964.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156688" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156688" />
+<input type="hidden" name="image||c8ee70e507f91e17e25bc61fd66c18f7b7b49a00e9c4815af9388beb9b9cd05c||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Microcredit-foxy-thumb-6-2.jpg" id="foxyshop_cart_product_image_156688" />
+<input type="hidden" name="url||2e44dd92e1eddd239cfbdc247619037aec2f0c1bdcc5614dcb7479288beab640" value="https://crosscatholic.org/products/business-and-finance-training-for-women-964-donation/" id="fs_url_156688" />
+<input type="hidden" name="quantity_min||07140b3721f4907e5dcfab9f5a26b90894994c0a03a6a0e3b449d1bb9884e150||open" value="0" id="fs_quantity_min_156688" />
+<input type="hidden" name="quantity_max||6225ad5a2506ab02d48a1742e6b460ec6868054359aaa27ae2713db3760aa54c||open" value="0" id="fs_quantity_max_156688" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156688" />
+<input type="hidden" name="name||c384b2a77c1895e74309e64027a707e7eae5ed7ef91250596d4e965338ab8665" id="fs_name_156688" value="Business and Finance Training - $964 donation" />
+<input type="hidden" name="code||5ce096353f45d67048ddffea40d734821b0fb0ffe0a04d4f020c2a92e2c6102c" id="fs_code_156688" value="WCCC23WOBU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$964_donation||9c16d68d5534966c37017a61129b1d2ef420264880727506ca4f843fd0381468" id="WCCC23WOBU_1" value="" class="variation-964-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$964</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$964.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156689" rel="156689">
+<input type="hidden" name="price||3d71d0c1848354b1b7ed4499fcfac5d18190855ff5f17f438793326e830ce944" id="fs_price_156689" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156689" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156689" />
+<input type="hidden" name="image||c8ee70e507f91e17e25bc61fd66c18f7b7b49a00e9c4815af9388beb9b9cd05c||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3497-FUNDASEP-Microcredit-foxy-thumb-6-3.jpg" id="foxyshop_cart_product_image_156689" />
+<input type="hidden" name="url||38c298925be96944b113d53fc1de298e80273536e471327fe652b6befc1b8c09" value="https://crosscatholic.org/products/business-and-finance-training-for-women/" id="fs_url_156689" />
+<input type="hidden" name="quantity_min||07140b3721f4907e5dcfab9f5a26b90894994c0a03a6a0e3b449d1bb9884e150||open" value="0" id="fs_quantity_min_156689" />
+<input type="hidden" name="quantity_max||6225ad5a2506ab02d48a1742e6b460ec6868054359aaa27ae2713db3760aa54c||open" value="0" id="fs_quantity_max_156689" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156689" />
+<input type="hidden" name="name||a05da3b14eda18f73ed0a175f8d88e70f44b6ad7138274f3669c7e9a706f9485" id="fs_name_156689" value="Business and Finance Training" />
+<input type="hidden" name="code||5ce096353f45d67048ddffea40d734821b0fb0ffe0a04d4f020c2a92e2c6102c" id="fs_code_156689" value="WCCC23WOBU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||56ea19a3e9c4544050bdb8281ececfd8ee858ed0d463a4b6fea70c82ec4eca47||open" id="WCCC23WOBU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
