@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23SEEM', function () {
+
+	$out = '<div class="flex-container">
+<!-- $198 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157122" rel="157122">
+<input type="hidden" name="price||22be9a425ae2024f277ef264a461b516786b5caff7c6d90de73075cc638d65b0" id="fs_price_157122" value="198.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157122" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157122" />
+<input type="hidden" name="image||3d182374ef2f570edc1ebdbaf545483f7dc867a4e93e663f350a70655b13d8fd||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3059-Social-Economic-Empowerment-in-Ethiopia-foxy-thumb-36.jpg" id="foxyshop_cart_product_image_157122" />
+<input type="hidden" name="url||d6944dbfb11d554739de8cec9ec3179a51c31ff08a72f7b0fe3997a19b7228d7" value="https://crosscatholic.org/products/social-economic-empowerment-in-ethiopia-198-donation/" id="fs_url_157122" />
+<input type="hidden" name="quantity_min||6c3fac3eb684b9807c458314a6d06243e542858c032e0443c3f1635fe3417c19||open" value="0" id="fs_quantity_min_157122" />
+<input type="hidden" name="quantity_max||08c85f7accd28fec4dfc14a8c0401ea7a7de30fb0ea451e2a5ce594659a6e33c||open" value="0" id="fs_quantity_max_157122" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157122" />
+<input type="hidden" name="name||f180500d94fdf0c9ece106fcb45df9be3436ce00643a192ab014921b5b462eb5" id="fs_name_157122" value="Social and Economic Empowerment in Ethiopia - $198 donation" />
+<input type="hidden" name="code||42fb9efc884f9785cf2768e38e32bc91e0f1e36fbd7f41ae1ca0163479a3b72d" id="fs_code_157122" value="WCCC23SEEM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$198_donation||f51248213908c4370b454c1c0545e1ba21dd23cacaa4c45016a552a808538bbf" id="WCCC23SEEM_1" value="" class="variation-198-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$198</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$198.00</span></div></div></form>
+<!-- $396 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157123" rel="157123">
+<input type="hidden" name="price||aba9453fed0cb163be5c3301e30abb96631a3965d8e1806893e70cb7adcfc093" id="fs_price_157123" value="396.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157123" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157123" />
+<input type="hidden" name="image||3d182374ef2f570edc1ebdbaf545483f7dc867a4e93e663f350a70655b13d8fd||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3059-Social-Economic-Empowerment-in-Ethiopia-foxy-thumb-36-1.jpg" id="foxyshop_cart_product_image_157123" />
+<input type="hidden" name="url||1c16efb7737ae283ca351aa9161eaa5bb013bd088ab8440a84e4ab08ba98771b" value="https://crosscatholic.org/products/social-economic-empowerment-in-ethiopia-396-donation/" id="fs_url_157123" />
+<input type="hidden" name="quantity_min||6c3fac3eb684b9807c458314a6d06243e542858c032e0443c3f1635fe3417c19||open" value="0" id="fs_quantity_min_157123" />
+<input type="hidden" name="quantity_max||08c85f7accd28fec4dfc14a8c0401ea7a7de30fb0ea451e2a5ce594659a6e33c||open" value="0" id="fs_quantity_max_157123" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157123" />
+<input type="hidden" name="name||fee9125b3bf605a3b672460ff326a88824f33c9eb48cdf40679d0707e166d0f1" id="fs_name_157123" value="Social and Economic Empowerment in Ethiopia - $396 donation" />
+<input type="hidden" name="code||42fb9efc884f9785cf2768e38e32bc91e0f1e36fbd7f41ae1ca0163479a3b72d" id="fs_code_157123" value="WCCC23SEEM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$396_donation||32b519b1ce260b8e2720e3e2c1b8ef8169b8ebf3ce94beae2c5c8877c254338c" id="WCCC23SEEM_1" value="" class="variation-396-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$396</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$396.00</span></div></div></form>
+<!-- $594 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157124" rel="157124">
+<input type="hidden" name="price||280591b4792fc1e8464ff96dc2ec53cc8d8b13f12b7d27c575f2b424e6a9920a" id="fs_price_157124" value="594.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157124" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157124" />
+<input type="hidden" name="image||3d182374ef2f570edc1ebdbaf545483f7dc867a4e93e663f350a70655b13d8fd||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3059-Social-Economic-Empowerment-in-Ethiopia-foxy-thumb-36-2.jpg" id="foxyshop_cart_product_image_157124" />
+<input type="hidden" name="url||4c3561ac756aa7ff8fb0e5da567d44a1c6b0c8b6a030f9e45adf3f6931475649" value="https://crosscatholic.org/products/social-economic-empowerment-in-ethiopia-594-donation/" id="fs_url_157124" />
+<input type="hidden" name="quantity_min||6c3fac3eb684b9807c458314a6d06243e542858c032e0443c3f1635fe3417c19||open" value="0" id="fs_quantity_min_157124" />
+<input type="hidden" name="quantity_max||08c85f7accd28fec4dfc14a8c0401ea7a7de30fb0ea451e2a5ce594659a6e33c||open" value="0" id="fs_quantity_max_157124" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157124" />
+<input type="hidden" name="name||295f3bf5c3331f3d1911413bc095bf248b98a60d55f2e1f772896a653cfc28a3" id="fs_name_157124" value="Social and Economic Empowerment in Ethiopia - $594 donation" />
+<input type="hidden" name="code||42fb9efc884f9785cf2768e38e32bc91e0f1e36fbd7f41ae1ca0163479a3b72d" id="fs_code_157124" value="WCCC23SEEM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$594_donation||22cb8bd0c9c31339f7f7659448d19a9a3eb95981893f88cec3c6c826e81ebfb4" id="WCCC23SEEM_1" value="" class="variation-594-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$594</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$594.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157125" rel="157125">
+<input type="hidden" name="price||f01b844de2b1e449bdf82cb3d53881a1bf7c92c7de29067bb051b94481d70c48" id="fs_price_157125" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157125" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157125" />
+<input type="hidden" name="image||3d182374ef2f570edc1ebdbaf545483f7dc867a4e93e663f350a70655b13d8fd||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3059-Social-Economic-Empowerment-in-Ethiopia-foxy-thumb-36-3.jpg" id="foxyshop_cart_product_image_157125" />
+<input type="hidden" name="url||fc7cb0969f2363ed29f437c486ecf14ce113361c4a90dc81b9d37db3076dc7b1" value="https://crosscatholic.org/products/social-economic-empowerment-in-ethiopia/" id="fs_url_157125" />
+<input type="hidden" name="quantity_min||6c3fac3eb684b9807c458314a6d06243e542858c032e0443c3f1635fe3417c19||open" value="0" id="fs_quantity_min_157125" />
+<input type="hidden" name="quantity_max||08c85f7accd28fec4dfc14a8c0401ea7a7de30fb0ea451e2a5ce594659a6e33c||open" value="0" id="fs_quantity_max_157125" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157125" />
+<input type="hidden" name="name||3e8ac232bed88699d1d252f2d496259f65eef5d292fcfca3627a4647881c47b6" id="fs_name_157125" value="Social and Economic Empowerment in Ethiopia" />
+<input type="hidden" name="code||42fb9efc884f9785cf2768e38e32bc91e0f1e36fbd7f41ae1ca0163479a3b72d" id="fs_code_157125" value="WCCC23SEEM" />
+<div class="foxyshop_variations">
+<input type="text" name="price||e2ea876cb91833c9ccef942e815e28406518f72af0b508b22393daa5f44f17be||open" id="WCCC23SEEM_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
