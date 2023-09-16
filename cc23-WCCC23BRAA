@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23BRAA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217518" rel="217518">
+<input type="hidden" name="price||4198262969d7f82fcf463eb74e92a253ee137346d0f906de5639c4b107ceb818" id="fs_price_217518" value="500.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217518" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217518" />
+<input type="hidden" name="image||adbd059a47e5a3b9773c41ac11230f81e9c136984654f8dbdf77416b1771067e||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_217518" />
+<input type="hidden" name="url||25b76411b93432baf60fcddce1603f14836d03659902521f893092d00d1fb2ec" value="https://crosscatholic.org/products/batey-relief-alliance-agriculture-500-donation/" id="fs_url_217518" />
+<input type="hidden" name="quantity_min||3455de442964278b3ff4e8361ebf41d857875537fbac22df2247b0e1c3611ce2||open" value="0" id="fs_quantity_min_217518" />
+<input type="hidden" name="quantity_max||a63f588d4026308141d15e1d337dd9ad65dc6c13b7e79073684b632335e385b9||open" value="0" id="fs_quantity_max_217518" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217518" />
+<input type="hidden" name="name||66c756006f71c7214baa900369a4078a8a531ca0c9c73666fb3199e9e3cd11d4" id="fs_name_217518" value="Business Loans for Women - $500 donation" />
+<input type="hidden" name="code||704de273fc24ed467d95a1ff3af59732a61c1b03c4192ee3b8b5af9d3ef883fd" id="fs_code_217518" value="WCCC23BRAA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$500_donation||dc31f2beece7a44d18747d374d81a4aa2ab43e048cc0543fe969327008866cc1" id="WCCC23BRAA_1" value="" class="variation-500-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$500</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$500</span></div></div></form>
+<!-- $1,000 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217519" rel="217519">
+<input type="hidden" name="price||11b285447fb9cd43401faa538b4f459bc8c7d4bd97272426b585c04f5772dabe" id="fs_price_217519" value="1000.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217519" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217519" />
+<input type="hidden" name="image||adbd059a47e5a3b9773c41ac11230f81e9c136984654f8dbdf77416b1771067e||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_217519" />
+<input type="hidden" name="url||e4d27eef4574b88053dd043cc8e4807683b3fe40ff1373406469654a584aef3f" value="https://crosscatholic.org/products/batey-relief-alliance-agriculture-1000-donation/" id="fs_url_217519" />
+<input type="hidden" name="quantity_min||3455de442964278b3ff4e8361ebf41d857875537fbac22df2247b0e1c3611ce2||open" value="0" id="fs_quantity_min_217519" />
+<input type="hidden" name="quantity_max||a63f588d4026308141d15e1d337dd9ad65dc6c13b7e79073684b632335e385b9||open" value="0" id="fs_quantity_max_217519" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217519" />
+<input type="hidden" name="name||b7ab0c920279e3f5388a964535e2acf7bc135a5aaa1aedf44339d20dc6b6036a" id="fs_name_217519" value="Business Loans for Women - $1,000 donation" />
+<input type="hidden" name="code||704de273fc24ed467d95a1ff3af59732a61c1b03c4192ee3b8b5af9d3ef883fd" id="fs_code_217519" value="WCCC23BRAA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1000_donation||7445b8d3d3887dc7482b3634abc723f06c8ead6afa1cf684b1a9c0ab46a511dd" id="WCCC23BRAA_1" value="" class="variation-1000-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,000</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,000.00</span></div></div></form>
+<!-- $2,000 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217520" rel="217520">
+<input type="hidden" name="price||6e6429fc01bfd1da9e50e8b0f32222f95112cd18a0a3cdfaf412109eab304014" id="fs_price_217520" value="2000.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217520" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217520" />
+<input type="hidden" name="image||adbd059a47e5a3b9773c41ac11230f81e9c136984654f8dbdf77416b1771067e||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_217520" />
+<input type="hidden" name="url||b98a521bb7bf2e9f504d4bfab9a94ae7fd2b05640c1fd453e65222c7cadbc519" value="https://crosscatholic.org/products/batey-relief-alliance-agriculture-2000-donation/" id="fs_url_217520" />
+<input type="hidden" name="quantity_min||3455de442964278b3ff4e8361ebf41d857875537fbac22df2247b0e1c3611ce2||open" value="0" id="fs_quantity_min_217520" />
+<input type="hidden" name="quantity_max||a63f588d4026308141d15e1d337dd9ad65dc6c13b7e79073684b632335e385b9||open" value="0" id="fs_quantity_max_217520" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217520" />
+<input type="hidden" name="name||795dcb63488fd844450721aee0292233969ca5036d19b882764d0ab62b19f408" id="fs_name_217520" value="Business Loans for Women - $2,000 donation" />
+<input type="hidden" name="code||704de273fc24ed467d95a1ff3af59732a61c1b03c4192ee3b8b5af9d3ef883fd" id="fs_code_217520" value="WCCC23BRAA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$2000_donation||757a4b949f595605ed50ec41820f103791ec1a5af01c2d5fbb4aef6fa8cbd3b2" id="WCCC23BRAA_1" value="" class="variation-2000-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$2,000</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$2,000</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217521" rel="217521">
+<input type="hidden" name="price||af98dd827bb444a958246604a8babac64beb155eb4195b9983f9f1efe25fb0b5" id="fs_price_217521" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217521" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217521" />
+<input type="hidden" name="image||adbd059a47e5a3b9773c41ac11230f81e9c136984654f8dbdf77416b1771067e||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_217521" />
+<input type="hidden" name="url||11c36345456f1abf2736fce97fa9dd562d7a26474ae4a8bccd21dc0852414a8d" value="https://crosscatholic.org/products/batey-relief-alliance-agriculture/" id="fs_url_217521" />
+<input type="hidden" name="quantity_min||3455de442964278b3ff4e8361ebf41d857875537fbac22df2247b0e1c3611ce2||open" value="0" id="fs_quantity_min_217521" />
+<input type="hidden" name="quantity_max||a63f588d4026308141d15e1d337dd9ad65dc6c13b7e79073684b632335e385b9||open" value="0" id="fs_quantity_max_217521" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217521" />
+<input type="hidden" name="name||cd624ffba430d63c392c568ec0d882e276844f4a3f2e1f0c2f9b16c200208288" id="fs_name_217521" value="Business Loans for Women" />
+<input type="hidden" name="code||704de273fc24ed467d95a1ff3af59732a61c1b03c4192ee3b8b5af9d3ef883fd" id="fs_code_217521" value="WCCC23BRAA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||0cf65e6571f95a9d7902ee3332f5f66dead1574e66987a616f71a49193783ebd||open" id="WCCC23BRAA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
