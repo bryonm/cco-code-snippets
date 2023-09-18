@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23CPSS', function () {
+
+	$out = '<div class="flex-container">
+<!-- $74 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217562" rel="217562">
+<input type="hidden" name="price||d27651533f2de29a9b977b31606ea2bd1e6ee70de35eadf14f173945bca1aebb" id="fs_price_217562" value="74.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217562" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217562" />
+<input type="hidden" name="image||8686c002f7c0ff85c1327e59fa5053596e19142e4ab394a44f18cac8adc579d4||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/CPS-OVC-Support-foxy-thumb.jpg" id="foxyshop_cart_product_image_217562" />
+<input type="hidden" name="url||be64bbed4afad564d48031a62a9eac17b870eb4111a7da302248565891842d40" value="https://crosscatholic.org/products/cps-ovc-support-74-donation/" id="fs_url_217562" />
+<input type="hidden" name="quantity_min||45ee9ee136a9a46ce6377a0335ad9ca101f385593002e908a594c291d4ff04b9||open" value="0" id="fs_quantity_min_217562" />
+<input type="hidden" name="quantity_max||7f1fda4f23e61436431e95de61a249dc1699ac679361e8c6c6663870db530d6e||open" value="0" id="fs_quantity_max_217562" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217562" />
+<input type="hidden" name="name||9de242e59b1092632f00718f4634609e1af405b644a5e6df5edcc2b03cbce968" id="fs_name_217562" value="CPS OVC Support - $74 donation" />
+<input type="hidden" name="code||aac9dd2351fda2a89f2819f44af067e1722af9928755e577e02084ae217c4ccf" id="fs_code_217562" value="WCCC23CPSS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$74_donation||01ed3fd003ab8a41e8ea71f698b3c5597e2ce6116e5dfe74ef1b0745a28c52cc" id="WCCC23CPSS_1" value="" class="variation-74-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$74</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$74.00</span></div></div></form>
+<!-- $148 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217563" rel="217563">
+<input type="hidden" name="price||df88cfa3784f8e0ecf0988df355e8896b25926b16f0e638ed6625f6e99a56e27" id="fs_price_217563" value="148.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217563" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217563" />
+<input type="hidden" name="image||8686c002f7c0ff85c1327e59fa5053596e19142e4ab394a44f18cac8adc579d4||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/CPS-OVC-Support-foxy-thumb.jpg" id="foxyshop_cart_product_image_217563" />
+<input type="hidden" name="url||2a175add7f0a4309e2729aa101be82312eb893f407943e12379bbc370dcd5771" value="https://crosscatholic.org/products/cps-ovc-support-148-donation/" id="fs_url_217563" />
+<input type="hidden" name="quantity_min||45ee9ee136a9a46ce6377a0335ad9ca101f385593002e908a594c291d4ff04b9||open" value="0" id="fs_quantity_min_217563" />
+<input type="hidden" name="quantity_max||7f1fda4f23e61436431e95de61a249dc1699ac679361e8c6c6663870db530d6e||open" value="0" id="fs_quantity_max_217563" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217563" />
+<input type="hidden" name="name||207496c8882ff01272aa5c86c6580d512109b4038dbcd2f3c0de54d88e491240" id="fs_name_217563" value="CPS OVC Support - $148 donation" />
+<input type="hidden" name="code||aac9dd2351fda2a89f2819f44af067e1722af9928755e577e02084ae217c4ccf" id="fs_code_217563" value="WCCC23CPSS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$148_donation||81cc9b9c71b0c4c65c091533f7e0372a5dbd99a8de4d7f1e07e43a319620854b" id="WCCC23CPSS_1" value="" class="variation-148-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$148</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$148</span></div></div></form>
+<!-- $296 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217564" rel="217564">
+<input type="hidden" name="price||3fe4fc22c13ed53707c2031e5c0a685cad875efdc62078d07a99d5bf79700e39" id="fs_price_217564" value="296.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217564" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217564" />
+<input type="hidden" name="image||8686c002f7c0ff85c1327e59fa5053596e19142e4ab394a44f18cac8adc579d4||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/CPS-OVC-Support-foxy-thumb.jpg" id="foxyshop_cart_product_image_217564" />
+<input type="hidden" name="url||64610ef7b91f422a91d8ee35e2b584b6dd19b74d2215af1a853e270c4a5c215f" value="https://crosscatholic.org/products/cps-ovc-support-296-donation/" id="fs_url_217564" />
+<input type="hidden" name="quantity_min||45ee9ee136a9a46ce6377a0335ad9ca101f385593002e908a594c291d4ff04b9||open" value="0" id="fs_quantity_min_217564" />
+<input type="hidden" name="quantity_max||7f1fda4f23e61436431e95de61a249dc1699ac679361e8c6c6663870db530d6e||open" value="0" id="fs_quantity_max_217564" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217564" />
+<input type="hidden" name="name||38b3fffd2d61a7f649f3e5f9608823d42c4b3cf88023556bc304298545032dee" id="fs_name_217564" value="CPS OVC Support - $296 donation" />
+<input type="hidden" name="code||aac9dd2351fda2a89f2819f44af067e1722af9928755e577e02084ae217c4ccf" id="fs_code_217564" value="WCCC23CPSS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$296_donation||df11c5c1f3243b45b4848cf5e8d07d9c08235e2de82d271d33282ba2341ba741" id="WCCC23CPSS_1" value="" class="variation-296-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$296</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$296.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217565" rel="217565">
+<input type="hidden" name="price||36345c155e7af1eac7762d048bf6a9fd443d354aab4539c462a5c6c0870a5e75" id="fs_price_217565" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217565" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217565" />
+<input type="hidden" name="image||8686c002f7c0ff85c1327e59fa5053596e19142e4ab394a44f18cac8adc579d4||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/CPS-OVC-Support-foxy-thumb.jpg" id="foxyshop_cart_product_image_217565" />
+<input type="hidden" name="url||30c2c3f2c6865725420b69bd61c48ea41dcaf75a0d5643701278c6b1ae4db4a2" value="https://crosscatholic.org/products/cps-ovc-support/" id="fs_url_217565" />
+<input type="hidden" name="quantity_min||45ee9ee136a9a46ce6377a0335ad9ca101f385593002e908a594c291d4ff04b9||open" value="0" id="fs_quantity_min_217565" />
+<input type="hidden" name="quantity_max||7f1fda4f23e61436431e95de61a249dc1699ac679361e8c6c6663870db530d6e||open" value="0" id="fs_quantity_max_217565" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217565" />
+<input type="hidden" name="name||c70495ec1c355aef96f8cac401a8cbc071b6f7e7cccc4680b6f516023d9176b1" id="fs_name_217565" value="CPS OVC Support" />
+<input type="hidden" name="code||aac9dd2351fda2a89f2819f44af067e1722af9928755e577e02084ae217c4ccf" id="fs_code_217565" value="WCCC23CPSS" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2b8f76eabc28d45200b4d465c4e8ff36d157e83b13332796540fe998fd4b7468||open" id="WCCC23CPSS_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
