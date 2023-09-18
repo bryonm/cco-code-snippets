@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23KHOU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $2,980 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157094" rel="157094">
+<input type="hidden" name="price||d33661e2b766733ea1f28ddb9a1dae87d523c2e98da748f97771e00aa95ec3d5" id="fs_price_157094" value="2980.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157094" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157094" />
+<input type="hidden" name="image||fafc9334c6d2819af47a285f1118744bf0d785fde36666415d1b7a47e5201e96||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0784-Kobonal-Housing-foxy-thumb.jpg" id="foxyshop_cart_product_image_157094" />
+<input type="hidden" name="url||59420e4735f13537e49540e643b4a8484199bf8ed1c197263b9f9ad47f400aee" value="https://crosscatholic.org/products/safe-homes-in-haiti-3055-donation/" id="fs_url_157094" />
+<input type="hidden" name="quantity_min||b5dcbdb6865a87a239cfb4b88499f01cd186100e1835c20f636f8466f6b45021||open" value="0" id="fs_quantity_min_157094" />
+<input type="hidden" name="quantity_max||ddc4b2dc8cdb58b7c69afe95c98ace552d5745338ecf06713d311ff3f42a3c4f||open" value="0" id="fs_quantity_max_157094" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157094" />
+<input type="hidden" name="name||844ec083be8a4e44b251abb2746968096a91f7710f6878beffa2f09e4e30e09a" id="fs_name_157094" value="Safe Homes in Haiti - $2,980 donation" />
+<input type="hidden" name="code||b1bc41c405be8187c96f18dddad1b7351420d747e3288b80a512e61cc1d6ced9" id="fs_code_157094" value="WCCC23KHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$2,980_donation||e9c4e2904f46f62cfd0efceea0427f808afbc6b9e7a779816dc434225c106875" id="WCCC23KHOU_1" value="" class="variation-2980-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$2,980</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$2,980.00</span></div></div></form>
+<!-- $5,960 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157095" rel="157095">
+<input type="hidden" name="price||98585087d3562f86d85eab1e02089c82d80bd779102fb469c2d575a7f06e854b" id="fs_price_157095" value="5960.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157095" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157095" />
+<input type="hidden" name="image||fafc9334c6d2819af47a285f1118744bf0d785fde36666415d1b7a47e5201e96||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0784-Kobonal-Housing-foxy-thumb.jpg" id="foxyshop_cart_product_image_157095" />
+<input type="hidden" name="url||8f248f29c94d9bb6c727a6aec68c806d0e7f7cd5df9d230ae6f1f52124808beb" value="https://crosscatholic.org/products/safe-homes-in-haiti-6110-donation/" id="fs_url_157095" />
+<input type="hidden" name="quantity_min||b5dcbdb6865a87a239cfb4b88499f01cd186100e1835c20f636f8466f6b45021||open" value="0" id="fs_quantity_min_157095" />
+<input type="hidden" name="quantity_max||ddc4b2dc8cdb58b7c69afe95c98ace552d5745338ecf06713d311ff3f42a3c4f||open" value="0" id="fs_quantity_max_157095" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157095" />
+<input type="hidden" name="name||8ebb048b5f570d36f977962ef104d7f7ce75e56062e877b2a402e568091985d7" id="fs_name_157095" value="Safe Homes in Haiti - $5,960 donation" />
+<input type="hidden" name="code||b1bc41c405be8187c96f18dddad1b7351420d747e3288b80a512e61cc1d6ced9" id="fs_code_157095" value="WCCC23KHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$5,960_donation||0f8852b920831d99e26278af95f9f5fd81ef15b603f967c672896ec03dee447c" id="WCCC23KHOU_1" value="" class="variation-5960-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$5,960</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$5,960.00</span></div></div></form>
+<!-- $11,920 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157096" rel="157096">
+<input type="hidden" name="price||cabae29173cb075c49fbd1e6543a7022ad18ed0561e9a809132178cb26ccff24" id="fs_price_157096" value="11920.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157096" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157096" />
+<input type="hidden" name="image||fafc9334c6d2819af47a285f1118744bf0d785fde36666415d1b7a47e5201e96||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0784-Kobonal-Housing-foxy-thumb.jpg" id="foxyshop_cart_product_image_157096" />
+<input type="hidden" name="url||7ad418e26b041eef0f4871fdf6b3ab06423e7148123a0dfb5cdfa11c7a7e088b" value="https://crosscatholic.org/products/safe-homes-in-haiti-12221-donation/" id="fs_url_157096" />
+<input type="hidden" name="quantity_min||b5dcbdb6865a87a239cfb4b88499f01cd186100e1835c20f636f8466f6b45021||open" value="0" id="fs_quantity_min_157096" />
+<input type="hidden" name="quantity_max||ddc4b2dc8cdb58b7c69afe95c98ace552d5745338ecf06713d311ff3f42a3c4f||open" value="0" id="fs_quantity_max_157096" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157096" />
+<input type="hidden" name="name||a4c64f3b266f244bf91354f82ea4d7c859f0ea145f836cb0a04a487efe0a2759" id="fs_name_157096" value="Safe Homes in Haiti - $11,920 donation" />
+<input type="hidden" name="code||b1bc41c405be8187c96f18dddad1b7351420d747e3288b80a512e61cc1d6ced9" id="fs_code_157096" value="WCCC23KHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$11,920_donation||7e16ebf15910f4fd6e22609cf26c71e15b1614d812ddd82b33f4659c2774f1f5" id="WCCC23KHOU_1" value="" class="variation-11920-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$11,920</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$11,920.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157097" rel="157097">
+<input type="hidden" name="price||a557935fa0cff9dfe5634453d2a9f0c1dc583933aed342539c74ec68daa1d970" id="fs_price_157097" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157097" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157097" />
+<input type="hidden" name="image||fafc9334c6d2819af47a285f1118744bf0d785fde36666415d1b7a47e5201e96||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0784-Kobonal-Housing-foxy-thumb.jpg" id="foxyshop_cart_product_image_157097" />
+<input type="hidden" name="url||69b8f40960c8c3dbc4aa34e278af55167c467ebbe210f57d58474779984d89b4" value="https://crosscatholic.org/products/safe-homes-in-haiti/" id="fs_url_157097" />
+<input type="hidden" name="quantity_min||b5dcbdb6865a87a239cfb4b88499f01cd186100e1835c20f636f8466f6b45021||open" value="0" id="fs_quantity_min_157097" />
+<input type="hidden" name="quantity_max||ddc4b2dc8cdb58b7c69afe95c98ace552d5745338ecf06713d311ff3f42a3c4f||open" value="0" id="fs_quantity_max_157097" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157097" />
+<input type="hidden" name="name||feab0d3c83fd33f444169da38930530e68500426a00a22415053208ad297549c" id="fs_name_157097" value="Safe Homes in Haiti" />
+<input type="hidden" name="code||b1bc41c405be8187c96f18dddad1b7351420d747e3288b80a512e61cc1d6ced9" id="fs_code_157097" value="WCCC23KHOU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||381e76a85f02ac85397e69ecca6f145334aef9b890cedc5c81c23e90ac943093||open" id="WCCC23KHOU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
