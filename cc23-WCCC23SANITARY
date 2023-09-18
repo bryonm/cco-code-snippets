@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23SANITARY', function () {
+
+	$out = '<div class="flex-container">
+<!-- $39 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156827" rel="156827">
+<input type="hidden" name="price||1376d5bf1672628c2259387eb3b801cc8f64c222c75382acd45154d763505eea" id="fs_price_156827" value="39.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156827" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156827" />
+<input type="hidden" name="image||8b5cdfe92f6369b94e7ee0664cde2892bd3acc610224ab7a04d742861a8918b7||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/feminine-b-foxy-thumb.jpg" id="foxyshop_cart_product_image_156827" />
+<input type="hidden" name="url||bf9576ce0ffb4d2c02725e3f3e972222c140559a5ced9deaadae5f93306077d1" value="https://crosscatholic.org/products/female-hygiene-48-donation/" id="fs_url_156827" />
+<input type="hidden" name="quantity_min||e5c1eae6642dcf8b223fd6c02b65de390fe4ff0b3637920700703e64b9d7c084||open" value="0" id="fs_quantity_min_156827" />
+<input type="hidden" name="quantity_max||94887cd1d7ee3afb21498b5d248dd987370e930d4ab5a5ed721be62381649cf6||open" value="0" id="fs_quantity_max_156827" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156827" />
+<input type="hidden" name="name||c84bddbdfbaebd5576acf19e2c507505e6b289432945d17368450b05b3d78724" id="fs_name_156827" value="Female Hygiene - $39 donation" />
+<input type="hidden" name="code||c1ecb7454e93b1ecc7c90dbc1db3e72802fa8268bf467e0f1d79c1eb822d1da9" id="fs_code_156827" value="WCCC23SANITARY" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$39_donation||f6f2171a850e253cab79f87ad715b26daf80637eba720cd098db3ad67f3f5041" id="WCCC23SANITARY_1" value="" class="variation-39-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$39</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$39.00</span></div></div></form>
+<!-- $78 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156828" rel="156828">
+<input type="hidden" name="price||f96ce7ecf744ae94c55fc9c7a4e75ee9f6aff6cdc26b43155daa977ce45fb287" id="fs_price_156828" value="78.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156828" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156828" />
+<input type="hidden" name="image||8b5cdfe92f6369b94e7ee0664cde2892bd3acc610224ab7a04d742861a8918b7||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/feminine-b-foxy-thumb.jpg" id="foxyshop_cart_product_image_156828" />
+<input type="hidden" name="url||a1d54ce15b160121f28c94d5d23d0f727f63973b7e5e1b76a49d57f1c996ac10" value="https://crosscatholic.org/products/female-hygiene-96-donation/" id="fs_url_156828" />
+<input type="hidden" name="quantity_min||e5c1eae6642dcf8b223fd6c02b65de390fe4ff0b3637920700703e64b9d7c084||open" value="0" id="fs_quantity_min_156828" />
+<input type="hidden" name="quantity_max||94887cd1d7ee3afb21498b5d248dd987370e930d4ab5a5ed721be62381649cf6||open" value="0" id="fs_quantity_max_156828" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156828" />
+<input type="hidden" name="name||11b56ff6951ab596d6f2e037b296b2adff2b28d7350b47f71967d216339211cc" id="fs_name_156828" value="Female Hygiene - $78 donation" />
+<input type="hidden" name="code||c1ecb7454e93b1ecc7c90dbc1db3e72802fa8268bf467e0f1d79c1eb822d1da9" id="fs_code_156828" value="WCCC23SANITARY" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$78_donation||3094f84ccc9133adea490973619b64c6623a586a9c8d0840abd210b1e7731292" id="WCCC23SANITARY_1" value="" class="variation-78-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$78</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$78</span></div></div></form>
+<!-- $156 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156829" rel="156829">
+<input type="hidden" name="price||278ac5d0c99f17a400314a269fde67f8e1907d2ce56c7b2225784e79391347ee" id="fs_price_156829" value="156.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156829" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156829" />
+<input type="hidden" name="image||8b5cdfe92f6369b94e7ee0664cde2892bd3acc610224ab7a04d742861a8918b7||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/feminine-b-foxy-thumb.jpg" id="foxyshop_cart_product_image_156829" />
+<input type="hidden" name="url||b54ea5e31fe3f061215686669ed992f8e40008ffef1465d92d1ab23327ed8faa" value="https://crosscatholic.org/products/female-hygiene-192-donation/" id="fs_url_156829" />
+<input type="hidden" name="quantity_min||e5c1eae6642dcf8b223fd6c02b65de390fe4ff0b3637920700703e64b9d7c084||open" value="0" id="fs_quantity_min_156829" />
+<input type="hidden" name="quantity_max||94887cd1d7ee3afb21498b5d248dd987370e930d4ab5a5ed721be62381649cf6||open" value="0" id="fs_quantity_max_156829" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156829" />
+<input type="hidden" name="name||c8215a2e859af2ab2de305d4a740ab9ff512431a827ae3b964ddb70a9a3a93b5" id="fs_name_156829" value="Female Hygiene - $156 donation" />
+<input type="hidden" name="code||c1ecb7454e93b1ecc7c90dbc1db3e72802fa8268bf467e0f1d79c1eb822d1da9" id="fs_code_156829" value="WCCC23SANITARY" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$156_donation||5682216bd69ae259ea1365d3fc2d276920c423c115e03b798f1ccac5251493d2" id="WCCC23SANITARY_1" value="" class="variation-156-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$156</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$156.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156830" rel="156830">
+<input type="hidden" name="price||0afa84459f21d49ab3532e8b4680b1b7a2c2e0b2658c24c72416b1748b9876a4" id="fs_price_156830" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156830" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156830" />
+<input type="hidden" name="image||8b5cdfe92f6369b94e7ee0664cde2892bd3acc610224ab7a04d742861a8918b7||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/feminine-b-foxy-thumb.jpg" id="foxyshop_cart_product_image_156830" />
+<input type="hidden" name="url||23a477ea92403d96fc73911821edc93fe5f409371b6e50014e35462e3098d7b2" value="https://crosscatholic.org/products/female-hygiene/" id="fs_url_156830" />
+<input type="hidden" name="quantity_min||e5c1eae6642dcf8b223fd6c02b65de390fe4ff0b3637920700703e64b9d7c084||open" value="0" id="fs_quantity_min_156830" />
+<input type="hidden" name="quantity_max||94887cd1d7ee3afb21498b5d248dd987370e930d4ab5a5ed721be62381649cf6||open" value="0" id="fs_quantity_max_156830" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156830" />
+<input type="hidden" name="name||cbd0aabb5b4db900587eccfd72bc54f0970d2251795d4e0b605e6564820397a7" id="fs_name_156830" value="Female Hygiene" />
+<input type="hidden" name="code||c1ecb7454e93b1ecc7c90dbc1db3e72802fa8268bf467e0f1d79c1eb822d1da9" id="fs_code_156830" value="WCCC23SANITARY" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2578303f0aaff2a87b8333f77bdd68e7317e9c5a9552f19632c0fe28d4e48db4||open" id="WCCC23SANITARY_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
