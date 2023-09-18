@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23HOU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $200 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157033" rel="157033">
+<input type="hidden" name="price||3c0be56d375c979e792d7cc0942c28013c6ff75d19e004075a4cdd0f63c2a9ba" id="fs_price_157033" value="200.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157033" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157033" />
+<input type="hidden" name="image||5ec8ebf0c3881c3fde9bf8d3c4bb4d82eb79dd4d16c6a64ba0885ffda4caa895||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9004-General-Housing-foxy-thumb-28.jpg" id="foxyshop_cart_product_image_157033" />
+<input type="hidden" name="url||95544ff500c0192cc289ab9301ccc459fb7ae5520310f70436fef7572abcbde4" value="https://crosscatholic.org/products/provide-safe-housing-shelter-100-donation/" id="fs_url_157033" />
+<input type="hidden" name="quantity_min||8dd2d8f78b15436cdc2f21c11a7f895b9f598134c47a7a944c900226e92b8370||open" value="0" id="fs_quantity_min_157033" />
+<input type="hidden" name="quantity_max||3b3f8fca612addd8f1ef1f0d546d614aed7f00001b6649bd1b929c6238dd1d5c||open" value="0" id="fs_quantity_max_157033" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157033" />
+<input type="hidden" name="name||4124435126949e28b6f3166ae203408e4d8d52cd3a567625f9a0f44a1e984a51" id="fs_name_157033" value="Provide Safe Housing and Shelter - $200 donation" />
+<input type="hidden" name="code||d5f139616da84f353d73de205de7f2a163ebc62107e0be6d95f8b952a2b01d9e" id="fs_code_157033" value="WCCC23HOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$200_donation||af1e914f431be8a4fb49179a41d39419f5f2c816ad79d7f793eadda6c25c8838" id="WCCC23HOU_1" value="" class="variation-200-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$200</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$200.00</span></div></div></form>
+<!-- $400 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157034" rel="157034">
+<input type="hidden" name="price||10f490f57b640a8b8b6729846d6eaa6429156bf4b7cfdf9e518ae561901e3513" id="fs_price_157034" value="400.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157034" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157034" />
+<input type="hidden" name="image||5ec8ebf0c3881c3fde9bf8d3c4bb4d82eb79dd4d16c6a64ba0885ffda4caa895||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9004-General-Housing-foxy-thumb-28-1.jpg" id="foxyshop_cart_product_image_157034" />
+<input type="hidden" name="url||6cb8acf4af4bda2da92e2c1b6dc0c31544b86b9481911cba2e01ff2de1e0fa3b" value="https://crosscatholic.org/products/provide-safe-housing-shelter-200-donation/" id="fs_url_157034" />
+<input type="hidden" name="quantity_min||8dd2d8f78b15436cdc2f21c11a7f895b9f598134c47a7a944c900226e92b8370||open" value="0" id="fs_quantity_min_157034" />
+<input type="hidden" name="quantity_max||3b3f8fca612addd8f1ef1f0d546d614aed7f00001b6649bd1b929c6238dd1d5c||open" value="0" id="fs_quantity_max_157034" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157034" />
+<input type="hidden" name="name||29d4e3c51a0dcb8701614848cb13d8d3f2c508082bfb27c33f4285028a1073fa" id="fs_name_157034" value="Provide Safe Housing and Shelter - $400 donation" />
+<input type="hidden" name="code||d5f139616da84f353d73de205de7f2a163ebc62107e0be6d95f8b952a2b01d9e" id="fs_code_157034" value="WCCC23HOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$400_donation||9dfd7a639f588f801d6b7f673034e1a7e9594beac9d9cf3dd96f7778ff5c19a6" id="WCCC23HOU_1" value="" class="variation-400-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$400</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$400</span></div></div></form>
+<!-- $600 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157035" rel="157035">
+<input type="hidden" name="price||82514d762322f575090ccfde3166882362ed58a79537b31a21978d786ff1488d" id="fs_price_157035" value="600.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157035" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157035" />
+<input type="hidden" name="image||5ec8ebf0c3881c3fde9bf8d3c4bb4d82eb79dd4d16c6a64ba0885ffda4caa895||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9004-General-Housing-foxy-thumb-28-2.jpg" id="foxyshop_cart_product_image_157035" />
+<input type="hidden" name="url||d5fca6532f3efb4ce359702ffe7ca77fa632376ef1517612134173e8af9e3dc4" value="https://crosscatholic.org/products/provide-safe-housing-shelter-300-donation/" id="fs_url_157035" />
+<input type="hidden" name="quantity_min||8dd2d8f78b15436cdc2f21c11a7f895b9f598134c47a7a944c900226e92b8370||open" value="0" id="fs_quantity_min_157035" />
+<input type="hidden" name="quantity_max||3b3f8fca612addd8f1ef1f0d546d614aed7f00001b6649bd1b929c6238dd1d5c||open" value="0" id="fs_quantity_max_157035" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157035" />
+<input type="hidden" name="name||d9fafed91483497588557aa85336613c6e65e0ba975858379f988d7e79df6fa4" id="fs_name_157035" value="Provide Safe Housing and Shelter - $600 donation" />
+<input type="hidden" name="code||d5f139616da84f353d73de205de7f2a163ebc62107e0be6d95f8b952a2b01d9e" id="fs_code_157035" value="WCCC23HOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$600_donation||0696bb757f34962f0e011add046115cc65b8ca3fe2b53112eaf09878c47a0316" id="WCCC23HOU_1" value="" class="variation-600-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$600</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$600.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157036" rel="157036">
+<input type="hidden" name="price||9115949f6dcc06163c1f650e696613c5fb21b53fc6b509d5b781b82941d4d885" id="fs_price_157036" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157036" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157036" />
+<input type="hidden" name="image||5ec8ebf0c3881c3fde9bf8d3c4bb4d82eb79dd4d16c6a64ba0885ffda4caa895||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9004-General-Housing-foxy-thumb-28-3.jpg" id="foxyshop_cart_product_image_157036" />
+<input type="hidden" name="url||fec45dc5cc267be1d9367d16bf5ace9d183570887d8b8bcc0ea466506503ac76" value="https://crosscatholic.org/products/provide-safe-housing-shelter/" id="fs_url_157036" />
+<input type="hidden" name="quantity_min||8dd2d8f78b15436cdc2f21c11a7f895b9f598134c47a7a944c900226e92b8370||open" value="0" id="fs_quantity_min_157036" />
+<input type="hidden" name="quantity_max||3b3f8fca612addd8f1ef1f0d546d614aed7f00001b6649bd1b929c6238dd1d5c||open" value="0" id="fs_quantity_max_157036" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157036" />
+<input type="hidden" name="name||4267166495e65dc13d6552a25a7b0e6dffeba626f411bad52e1a2da574af92f1" id="fs_name_157036" value="Provide Safe Housing and Shelter" />
+<input type="hidden" name="code||d5f139616da84f353d73de205de7f2a163ebc62107e0be6d95f8b952a2b01d9e" id="fs_code_157036" value="WCCC23HOU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||ca1d432d21aad1cd8073ecf12f1cd3f83ba999d8599a62c3f5c3a9c104e6eca9||open" id="WCCC23HOU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
