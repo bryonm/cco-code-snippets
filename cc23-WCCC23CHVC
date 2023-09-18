@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23CHVC', function () {
+
+	$out = '<div class="flex-container">
+<!-- $133 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217571" rel="217571">
+<input type="hidden" name="price||70d4064bac71c54935cbb9718586052d6da79503b01d1f28b5d9f24ee114f60d" id="fs_price_217571" value="133.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217571" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217571" />
+<input type="hidden" name="image||6775a14c6966556382a6e35494518d4f9dc373dcfd9abbb4cfe375a7d8450350||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/creamos-blurred-foxy-thumb.jpg" id="foxyshop_cart_product_image_217571" />
+<input type="hidden" name="url||30a9a900ad61155db2194303025b0a8af7803110906e7d539e60775593788dc7" value="https://crosscatholic.org/products/cps-ovc-support-133-donation/" id="fs_url_217571" />
+<input type="hidden" name="quantity_min||a4aff6a4781f631e0de27ba3bf706392ec9e400fa8788a0a90e1b6421827e74c||open" value="0" id="fs_quantity_min_217571" />
+<input type="hidden" name="quantity_max||90a14f7fc8ff586f84634158c27ac341dbe0ae930289eb2415c139a0e930abf5||open" value="0" id="fs_quantity_max_217571" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217571" />
+<input type="hidden" name="name||d839bebe65145605f26b4fc1bee9e9a17bb28ad183cc530e474ee8586bcfae6b" id="fs_name_217571" value="Creamos Home for Vulnerable Children - $133 donation" />
+<input type="hidden" name="code||afbb8ef8e547861e0c13ed4156927f0605040b136ea2d426867c4aee88cd6111" id="fs_code_217571" value="WCCC23CHVC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$133_donation||c38128ec143f90da45a2f79c7fc9614a5e36ba38134a6a78136bf51cc5b72e8b" id="WCCC23CHVC_1" value="" class="variation-133-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$133</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$133.00</span></div></div></form>
+<!-- $800 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217572" rel="217572">
+<input type="hidden" name="price||ab487f2c632ad57015182f5b0e387f95a47421c99e49cf5d286d3b05104cf748" id="fs_price_217572" value="800.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217572" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217572" />
+<input type="hidden" name="image||6775a14c6966556382a6e35494518d4f9dc373dcfd9abbb4cfe375a7d8450350||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/creamos-blurred-foxy-thumb.jpg" id="foxyshop_cart_product_image_217572" />
+<input type="hidden" name="url||628b130da48d8c54b29adbc4054fdc681c3d6318b197b38ffe56efc5db1d2474" value="https://crosscatholic.org/products/cps-ovc-support-800-donation/" id="fs_url_217572" />
+<input type="hidden" name="quantity_min||a4aff6a4781f631e0de27ba3bf706392ec9e400fa8788a0a90e1b6421827e74c||open" value="0" id="fs_quantity_min_217572" />
+<input type="hidden" name="quantity_max||90a14f7fc8ff586f84634158c27ac341dbe0ae930289eb2415c139a0e930abf5||open" value="0" id="fs_quantity_max_217572" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217572" />
+<input type="hidden" name="name||3c9e03860a88717a61f21a5e4476078fe98a5a04918f0c35af3b9fb736ccaaeb" id="fs_name_217572" value="Creamos Home for Vulnerable Children - $800 donation" />
+<input type="hidden" name="code||afbb8ef8e547861e0c13ed4156927f0605040b136ea2d426867c4aee88cd6111" id="fs_code_217572" value="WCCC23CHVC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$800_donation||b72dca801d512bb00fbc679909a3fd41ed53f8bffeae818b2134718bb3180ad4" id="WCCC23CHVC_1" value="" class="variation-800-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$800</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$800</span></div></div></form>
+<!-- $1,600 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217573" rel="217573">
+<input type="hidden" name="price||4662c7fbfebaa95534019e730e436ef0c6d888fa3816cb9715c5c0f5474cd674" id="fs_price_217573" value="1600.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217573" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217573" />
+<input type="hidden" name="image||6775a14c6966556382a6e35494518d4f9dc373dcfd9abbb4cfe375a7d8450350||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/creamos-blurred-foxy-thumb.jpg" id="foxyshop_cart_product_image_217573" />
+<input type="hidden" name="url||6178ca98e60cbdb4868b9e1a5109a94f563958c20aaaad03004135df79b21368" value="https://crosscatholic.org/products/creamos-home-for-vulnerable-children-1600-donation/" id="fs_url_217573" />
+<input type="hidden" name="quantity_min||a4aff6a4781f631e0de27ba3bf706392ec9e400fa8788a0a90e1b6421827e74c||open" value="0" id="fs_quantity_min_217573" />
+<input type="hidden" name="quantity_max||90a14f7fc8ff586f84634158c27ac341dbe0ae930289eb2415c139a0e930abf5||open" value="0" id="fs_quantity_max_217573" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217573" />
+<input type="hidden" name="name||084b64a2ae9287b81b26a843035e36f8bcaaeaef88c3a2d8f9c49b9e6eaa2281" id="fs_name_217573" value="Creamos Home for Vulnerable Children - $1,600 donation" />
+<input type="hidden" name="code||afbb8ef8e547861e0c13ed4156927f0605040b136ea2d426867c4aee88cd6111" id="fs_code_217573" value="WCCC23CHVC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1,600_donation||786006811437327c5cf50513c1ac59582c70d0acf355ef654f8e8084e0c3c895" id="WCCC23CHVC_1" value="" class="variation-1600-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,600</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,600.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217574" rel="217574">
+<input type="hidden" name="price||0bf0406963e4d00823d164d116b89cd458cb20e444c42337c2f97964ee0683a2" id="fs_price_217574" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217574" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217574" />
+<input type="hidden" name="image||6775a14c6966556382a6e35494518d4f9dc373dcfd9abbb4cfe375a7d8450350||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/creamos-blurred-foxy-thumb.jpg" id="foxyshop_cart_product_image_217574" />
+<input type="hidden" name="url||018078fd5a6ab398a0ed7c59f4dbf95e0f1de51a4a72d1b3673b76b5c04daa2f" value="https://crosscatholic.org/products/creamos-home-for-vulnerable-children/" id="fs_url_217574" />
+<input type="hidden" name="quantity_min||a4aff6a4781f631e0de27ba3bf706392ec9e400fa8788a0a90e1b6421827e74c||open" value="0" id="fs_quantity_min_217574" />
+<input type="hidden" name="quantity_max||90a14f7fc8ff586f84634158c27ac341dbe0ae930289eb2415c139a0e930abf5||open" value="0" id="fs_quantity_max_217574" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217574" />
+<input type="hidden" name="name||3158158aceb5edab19e7b5a9bed2dc4034109c8a360bee5258948255b5f9d4f6" id="fs_name_217574" value="Creamos Home for Vulnerable Children" />
+<input type="hidden" name="code||afbb8ef8e547861e0c13ed4156927f0605040b136ea2d426867c4aee88cd6111" id="fs_code_217574" value="WCCC23CHVC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||fb8d27173f10ba48bae200bd1c8983a87fd8b8915712d85d7246e8024221d32b||open" id="WCCC23CHVC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
