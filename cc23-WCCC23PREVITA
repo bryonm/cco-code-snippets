@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23PREVITA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $31 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157023" rel="157023">
+<input type="hidden" name="price||282d4f586a54c421ee753e30b5b8f76f48a0f350a88dd6ce3e976f6120e24f26" id="fs_price_157023" value="31.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157023" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157023" />
+<input type="hidden" name="image||1c1f6fac807e7054766c7402766770c4545e385143d9908751e9dcd161983716||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/prenatal-foxy-thumb.jpg" id="foxyshop_cart_product_image_157023" />
+<input type="hidden" name="url||f39482755b200dd42f83473a560c787ea10e13c0a90de752722b5861472b0ba2" value="https://crosscatholic.org/products/prenatal-vitamins-for-mothers-32-donation/" id="fs_url_157023" />
+<input type="hidden" name="quantity_min||7a3c9b2f1fef132320c56e23f372d9ff5391230198c5b173a71b91792575be7a||open" value="0" id="fs_quantity_min_157023" />
+<input type="hidden" name="quantity_max||6e64deebb9253923ba4e99286686fa35477594db1dbe2150c836943a0fa4f052||open" value="0" id="fs_quantity_max_157023" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157023" />
+<input type="hidden" name="name||9593c3c402f33d915870cd558995c2877be844644ea708869522d892ae418b61" id="fs_name_157023" value="Prenatal Vitamins for Mothers - $31 donation" />
+<input type="hidden" name="code||ef6cd6ba143147afd48f6edf6db8bae366790092ad9b77de1201248d5d380ab3" id="fs_code_157023" value="WCCC23PREVITA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$31_donation||9c3bb520dae1e8af5b4ec5196c68d160bb19513bca4c12b3eb9802e2af2b0cdc" id="WCCC23PREVITA_1" value="" class="variation-31-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$31</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$31.00</span></div></div></form>
+<!-- $47 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157024" rel="157024">
+<input type="hidden" name="price||f6e8f2315801510f7b1e33910c00903d5cefac2648b8655a282a3c6a61d83e1b" id="fs_price_157024" value="47.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157024" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157024" />
+<input type="hidden" name="image||1c1f6fac807e7054766c7402766770c4545e385143d9908751e9dcd161983716||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/prenatal-foxy-thumb.jpg" id="foxyshop_cart_product_image_157024" />
+<input type="hidden" name="url||292642146c1c51d27f35fa76e21d3cfb1cced790201b808fa1c7f3595eaea16a" value="https://crosscatholic.org/products/prenatal-vitamins-for-mothers-48-donation/" id="fs_url_157024" />
+<input type="hidden" name="quantity_min||7a3c9b2f1fef132320c56e23f372d9ff5391230198c5b173a71b91792575be7a||open" value="0" id="fs_quantity_min_157024" />
+<input type="hidden" name="quantity_max||6e64deebb9253923ba4e99286686fa35477594db1dbe2150c836943a0fa4f052||open" value="0" id="fs_quantity_max_157024" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157024" />
+<input type="hidden" name="name||c558e05a8aba025b68ec42a95a34dfe2e949396b14e174f38323754ccb8e086e" id="fs_name_157024" value="Prenatal Vitamins for Mothers - $47 donation" />
+<input type="hidden" name="code||ef6cd6ba143147afd48f6edf6db8bae366790092ad9b77de1201248d5d380ab3" id="fs_code_157024" value="WCCC23PREVITA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$47_donation||d192b050ee220fe433454829728fee1d019d967c88d16db5e22c04ec899875e7" id="WCCC23PREVITA_1" value="" class="variation-47-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$47</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$47</span></div></div></form>
+<!-- $93 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157025" rel="157025">
+<input type="hidden" name="price||7d38507a3b359f1a11f6d17df925d99fa41ddab2a675ecd42bca02f694ca9b25" id="fs_price_157025" value="93.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157025" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157025" />
+<input type="hidden" name="image||1c1f6fac807e7054766c7402766770c4545e385143d9908751e9dcd161983716||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/prenatal-foxy-thumb.jpg" id="foxyshop_cart_product_image_157025" />
+<input type="hidden" name="url||06bec02dc6ecac572ad8c62eb98ff929c70c9da27fb0b4d84affbfb72b251fb1" value="https://crosscatholic.org/products/prenatal-vitamins-for-mothers-96-donation/" id="fs_url_157025" />
+<input type="hidden" name="quantity_min||7a3c9b2f1fef132320c56e23f372d9ff5391230198c5b173a71b91792575be7a||open" value="0" id="fs_quantity_min_157025" />
+<input type="hidden" name="quantity_max||6e64deebb9253923ba4e99286686fa35477594db1dbe2150c836943a0fa4f052||open" value="0" id="fs_quantity_max_157025" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157025" />
+<input type="hidden" name="name||e716dc3eb2a643e1796d9042c63d1cc0122533b0d9b307758ed128dcf2458b00" id="fs_name_157025" value="Prenatal Vitamins for Mothers - $93 donation" />
+<input type="hidden" name="code||ef6cd6ba143147afd48f6edf6db8bae366790092ad9b77de1201248d5d380ab3" id="fs_code_157025" value="WCCC23PREVITA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$93_donation||30b9d5f188941f2ea47ab6d3ad6c427b5b551251000b7e172a4d986351890e76" id="WCCC23PREVITA_1" value="" class="variation-93-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$93</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$93.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157026" rel="157026">
+<input type="hidden" name="price||57aaeb08ef34ed94ca1578879f2052708716865ed6a4ec1a3f61f391ac89e098" id="fs_price_157026" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157026" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157026" />
+<input type="hidden" name="image||1c1f6fac807e7054766c7402766770c4545e385143d9908751e9dcd161983716||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/prenatal-foxy-thumb.jpg" id="foxyshop_cart_product_image_157026" />
+<input type="hidden" name="url||9ead7c749240bcbe6fe71533107c5923d7a01c87b88f738cb76a4d9e3612548a" value="https://crosscatholic.org/products/prenatal-vitamins-for-mothers/" id="fs_url_157026" />
+<input type="hidden" name="quantity_min||7a3c9b2f1fef132320c56e23f372d9ff5391230198c5b173a71b91792575be7a||open" value="0" id="fs_quantity_min_157026" />
+<input type="hidden" name="quantity_max||6e64deebb9253923ba4e99286686fa35477594db1dbe2150c836943a0fa4f052||open" value="0" id="fs_quantity_max_157026" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157026" />
+<input type="hidden" name="name||9ac541ca8e001809b84a3f720bb4ae290216dd133066e832aa5dc4dce38ec80a" id="fs_name_157026" value="Prenatal Vitamins for Mothers" />
+<input type="hidden" name="code||ef6cd6ba143147afd48f6edf6db8bae366790092ad9b77de1201248d5d380ab3" id="fs_code_157026" value="WCCC23PREVITA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||26b3e89ebd5133d7e8b4590948034fc2f8cc9e80c241a84fecc2cb7168958db6||open" id="WCCC23PREVITA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
