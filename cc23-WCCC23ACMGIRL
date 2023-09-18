@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23ACMGIRL', function () {
+
+	$out = '<div class="flex-container">
+<!-- $1,250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157045" rel="157045">
+<input type="hidden" name="price||4cfd7f42d208743afe0473dee26de0c24c8631754ea154809e57a85d61abd818" id="fs_price_157045" value="1250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157045" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157045" />
+<input type="hidden" name="image||02dd6c8db272603674522f0c5793c589c9590004719f5c6496b370efac520357||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1164-ACM-Girls-Rescue-foxy-thumb-29.jpg" id="foxyshop_cart_product_image_157045" />
+<input type="hidden" name="url||7d9c7ab853518e84c0d7600d900941138a671ede9f8f052ea9af1a6d01a31cd0" value="https://crosscatholic.org/products/rescue-orphan-girls-in-mozambique-1250-donation/" id="fs_url_157045" />
+<input type="hidden" name="quantity_min||b60015067882d037a2bf563391ff94cbc9643589ffa76222d6f777336db8c3ab||open" value="0" id="fs_quantity_min_157045" />
+<input type="hidden" name="quantity_max||ff8538dbab14f560b2d80259bee646467dbb16a9569ddbedda46f2dd67bb598c||open" value="0" id="fs_quantity_max_157045" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157045" />
+<input type="hidden" name="name||ab54518b4a957412a7fd01b57a23fd87a0f6688d36391624b818e481bf8f1e34" id="fs_name_157045" value="Rescue Orphan Girls in Mozambique - $1,250 donation" />
+<input type="hidden" name="code||e20da9043d06af97b95dcbefa6e3bc60288555a62ea907f9e561bfe8fa64d280" id="fs_code_157045" value="WCCC23ACMGIRL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1,250_donation||5699bbd8d9c94e51a777f94937581c5e1157b3da9630fe3e115f46a484ae1b7a" id="WCCC23ACMGIRL_1" value="" class="variation-1250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,250</span></div></div></form>
+<!-- $2,500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157046" rel="157046">
+<input type="hidden" name="price||b016d552585633cf45380f7929c2b72b30b11135866b38d668ef06c02610f81d" id="fs_price_157046" value="2500.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157046" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157046" />
+<input type="hidden" name="image||02dd6c8db272603674522f0c5793c589c9590004719f5c6496b370efac520357||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1164-ACM-Girls-Rescue-foxy-thumb-29-1.jpg" id="foxyshop_cart_product_image_157046" />
+<input type="hidden" name="url||0c93e79f7f755f04769ec9e57c60d17de94482b89ff864d40a6d5896a6dc5526" value="https://crosscatholic.org/products/rescue-orphan-girls-in-mozambique-2500-donation/" id="fs_url_157046" />
+<input type="hidden" name="quantity_min||b60015067882d037a2bf563391ff94cbc9643589ffa76222d6f777336db8c3ab||open" value="0" id="fs_quantity_min_157046" />
+<input type="hidden" name="quantity_max||ff8538dbab14f560b2d80259bee646467dbb16a9569ddbedda46f2dd67bb598c||open" value="0" id="fs_quantity_max_157046" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157046" />
+<input type="hidden" name="name||0184a688bf04715ec33e455f47bf6697e5b834d72ef5e6713c6080aaf18d3e98" id="fs_name_157046" value="Rescue Orphan Girls in Mozambique - $2,500 donation" />
+<input type="hidden" name="code||e20da9043d06af97b95dcbefa6e3bc60288555a62ea907f9e561bfe8fa64d280" id="fs_code_157046" value="WCCC23ACMGIRL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$2,500_donation||74941858c73cf931fdb991ad582119873238b0554c8bb5d25cbf2000530074a6" id="WCCC23ACMGIRL_1" value="" class="variation-2500-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$2,500</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$2,500.00</span></div></div></form>
+<!-- $6,250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157047" rel="157047">
+<input type="hidden" name="price||e54b0fd84c145b262fa9aad21acbcd3b94350181cf24b50ca2727e641ceaf3b5" id="fs_price_157047" value="6250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157047" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157047" />
+<input type="hidden" name="image||02dd6c8db272603674522f0c5793c589c9590004719f5c6496b370efac520357||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1164-ACM-Girls-Rescue-foxy-thumb-29-2.jpg" id="foxyshop_cart_product_image_157047" />
+<input type="hidden" name="url||f3e4388afc3c6830f562c9c06d95be4d3ea82e7e6b78ece5e6a5e34aab0d4338" value="https://crosscatholic.org/products/rescue-orphan-girls-in-mozambique-6250-donation/" id="fs_url_157047" />
+<input type="hidden" name="quantity_min||b60015067882d037a2bf563391ff94cbc9643589ffa76222d6f777336db8c3ab||open" value="0" id="fs_quantity_min_157047" />
+<input type="hidden" name="quantity_max||ff8538dbab14f560b2d80259bee646467dbb16a9569ddbedda46f2dd67bb598c||open" value="0" id="fs_quantity_max_157047" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157047" />
+<input type="hidden" name="name||df58932aa40c7e7ed7768a561e366ab72cb9161af798e7ce7f7a064570d81b19" id="fs_name_157047" value="Rescue Orphan Girls in Mozambique - $6,250 donation" />
+<input type="hidden" name="code||e20da9043d06af97b95dcbefa6e3bc60288555a62ea907f9e561bfe8fa64d280" id="fs_code_157047" value="WCCC23ACMGIRL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$6,250_donation||1b5a3bfa17a66b64b6066b02d035f14313ce146291825b5a119fdf81fab9fccc" id="WCCC23ACMGIRL_1" value="" class="variation-6250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$6,250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$6,250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_157048" rel="157048">
+<input type="hidden" name="price||940ae2e0447df4faea52312987f14fb0f69b839cb6afb2816e8a1058b0c3356a" id="fs_price_157048" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_157048" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_157048" />
+<input type="hidden" name="image||02dd6c8db272603674522f0c5793c589c9590004719f5c6496b370efac520357||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1164-ACM-Girls-Rescue-foxy-thumb-29-3.jpg" id="foxyshop_cart_product_image_157048" />
+<input type="hidden" name="url||6f61f02b089eb680b1504c88cc3b2e4e8758ae867dc643221aa409ec86ac628e" value="https://crosscatholic.org/products/rescue-orphan-girls-in-mozambique/" id="fs_url_157048" />
+<input type="hidden" name="quantity_min||b60015067882d037a2bf563391ff94cbc9643589ffa76222d6f777336db8c3ab||open" value="0" id="fs_quantity_min_157048" />
+<input type="hidden" name="quantity_max||ff8538dbab14f560b2d80259bee646467dbb16a9569ddbedda46f2dd67bb598c||open" value="0" id="fs_quantity_max_157048" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_157048" />
+<input type="hidden" name="name||37d46a9d0149ad1ae7d27ce50935bfa72e767a54ec51291a7642f4e593c98c2f" id="fs_name_157048" value="Rescue Orphan Girls in Mozambique" />
+<input type="hidden" name="code||e20da9043d06af97b95dcbefa6e3bc60288555a62ea907f9e561bfe8fa64d280" id="fs_code_157048" value="WCCC23ACMGIRL" />
+<div class="foxyshop_variations">
+<input type="text" name="price||5b4d513a0d08771a3fc364ca2014c86b014df620b2052d6ebee749f1bc146e3c||open" id="WCCC23ACMGIRL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
