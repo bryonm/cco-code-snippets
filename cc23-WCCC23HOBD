@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23HOBD', function () {
+
+	$out = '<div class="flex-container">
+<!-- $200 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217604" rel="217604">
+<input type="hidden" name="price||0008c91bd39a2aa4c22277a163dfb645cd2f87bc1c3894fed24a54a56aa62ebe" id="fs_price_217604" value="200.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217604" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217604" />
+<input type="hidden" name="image||aa07068c7ee03be3d475da6053299c616354296ba0663552fbc1b53cd1fcbba5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/hospital-beds-foxy-thumb.jpg" id="foxyshop_cart_product_image_217604" />
+<input type="hidden" name="url||28182354a1daa3eb2c225903ccb4aa3958b7644cc8410a638d4e4b595927fdbd" value="https://crosscatholic.org/products/hospital-beds-50-donation/" id="fs_url_217604" />
+<input type="hidden" name="quantity_min||beb80c630c5039fc0d71ef06e68f43abd9573a902333af1a98e75edb8429485f||open" value="0" id="fs_quantity_min_217604" />
+<input type="hidden" name="quantity_max||c25ab2d6d31838a350bd6723757350fccb253d408b667460a1c933b744f6a5b3||open" value="0" id="fs_quantity_max_217604" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217604" />
+<input type="hidden" name="name||70b6e3b1dfea437665232674b65ef6b6ddaf8f8e99616bb12943360c565bd7ed" id="fs_name_217604" value="Hospital Beds - $200 donation" />
+<input type="hidden" name="code||4b43dfedfcb93e9fda7ffff5f0834de5fbb0b864a5be70744061483fddc298fd" id="fs_code_217604" value="WCCC23HOBD" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$200_donation||e6de09a7504319b8bf65993ca60d233731ac1a80144ec90415ac1f748b87b944" id="WCCC23HOBD_1" value="" class="variation-200-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$200</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$200.00</span></div></div></form>
+<!-- $400 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217605" rel="217605">
+<input type="hidden" name="price||5e11727a78fcdef0c312b93d02b99fcabf5c7701b52c2c97c41d5b806253109f" id="fs_price_217605" value="400.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217605" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217605" />
+<input type="hidden" name="image||aa07068c7ee03be3d475da6053299c616354296ba0663552fbc1b53cd1fcbba5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/hospital-beds-foxy-thumb.jpg" id="foxyshop_cart_product_image_217605" />
+<input type="hidden" name="url||3ae466593471b77cf940429625544bc4e91fea08f6259f0e90653a19ab64d709" value="https://crosscatholic.org/products/hospital-beds-100-donation/" id="fs_url_217605" />
+<input type="hidden" name="quantity_min||beb80c630c5039fc0d71ef06e68f43abd9573a902333af1a98e75edb8429485f||open" value="0" id="fs_quantity_min_217605" />
+<input type="hidden" name="quantity_max||c25ab2d6d31838a350bd6723757350fccb253d408b667460a1c933b744f6a5b3||open" value="0" id="fs_quantity_max_217605" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217605" />
+<input type="hidden" name="name||8f035a3e3c6716101e416d3f8929931ceb03c3be4d4314912760b05b1af512b5" id="fs_name_217605" value="Hospital Beds - $400 donation" />
+<input type="hidden" name="code||4b43dfedfcb93e9fda7ffff5f0834de5fbb0b864a5be70744061483fddc298fd" id="fs_code_217605" value="WCCC23HOBD" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$400_donation||6fc1d799f1efcacdd4c6724fdc0df799930c9c7d62e9ec666d302dcb1f5d541e" id="WCCC23HOBD_1" value="" class="variation-400-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$400</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$400</span></div></div></form>
+<!-- $600 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217606" rel="217606">
+<input type="hidden" name="price||76fbff767880a8e86225d4019fcd66089d3da69822668a594e1438aff201ea11" id="fs_price_217606" value="600.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217606" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217606" />
+<input type="hidden" name="image||aa07068c7ee03be3d475da6053299c616354296ba0663552fbc1b53cd1fcbba5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/hospital-beds-foxy-thumb.jpg" id="foxyshop_cart_product_image_217606" />
+<input type="hidden" name="url||81b5c507ce72b04a9dc80e7fcd8c13f7571be47ee5220f018124972a37425b75" value="https://crosscatholic.org/products/hospital-beds-200-donation/" id="fs_url_217606" />
+<input type="hidden" name="quantity_min||beb80c630c5039fc0d71ef06e68f43abd9573a902333af1a98e75edb8429485f||open" value="0" id="fs_quantity_min_217606" />
+<input type="hidden" name="quantity_max||c25ab2d6d31838a350bd6723757350fccb253d408b667460a1c933b744f6a5b3||open" value="0" id="fs_quantity_max_217606" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217606" />
+<input type="hidden" name="name||7285ebf820dd20db536c627feac45dc361beb1379615dfb88c18583e07dee28b" id="fs_name_217606" value="Hospital Beds - $600 donation" />
+<input type="hidden" name="code||4b43dfedfcb93e9fda7ffff5f0834de5fbb0b864a5be70744061483fddc298fd" id="fs_code_217606" value="WCCC23HOBD" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$600_donation||ad1a0ad9377b8e3314de0b3e3be567441999c179ebeec43f5c525ee755893995" id="WCCC23HOBD_1" value="" class="variation-600-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$600</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$600.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217607" rel="217607">
+<input type="hidden" name="price||9c2a53644a91507d1b8225d54f095f29cadd8b60c06ab58b68a7c39dd70fcef9" id="fs_price_217607" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217607" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217607" />
+<input type="hidden" name="image||aa07068c7ee03be3d475da6053299c616354296ba0663552fbc1b53cd1fcbba5||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/hospital-beds-foxy-thumb.jpg" id="foxyshop_cart_product_image_217607" />
+<input type="hidden" name="url||0e2a5b3cfe35675317ce3155ae761d340ebc887080679e3e2891aadf932b2661" value="https://crosscatholic.org/products/hospital-beds/" id="fs_url_217607" />
+<input type="hidden" name="quantity_min||beb80c630c5039fc0d71ef06e68f43abd9573a902333af1a98e75edb8429485f||open" value="0" id="fs_quantity_min_217607" />
+<input type="hidden" name="quantity_max||c25ab2d6d31838a350bd6723757350fccb253d408b667460a1c933b744f6a5b3||open" value="0" id="fs_quantity_max_217607" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217607" />
+<input type="hidden" name="name||27439d100de37cd03f1a5323febdd0c6dcc5624e24942a960ac5549ab79e74d9" id="fs_name_217607" value="Hospital Beds" />
+<input type="hidden" name="code||4b43dfedfcb93e9fda7ffff5f0834de5fbb0b864a5be70744061483fddc298fd" id="fs_code_217607" value="WCCC23HOBD" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2177cce1bd4d3e739b63dda6b73ff0c88cb5f841c5107b0725df92ed96c280a2||open" id="WCCC23HOBD_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
