@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23MCHC', function () {
+
+	$out = '<div class="flex-container">
+<!-- $36 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156933" rel="156933">
+<input type="hidden" name="price||0dd5f27158ed09d532658ff845e852813c4e4f911973b1b7f464bc1bbe9ef913" id="fs_price_156933" value="36.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156933" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156933" />
+<input type="hidden" name="image||18567ca48eff42f91d573e73643133b7bcdf74c45b65fffb87099056169d3173||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1429-Maternal-and-Child-Health-Care-in-Ethiopia-foxy-thumb-21.jpg" id="foxyshop_cart_product_image_156933" />
+<input type="hidden" name="url||62d8f72f03dbad6b0c372537aa63380f6d1f4d3e0979a0de3aeb95e9725d6e2b" value="https://crosscatholic.org/products/maternal-and-child-health-care-in-ethiopia-36-donation/" id="fs_url_156933" />
+<input type="hidden" name="quantity_min||8b899b8bc1e9ef8b80c92207f4765293d269de752ae123fee86fb15267b641ea||open" value="0" id="fs_quantity_min_156933" />
+<input type="hidden" name="quantity_max||1f7fffc418b203da91ae57339d9124bac17351f2ad750305c718a4ae98a076c6||open" value="0" id="fs_quantity_max_156933" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156933" />
+<input type="hidden" name="name||a656583c9e0ebe59d5bdc7c738f507d72855baf86d8aee2b727ff1950b0958be" id="fs_name_156933" value="Maternal and Child Health Care in Ethiopia - $36 donation" />
+<input type="hidden" name="code||919a5498d2b3508e84688f8754de5047cbf6e65b7482ec3b514b65ea56e7fa7d" id="fs_code_156933" value="WCCC23MCHC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$36_donation||2f204971f81ece8fd81add3e927ad19bb00a4a05b69b25bedced6e3b9e326c3c" id="WCCC23MCHC_1" value="" class="variation-36-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$36</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$36.00</span></div></div></form>
+<!-- $72 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156934" rel="156934">
+<input type="hidden" name="price||5adaa3096bb129508d6d23206846d4c570005600f2106bcf8db9cf48a691c414" id="fs_price_156934" value="72.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156934" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156934" />
+<input type="hidden" name="image||18567ca48eff42f91d573e73643133b7bcdf74c45b65fffb87099056169d3173||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1429-Maternal-and-Child-Health-Care-in-Ethiopia-foxy-thumb-21-1.jpg" id="foxyshop_cart_product_image_156934" />
+<input type="hidden" name="url||a81723ec1573667cd4167a0da72860e52d18f9990bf453f9c7c15093bbd1d7df" value="https://crosscatholic.org/products/maternal-and-child-health-care-in-ethiopia-72-donation/" id="fs_url_156934" />
+<input type="hidden" name="quantity_min||8b899b8bc1e9ef8b80c92207f4765293d269de752ae123fee86fb15267b641ea||open" value="0" id="fs_quantity_min_156934" />
+<input type="hidden" name="quantity_max||1f7fffc418b203da91ae57339d9124bac17351f2ad750305c718a4ae98a076c6||open" value="0" id="fs_quantity_max_156934" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156934" />
+<input type="hidden" name="name||8c8b9df6dc061edf559b937e3cc39e443f46793248e805e440da214ca43690af" id="fs_name_156934" value="Maternal and Child Health Care in Ethiopia - $72 donation" />
+<input type="hidden" name="code||919a5498d2b3508e84688f8754de5047cbf6e65b7482ec3b514b65ea56e7fa7d" id="fs_code_156934" value="WCCC23MCHC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$72_donation||066892e89829fb15042dcdc2bbeeba82012ea815c1af77194995706ec863ef19" id="WCCC23MCHC_1" value="" class="variation-72-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$72</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$72</span></div></div></form>
+<!-- $108 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156935" rel="156935">
+<input type="hidden" name="price||18a100fb943c9139f6f693c74cb4fd57f5feb1d433e9e179e2a608e6b5030cf7" id="fs_price_156935" value="108.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156935" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156935" />
+<input type="hidden" name="image||18567ca48eff42f91d573e73643133b7bcdf74c45b65fffb87099056169d3173||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1429-Maternal-and-Child-Health-Care-in-Ethiopia-foxy-thumb-21-2.jpg" id="foxyshop_cart_product_image_156935" />
+<input type="hidden" name="url||05309212ee4f8a80a9c049f6d94b1d161823c78981ab1462b6f5796a51bf78d8" value="https://crosscatholic.org/products/maternal-and-child-health-care-in-ethiopia-108-donation/" id="fs_url_156935" />
+<input type="hidden" name="quantity_min||8b899b8bc1e9ef8b80c92207f4765293d269de752ae123fee86fb15267b641ea||open" value="0" id="fs_quantity_min_156935" />
+<input type="hidden" name="quantity_max||1f7fffc418b203da91ae57339d9124bac17351f2ad750305c718a4ae98a076c6||open" value="0" id="fs_quantity_max_156935" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156935" />
+<input type="hidden" name="name||a205ba758c6c2315e535646f2b0686a2507d064cd88cdcfd8ebbf37b31a3ff0e" id="fs_name_156935" value="Maternal and Child Health Care in Ethiopia - $108 donation" />
+<input type="hidden" name="code||919a5498d2b3508e84688f8754de5047cbf6e65b7482ec3b514b65ea56e7fa7d" id="fs_code_156935" value="WCCC23MCHC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$108_donation||fd53658c7a374e1b57d58e9adbba08cfbfa5b440c76b105a3d9bf73c99a927fe" id="WCCC23MCHC_1" value="" class="variation-108-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$108</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$108.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156936" rel="156936">
+<input type="hidden" name="price||fd30f1349074ccb6ab5eab782983413ecbb70169a51ef40d3fc793a5ceb38388" id="fs_price_156936" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156936" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156936" />
+<input type="hidden" name="image||18567ca48eff42f91d573e73643133b7bcdf74c45b65fffb87099056169d3173||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1429-Maternal-and-Child-Health-Care-in-Ethiopia-foxy-thumb-21-3.jpg" id="foxyshop_cart_product_image_156936" />
+<input type="hidden" name="url||637a5479f5817b8d5f1e7829b2e31d2d893ee3cdeac2418f8e9ea546ac568198" value="https://crosscatholic.org/products/maternal-and-child-health-care-in-ethiopia/" id="fs_url_156936" />
+<input type="hidden" name="quantity_min||8b899b8bc1e9ef8b80c92207f4765293d269de752ae123fee86fb15267b641ea||open" value="0" id="fs_quantity_min_156936" />
+<input type="hidden" name="quantity_max||1f7fffc418b203da91ae57339d9124bac17351f2ad750305c718a4ae98a076c6||open" value="0" id="fs_quantity_max_156936" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156936" />
+<input type="hidden" name="name||fb8ed7ef65d579e8ba083a0e25dd1cd52b30e0c08ad83e63aeb76fb2d09accfd" id="fs_name_156936" value="Maternal and Child Health Care in Ethiopia" />
+<input type="hidden" name="code||919a5498d2b3508e84688f8754de5047cbf6e65b7482ec3b514b65ea56e7fa7d" id="fs_code_156936" value="WCCC23MCHC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||8180053883fec29a6b55851b99bfac26805e55809dbdb53272433ac5cb0f7db6||open" id="WCCC23MCHC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
