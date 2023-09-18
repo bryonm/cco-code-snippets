@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23MAGR', function () {
+
+	$out = '<div class="flex-container">
+<!-- $125 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217658" rel="217658">
+<input type="hidden" name="price||6e478d5fa9d17dcf83d75bd5aac9164bf0a667cc8aa24ec9d2dcb27c0a17b62e" id="fs_price_217658" value="125.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217658" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217658" />
+<input type="hidden" name="image||99af0b01648c8f37e13f226b097dfc0a9cb9bac171d55781bd5d9a072a094a1a||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Marie-Adelide-Girls-Rescue-Center-foxy-thumb.jpg" id="foxyshop_cart_product_image_217658" />
+<input type="hidden" name="url||8c7e301784a91c5c6f917d9bc3790a332956d3d8593a4fcbd9468562937ea162" value="https://crosscatholic.org/products/marie-adelide-girls-rescue-center-125-donation/" id="fs_url_217658" />
+<input type="hidden" name="quantity_min||34f853730792b865fc5c8bf6c868d49da02212720c0303f60837e9f11987394d||open" value="0" id="fs_quantity_min_217658" />
+<input type="hidden" name="quantity_max||edf34547a06f857773f43a33d1261f22e1c7aee0c0e4a8713fdf97e04c6888a6||open" value="0" id="fs_quantity_max_217658" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217658" />
+<input type="hidden" name="name||912e100134cbd7638e6b18bd3e44bc1a5b4d931eff7cd6ab1543bbec8be369be" id="fs_name_217658" value="Marie Adelide Girls Rescue Center - $125 donation" />
+<input type="hidden" name="code||a391fae534a52d98a5c209b1a5bc576c35ee565eb55677e2fb46c699c6684338" id="fs_code_217658" value="WCCC23MAGR" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$125_donation||940518a01542c745654942b48dbdcc43a5c92bed9fcf6841b77e70c676ee8f00" id="WCCC23MAGR_1" value="" class="variation-125-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$125</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$125.00</span></div></div></form>
+<!-- $750 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217659" rel="217659">
+<input type="hidden" name="price||574ff515b7be2a64877c113ae48f2519a9467fbb53b5551f77b200def7089cae" id="fs_price_217659" value="750.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217659" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217659" />
+<input type="hidden" name="image||99af0b01648c8f37e13f226b097dfc0a9cb9bac171d55781bd5d9a072a094a1a||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Marie-Adelide-Girls-Rescue-Center-foxy-thumb.jpg" id="foxyshop_cart_product_image_217659" />
+<input type="hidden" name="url||4ab5e1f017f13b387c87f433ba931eb8faef2688002f796638bfb52e52f460db" value="https://crosscatholic.org/products/marie-adelide-girls-rescue-center-750-donation/" id="fs_url_217659" />
+<input type="hidden" name="quantity_min||34f853730792b865fc5c8bf6c868d49da02212720c0303f60837e9f11987394d||open" value="0" id="fs_quantity_min_217659" />
+<input type="hidden" name="quantity_max||edf34547a06f857773f43a33d1261f22e1c7aee0c0e4a8713fdf97e04c6888a6||open" value="0" id="fs_quantity_max_217659" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217659" />
+<input type="hidden" name="name||29774d03867a55b00ba130916e29a4c53c58f8c02810472957f52cc57959c65e" id="fs_name_217659" value="Marie Adelide Girls Rescue Center - $750 donation" />
+<input type="hidden" name="code||a391fae534a52d98a5c209b1a5bc576c35ee565eb55677e2fb46c699c6684338" id="fs_code_217659" value="WCCC23MAGR" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$750_donation||2626b6ce328171958e7a42f23b46de5e4f3b9e2c3537ad48738c1f96ee2d12fa" id="WCCC23MAGR_1" value="" class="variation-750-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$750</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$750</span></div></div></form>
+<!-- $1,500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217660" rel="217660">
+<input type="hidden" name="price||30f90166fb8f63069185fbc0c91a9131d25cd3cb3db86d0106341162c05205df" id="fs_price_217660" value="1500.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217660" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217660" />
+<input type="hidden" name="image||99af0b01648c8f37e13f226b097dfc0a9cb9bac171d55781bd5d9a072a094a1a||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Marie-Adelide-Girls-Rescue-Center-foxy-thumb.jpg" id="foxyshop_cart_product_image_217660" />
+<input type="hidden" name="url||7be1ef59c54d6ad21251390792092167f680091eb962aff7a112aacd5a793eff" value="https://crosscatholic.org/products/marie-adelide-girls-rescue-center-1500-donation/" id="fs_url_217660" />
+<input type="hidden" name="quantity_min||34f853730792b865fc5c8bf6c868d49da02212720c0303f60837e9f11987394d||open" value="0" id="fs_quantity_min_217660" />
+<input type="hidden" name="quantity_max||edf34547a06f857773f43a33d1261f22e1c7aee0c0e4a8713fdf97e04c6888a6||open" value="0" id="fs_quantity_max_217660" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217660" />
+<input type="hidden" name="name||664b8fc0b5b127eca630f80626155fbd0e78abd44537a9b37dd738a79af4ee2f" id="fs_name_217660" value="Marie Adelide Girls Rescue Center - $1,500 donation" />
+<input type="hidden" name="code||a391fae534a52d98a5c209b1a5bc576c35ee565eb55677e2fb46c699c6684338" id="fs_code_217660" value="WCCC23MAGR" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1500_donation||9fe2ded436888d6b1f1b94ab7d455b951143b8621eb14cb4ae0a08c94e37bf2d" id="WCCC23MAGR_1" value="" class="variation-1500-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,500</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,500.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217661" rel="217661">
+<input type="hidden" name="price||c223f9deef8bfe5df8b99fa737e72476dec5ddc474d4590a3bb2a0bf996a8fe2" id="fs_price_217661" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217661" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217661" />
+<input type="hidden" name="image||99af0b01648c8f37e13f226b097dfc0a9cb9bac171d55781bd5d9a072a094a1a||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Marie-Adelide-Girls-Rescue-Center-foxy-thumb.jpg" id="foxyshop_cart_product_image_217661" />
+<input type="hidden" name="url||d6b075a64fc5aa816dfe5df803424a25a36fcb2184aa6b6d647bb3810433c1fa" value="https://crosscatholic.org/products/marie-adelide-girls-rescue-center/" id="fs_url_217661" />
+<input type="hidden" name="quantity_min||34f853730792b865fc5c8bf6c868d49da02212720c0303f60837e9f11987394d||open" value="0" id="fs_quantity_min_217661" />
+<input type="hidden" name="quantity_max||edf34547a06f857773f43a33d1261f22e1c7aee0c0e4a8713fdf97e04c6888a6||open" value="0" id="fs_quantity_max_217661" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217661" />
+<input type="hidden" name="name||8efed13db7e8dd41c9b73abe6de3d75a8a006e80ca9cf2b5417955ac1047e960" id="fs_name_217661" value="Marie Adelide Girls Rescue Center" />
+<input type="hidden" name="code||a391fae534a52d98a5c209b1a5bc576c35ee565eb55677e2fb46c699c6684338" id="fs_code_217661" value="WCCC23MAGR" />
+<div class="foxyshop_variations">
+<input type="text" name="price||32ba805795f5a875f0ef4adaeccfbd954968aeeb398d614fb137430f4bc7d728||open" id="WCCC23MAGR_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
