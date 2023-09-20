@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23VMHG', function () {
+
+	$out = '<div class="flex-container">
+<!-- $120 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218451" rel="218451">
+<input type="hidden" name="price||0abea678ceec824d6130e1392a5cc35e3bebef608c74f19a4fe33aef5515047b" id="fs_price_218451" value="120.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218451" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218451" />
+<input type="hidden" name="image||04ddbbf07c46f1b063baaaf96a41efb3acbe139af465974462e35cfa8afebf04||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Food-Education-for-Mexican-Girls-Cropped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218451" />
+<input type="hidden" name="url||be3d8015a74cb9188df766e7cb51f75831190b07100b861dcb8191c50030292a" value="https://crosscatholic.org/products/villa-mornese-home-for-girls-25-donation/" id="fs_url_218451" />
+<input type="hidden" name="quantity_min||bd62890780a6f38b24673bbe65031fefc7defb6e0b4d0f1825aeeee32a2dfd45||open" value="0" id="fs_quantity_min_218451" />
+<input type="hidden" name="quantity_max||ec190e0621c06dac34d50e1474a13f8ac74b981b51a4fc6c12b987c09ae55169||open" value="0" id="fs_quantity_max_218451" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218451" />
+<input type="hidden" name="name||43df694d8349150d679f48c6f9d59620107ff5b33dd80b266a7c41dcc9663eba" id="fs_name_218451" value="Villa Mornese Home for Girls - $120 donation" />
+<input type="hidden" name="code||95f2347046f36ec96e30203295553dae6d14b6c217fbe52068f837fb8e5cd80e" id="fs_code_218451" value="WCCC23VMHG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$120_donation||96fea9536292fe56c82121415a21df89f82ead61a50b3a8997e5f218da20d9f9" id="WCCC23VMHG_1" value="" class="variation-120-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$120</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$120.00</span></div></div></form>
+<!-- $720 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218452" rel="218452">
+<input type="hidden" name="price||a6628ae0b915bf9070f793b9688de2deb33622f2918cfe2990b191f38f88f5fe" id="fs_price_218452" value="720.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218452" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218452" />
+<input type="hidden" name="image||04ddbbf07c46f1b063baaaf96a41efb3acbe139af465974462e35cfa8afebf04||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Food-Education-for-Mexican-Girls-Cropped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218452" />
+<input type="hidden" name="url||3ac20909e4c22a9d6a83b490697dd1069f2f8d58aef8df8d325931c53dd61e4c" value="https://crosscatholic.org/products/villa-mornese-home-for-girls-50-donation/" id="fs_url_218452" />
+<input type="hidden" name="quantity_min||bd62890780a6f38b24673bbe65031fefc7defb6e0b4d0f1825aeeee32a2dfd45||open" value="0" id="fs_quantity_min_218452" />
+<input type="hidden" name="quantity_max||ec190e0621c06dac34d50e1474a13f8ac74b981b51a4fc6c12b987c09ae55169||open" value="0" id="fs_quantity_max_218452" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218452" />
+<input type="hidden" name="name||79021abbe647b8e7962cc2b90f9fb27f3432a30666f351b886810036b37f3f0a" id="fs_name_218452" value="Villa Mornese Home for Girls - $720 donation" />
+<input type="hidden" name="code||95f2347046f36ec96e30203295553dae6d14b6c217fbe52068f837fb8e5cd80e" id="fs_code_218452" value="WCCC23VMHG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$720_donation||5f63becf38542f741788dc3264b6cc1142c39386a8206e9049a4f57ba727ceaa" id="WCCC23VMHG_1" value="" class="variation-720-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$720</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$720</span></div></div></form>
+<!-- $1,440 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218453" rel="218453">
+<input type="hidden" name="price||c5eb6e30169628b44ccacd7d571d1012a904c91463066bee320c0e226e97cd4a" id="fs_price_218453" value="1440.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218453" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218453" />
+<input type="hidden" name="image||04ddbbf07c46f1b063baaaf96a41efb3acbe139af465974462e35cfa8afebf04||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Food-Education-for-Mexican-Girls-Cropped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218453" />
+<input type="hidden" name="url||f20ad01f9249685b7de98d707a596b7959ec87d10ef993d87c470899a4e600af" value="https://crosscatholic.org/products/villa-mornese-home-for-girls-100-donation/" id="fs_url_218453" />
+<input type="hidden" name="quantity_min||bd62890780a6f38b24673bbe65031fefc7defb6e0b4d0f1825aeeee32a2dfd45||open" value="0" id="fs_quantity_min_218453" />
+<input type="hidden" name="quantity_max||ec190e0621c06dac34d50e1474a13f8ac74b981b51a4fc6c12b987c09ae55169||open" value="0" id="fs_quantity_max_218453" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218453" />
+<input type="hidden" name="name||7f1773ee2d4d48e4a6ebc535909abf646f74752ae0a461add07be14c318ce6bb" id="fs_name_218453" value="Villa Mornese Home for Girls - $1,440 donation" />
+<input type="hidden" name="code||95f2347046f36ec96e30203295553dae6d14b6c217fbe52068f837fb8e5cd80e" id="fs_code_218453" value="WCCC23VMHG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1,440_donation||946a1c5f044a9de01060a3c1c8e817fe152dad66496508d331f65584677bd191" id="WCCC23VMHG_1" value="" class="variation-1440-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,440</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,440.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218454" rel="218454">
+<input type="hidden" name="price||d86448ba23ef8ee3f60aca965114166c0387aeed214d28b79a1e243f06847926" id="fs_price_218454" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218454" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218454" />
+<input type="hidden" name="image||04ddbbf07c46f1b063baaaf96a41efb3acbe139af465974462e35cfa8afebf04||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Food-Education-for-Mexican-Girls-Cropped-foxy-thumb.jpg" id="foxyshop_cart_product_image_218454" />
+<input type="hidden" name="url||4d6f5e1b53a4035dab1648a2feff12de9e472df4f72789a8d5be3653ff75d49e" value="https://crosscatholic.org/products/villa-mornese-home-for-girls/" id="fs_url_218454" />
+<input type="hidden" name="quantity_min||bd62890780a6f38b24673bbe65031fefc7defb6e0b4d0f1825aeeee32a2dfd45||open" value="0" id="fs_quantity_min_218454" />
+<input type="hidden" name="quantity_max||ec190e0621c06dac34d50e1474a13f8ac74b981b51a4fc6c12b987c09ae55169||open" value="0" id="fs_quantity_max_218454" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218454" />
+<input type="hidden" name="name||0ebc185e4636a8ea99850c12c0119035d085c28a830f0f22a3f9bf563ba2229c" id="fs_name_218454" value="Villa Mornese Home for Girls" />
+<input type="hidden" name="code||95f2347046f36ec96e30203295553dae6d14b6c217fbe52068f837fb8e5cd80e" id="fs_code_218454" value="WCCC23VMHG" />
+<div class="foxyshop_variations">
+<input type="text" name="price||c0a736e48fa094bde173b61f71527b6e787e168f40fa9d781c34796df6a69613||open" id="WCCC23VMHG_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
