@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23JEREMIE', function () {
+
+	$out = '<div class="flex-container">
+<!-- $78 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156665" rel="156665">
+<input type="hidden" name="price||e38f6a0fddf5ba8ab7262c6f04ebde2fd80da6e676e0d787ab9ca04857388d79" id="fs_price_156665" value="78.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156665" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156665" />
+<input type="hidden" name="image||41565d08d525ed345ce78287d46fcbc1500152c9d5e1e261b7a2c91778eff03d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1595-Breast-Cancer-Awareness-Screenings-in-Haiti-foxy-thumb-5.jpg" id="foxyshop_cart_product_image_156665" />
+<input type="hidden" name="url||b984bd1ca73190cbbd3706b390b6cc8293dff2165adbf8488538ce46dbd51bdf" value="https://crosscatholic.org/products/breast-cancer-awareness-screenings-in-haiti-78-donation/" id="fs_url_156665" />
+<input type="hidden" name="quantity_min||e1f6e45f34ed334738d5a432dd6c89fb4a3a3b4f7510f0b60cee311c3de0bd71||open" value="0" id="fs_quantity_min_156665" />
+<input type="hidden" name="quantity_max||c6cc95214e3ef4e59a1c8cf3f1bc1b906608b4bdccb62c2a77397622769d4d9f||open" value="0" id="fs_quantity_max_156665" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156665" />
+<input type="hidden" name="name||8f3cfa50c7020f42f565d12d1aa6bdf12744560e1e4280e7e9e205f71e81f900" id="fs_name_156665" value="Breast Cancer Awareness and Screenings in Haiti - $78 donation" />
+<input type="hidden" name="code||a3dce8237ed5d60eb50c3ffedb5f81212b4b36004ec34f54a2ac23de21aeed99" id="fs_code_156665" value="WCCC23JEREMIE" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$78_donation||3b40fb9ad02470fa199ac49a61cbeb29117e929d635966aa4b8d7a4d388eea77" id="WCCC23JEREMIE_1" value="" class="variation-78-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$78</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$78.00</span></div></div></form>
+<!-- $156 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156666" rel="156666">
+<input type="hidden" name="price||a9081691c2a67407f4aa92cb9ebed8a61022108dfe880876fa52832dcfc3a5d7" id="fs_price_156666" value="156.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156666" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156666" />
+<input type="hidden" name="image||41565d08d525ed345ce78287d46fcbc1500152c9d5e1e261b7a2c91778eff03d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1595-Breast-Cancer-Awareness-Screenings-in-Haiti-foxy-thumb-5-1.jpg" id="foxyshop_cart_product_image_156666" />
+<input type="hidden" name="url||0b44bd235000283ce7c120d8aef750d45689be7acc87e643c1327a09e7834ffd" value="https://crosscatholic.org/products/breast-cancer-awareness-screenings-in-haiti-156-donation/" id="fs_url_156666" />
+<input type="hidden" name="quantity_min||e1f6e45f34ed334738d5a432dd6c89fb4a3a3b4f7510f0b60cee311c3de0bd71||open" value="0" id="fs_quantity_min_156666" />
+<input type="hidden" name="quantity_max||c6cc95214e3ef4e59a1c8cf3f1bc1b906608b4bdccb62c2a77397622769d4d9f||open" value="0" id="fs_quantity_max_156666" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156666" />
+<input type="hidden" name="name||44b952330bf6c438c223d5f631538a71b43e792beffda5fd548d6f97a259f009" id="fs_name_156666" value="Breast Cancer Awareness and Screenings in Haiti - $156 donation" />
+<input type="hidden" name="code||a3dce8237ed5d60eb50c3ffedb5f81212b4b36004ec34f54a2ac23de21aeed99" id="fs_code_156666" value="WCCC23JEREMIE" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$156_donation||2d4972f2685c642d59629303cead37f3e3fd66b67fc1ce6a1007cf28f469a4ef" id="WCCC23JEREMIE_1" value="" class="variation-156-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$156</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$156</span></div></div></form>
+<!-- $234 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156679" rel="156679">
+<input type="hidden" name="price||76b00d8bea0c0ad09c0c379799674ab8eee055cdcd14660fd4a86ba5d10c2e58" id="fs_price_156679" value="234.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156679" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156679" />
+<input type="hidden" name="image||41565d08d525ed345ce78287d46fcbc1500152c9d5e1e261b7a2c91778eff03d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1595-Breast-Cancer-Awareness-Screenings-in-Haiti-foxy-thumb-5-4.jpg" id="foxyshop_cart_product_image_156679" />
+<input type="hidden" name="url||76e1471a532309410bac16a345aab93fb6f836e0f4cca2620807e2eba6c21f3e" value="https://crosscatholic.org/products/breast-cancer-awareness-screenings-in-haiti-134-donation/" id="fs_url_156679" />
+<input type="hidden" name="quantity_min||e1f6e45f34ed334738d5a432dd6c89fb4a3a3b4f7510f0b60cee311c3de0bd71||open" value="0" id="fs_quantity_min_156679" />
+<input type="hidden" name="quantity_max||c6cc95214e3ef4e59a1c8cf3f1bc1b906608b4bdccb62c2a77397622769d4d9f||open" value="0" id="fs_quantity_max_156679" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156679" />
+<input type="hidden" name="name||394abdf55e9de7d35d9244873daaad0ccf8fa9f5986abf801adf1fd84154e3b8" id="fs_name_156679" value="Breast Cancer Awareness and Screenings in Haiti - $234 donation" />
+<input type="hidden" name="code||a3dce8237ed5d60eb50c3ffedb5f81212b4b36004ec34f54a2ac23de21aeed99" id="fs_code_156679" value="WCCC23JEREMIE" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$234_donation||42c55ee5629813d9a92a55486566adeff8677544e6307f2b287cbcbaba9a7dc9" id="WCCC23JEREMIE_1" value="" class="variation-234-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$234</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$234</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_156668" rel="156668">
+<input type="hidden" name="price||7f94e4c427bd56942eb8afd677b878f03b4f0b924611edd437e4ef46390504f0" id="fs_price_156668" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_156668" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_156668" />
+<input type="hidden" name="image||41565d08d525ed345ce78287d46fcbc1500152c9d5e1e261b7a2c91778eff03d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1595-Breast-Cancer-Awareness-Screenings-in-Haiti-foxy-thumb-5-3.jpg" id="foxyshop_cart_product_image_156668" />
+<input type="hidden" name="url||9038b9642711836cf9243599366e31e6282aaad1b36c826d403c6dd24e71ea60" value="https://crosscatholic.org/products/boys-home-and-girls-center-in-kenya-2/" id="fs_url_156668" />
+<input type="hidden" name="quantity_min||e1f6e45f34ed334738d5a432dd6c89fb4a3a3b4f7510f0b60cee311c3de0bd71||open" value="0" id="fs_quantity_min_156668" />
+<input type="hidden" name="quantity_max||c6cc95214e3ef4e59a1c8cf3f1bc1b906608b4bdccb62c2a77397622769d4d9f||open" value="0" id="fs_quantity_max_156668" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_156668" />
+<input type="hidden" name="name||5f72b7f94b3ba6cc5a8fefc415baa187ecbb8ce9bb7255d626c20ed4d832f0f0" id="fs_name_156668" value="Breast Cancer Awareness and Screenings in Haiti" />
+<input type="hidden" name="code||a3dce8237ed5d60eb50c3ffedb5f81212b4b36004ec34f54a2ac23de21aeed99" id="fs_code_156668" value="WCCC23JEREMIE" />
+<div class="foxyshop_variations">
+<input type="text" name="price||17ec2550d26fa2a8397f87f0c7e4ffffc620f7b118b889c1d3fdac003e5cd531||open" id="WCCC23JEREMIE_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
