@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23WW4LIFEC', function () {
+
+	$out = '<div class="flex-container">
+<!-- $185 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218543" rel="218543">
+<input type="hidden" name="price||31ef371f2a8c6c56976a4e18bb32da1cdaded48fbff643b4f297eccc2e9c0b6c" id="fs_price_218543" value="185.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218543" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218543" />
+<input type="hidden" name="image||6e284c2716c26ed6eae3f6c2ace5961d3b2326fa544536ebaea6e76dc05233fa||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9007-General-Water-foxy-thumb-13-3.jpg" id="foxyshop_cart_product_image_218543" />
+<input type="hidden" name="url||3d9c90b958a7293288644403da3b770aad693c23ef30c1e6332c7ce7bd83bbb3" value="https://crosscatholic.org/products/clean-water-in-kenya-185-donation-2/" id="fs_url_218543" />
+<input type="hidden" name="quantity_min||6db9cf30c9fc31df73bf7d3ad4bde23fc6726e790d371975feab2d25cc77c2d9||open" value="0" id="fs_quantity_min_218543" />
+<input type="hidden" name="quantity_max||955beecc458da38c4b2fe20eb9ca3c6f1ee7209fcaa5f93ccafc4db7518e6b28||open" value="0" id="fs_quantity_max_218543" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218543" />
+<input type="hidden" name="name||5e17d2a784a08aea688445e0e1704ff8a684f18a3454886cea33a6a4f02b33ad" id="fs_name_218543" value="Clean Water in Kenya - $185 donation" />
+<input type="hidden" name="code||52e5034f99adc4604d7e404e5fa2c82964900d016b992967ed681ba77e539a5c" id="fs_code_218543" value="WCCC23WW4LIFEC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$185_donation||d5671e6ba03741c836b8b5e1d4e48bc8bc6d18434a1db53017badeb11e0b1d3a" id="WCCC23WW4LIFEC_1" value="" class="variation-185-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$185</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$185.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218544" rel="218544">
+<input type="hidden" name="price||7470312e5bb9a78c61118bf3e8ae387f74e21a9f1a3dea39ec766cdd36260da6" id="fs_price_218544" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218544" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218544" />
+<input type="hidden" name="image||6e284c2716c26ed6eae3f6c2ace5961d3b2326fa544536ebaea6e76dc05233fa||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9007-General-Water-foxy-thumb-13-3.jpg" id="foxyshop_cart_product_image_218544" />
+<input type="hidden" name="url||29a360edb67918d12c922ccbcf36d63e5885b2874887c1f87cd2ebbadf5154cf" value="https://crosscatholic.org/products/clean-water-in-kenya-250-donation/" id="fs_url_218544" />
+<input type="hidden" name="quantity_min||6db9cf30c9fc31df73bf7d3ad4bde23fc6726e790d371975feab2d25cc77c2d9||open" value="0" id="fs_quantity_min_218544" />
+<input type="hidden" name="quantity_max||955beecc458da38c4b2fe20eb9ca3c6f1ee7209fcaa5f93ccafc4db7518e6b28||open" value="0" id="fs_quantity_max_218544" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218544" />
+<input type="hidden" name="name||c36523cf250f95d6029f3e46604693d28417c11c9f8530db4cf3130bc0083140" id="fs_name_218544" value="Clean Water in Kenya - $250 donation" />
+<input type="hidden" name="code||52e5034f99adc4604d7e404e5fa2c82964900d016b992967ed681ba77e539a5c" id="fs_code_218544" value="WCCC23WW4LIFEC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||4f49d39081f93ffb52c6f0c5bc79f730a39d4e2b1f30bed4d1e832a938b3fda7" id="WCCC23WW4LIFEC_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250</span></div></div></form>
+<!-- $500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218545" rel="218545">
+<input type="hidden" name="price||95656b5c3d9ad1ea48e7155014d0cd71527269a6565f70fa759a21031f2ea430" id="fs_price_218545" value="500.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218545" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218545" />
+<input type="hidden" name="image||6e284c2716c26ed6eae3f6c2ace5961d3b2326fa544536ebaea6e76dc05233fa||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9007-General-Water-foxy-thumb-13-3.jpg" id="foxyshop_cart_product_image_218545" />
+<input type="hidden" name="url||7063d34158fadbbd2a5943fa1d42c69da8794d98845ea769b0434b86b32d3c26" value="https://crosscatholic.org/products/clean-water-in-kenya-500-donation/" id="fs_url_218545" />
+<input type="hidden" name="quantity_min||6db9cf30c9fc31df73bf7d3ad4bde23fc6726e790d371975feab2d25cc77c2d9||open" value="0" id="fs_quantity_min_218545" />
+<input type="hidden" name="quantity_max||955beecc458da38c4b2fe20eb9ca3c6f1ee7209fcaa5f93ccafc4db7518e6b28||open" value="0" id="fs_quantity_max_218545" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218545" />
+<input type="hidden" name="name||89a9ca4a026d1d935059ff7eecbee04320a890de40f676a280560f073656c279" id="fs_name_218545" value="Clean Water in Kenya - $500 donation" />
+<input type="hidden" name="code||52e5034f99adc4604d7e404e5fa2c82964900d016b992967ed681ba77e539a5c" id="fs_code_218545" value="WCCC23WW4LIFEC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$500_donation||e043d3c0d56a67668f063e3a4127755c4b134644f887b23d17b716912913f893" id="WCCC23WW4LIFEC_1" value="" class="variation-500-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$500</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$500.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218546" rel="218546">
+<input type="hidden" name="price||dfeaa6fd2c971447a0f3aae9b699b287f2266abf329c3e9dafad141266f9130f" id="fs_price_218546" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218546" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218546" />
+<input type="hidden" name="image||6e284c2716c26ed6eae3f6c2ace5961d3b2326fa544536ebaea6e76dc05233fa||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9007-General-Water-foxy-thumb-13-3.jpg" id="foxyshop_cart_product_image_218546" />
+<input type="hidden" name="url||00735b000def69ba776dd650f68981fc7d082533785f1f4873b9288ee6017b3b" value="https://crosscatholic.org/products/clean-water-in-kenya-2/" id="fs_url_218546" />
+<input type="hidden" name="quantity_min||6db9cf30c9fc31df73bf7d3ad4bde23fc6726e790d371975feab2d25cc77c2d9||open" value="0" id="fs_quantity_min_218546" />
+<input type="hidden" name="quantity_max||955beecc458da38c4b2fe20eb9ca3c6f1ee7209fcaa5f93ccafc4db7518e6b28||open" value="0" id="fs_quantity_max_218546" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218546" />
+<input type="hidden" name="name||2482e6bd120a68e4a92e4bfacb27bea27c1c62d7585ba96e268c41fc75637171" id="fs_name_218546" value="Clean Water in Kenya" />
+<input type="hidden" name="code||52e5034f99adc4604d7e404e5fa2c82964900d016b992967ed681ba77e539a5c" id="fs_code_218546" value="WCCC23WW4LIFEC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2c4403af6f03aa9676d9cf0deeeafdb072a76d7624aabd4ad49f32ce045ac4bb||open" id="WCCC23WW4LIFEC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
