@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23WSRHOMEC', function () {
+
+	$out = '<div class="flex-container">
+<!-- $105 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218490" rel="218490">
+<input type="hidden" name="price||fb2490c96663e320f60c9b41abf0121f3eeef5167f05cfc6800387ac8508d3ce" id="fs_price_218490" value="105.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218490" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218490" />
+<input type="hidden" name="image||4a4e56468e3afe6639a3390b26b4de98134d1975ea9ab39a2170003058e1fbb0||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218490" />
+<input type="hidden" name="url||4036fefb384062af5a361e8eb6735e6fc4b72c6b806d98ce78bf69f6ac414562" value="https://crosscatholic.org/products/safe-homes-in-guatemala-105-donation/" id="fs_url_218490" />
+<input type="hidden" name="quantity_min||1b62fdc38caa70419bb558d7a40ce7a7a2099d13aad5b39ebac990cf77d080b0||open" value="0" id="fs_quantity_min_218490" />
+<input type="hidden" name="quantity_max||31b8cadd9946771c68bca6520a4649960999be9a0a04449cb1fe30d221df1122||open" value="0" id="fs_quantity_max_218490" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218490" />
+<input type="hidden" name="name||7ba793b56b1f4d504b0dfe15a3606da7c437ea5477df641ba0a294005ce77288" id="fs_name_218490" value="Safe Homes in Guatemala - $105 donation" />
+<input type="hidden" name="code||263e9f5787e1a9c9606799ef0d0759e96244514ad4b69b527ab9646a0c74a7c2" id="fs_code_218490" value="WCCC23WSRHOMEC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$105_donation||ac085e4bd878b85ed2764f285c250faeae192763b97abb99c1a9f0a5e9c4b2ce" id="WCCC23WSRHOMEC_1" value="" class="variation-105-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$105</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$105.00</span></div></div></form>
+<!-- $2,735 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218492" rel="218492">
+<input type="hidden" name="price||a976febd33dbcd4345b8c4d039418f5535ffb94216aa48196bf29da86beb5186" id="fs_price_218492" value="2735.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218492" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218492" />
+<input type="hidden" name="image||4a4e56468e3afe6639a3390b26b4de98134d1975ea9ab39a2170003058e1fbb0||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218492" />
+<input type="hidden" name="url||76b53e731182f1495844d03a41939cfe56aa6210d9b681eacb69640ec3408b8a" value="https://crosscatholic.org/products/safe-homes-in-guatemala-2735-donation/" id="fs_url_218492" />
+<input type="hidden" name="quantity_min||1b62fdc38caa70419bb558d7a40ce7a7a2099d13aad5b39ebac990cf77d080b0||open" value="0" id="fs_quantity_min_218492" />
+<input type="hidden" name="quantity_max||31b8cadd9946771c68bca6520a4649960999be9a0a04449cb1fe30d221df1122||open" value="0" id="fs_quantity_max_218492" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218492" />
+<input type="hidden" name="name||03cc564048160165195de004739514c3ddafe8617674bfb88245cb742f8e6639" id="fs_name_218492" value="Safe Homes in Guatemala - $2,735 donation" />
+<input type="hidden" name="code||263e9f5787e1a9c9606799ef0d0759e96244514ad4b69b527ab9646a0c74a7c2" id="fs_code_218492" value="WCCC23WSRHOMEC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$2,735_donation||615ae92741c6c548f6785f7e4e489395a509390e970b7b6d804ee00130d82fd6" id="WCCC23WSRHOMEC_1" value="" class="variation-2735-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$2,735</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$2,735</span></div></div></form>
+<!-- $10,938 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218493" rel="218493">
+<input type="hidden" name="price||92fc9b98bd6e3166e29474870a424786a493244e269aaf9a45723bc7d1b1706d" id="fs_price_218493" value="10938.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218493" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218493" />
+<input type="hidden" name="image||4a4e56468e3afe6639a3390b26b4de98134d1975ea9ab39a2170003058e1fbb0||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218493" />
+<input type="hidden" name="url||8f4026eb853006242a52bccbe6f1c36252ccb87507c67f2daee9fc6d1ab02332" value="https://crosscatholic.org/products/safe-homes-in-guatemala-10938-donation/" id="fs_url_218493" />
+<input type="hidden" name="quantity_min||1b62fdc38caa70419bb558d7a40ce7a7a2099d13aad5b39ebac990cf77d080b0||open" value="0" id="fs_quantity_min_218493" />
+<input type="hidden" name="quantity_max||31b8cadd9946771c68bca6520a4649960999be9a0a04449cb1fe30d221df1122||open" value="0" id="fs_quantity_max_218493" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218493" />
+<input type="hidden" name="name||12ab06622e417de0a1bcfe75e69494a7c612058660c5b8a258e180da012d0852" id="fs_name_218493" value="Safe Homes in Guatemala - $10,938 donation" />
+<input type="hidden" name="code||263e9f5787e1a9c9606799ef0d0759e96244514ad4b69b527ab9646a0c74a7c2" id="fs_code_218493" value="WCCC23WSRHOMEC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$10,938_donation||43730b6630e1bcf46671fae66dd655ee8c22babb8680639a647372d3cfc5507c" id="WCCC23WSRHOMEC_1" value="" class="variation-10938-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$10,938</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$10,938.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218491" rel="218491">
+<input type="hidden" name="price||79d956dee3da7a236d5332d997aa0187a6154f44432c7233e87ac891c0d34bff" id="fs_price_218491" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218491" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218491" />
+<input type="hidden" name="image||4a4e56468e3afe6639a3390b26b4de98134d1975ea9ab39a2170003058e1fbb0||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218491" />
+<input type="hidden" name="url||8abecadfd2bb05c5c9389bbe2a25173d44cce5ec9a04a2599541ac5c51b2e788" value="https://crosscatholic.org/products/safe-homes-in-guatemala-3/" id="fs_url_218491" />
+<input type="hidden" name="quantity_min||1b62fdc38caa70419bb558d7a40ce7a7a2099d13aad5b39ebac990cf77d080b0||open" value="0" id="fs_quantity_min_218491" />
+<input type="hidden" name="quantity_max||31b8cadd9946771c68bca6520a4649960999be9a0a04449cb1fe30d221df1122||open" value="0" id="fs_quantity_max_218491" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218491" />
+<input type="hidden" name="name||e94196b6d917efc1699eb8f8f528b3b9426da1004960be95c775a6bd1831ac50" id="fs_name_218491" value="Safe Homes in Guatemala" />
+<input type="hidden" name="code||263e9f5787e1a9c9606799ef0d0759e96244514ad4b69b527ab9646a0c74a7c2" id="fs_code_218491" value="WCCC23WSRHOMEC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||3f654256317da912da21d43bf2ab4f9d0df0718a89a565a2c225397cd3d2a10e||open" id="WCCC23WSRHOMEC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
