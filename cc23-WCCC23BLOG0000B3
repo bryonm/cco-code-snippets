@@ -1,0 +1,73 @@
+add_shortcode( 'cc23-WCCC23BLOG0000B3', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218623" rel="218623">
+<input type="hidden" name="price||4e37e44d158a3898be41480fd53a5308fcc7d85e32039ff833c398012fdbba24" id="fs_price_218623" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218623" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218623" />
+<input type="hidden" name="image||93a1f56eb515d7fb48349440d448d2b85f86377a7f7b50a08c8dec97c41f50c8||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218623" />
+<input type="hidden" name="url||508a3bb79c91e0314f82b4aeb8dfc102974e9ba63f38504c8c9eeb82b8155cab" value="https://crosscatholic.org/products/donate-to-guatemala-housing-25-gift/" id="fs_url_218623" />
+<input type="hidden" name="quantity_min||a6e89a30c8bbb802b9d2c11a6db8f0a836d3c1b0d7953fd82e5187634f62f2e5||open" value="0" id="fs_quantity_min_218623" />
+<input type="hidden" name="quantity_max||597602a508efd2a89dbc771016c656631d76c1d41a4078a06d206fba76afbaf4||open" value="0" id="fs_quantity_max_218623" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218623" />
+<input type="hidden" name="name||14a495a662b5ce38dacf6ebf61064719aa92ec335571142afc0302fe399d6167" id="fs_name_218623" value="Donate to Guatemala Housing $25 Gift" />
+<input type="hidden" name="code||70d69e6cf908130cbfc99069b4e8a5bd26f54b80ce527f7d2b894371e83c8436" id="fs_code_218623" value="WCCC23BLOG0000B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||45ee2a86647d348e32fc8878cecf4560d051fe4321996cc57d569eb0e4308508" id="WCCC23BLOG0000B3_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218624" rel="218624">
+<input type="hidden" name="price||90d185c85b3ca299ae9a2cdb69427d4797d1357fc3fcbe6670abab66a779eb4c" id="fs_price_218624" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218624" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218624" />
+<input type="hidden" name="image||93a1f56eb515d7fb48349440d448d2b85f86377a7f7b50a08c8dec97c41f50c8||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218624" />
+<input type="hidden" name="url||f82a8221a3fd2e8f12a605050c1f2729f5721ed286907060de17bc39a7dd5532" value="https://crosscatholic.org/products/donate-to-guatemala-housing-50-gift/" id="fs_url_218624" />
+<input type="hidden" name="quantity_min||a6e89a30c8bbb802b9d2c11a6db8f0a836d3c1b0d7953fd82e5187634f62f2e5||open" value="0" id="fs_quantity_min_218624" />
+<input type="hidden" name="quantity_max||597602a508efd2a89dbc771016c656631d76c1d41a4078a06d206fba76afbaf4||open" value="0" id="fs_quantity_max_218624" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218624" />
+<input type="hidden" name="name||9fdbbb641cc7ba3f27838e0118489502c3f90f70051e61590f2818901cf7a011" id="fs_name_218624" value="Donate to Guatemala Housing $50 Gift" />
+<input type="hidden" name="code||70d69e6cf908130cbfc99069b4e8a5bd26f54b80ce527f7d2b894371e83c8436" id="fs_code_218624" value="WCCC23BLOG0000B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||27396d043b9ebce327e6e48503bb4956fa61af04d7f61e3fa9487e8bc50207ea" id="WCCC23BLOG0000B3_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218625" rel="218625">
+<input type="hidden" name="price||0b0eeddaca983af482228623eddefc3060d1d87f249d9f80b1a7dfadb303d99e" id="fs_price_218625" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218625" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218625" />
+<input type="hidden" name="image||93a1f56eb515d7fb48349440d448d2b85f86377a7f7b50a08c8dec97c41f50c8||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218625" />
+<input type="hidden" name="url||0dbd1d2431d03f786d8a839a1d79f524b464bee23717a3135b04d134f1405d9b" value="https://crosscatholic.org/products/donate-to-guatemala-housing-100-gift/" id="fs_url_218625" />
+<input type="hidden" name="quantity_min||a6e89a30c8bbb802b9d2c11a6db8f0a836d3c1b0d7953fd82e5187634f62f2e5||open" value="0" id="fs_quantity_min_218625" />
+<input type="hidden" name="quantity_max||597602a508efd2a89dbc771016c656631d76c1d41a4078a06d206fba76afbaf4||open" value="0" id="fs_quantity_max_218625" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218625" />
+<input type="hidden" name="name||aec904675e7f3c1ec153b428103f6170bd1145e8527d820a6024fd0b8bea01a9" id="fs_name_218625" value="Donate to Guatemala Housing $100 Gift" />
+<input type="hidden" name="code||70d69e6cf908130cbfc99069b4e8a5bd26f54b80ce527f7d2b894371e83c8436" id="fs_code_218625" value="WCCC23BLOG0000B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||1c923d017f67a69949f5720f29ea9389e1dee4f740984a61e7887972e893ed2e" id="WCCC23BLOG0000B3_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218626" rel="218626">
+<input type="hidden" name="price||86fed5f402535ef6ecb1cb7c072fdadfc684cc3d30683ab253a58c0675ddc6a0" id="fs_price_218626" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218626" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218626" />
+<input type="hidden" name="image||93a1f56eb515d7fb48349440d448d2b85f86377a7f7b50a08c8dec97c41f50c8||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218626" />
+<input type="hidden" name="url||f9c7ee1f0718889b08a2f70afaac46bc05b2a41ee405775e55a4bf8e2f823689" value="https://crosscatholic.org/products/donate-to-guatemala-housing/" id="fs_url_218626" />
+<input type="hidden" name="quantity_min||a6e89a30c8bbb802b9d2c11a6db8f0a836d3c1b0d7953fd82e5187634f62f2e5||open" value="0" id="fs_quantity_min_218626" />
+<input type="hidden" name="quantity_max||597602a508efd2a89dbc771016c656631d76c1d41a4078a06d206fba76afbaf4||open" value="0" id="fs_quantity_max_218626" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218626" />
+<input type="hidden" name="name||de2d4d0c2fbb72e7a2e2975d95929f11d2299a24e6aae17c944d0ecb992f5338" id="fs_name_218626" value="Donate to Guatemala Housing" />
+<input type="hidden" name="code||70d69e6cf908130cbfc99069b4e8a5bd26f54b80ce527f7d2b894371e83c8436" id="fs_code_218626" value="WCCC23BLOG0000B3" />
+<div class="foxyshop_variations">
+<input type="text" name="price||49e824984eb6074a0b249e6c756f2b1ff4da139ffb682b5453cfab136cdac817||open" id="WCCC23BLOG0000B3_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
