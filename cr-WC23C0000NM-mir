@@ -1,0 +1,40 @@
+add_shortcode( 'cr-WC23C0000NM-mir', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_224460" rel="224460">
+<input type="hidden" name="price||b6553fc48d60d5791f3bc0f82deae9e712f0d79e3976097d980aef9938b5cd9f" id="fs_price_224460" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_224460" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_224460" />
+<input type="hidden" name="image||ff20e2a73abb221efa7d7f1e8faf1b170bba6fa2eb830adc3798fb4a1e2773eb||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/AdventSpring-foxy-thumb.jpg" id="foxyshop_cart_product_image_224460" />
+<input type="hidden" name="url||c0c632861377236391b9cb37bc0ee7e65b13b51e71ddfced2f758c34c1e23797" value="https://crosscatholic.org/products/donate-to-build-a-home-5/" id="fs_url_224460" />
+<input type="hidden" name="quantity_min||12f048428aa120592de84f7133eeb665aa5562498d95d0ec1aa894286287058d||open" value="0" id="fs_quantity_min_224460" />
+<input type="hidden" name="quantity_max||0a726cddcce0f646ebefa477534de2ca7de5b60494f4c3fd47c9d22f2ee81c02||open" value="0" id="fs_quantity_max_224460" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_224460" />
+<input type="hidden" name="sub_frequency||1849f2756e1d1e2bc65a4c6cd5f502caa2ef2d0f25d63d4f2a9972abeea9e2e8||open" id="fs_sub_frequency_224460" value="" />
+<input type="hidden" name="name||3fee245f533853efaeebbc7260a731e323dda669ef7471abcee6df240ba14377" id="fs_name_224460" value="Donate to Give Food" />
+<input type="hidden" name="code||05af4c3c56727967803f1e049811413d3108caf7fd5f92c01c9d055f69141283" id="fs_code_224460" value="WC23C0000NM" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC23C0000NM_1" class="variation-donation">
+<option value="$50{p:50}||8e5008c60f189a5577137136f9de2c5e0758d2a338b5cd711c431aada00548d7" priceset="5000">$50</option>
+<option value="$100{p:100}||712cde21d00e70e52863e4739c94c7ca569272afe6e0cb4695e9d7a0345e7520" priceset="10000">$100</option>
+<option value="$150{p:150}||2ef23256b129ee17ad375e1fc77da3c0fd23cc8546c46a9918d9ef774f7a213d" priceset="15000">$150</option>
+<option value="$200{p:200}||136918ed2cc1ecbedb5f8dbef04a6e0e649f261a383fb210fc40d77fc069b79d" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||90df63f7cd26d31745ec6b3fa4c7bab54a5ea259cff6d7836b6894fc0d40feaa" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC23C0000NM_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||0db7961b520d56595368bb3fdc908d2e272c6f191e8062f5ff3df21e6bcf8905||open" id="WC23C0000NM_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||43e9cc4fd93ab518a344232105f597129c1c0e7f207079bcf1ee59d068a3a986" id="WC23C0000NM_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC23C0000NM_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||1f8f634867d00313026280920c26f108b4ca1021aaf3fe3d813122ce40ad0d94" id="WC23C0000NM_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC23C0000NM_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
