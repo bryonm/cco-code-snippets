@@ -2,35 +2,35 @@ add_shortcode( 'kb-KCCM23W3497', function () {
 
 	$out = '<div class="donation_radio_btns">
 
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_210443" rel="210443">
-<input type="hidden" name="price||5226d3b1a6002d4679d6c5085662b1bdf30d287f490e52f154be10d7b667e829" id="fs_price_210443" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_210443" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_210443" />
-<input type="hidden" name="image||ca573f1142012eb82fad30b4fb87e10b22f87e3db0482a21d3be5a7f6cbcca1e||open" value="https://crosscatholic.org/wp-content/uploads/2023/06/SummerCore-DRHousing-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_210443" />
-<input type="hidden" name="url||c828c9b9b4acabef44b29d6cc1196e3a7775a6e72208641cfef0857b9fb35ac3" value="https://crosscatholic.org/products/donate-to-provide-safe-homes-2/" id="fs_url_210443" />
-<input type="hidden" name="quantity_min||d005d229493b8e5443c717e1cad2c5330a3dc5cf9e450380b0927b867d8750a9||open" value="0" id="fs_quantity_min_210443" />
-<input type="hidden" name="quantity_max||02586e49cf8097dea1acd54480ade40b81430283b42330c5dd0f05a1ebb6a78f||open" value="0" id="fs_quantity_max_210443" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_210443" />
-<input type="hidden" name="sub_frequency||5d7d30730a0b4dc763e0ed5d4fa9c1add80317c04ac08b1e611deffd5383e740||open" id="fs_sub_frequency_210443" value="" />
-<input type="hidden" name="name||f283e1923fa9a507cf1e9928a3c39e668f5bdfef382fbde03ca97284bc536c40" id="fs_name_210443" value="Donate to Provide Safe Homes" />
-<input type="hidden" name="code||77a7ae5215243fb1d2cf3cfc9d0dd7b90748f37ca0a4e8a952e82e637181f82f" id="fs_code_210443" value="KCCM23W3497" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_224426" rel="224426">
+<input type="hidden" name="price||0b6a7f5d6f9c26adb6b118488fccacfe59cf2a4ee3f93ddbcc6d14eb21ac7452" id="fs_price_224426" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_224426" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_224426" />
+<input type="hidden" name="image||d2060ebabf8320e14b2068d1cfad15c841643c19bf170179836b8ad5978eaac9||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/AdventSpring-foxy-thumb.jpg" id="foxyshop_cart_product_image_224426" />
+<input type="hidden" name="url||4a9df4e2b7bfe218717d6e381c906725e0343b6f2446d5cc95c246d4b88fae20" value="https://crosscatholic.org/products/donate-to-provide-safe-homes-3/" id="fs_url_224426" />
+<input type="hidden" name="quantity_min||1b77fd49f1ebe4ea5f80aa442a0637f6566572c13b68372f54ce00ef885e586d||open" value="0" id="fs_quantity_min_224426" />
+<input type="hidden" name="quantity_max||15b94dcd5c18de47ede7781f78f26a6cbc84d9f8dfbaeb5bf4c5410660742c31||open" value="0" id="fs_quantity_max_224426" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_224426" />
+<input type="hidden" name="sub_frequency||c8182714117134fed8108e7d7aa8980c82b023a7c8479a836fb31fb9e9302d33||open" id="fs_sub_frequency_224426" value="" />
+<input type="hidden" name="name||edccf4f5ef51ea2f9ad974c1e6865d311bddac2288254068c6a60ea1b2f7d1db" id="fs_name_224426" value="Donate to Provide Safe Homes" />
+<input type="hidden" name="code||e1d09ec82c2beddb77934132bbd011ad04b6fb4bdc05d456f84e8868c32f190c" id="fs_code_224426" value="KCCF23W3100" />
 <div class="foxyshop_variations">
-<select name="Donation" id="KCCM23W3497_1" class="variation-donation">
-<option value="$1,628{p:1628}||8328ca14f75681835d3464fda0ce96d274ba5890cee056b0a652b7d66742752a" priceset="162800">$1,628</option>
-<option value="$1,036{p:1036}||f8e60ea4627122bf16cd20d85f6d85da7047bff2353ffab2c8b546ad2218142f" priceset="103600">$1,036</option>
-<option selected value="$518{p:518}||d5eb3572af20fb455c856778d20367bf453cd57efdc0c374f87d236dac0851a7" priceset="51800">$518</option>
-<option value="$259{p:259}||46db28630bf581789e2a6efaa7571d1ceeb6f301a8703b17801e44608953b813" priceset="25900">$259</option>
-<option value="Other{dkey:custom-price}||f6b70289e1f56f6e53e409b96a1b90d2f8fffe79f270d72e85602359768be451" displaykey="custom-price">Other</option>
+<select name="Donation" id="KCCF23W3100_1" class="variation-donation">
+<option value="$1,563{p:1563}||61f83438b3ed274386b3a002e4186283d42e714c02f647794b27f1f9d8831aed" priceset="156300">$1,563</option>
+<option value="$1,094{p:1094}||7af626c24d2b7358d56c4435d71ad5c542d42159817845575d1b889abe6722ce" priceset="109400">$1,094</option>
+<option selected value="$547{p:547}||9ac04e163962135096040402d3c7f43a8fa691116fecbd21ef2e7742c002d3b8" priceset="54700">$547</option>
+<option value="$274{p:274}||b99a806710df8cd97d4d837f9adeaf83905bf31a2eb82cb517e54959c92b19e3" priceset="27400">$274</option>
+<option value="Other{dkey:custom-price}||a3072179cf0d498167332c6b71cfb3e69bff74ae368b58159fb5e6f465708cb7" displaykey="custom-price">Other</option>
 </select>
 <div class="clr"></div>
-<label for="KCCM23W3497_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
-<input type="text" name="price||046f9f8e4f0f9001fa2a05aae83e834d6f95ffebb56fe9f939c11e020906884a||open" id="KCCM23W3497_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<label for="KCCF23W3100_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||eb2890e6b98516baae47839e5d46d09e6a4259fc3d812f448435beeddeaccfb9||open" id="KCCF23W3100_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
 <div class="clr"></div>
 <div class="foxyshop_radio_wrapper">
-<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||1d91a8e644616bce5c94d1717c4ec41facc5dac7556b2608745477f0e686356b" id="KCCM23W3497_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
-<label for="KCCM23W3497_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
-<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||d335bd9c0f1af945be715bd890f7279f4990239471f7775a213adaf7b570a34a" id="KCCM23W3497_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
-<label for="KCCM23W3497_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||bd5f1b77f10944ef6e94f75903b1b4a04d33ae8b682d1b22622e3874f00031ea" id="KCCF23W3100_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="KCCF23W3100_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||1f042c36402bf8825e60b726372b2e6298ebc1cbe076d189ba9c1141764e01e5" id="KCCF23W3100_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="KCCF23W3100_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
 <div class="clr"></div></div><div class="clr"></div>
 </div>
 
