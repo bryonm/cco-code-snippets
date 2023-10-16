@@ -18,12 +18,9 @@ add_shortcode( 'eb-JCBLOG0000', function () {
 <label for="JCBLOG0000_1" class="variation-donation"></label>
 <select name="Donation" id="JCBLOG0000_1" class="variation-donation">
 <option value="1 Box{p:34}||6f32ba60c3b5dc3cf91ba61892f70f94eb6e0e8173468818a0773909fe70f9cc" priceset="3400">1 Box ($34.00)</option>
-<option value="2 Boxes{p:65}||d5ec56dff520db196aedb145f1755ee766eae814aeadd307e17cb41cfc5d40da" priceset="6500">2 Boxes ($65.00)</option>
-<option value="5 Boxes{p:150}||fb8cd3db6a7933a446f0dfa80cc07fcf103feecc8961daac381082555e97cfbc" priceset="15000">5 Boxes ($150.00)</option>
-<option value="10 Boxes{p:290}||aac39f7e8bbfab0bd74f7f7dfdaa479f8b432fa30e0fed745fa13db5c50beee0" priceset="29000">10 Boxes ($290.00)</option>
-<option value="25 Boxes{p:700}||8aad89d0c2392b8deb37e290d16dd1f2069f8569d51d5275ff00c81deabddb0c" priceset="70000">25 Boxes ($700.00)</option>
-<option value="50 Boxes{p:1350}||2d8dcc96a307d7f3088cea585800e0ecd02a198ce8c1ac786eadfdc7c7ed968e" priceset="135000">50 Boxes ($1,350.00)</option>
-<option value="100 Boxes{p:2500}||671c4fff55a0055445dfe5d40ec1757e658859b92f28025f2bace70f2bf05f88" priceset="250000">100 Boxes ($2,500.00)</option>
+<option value="3 Boxes{p:102}||4bdcd3dc653c7e37d144e591e7cf4376ba1464d00be91ee1ade03915231dadfb" priceset="10200">3 Boxes ($102.00)</option>
+<option value="5 Boxes{p:170}||94f8e8e88ff0bb18fb58db5c454607cd468984bf3c27faf70fdf9e1464fe1e89" priceset="17000">5 Boxes ($170.00)</option>
+<option value="10 Boxes{p:340}||cf45398a9ee499c9d3d64136c8928c4bb9197b36674517ba876383e1ef488438" priceset="34000">10 Boxes ($340.00)</option>
 </select>
 <div class="clr"></div>
 </div>
