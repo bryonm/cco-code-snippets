@@ -5,7 +5,7 @@ add_shortcode( 'cr-WC23C0000N', function () {
 <input type="hidden" name="price||f3a7dba6c81b1e701102f647a608a4e9a40b5a06d1e797a67f137db90569ee9e" id="fs_price_217932" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217932" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217932" />
-<input type="hidden" name="image||dcb5b8e0fadba21a1f1cbfeafcfcc06a961c7ddaa27dbc057673581d5f52031b||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/AnnualFundDrive-2023-foxy-thumb.jpg" id="foxyshop_cart_product_image_217932" />
+<input type="hidden" name="image||dcb5b8e0fadba21a1f1cbfeafcfcc06a961c7ddaa27dbc057673581d5f52031b||open" value="https://crosscatholic.org/wp-content/uploads/2022/10/NovenaLp-foxy-thumb.jpg" id="foxyshop_cart_product_image_217932" />
 <input type="hidden" name="url||6eb8fd98311d69a2ea195f3a14bdda1f6113a69734a8952cbfac45bc23ffda12" value="https://crosscatholic.org/products/donate-to-urgent-needs/" id="fs_url_217932" />
 <input type="hidden" name="quantity_min||9dc74785cb0c3658e939d2bccaaf07398fe2a98c4d4352c9fce75099299c365b||open" value="0" id="fs_quantity_min_217932" />
 <input type="hidden" name="quantity_max||edbf9592fe113b7c3371f78588917b1d30b5416e7beb4d23b1952cf29f6e426f||open" value="0" id="fs_quantity_max_217932" />
