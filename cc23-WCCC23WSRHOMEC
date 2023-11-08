@@ -1,9 +1,9 @@
 add_shortcode( 'cc23-WCCC23WSRHOMEC', function () {
 
 	$out = '<div class="flex-container">
-<!-- $105 BUTTON -->
+<!-- $150 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218490" rel="218490">
-<input type="hidden" name="price||fb2490c96663e320f60c9b41abf0121f3eeef5167f05cfc6800387ac8508d3ce" id="fs_price_218490" value="105.00" />
+<input type="hidden" name="price||cfbdc157f46b553beecc55f21d5b67ed3f610ab13c250192514a41365dde903d" id="fs_price_218490" value="150.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218490" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218490" />
 <input type="hidden" name="image||4a4e56468e3afe6639a3390b26b4de98134d1975ea9ab39a2170003058e1fbb0||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1186-Santa-Rosa-Suchi-foxy-thumb-32-3.jpg" id="foxyshop_cart_product_image_218490" />
@@ -11,12 +11,12 @@ add_shortcode( 'cc23-WCCC23WSRHOMEC', function () {
 <input type="hidden" name="quantity_min||1b62fdc38caa70419bb558d7a40ce7a7a2099d13aad5b39ebac990cf77d080b0||open" value="0" id="fs_quantity_min_218490" />
 <input type="hidden" name="quantity_max||31b8cadd9946771c68bca6520a4649960999be9a0a04449cb1fe30d221df1122||open" value="0" id="fs_quantity_max_218490" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218490" />
-<input type="hidden" name="name||7ba793b56b1f4d504b0dfe15a3606da7c437ea5477df641ba0a294005ce77288" id="fs_name_218490" value="Safe Homes in Guatemala - $105 donation" />
+<input type="hidden" name="name||8aebcd364da0c9c0c70872422fcb00c40fc6b27b36ed09e4bf8f1ec5e3cc2641" id="fs_name_218490" value="Safe Homes in Guatemala - $150 donation" />
 <input type="hidden" name="code||263e9f5787e1a9c9606799ef0d0759e96244514ad4b69b527ab9646a0c74a7c2" id="fs_code_218490" value="WCCC23WSRHOMEC" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$105_donation||ac085e4bd878b85ed2764f285c250faeae192763b97abb99c1a9f0a5e9c4b2ce" id="WCCC23WSRHOMEC_1" value="" class="variation-105-donation" />
+<input type="hidden" name="$150_donation||7c0a9b50edf0ea5e3d4804e497ec0585033c2fef9ddafde0d9f03866adccef89" id="WCCC23WSRHOMEC_1" value="" class="variation-150-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$105</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$105.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$150</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$150.00</span></div></div></form>
 <!-- $2,735 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218492" rel="218492">
 <input type="hidden" name="price||a976febd33dbcd4345b8c4d039418f5535ffb94216aa48196bf29da86beb5186" id="fs_price_218492" value="2735.00" />
