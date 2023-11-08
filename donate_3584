@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3584', function () {
+
+	$out = '<div class="flex-container">
+<!-- $25 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_230385" rel="230385">
+<input type="hidden" name="price||17c07ea81f1db578d63ca4af302631e82ca81ffa52dcd398f828d376656447d8" id="fs_price_230385" value="25.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_230385" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_230385" />
+<input type="hidden" name="image||52adb2f7bd37fd0ffbf7a3ea550cc43dcf8047ac3ff1157615a0f47f8da5e3ac||open" value="https://crosscatholic.org/wp-content/uploads/2023/11/3584-foxy-thumb.jpg" id="foxyshop_cart_product_image_230385" />
+<input type="hidden" name="url||ff30efefb4b83424520d4dc1befe1c3f897fc29673ffe571818fe3ea9570918f" value="https://crosscatholic.org/products/3584-ancop-housing-samal-25-donation/" id="fs_url_230385" />
+<input type="hidden" name="quantity_min||bd22693f2f228641009990fb4378fda56662ad3716c0dac11546f04c8a409795||open" value="0" id="fs_quantity_min_230385" />
+<input type="hidden" name="quantity_max||7099d379e94a3a276de9bf19fb6284c3d0ff346ba5faeec6635ce11318ec9106||open" value="0" id="fs_quantity_max_230385" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_230385" />
+<input type="hidden" name="name||8f6e78980720859ec7dbd15b5b86863dfb871fc938cce7938ce6e0caafad0851" id="fs_name_230385" value="3584 - ANCOP Housing - Samal - $25 donation" />
+<input type="hidden" name="code||1039a7b3e8adf90371db24bb9207b8e2a0b262e638e8d8ad3e425a941677155c" id="fs_code_230385" value="WCPROJ3584" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$25_donation||69d9274d4363ab70838ec83badb90f8cea568ebbffc7e46de961d1c8b27a7cb5" id="WCPROJ3584_1" value="" class="variation-25-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_230386" rel="230386">
+<input type="hidden" name="price||bf0430605e9bc272fc9ebe57877c8a094bde5688f25adb9d4f46aebd8ba07cdb" id="fs_price_230386" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_230386" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_230386" />
+<input type="hidden" name="image||52adb2f7bd37fd0ffbf7a3ea550cc43dcf8047ac3ff1157615a0f47f8da5e3ac||open" value="https://crosscatholic.org/wp-content/uploads/2023/11/3584-foxy-thumb.jpg" id="foxyshop_cart_product_image_230386" />
+<input type="hidden" name="url||68bb4f83f6b08fdafa423bfde9792ea8140135be42230c608a4356cfbc6febba" value="https://crosscatholic.org/products/3584-ancop-housing-samal-50-donation/" id="fs_url_230386" />
+<input type="hidden" name="quantity_min||bd22693f2f228641009990fb4378fda56662ad3716c0dac11546f04c8a409795||open" value="0" id="fs_quantity_min_230386" />
+<input type="hidden" name="quantity_max||7099d379e94a3a276de9bf19fb6284c3d0ff346ba5faeec6635ce11318ec9106||open" value="0" id="fs_quantity_max_230386" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_230386" />
+<input type="hidden" name="name||b739f2a792e7b47dc6961cf272c90a4b64901e949749e82265ffe76efa8fd88a" id="fs_name_230386" value="3584 - ANCOP Housing - Samal - $50 donation" />
+<input type="hidden" name="code||1039a7b3e8adf90371db24bb9207b8e2a0b262e638e8d8ad3e425a941677155c" id="fs_code_230386" value="WCPROJ3584" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||30e1360a0acb601907c4a230126e1cb3c30da133f28869bcf6f6ccee5aa55132" id="WCPROJ3584_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_230387" rel="230387">
+<input type="hidden" name="price||959f93bf35865e190a55e1583186659fe1996c998411a1bb60cee34896a076db" id="fs_price_230387" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_230387" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_230387" />
+<input type="hidden" name="image||52adb2f7bd37fd0ffbf7a3ea550cc43dcf8047ac3ff1157615a0f47f8da5e3ac||open" value="https://crosscatholic.org/wp-content/uploads/2023/11/3584-foxy-thumb.jpg" id="foxyshop_cart_product_image_230387" />
+<input type="hidden" name="url||0146dd26844c0c53cf88b86fedeeb606dabe8650cf9d1e0910eed22e4d0d224e" value="https://crosscatholic.org/products/3584-ancop-housing-samal-100-donation/" id="fs_url_230387" />
+<input type="hidden" name="quantity_min||bd22693f2f228641009990fb4378fda56662ad3716c0dac11546f04c8a409795||open" value="0" id="fs_quantity_min_230387" />
+<input type="hidden" name="quantity_max||7099d379e94a3a276de9bf19fb6284c3d0ff346ba5faeec6635ce11318ec9106||open" value="0" id="fs_quantity_max_230387" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_230387" />
+<input type="hidden" name="name||ae446db3b7ebefe7bf5a9a63e11875efef07be024a761071a8f4459eb6312230" id="fs_name_230387" value="3584 - ANCOP Housing - Samal - $100 donation" />
+<input type="hidden" name="code||1039a7b3e8adf90371db24bb9207b8e2a0b262e638e8d8ad3e425a941677155c" id="fs_code_230387" value="WCPROJ3584" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||1dab1500ca1a47cd97d3cdaf3a94a23a9805bfeca8e80417f1081defdfb9117c" id="WCPROJ3584_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_230390" rel="230390">
+<input type="hidden" name="price||f1958643effe98754fd0b23d522c5cec5df1010cf0809b0e75f1156c883efeff" id="fs_price_230390" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_230390" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_230390" />
+<input type="hidden" name="image||52adb2f7bd37fd0ffbf7a3ea550cc43dcf8047ac3ff1157615a0f47f8da5e3ac||open" value="https://crosscatholic.org/wp-content/uploads/2023/11/3584-foxy-thumb.jpg" id="foxyshop_cart_product_image_230390" />
+<input type="hidden" name="url||d1bddbf75393ac40cda21840504f5ae2b3a8bdc600fcb384ded84ceafddbbd32" value="https://crosscatholic.org/products/3584-ancop-housing-samal/" id="fs_url_230390" />
+<input type="hidden" name="quantity_min||bd22693f2f228641009990fb4378fda56662ad3716c0dac11546f04c8a409795||open" value="0" id="fs_quantity_min_230390" />
+<input type="hidden" name="quantity_max||7099d379e94a3a276de9bf19fb6284c3d0ff346ba5faeec6635ce11318ec9106||open" value="0" id="fs_quantity_max_230390" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_230390" />
+<input type="hidden" name="name||9c8e75092b4e3e786297f3c67e180433f0b399f14d5a93242cad43c697ebbc25" id="fs_name_230390" value="3584 - ANCOP Housing - Samal" />
+<input type="hidden" name="code||1039a7b3e8adf90371db24bb9207b8e2a0b262e638e8d8ad3e425a941677155c" id="fs_code_230390" value="WCPROJ3584" />
+<div class="foxyshop_variations">
+<input type="text" name="price||0571e0b00e757a870d7077315406be72af7c3edb8f84d0351ca48c5ee8e9808c||open" id="WCPROJ3584_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
