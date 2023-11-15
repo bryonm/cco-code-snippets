@@ -1,69 +1,69 @@
-add_shortcode( 'cc23-WCCC23BLOG0000B5', function () {
+	add_shortcode( 'cc23-WCCC23BLOG0000B5', function () {
 
 	$out = '<div class="flex-container">
 <!-- $34 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218639" rel="218639">
-<input type="hidden" name="price||9dda84bab26aa24cc50a23d33c828ae7eefb8565cb281aa721e237d17e23f364" id="fs_price_218639" value="34.00" />
+<input type="hidden" name="price||fbc19998d4650da02f6a0511643b4a9d29a80bf8bcdc5cf29285ab4087eb7aca" id="fs_price_218639" value="34.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218639" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218639" />
-<input type="hidden" name="image||7b299c31e5476583dda3fe030d148bc124fd7790e0eb24e9785d29096a220dae||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9028-Box-Of-Joy-foxy-thumb-3-2.jpg" id="foxyshop_cart_product_image_218639" />
-<input type="hidden" name="url||bc4fd2c97630b7f05bb191ef88eec8c42052e57f86bb1c92a16cbb71c2736afa" value="https://crosscatholic.org/products/donate-to-box-of-joy-25-gift-2/" id="fs_url_218639" />
-<input type="hidden" name="quantity_min||45bc376aa2ebe6a67b209408f3d08621539c4bee156c14224e164978f02834df||open" value="0" id="fs_quantity_min_218639" />
-<input type="hidden" name="quantity_max||997c2d1c588f0b7dfd1d9ef99dc23933e0868ff0627aa159129b240e301a2d08||open" value="0" id="fs_quantity_max_218639" />
+<input type="hidden" name="image||b64d69d270077abdbdaf7eab4a01dc50e80f2230a6e5ac868ce07caf53dbdb15||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9028-Box-Of-Joy-foxy-thumb-3-2.jpg" id="foxyshop_cart_product_image_218639" />
+<input type="hidden" name="url||3b5aabb398713d3fe54b875a01dd70fe0a1fc22f4f22170dc60e309eece57cd3" value="https://crosscatholic.org/products/donate-to-box-of-joy-25-gift-2/" id="fs_url_218639" />
+<input type="hidden" name="quantity_min||3a900272aca71901b2625edfc7aabec2fb74da6dacc0f5664652510f7259ed3c||open" value="0" id="fs_quantity_min_218639" />
+<input type="hidden" name="quantity_max||49f67ecc0ea200a42ec6f60ae825356f0704096f1357fed79f57dd0d18ea525b||open" value="0" id="fs_quantity_max_218639" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218639" />
-<input type="hidden" name="name||4176d238935aa7941c2e536917fa799d9c8e0f6709f48cfe487636a13dcde292" id="fs_name_218639" value="Donate to Box of Joy $34 Gift" />
-<input type="hidden" name="code||b5a1a5dca0d012be52e9743b36bbddcf26c6da5ceadf22f68aa33db2c9299f93" id="fs_code_218639" value="WCCC23BLOG0000B5" />
+<input type="hidden" name="name||63840e44790ce417261821576c07f9f5756ebabdc3ab507ddacdf1efc74c7519" id="fs_name_218639" value="Donate to Box of Joy $34 Gift" />
+<input type="hidden" name="code||38a3e09becc2f42afa83731190914a342b209769a79357720643edb5d99542f5" id="fs_code_218639" value="JCCC23BLOG0000B5" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$34_donation||de5f4ff9312d104fbc0da52e873983d6b258113c90f99c3af60c1d4cebefed76" id="WCCC23BLOG0000B5_1" value="" class="variation-34-donation" />
+<input type="hidden" name="$34_donation||ae7624e4f94b55211dc9366c071cca4d0a4869325398111592336697166204a3" id="JCCC23BLOG0000B5_1" value="" class="variation-34-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$34</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$34.00</span></div></div></form>
 <!-- $102 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218640" rel="218640">
-<input type="hidden" name="price||c72cb31f9cb8d15aa58c819ca99252019ae6c08026a5cde243a35853fe9d2d6e" id="fs_price_218640" value="102.00" />
+<input type="hidden" name="price||a0c1cd7c44aa7fc722b7d29060784152e9108677541091ae54a503e5e83ad3a1" id="fs_price_218640" value="102.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218640" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218640" />
-<input type="hidden" name="image||7b299c31e5476583dda3fe030d148bc124fd7790e0eb24e9785d29096a220dae||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9028-Box-Of-Joy-foxy-thumb-3-2.jpg" id="foxyshop_cart_product_image_218640" />
-<input type="hidden" name="url||f8d41f0dd7273ccf5dad911d822afe8db17307e0d56d348d86482c164a35d9b2" value="https://crosscatholic.org/products/donate-to-box-of-joy-50-gift-2/" id="fs_url_218640" />
-<input type="hidden" name="quantity_min||45bc376aa2ebe6a67b209408f3d08621539c4bee156c14224e164978f02834df||open" value="0" id="fs_quantity_min_218640" />
-<input type="hidden" name="quantity_max||997c2d1c588f0b7dfd1d9ef99dc23933e0868ff0627aa159129b240e301a2d08||open" value="0" id="fs_quantity_max_218640" />
+<input type="hidden" name="image||b64d69d270077abdbdaf7eab4a01dc50e80f2230a6e5ac868ce07caf53dbdb15||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_218640" />
+<input type="hidden" name="url||0f9be89f04bbd8400b441c02ac09e0a631ef019bb55da6b366ad7b228afe6dd3" value="https://crosscatholic.org/products/donate-to-box-of-joy-50-gift-2/" id="fs_url_218640" />
+<input type="hidden" name="quantity_min||3a900272aca71901b2625edfc7aabec2fb74da6dacc0f5664652510f7259ed3c||open" value="0" id="fs_quantity_min_218640" />
+<input type="hidden" name="quantity_max||49f67ecc0ea200a42ec6f60ae825356f0704096f1357fed79f57dd0d18ea525b||open" value="0" id="fs_quantity_max_218640" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218640" />
-<input type="hidden" name="name||c89c899a08ac9831a7112b52731fede6b6b6ed889257543e5a8378b2f9c67aa0" id="fs_name_218640" value="Donate to Box of Joy $102 Gift" />
-<input type="hidden" name="code||b5a1a5dca0d012be52e9743b36bbddcf26c6da5ceadf22f68aa33db2c9299f93" id="fs_code_218640" value="WCCC23BLOG0000B5" />
+<input type="hidden" name="name||7b34291c32481549fa0254d7622a23b1db60c3d68e2ef38ae74ce7d1c99f7b84" id="fs_name_218640" value="Donate to Box of Joy $102 Gift" />
+<input type="hidden" name="code||38a3e09becc2f42afa83731190914a342b209769a79357720643edb5d99542f5" id="fs_code_218640" value="JCCC23BLOG0000B5" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$102_donation||ea6da185b6704743aa57780e13196b424c576af97543c90c827d8e83aacfc065" id="WCCC23BLOG0000B5_1" value="" class="variation-102-donation" />
+<input type="hidden" name="$102_donation||b81f8bfc05b5402192d415e6cd9e2ab3ef37b905acfd728e390db9489bdcdc9a" id="JCCC23BLOG0000B5_1" value="" class="variation-102-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$102</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$102.00</span></div></div></form>
 <!-- $340 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218641" rel="218641">
-<input type="hidden" name="price||e1c519652a65607be9a2b5193d017dab865893c497f04a14428cea4cecc2a427" id="fs_price_218641" value="340.00" />
+<input type="hidden" name="price||773d3e0b648b4f134a757b917adaf3592c013e35453c0f88ab66765b06a22742" id="fs_price_218641" value="340.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218641" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218641" />
-<input type="hidden" name="image||7b299c31e5476583dda3fe030d148bc124fd7790e0eb24e9785d29096a220dae||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9028-Box-Of-Joy-foxy-thumb-3-2.jpg" id="foxyshop_cart_product_image_218641" />
-<input type="hidden" name="url||c1feaf1a6a6f2326eb9de076f958871d98f6004915481276a57e2f6e4064e92a" value="https://crosscatholic.org/products/donate-to-box-of-joy-100-gift-2/" id="fs_url_218641" />
-<input type="hidden" name="quantity_min||45bc376aa2ebe6a67b209408f3d08621539c4bee156c14224e164978f02834df||open" value="0" id="fs_quantity_min_218641" />
-<input type="hidden" name="quantity_max||997c2d1c588f0b7dfd1d9ef99dc23933e0868ff0627aa159129b240e301a2d08||open" value="0" id="fs_quantity_max_218641" />
+<input type="hidden" name="image||b64d69d270077abdbdaf7eab4a01dc50e80f2230a6e5ac868ce07caf53dbdb15||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_218641" />
+<input type="hidden" name="url||c90b6f90b078e33f7f718af28b7f98abfae48d533d3bf1c3eb4006710498f02b" value="https://crosscatholic.org/products/donate-to-box-of-joy-100-gift-2/" id="fs_url_218641" />
+<input type="hidden" name="quantity_min||3a900272aca71901b2625edfc7aabec2fb74da6dacc0f5664652510f7259ed3c||open" value="0" id="fs_quantity_min_218641" />
+<input type="hidden" name="quantity_max||49f67ecc0ea200a42ec6f60ae825356f0704096f1357fed79f57dd0d18ea525b||open" value="0" id="fs_quantity_max_218641" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218641" />
-<input type="hidden" name="name||bbcd7a43b719ff4e2a9d65819e8e76b91772762c8a67dca81793d03631ecfbef" id="fs_name_218641" value="Donate to Box of Joy $340 Gift" />
-<input type="hidden" name="code||b5a1a5dca0d012be52e9743b36bbddcf26c6da5ceadf22f68aa33db2c9299f93" id="fs_code_218641" value="WCCC23BLOG0000B5" />
+<input type="hidden" name="name||583eaeae8356a9eb20e221ba02f673edd4e74255064bcf3d2facd8e1ff3601aa" id="fs_name_218641" value="Donate to Box of Joy $340 Gift" />
+<input type="hidden" name="code||38a3e09becc2f42afa83731190914a342b209769a79357720643edb5d99542f5" id="fs_code_218641" value="JCCC23BLOG0000B5" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$340_donation||d3add473f5542fa3132caa4f98674c6b585829782ebfe82c48aefb47cb82b8f8" id="WCCC23BLOG0000B5_1" value="" class="variation-340-donation" />
+<input type="hidden" name="$340_donation||5102a4dc12e63a95ed32fa76dcdf59b34c92326df9aae06b5b44acc6445a9a4e" id="JCCC23BLOG0000B5_1" value="" class="variation-340-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$340</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$340.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218642" rel="218642">
-<input type="hidden" name="price||0a8e31ae610d82132b5a7619162012acd9ae0b7b6a27a0c6a35bb488b8125ab7" id="fs_price_218642" value="0.00" />
+<input type="hidden" name="price||8ae4329d79560e6f03f3ce9d62ab44241d88d0bad31e6e47dc89962a765722ed" id="fs_price_218642" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218642" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218642" />
-<input type="hidden" name="image||7b299c31e5476583dda3fe030d148bc124fd7790e0eb24e9785d29096a220dae||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9028-Box-Of-Joy-foxy-thumb-3-2.jpg" id="foxyshop_cart_product_image_218642" />
-<input type="hidden" name="url||24f2ae84984a74b56a5687a4482c1557a9f0f313d691df63d84096b09afe6718" value="https://crosscatholic.org/products/donate-to-box-of-joy-2/" id="fs_url_218642" />
-<input type="hidden" name="quantity_min||45bc376aa2ebe6a67b209408f3d08621539c4bee156c14224e164978f02834df||open" value="0" id="fs_quantity_min_218642" />
-<input type="hidden" name="quantity_max||997c2d1c588f0b7dfd1d9ef99dc23933e0868ff0627aa159129b240e301a2d08||open" value="0" id="fs_quantity_max_218642" />
+<input type="hidden" name="image||b64d69d270077abdbdaf7eab4a01dc50e80f2230a6e5ac868ce07caf53dbdb15||open" value="https://crosscatholic.org/wp-content/uploads/2018/12/no-photo-300x200.png" id="foxyshop_cart_product_image_218642" />
+<input type="hidden" name="url||c2f221da3d73b0cea7018ffb7affc15fe7e7436823e20d589e07de6d52d1dee4" value="https://crosscatholic.org/products/donate-to-box-of-joy-2/" id="fs_url_218642" />
+<input type="hidden" name="quantity_min||3a900272aca71901b2625edfc7aabec2fb74da6dacc0f5664652510f7259ed3c||open" value="0" id="fs_quantity_min_218642" />
+<input type="hidden" name="quantity_max||49f67ecc0ea200a42ec6f60ae825356f0704096f1357fed79f57dd0d18ea525b||open" value="0" id="fs_quantity_max_218642" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218642" />
-<input type="hidden" name="name||cd515a3d975428faae6b435a35c6341a7738d7294f58679cbac0ac1d5e94bf74" id="fs_name_218642" value="Donate to Box of Joy" />
-<input type="hidden" name="code||b5a1a5dca0d012be52e9743b36bbddcf26c6da5ceadf22f68aa33db2c9299f93" id="fs_code_218642" value="WCCC23BLOG0000B5" />
+<input type="hidden" name="name||fd4b5a8afaf9b9300c607674715717a8b27a5a0654e9dbef0f8243ee406ad5cd" id="fs_name_218642" value="Donate to Box of Joy" />
+<input type="hidden" name="code||38a3e09becc2f42afa83731190914a342b209769a79357720643edb5d99542f5" id="fs_code_218642" value="JCCC23BLOG0000B5" />
 <div class="foxyshop_variations">
-<input type="text" name="price||a5000a7c8412dd11ac15c89491e9484169f31c84bcb8264279826ab9437b21ee||open" id="WCCC23BLOG0000B5_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+<input type="text" name="price||b3cbf0a204b2ad7d5aa0a9e30fd7fb3488eb6c391ada8651cf88d836957cfae0||open" id="JCCC23BLOG0000B5_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
