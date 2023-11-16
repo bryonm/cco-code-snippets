@@ -1,0 +1,29 @@
+add_shortcode( 'pcs-UCA23W3100KOC', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_231449" rel="231449">
+<input type="hidden" name="price||6051d5859f2846b3cb1dd7c7272db62a8376f634b1b0f745b6961d020e9a6e70" id="fs_price_231449" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_231449" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_231449" />
+<input type="hidden" name="image||ce69eb0a879144d9faeb7ec2f6b9743fedc2140d5abaadebe58d6d0a3c688a3a||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/AdventSpring-foxy-thumb.jpg" id="foxyshop_cart_product_image_231449" />
+<input type="hidden" name="url||18b097c0147eac08749758bde6e6ca1349d8ab7897d96ef1a5a4f97efff25ccf" value="https://crosscatholic.org/products/donate-to-build-a-home-6/" id="fs_url_231449" />
+<input type="hidden" name="quantity_min||e072a80bf724518533b595d8f151997cfee782f8da507f6813b6aec83b5420d1||open" value="0" id="fs_quantity_min_231449" />
+<input type="hidden" name="quantity_max||b089c85cea4d9638da58f6d07081e7c3d899c61723a54a6e3f607def7ddfa562||open" value="0" id="fs_quantity_max_231449" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_231449" />
+<input type="hidden" name="name||d12ea73fbe96735d7cffd19aa529fcff31d36512e5cdfe7159fced54205493d3" id="fs_name_231449" value="Donate to Build a Home" />
+<input type="hidden" name="code||0e86bd826635edf89b1d3b7ba37c96d1d85cf35f4519b339056d52a63cdf2339" id="fs_code_231449" value="UCA23W3100KOC" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCA23W3100KOC_1" class="variation-donation">
+<option value="$500{p:500}||524013e58443f506f9cf053ba3c39c4d947348d676d8a2d2c94efd3414c23fed" priceset="50000">$500</option>
+<option value="Other{dkey:custom-price}||f156ae6164d62c9c792b4d40d5a14fe1d0ba729bdb0c2c3a3e57d50189fd15d0" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="UCA23W3100KOC_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||5e5cf51eb008aeb4c501d877f94b1ac95256dc007c2ab7df4f93e67641ef1d27||open" id="UCA23W3100KOC_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
