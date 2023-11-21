@@ -17,22 +17,6 @@ add_shortcode( 'cc23-WCCC23WCGPCC', function () {
 <input type="hidden" name="$77_donation||03ed60fb816919d8a1c93d1d480be177d8a4557a649c9ebb0aa8fb7bcedcdd04" id="WCCC23WCGPCC_1" value="" class="variation-77-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$77</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$77.00</span></div></div></form>
-<!-- $154 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218594" rel="218594">
-<input type="hidden" name="price||e7d614a59925d96485c8bd9581c80fe31496cf26407287fa0531aaee95bb49ea" id="fs_price_218594" value="154.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218594" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218594" />
-<input type="hidden" name="image||2965386170f7e81c2780af15cd9ed24e2c1126cc9284132cb06c25ded23c7c62||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1391-Chickens-Goats-Pigs-Cows-foxy-thumb-11-2.jpg" id="foxyshop_cart_product_image_218594" />
-<input type="hidden" name="url||6c008a45ec828389234388629154033816ef3f6c25631990d07b24440925a050" value="https://crosscatholic.org/products/women-owned-farms-in-haiti-408-donation-2/" id="fs_url_218594" />
-<input type="hidden" name="quantity_min||f24ea45b0f137d893b604fc800af4e4beab5c9d94c037687beaca6d5750be3eb||open" value="0" id="fs_quantity_min_218594" />
-<input type="hidden" name="quantity_max||6b98efd229af96ad898cf93e96f5c3cbe0bffaa0239006cd022bff18ba27bf89||open" value="0" id="fs_quantity_max_218594" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218594" />
-<input type="hidden" name="name||9273514593a130d56c3358009141041101fed2594055a805ccb708212801dffb" id="fs_name_218594" value="Chickens, Goats, Pigs and Cows, Oh My! - $154 donation" />
-<input type="hidden" name="code||eb2ee2baae416c117a6fed579d4ca797f1b8e556698f145ba7285794d357c181" id="fs_code_218594" value="WCCC23WCGPCC" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$154_donation||a2787cd431c511207391e56d7ab88944cf0a1ccb8a0298f84faf026dab0bb53e" id="WCCC23WCGPCC_1" value="" class="variation-154-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$154</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$154.00</span></div></div></form>
 <!-- $231 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218595" rel="218595">
 <input type="hidden" name="price||efd6e13ab13c92da15919e8f41bbb96e334e2fa32c8e8eabb4594058a25d880c" id="fs_price_218595" value="231.00" />
@@ -49,6 +33,22 @@ add_shortcode( 'cc23-WCCC23WCGPCC', function () {
 <input type="hidden" name="$231_donation||aca4360e175b9d5b63d1760b900170531892ea5885b3dcb64be43bfc2362ec73" id="WCCC23WCGPCC_1" value="" class="variation-231-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$231</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$231.00</span></div></div></form>
+<!-- $462 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218594" rel="218594">
+<input type="hidden" name="price||082629159bda6caafae7aa49435e284420c333fa81a40a0fbe8b411f1b0e851b" id="fs_price_218594" value="462.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218594" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218594" />
+<input type="hidden" name="image||2965386170f7e81c2780af15cd9ed24e2c1126cc9284132cb06c25ded23c7c62||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/1391-Chickens-Goats-Pigs-Cows-foxy-thumb-11-2.jpg" id="foxyshop_cart_product_image_218594" />
+<input type="hidden" name="url||6c008a45ec828389234388629154033816ef3f6c25631990d07b24440925a050" value="https://crosscatholic.org/products/women-owned-farms-in-haiti-408-donation-2/" id="fs_url_218594" />
+<input type="hidden" name="quantity_min||f24ea45b0f137d893b604fc800af4e4beab5c9d94c037687beaca6d5750be3eb||open" value="0" id="fs_quantity_min_218594" />
+<input type="hidden" name="quantity_max||6b98efd229af96ad898cf93e96f5c3cbe0bffaa0239006cd022bff18ba27bf89||open" value="0" id="fs_quantity_max_218594" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218594" />
+<input type="hidden" name="name||1c81c0f7e500aa563c539d0dbe7d928232a1cecaf9d1e50e9d4d1c257bb1c3b6" id="fs_name_218594" value="Chickens, Goats, Pigs and Cows, Oh My! - $462 donation" />
+<input type="hidden" name="code||eb2ee2baae416c117a6fed579d4ca797f1b8e556698f145ba7285794d357c181" id="fs_code_218594" value="WCCC23WCGPCC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$462_donation||54a180567c472481d92099792ec86ec40f1d15e8776a9b05620c8d6b3dfe3e4d" id="WCCC23WCGPCC_1" value="" class="variation-462-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$462</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$462.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218596" rel="218596">
