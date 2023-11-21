@@ -1,22 +1,6 @@
 add_shortcode( 'cc23-WCCC23BLOG0000B2', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218613" rel="218613">
-<input type="hidden" name="price||60fdc668e97697d5f90dbe7cb8952be2bedd0e9d2ae5086c41cdd5e5b18baf24" id="fs_price_218613" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218613" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218613" />
-<input type="hidden" name="image||22721006b94a6e132675ab8fe41c26a947e17e6e0d94fb418e7fc6573e1251a5||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/3328-Laura-Vicuna-Anti-Trafficking-OVC-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_218613" />
-<input type="hidden" name="url||020cb0ae8984b6fb729f7423cc601a2cf058aaa65b9dd896b0523620d5972366" value="https://crosscatholic.org/products/donate-to-anti-trafficking-in-philippines-25-gift/" id="fs_url_218613" />
-<input type="hidden" name="quantity_min||a64f84defdf70d8af8a6f096af26a7371b7f5dd58a9b2ae81b8ea4ab9a48322e||open" value="0" id="fs_quantity_min_218613" />
-<input type="hidden" name="quantity_max||7e52175f0effd2bb604b61b76df501ee394fb2058b27cf247db8989df9f0f822||open" value="0" id="fs_quantity_max_218613" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218613" />
-<input type="hidden" name="name||985dcdedcd49378fee56825083fb63fb899da93b39d87c02e9183c0832c2f0d8" id="fs_name_218613" value="Donate to Anti-Trafficking in Philippines $25 Gift" />
-<input type="hidden" name="code||8781bc111499b811ff4956bcf7c7dd17748e3095ee5c81a2a7adb39577df993a" id="fs_code_218613" value="WCCC23BLOG0000B2" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||4005649baede27ab15f2854212ca73b7d7bda88dead1bdfed1a8708557aefad8" id="WCCC23BLOG0000B2_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218614" rel="218614">
 <input type="hidden" name="price||8ef1f9f76432783a03a3c729e2b016390baef512858435f69b936689ac80e37a" id="fs_price_218614" value="50.00" />
@@ -49,6 +33,22 @@ add_shortcode( 'cc23-WCCC23BLOG0000B2', function () {
 <input type="hidden" name="$100_donation||fd1eeb406523ee9b8aadcec2e87bb2f0a6cc45badddfbf3acf7a3e414fe81930" id="WCCC23BLOG0000B2_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218613" rel="218613">
+<input type="hidden" name="price||42fb86d319b3d0a0c01cd2ac412a15791812777d35b62e236a60d6fe402ef741" id="fs_price_218613" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_218613" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_218613" />
+<input type="hidden" name="image||22721006b94a6e132675ab8fe41c26a947e17e6e0d94fb418e7fc6573e1251a5||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/3328-Laura-Vicuna-Anti-Trafficking-OVC-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_218613" />
+<input type="hidden" name="url||020cb0ae8984b6fb729f7423cc601a2cf058aaa65b9dd896b0523620d5972366" value="https://crosscatholic.org/products/donate-to-anti-trafficking-in-philippines-25-gift/" id="fs_url_218613" />
+<input type="hidden" name="quantity_min||a64f84defdf70d8af8a6f096af26a7371b7f5dd58a9b2ae81b8ea4ab9a48322e||open" value="0" id="fs_quantity_min_218613" />
+<input type="hidden" name="quantity_max||7e52175f0effd2bb604b61b76df501ee394fb2058b27cf247db8989df9f0f822||open" value="0" id="fs_quantity_max_218613" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_218613" />
+<input type="hidden" name="name||6b009ff08d523dc56db799166fbed40e95dcce8e5d1d449baead78d04b9409c4" id="fs_name_218613" value="Donate to Anti-Trafficking in Philippines $250 Gift" />
+<input type="hidden" name="code||8781bc111499b811ff4956bcf7c7dd17748e3095ee5c81a2a7adb39577df993a" id="fs_code_218613" value="WCCC23BLOG0000B2" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||a8f343e5b410c7fd6e4d02f9fcf5474601d9d47038330c265a70564f3f41f78e" id="WCCC23BLOG0000B2_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_218616" rel="218616">
