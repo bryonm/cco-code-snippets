@@ -17,22 +17,6 @@ add_shortcode( 'cc23-WCCC23KOAG', function () {
 <input type="hidden" name="$23_donation||24a59779892dbe280585e001e2b2af72e55ea4d7856063d1271e58277c9987b2" id="WCCC23KOAG_1" value="" class="variation-23-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$23</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$23.00</span></div></div></form>
-<!-- $46 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217622" rel="217622">
-<input type="hidden" name="price||cf78b1d25c2837a4167d2eb4654469125420b601c61313933d116dbab8897a21" id="fs_price_217622" value="46.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217622" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217622" />
-<input type="hidden" name="image||bcdbcfdc703695aa348118dc17ce1e828d777177b640d9df867ca08821773426||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Kobonal-Agriculture-foxy-thumb.jpg" id="foxyshop_cart_product_image_217622" />
-<input type="hidden" name="url||dea11719d516ce6ba68b47d0bb944ab363531712767a6753efe26a80b7af7503" value="https://crosscatholic.org/products/kobonal-agriculture-185-donation/" id="fs_url_217622" />
-<input type="hidden" name="quantity_min||692256ef2bc2149d0f16463db4442a960badd51bc8586c434209b3991b8efca0||open" value="0" id="fs_quantity_min_217622" />
-<input type="hidden" name="quantity_max||a05b998c92c3393c26723fcec551f4715ab719238b5afe2168739ee1117f746b||open" value="0" id="fs_quantity_max_217622" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217622" />
-<input type="hidden" name="name||8b93207d7ac75fbfd646b99617e5d35cf1819160335681c0979d3a85d01485ea" id="fs_name_217622" value="Kobonal Agriculture - $46 donation" />
-<input type="hidden" name="code||62cff2ed28f50234850de2f0de86cc786f51e04228cd6cf3fdde0efd7b04632f" id="fs_code_217622" value="WCCC23KOAG" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$46_donation||96888c10e42611871ab5fca42740087fc9f1c4f1f86c6e7ddc9c00451e0bfcdf" id="WCCC23KOAG_1" value="" class="variation-46-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$46</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$46</span></div></div></form>
 <!-- $92 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217623" rel="217623">
 <input type="hidden" name="price||fec22ea77f17acfdda20765bdf5779315c7bc5198589b1a3057b4ba71a752339" id="fs_price_217623" value="92.00" />
@@ -49,6 +33,22 @@ add_shortcode( 'cc23-WCCC23KOAG', function () {
 <input type="hidden" name="$92_donation||30613473c6f672a67b14442abffdd62d92b589caf795bb4e5d8aaec637f094e8" id="WCCC23KOAG_1" value="" class="variation-92-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$92</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$92.00</span></div></div></form>
+<!-- $230 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217622" rel="217622">
+<input type="hidden" name="price||5cad022157a2ef51ad6784d16f8e3bd76210f5e7ba372fe1ea2038f3fb5e8415" id="fs_price_217622" value="230.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_217622" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_217622" />
+<input type="hidden" name="image||bcdbcfdc703695aa348118dc17ce1e828d777177b640d9df867ca08821773426||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/Kobonal-Agriculture-foxy-thumb.jpg" id="foxyshop_cart_product_image_217622" />
+<input type="hidden" name="url||dea11719d516ce6ba68b47d0bb944ab363531712767a6753efe26a80b7af7503" value="https://crosscatholic.org/products/kobonal-agriculture-185-donation/" id="fs_url_217622" />
+<input type="hidden" name="quantity_min||692256ef2bc2149d0f16463db4442a960badd51bc8586c434209b3991b8efca0||open" value="0" id="fs_quantity_min_217622" />
+<input type="hidden" name="quantity_max||a05b998c92c3393c26723fcec551f4715ab719238b5afe2168739ee1117f746b||open" value="0" id="fs_quantity_max_217622" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_217622" />
+<input type="hidden" name="name||3c09444ef2e1ba0fec573f80164f7e624f2be907be0fa3baaff146b259c689c6" id="fs_name_217622" value="Kobonal Agriculture - $230 donation" />
+<input type="hidden" name="code||62cff2ed28f50234850de2f0de86cc786f51e04228cd6cf3fdde0efd7b04632f" id="fs_code_217622" value="WCCC23KOAG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$230_donation||394fd163fb02cb7f5b1bb5a43579a5ed300741a3d7702bc956649a8a44bb7ea8" id="WCCC23KOAG_1" value="" class="variation-230-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$230</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$230</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_217624" rel="217624">
