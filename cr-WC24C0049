@@ -1,0 +1,33 @@
+add_shortcode( 'cr-WC24C0049', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_232533" rel="232533">
+<input type="hidden" name="price||79660dbd79213d2f738f63e3d6bde5f7c56e629694fe1c8c1526283badfd4fd2" id="fs_price_232533" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_232533" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_232533" />
+<input type="hidden" name="image||414a95ed7bd0ba4ec2fa44818e5e05370cec807b52c617f7e2824617399cbc4d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0049-Ukraine-foxy-thumb-12-1.jpg" id="foxyshop_cart_product_image_232533" />
+<input type="hidden" name="url||77d02cd1a907624de710e13dd423831ea4d79831aba3bd391504f6a112ea84be" value="https://crosscatholic.org/products/donate-to-2024-urgent-aid/" id="fs_url_232533" />
+<input type="hidden" name="quantity_min||1e03c9f07c9c72911b8f54c067c14b52b2d21de1cbf04e32106dff529d873978||open" value="0" id="fs_quantity_min_232533" />
+<input type="hidden" name="quantity_max||1f879dc08ba62ca5d105800f99a58acb5dd3e93f2de33584f679febd72215764||open" value="0" id="fs_quantity_max_232533" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_232533" />
+<input type="hidden" name="name||5fa84a880f86987e5d1b70b9fe0cfd6efbcd3bacd95696e8234047518fdc191a" id="fs_name_232533" value="Donate to 2024 Urgent Aid" />
+<input type="hidden" name="code||cb6708abe9ff3718591688da2dfaf1f1340cf8f15d8ddf399459404196878a86" id="fs_code_232533" value="WC24C0049" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC24C0049_1" class="variation-donation">
+<option value="$50{p:50}||2214ccf5e7170ff824924518262bb14354ddd1786c394965b9954007facc350a" priceset="5000">$50</option>
+<option value="$100{p:100}||fc6bf801703d0af882e18fef01b164c51b8c0160248595d003093db3a4909ec1" priceset="10000">$100</option>
+<option value="$150{p:150}||541337a4858f1a2331579a81ab019eb4a859e545a8af8a91b463b655154b0fb5" priceset="15000">$150</option>
+<option value="$250{p:250}||7a3417261c678b1ba3728e977e178a071efbe9952bb08d81166882f7c9fa0eed" priceset="25000">$250</option>
+<option value="Other{dkey:custom-price}||7506ec8fff29c02ee96e4da7f4b604534e0a88c9ca8f6146abc7c4a2ba83d156" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC24C0049_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||84ebd65260f103b130466870ee5fed071e4b74eee6714b43b7908c09f290cb30||open" id="WC24C0049_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
