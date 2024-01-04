@@ -1,0 +1,34 @@
+add_shortcode( 'md-MCCS24W0784', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233766" rel="233766">
+<input type="hidden" name="price||77cfb1270904fc1b06c7cbcd2da3586cb929664f90f2f544a79a51a755b5692f" id="fs_price_233766" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233766" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233766" />
+<input type="hidden" name="image||3fefd6110a915700010cd2dc28179752ab824d3de29325a1b47ebba5bbd879e8||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/2024MDSpring-Kobonal-foxy-thumb.jpg" id="foxyshop_cart_product_image_233766" />
+<input type="hidden" name="url||16fef424dec9cf062abb0b0269357d593946dcf8b308ec78af0665fc7a95e466" value="https://crosscatholic.org/products/donate-to-kobonal-haiti-mission-6/" id="fs_url_233766" />
+<input type="hidden" name="quantity_min||cf41e6670eb05a0238438a2da98d50598b9d3570cc9d792c70c811c2e80cdb3d||open" value="0" id="fs_quantity_min_233766" />
+<input type="hidden" name="quantity_max||efb814f786f723cc7f72b3d2b027dd04ddfc72b6c21af900e4f56680c6227f75||open" value="0" id="fs_quantity_max_233766" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233766" />
+<input type="hidden" name="name||9f1259871f02e3b9f9c686b14450ce95a819a4b7e5a795efb6805ac14a8b3c36" id="fs_name_233766" value="Donate to Kobonal Haiti Mission" />
+<input type="hidden" name="code||c921bc75ae8e67580fb19c7f0c7991d7f7102e8c90debe15012d1867407bdc7e" id="fs_code_233766" value="MCCS24W0784" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCS24W0784_1" class="variation-donation">
+<option value="$10,603 provides Catholic education for 50 students{p:10603}||47e89e19a2609eedf784e25f24b65759aa63e93bdf63e34d7ee5ced9629f4a1b" priceset="1060300">$10,603 provides Catholic education for 50 students</option>
+<option value="$5,110 provides clean water for 220 people{p:5110}||ca9b3741d897d06b0f66411e47981d9f11c47bdd65263b17701dec3d6ecfaaa8" priceset="511000">$5,110 provides clean water for 220 people</option>
+<option selected value="$2,545 provides Catholic education for 12 students{p:2545}||ac3befb69bf7ec833abd17e2a2741e5892a79a610c1aeec842c54ecce294c16e" priceset="254500">$2,545 provides Catholic education for 12 students</option>
+<option value="$1,060 provides Catholic education for 5 students{p:1060}||73661ba3919f0f9c222b31a287823304665988a9dee2f6a3e6e6c576b9194b66" priceset="106000">$1,060 provides Catholic education for 5 students</option>
+<option value="Other{dkey:custom-price}||cbf940659324c6a3e1905d075986c1a50a4e730b97f9398a72dbd95ed78c3a2f" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCS24W0784_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||e7b80d10e6dbb4d3fa40d48185bf0b7bdd6673d2f361ca078993578b98db5ce0||open" id="MCCS24W0784_2" value="" class="variation-price foxyshop_required required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
