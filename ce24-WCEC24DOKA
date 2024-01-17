@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24DOKA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233748" rel="233748">
+<input type="hidden" name="price||441dc5577597f7dab97c53aded726c8da017baff57ca3b25cb58e0ec65a80d1b" id="fs_price_233748" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233748" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233748" />
+<input type="hidden" name="image||49ae0d5319a2a99b1a2be850b79ca07d037fc8c01c2bb1e68114947d9958e81b||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb.jpg" id="foxyshop_cart_product_image_233748" />
+<input type="hidden" name="url||bc37af232ff2ee3388e721e08c5571148d3622d81e864e152cefc0c262f20b80" value="https://crosscatholic.org/products/build-a-church-50-donation/" id="fs_url_233748" />
+<input type="hidden" name="quantity_min||467f0f688af1fb24cecc8cfc35b88425e745e7fb09904b90a2cf6daeaab7d65e||open" value="0" id="fs_quantity_min_233748" />
+<input type="hidden" name="quantity_max||ee962a98c9ec912e065fe46e498b75b58a90ed8ab0a74f76b21883bc5f1b90a5||open" value="0" id="fs_quantity_max_233748" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233748" />
+<input type="hidden" name="name||aa70756ec4a61650b22615c6c6c3ed77207b3d4e7f8ddf21cc3650bedb50a635" id="fs_name_233748" value="Build a Church - $50 donation" />
+<input type="hidden" name="code||7308c87c46ad89abf49df2744be41139641da5bf3dcd2ff2eab687434126a940" id="fs_code_233748" value="WCEC24DOKA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||96bba64dab3b7d79963dc03c1a5ce0d8a3e1fb3d28686c1b554e589c1303d914" id="WCEC24DOKA_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $150 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233749" rel="233749">
+<input type="hidden" name="price||77f36dacc148e732c35d9b992da5880e418a65cc3092a5b2cb0df48099023617" id="fs_price_233749" value="150.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233749" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233749" />
+<input type="hidden" name="image||49ae0d5319a2a99b1a2be850b79ca07d037fc8c01c2bb1e68114947d9958e81b||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb.jpg" id="foxyshop_cart_product_image_233749" />
+<input type="hidden" name="url||e4146e41f34104bc442fabc029cdfcea4ad42c185b0de99c20ecb3c99c48d120" value="https://crosscatholic.org/products/build-a-church-150-donation/" id="fs_url_233749" />
+<input type="hidden" name="quantity_min||467f0f688af1fb24cecc8cfc35b88425e745e7fb09904b90a2cf6daeaab7d65e||open" value="0" id="fs_quantity_min_233749" />
+<input type="hidden" name="quantity_max||ee962a98c9ec912e065fe46e498b75b58a90ed8ab0a74f76b21883bc5f1b90a5||open" value="0" id="fs_quantity_max_233749" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233749" />
+<input type="hidden" name="name||f037b8035ccb3641f12d82709d3baf055971b70e0fb01b4a01891e446c22e920" id="fs_name_233749" value="Build a Church - $150 donation" />
+<input type="hidden" name="code||7308c87c46ad89abf49df2744be41139641da5bf3dcd2ff2eab687434126a940" id="fs_code_233749" value="WCEC24DOKA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$150_donation||72f542e7dbe6edd2d60d0e844aec7fab8ca7eb923ffc29caa5effe3877cbf8c4" id="WCEC24DOKA_1" value="" class="variation-150-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$150</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$150</span></div></div></form>
+<!-- $500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233750" rel="233750">
+<input type="hidden" name="price||717dd5dd9cca55d42a078504eaba0a58c1cb92876f48e2d1d82e3f0e130b3ada" id="fs_price_233750" value="300.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233750" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233750" />
+<input type="hidden" name="image||49ae0d5319a2a99b1a2be850b79ca07d037fc8c01c2bb1e68114947d9958e81b||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb.jpg" id="foxyshop_cart_product_image_233750" />
+<input type="hidden" name="url||262ae9061e03c468af7a80c3b41d07b3f8ebd3a8a58f18c371ff920be7ddf169" value="https://crosscatholic.org/products/most-urgent-need-300-donation-2/" id="fs_url_233750" />
+<input type="hidden" name="quantity_min||467f0f688af1fb24cecc8cfc35b88425e745e7fb09904b90a2cf6daeaab7d65e||open" value="0" id="fs_quantity_min_233750" />
+<input type="hidden" name="quantity_max||ee962a98c9ec912e065fe46e498b75b58a90ed8ab0a74f76b21883bc5f1b90a5||open" value="0" id="fs_quantity_max_233750" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233750" />
+<input type="hidden" name="name||ce6980b342dde9e6982d7bbaae6e1820089cd2d95855a2a6f47d5cc99b8fbfb7" id="fs_name_233750" value="Most Urgent Need - $300 donation" />
+<input type="hidden" name="code||7308c87c46ad89abf49df2744be41139641da5bf3dcd2ff2eab687434126a940" id="fs_code_233750" value="WCEC24DOKA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$300_donation||d40b6c70564038ce0cf4d25d6642be4215e6fca78375174bcaad6e0906e41c80" id="WCEC24DOKA_1" value="" class="variation-300-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$300</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$300</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233751" rel="233751">
+<input type="hidden" name="price||99181b8f8318eb1fa6b1ef46f09c27a53e96668c1e639c9331d19aaca54a870a" id="fs_price_233751" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233751" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233751" />
+<input type="hidden" name="image||49ae0d5319a2a99b1a2be850b79ca07d037fc8c01c2bb1e68114947d9958e81b||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/General-Spirtual-Outreach-foxy-thumb.jpg" id="foxyshop_cart_product_image_233751" />
+<input type="hidden" name="url||68ce1746835998648fb8204e53a1e235a14dc1d5a737da75bd3b13e3eb7567f1" value="https://crosscatholic.org/products/build-a-church/" id="fs_url_233751" />
+<input type="hidden" name="quantity_min||467f0f688af1fb24cecc8cfc35b88425e745e7fb09904b90a2cf6daeaab7d65e||open" value="0" id="fs_quantity_min_233751" />
+<input type="hidden" name="quantity_max||ee962a98c9ec912e065fe46e498b75b58a90ed8ab0a74f76b21883bc5f1b90a5||open" value="0" id="fs_quantity_max_233751" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233751" />
+<input type="hidden" name="name||cbb1d76eaeccd584241e7a0fc35a5f5182d78f223ff96ebbb223e851f3b110ee" id="fs_name_233751" value="Build a Church" />
+<input type="hidden" name="code||7308c87c46ad89abf49df2744be41139641da5bf3dcd2ff2eab687434126a940" id="fs_code_233751" value="WCEC24DOKA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||b2e16b9b5a7f90faa919d43af360d2d2ecb4cce4e3671a8baed731eb2b77b0f2||open" id="WCEC24DOKA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
