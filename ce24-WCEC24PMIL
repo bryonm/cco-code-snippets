@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24PMIL', function () {
+
+	$out = '<div class="flex-container">
+<!-- $30 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234318" rel="234318">
+<input type="hidden" name="price||b092c2e5c60994d2f19b538c339d6e47aacb778af07bde8437c1e55f3225b4e2" id="fs_price_234318" value="30.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234318" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234318" />
+<input type="hidden" name="image||6fdf5633fc03a2fb2aea01120219c303fe58975b4912ae22c2e98553703c4f71||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/9001-General-Food-Powdered-Milk-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_234318" />
+<input type="hidden" name="url||323479c021fe26348e676509ab545c2737c9d6f230074385acd3b7de5d3901e7" value="https://crosscatholic.org/products/powdered-milk-30-donation-2/" id="fs_url_234318" />
+<input type="hidden" name="quantity_min||4bccf2d7707410130cb1b69df074816a6d9abef05e4b497742ce9e351daa9807||open" value="0" id="fs_quantity_min_234318" />
+<input type="hidden" name="quantity_max||1df395ff88ff0861b254791923640997d45fff48c7ce5c2e5b24243dbaf4d89d||open" value="0" id="fs_quantity_max_234318" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234318" />
+<input type="hidden" name="name||244d934041973283811005b6067e1c1ea85040f092e7004d5738edf5bf803b88" id="fs_name_234318" value="Powdered Milk - $30 donation" />
+<input type="hidden" name="code||60c9d3eb1053f8152f808ce48ab445895f438e7eae59d7ebdc66f25b9d52368a" id="fs_code_234318" value="WCEC24PMIL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$30_donation||e02f3775c66a878b45be2444429ce7159325d7186d18c89bdf9a973728f63c51" id="WCEC24PMIL_1" value="" class="variation-30-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$30</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$30.00</span></div></div></form>
+<!-- $90 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234319" rel="234319">
+<input type="hidden" name="price||5788d2fe565ceb879040b321866f9da4edeb39341487b95fbb1c5f30d98b8de1" id="fs_price_234319" value="90.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234319" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234319" />
+<input type="hidden" name="image||6fdf5633fc03a2fb2aea01120219c303fe58975b4912ae22c2e98553703c4f71||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/9001-General-Food-Powdered-Milk-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_234319" />
+<input type="hidden" name="url||0733316923b5413bc3c68c2b8ed541c413329dadd555e77bf5c14659fd77648b" value="https://crosscatholic.org/products/powdered-milk-90-donation-2/" id="fs_url_234319" />
+<input type="hidden" name="quantity_min||4bccf2d7707410130cb1b69df074816a6d9abef05e4b497742ce9e351daa9807||open" value="0" id="fs_quantity_min_234319" />
+<input type="hidden" name="quantity_max||1df395ff88ff0861b254791923640997d45fff48c7ce5c2e5b24243dbaf4d89d||open" value="0" id="fs_quantity_max_234319" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234319" />
+<input type="hidden" name="name||469504c383b56c87610fe36e94194f485ff46077c8e649d2eace44cc31f81da9" id="fs_name_234319" value="Powdered Milk - $90 donation" />
+<input type="hidden" name="code||60c9d3eb1053f8152f808ce48ab445895f438e7eae59d7ebdc66f25b9d52368a" id="fs_code_234319" value="WCEC24PMIL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$90_donation||ef15cc0620b235e29b5f749c6a3719de5dafffbe290eca123dffce84ebe7c46f" id="WCEC24PMIL_1" value="" class="variation-90-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$90</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$90</span></div></div></form>
+<!-- $300 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234320" rel="234320">
+<input type="hidden" name="price||97c5dd6c9a529cd51436d930b1a26ead1c869b21279bb6dea77bc23ed2aefb03" id="fs_price_234320" value="300.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234320" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234320" />
+<input type="hidden" name="image||6fdf5633fc03a2fb2aea01120219c303fe58975b4912ae22c2e98553703c4f71||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/9001-General-Food-Powdered-Milk-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_234320" />
+<input type="hidden" name="url||bdaac9b49850600bd370b60ce6c0c36373d5523110cb189ff1d7d309e60939f1" value="https://crosscatholic.org/products/powdered-milk-300-donation/" id="fs_url_234320" />
+<input type="hidden" name="quantity_min||4bccf2d7707410130cb1b69df074816a6d9abef05e4b497742ce9e351daa9807||open" value="0" id="fs_quantity_min_234320" />
+<input type="hidden" name="quantity_max||1df395ff88ff0861b254791923640997d45fff48c7ce5c2e5b24243dbaf4d89d||open" value="0" id="fs_quantity_max_234320" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234320" />
+<input type="hidden" name="name||e038d722690abebdaab182b921ba09d53fb1228885cc76ad53eb19b23268fc5f" id="fs_name_234320" value="Powdered Milk - $300 donation" />
+<input type="hidden" name="code||60c9d3eb1053f8152f808ce48ab445895f438e7eae59d7ebdc66f25b9d52368a" id="fs_code_234320" value="WCEC24PMIL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$300_donation||bc9d084368e216c0d77d99f423cde8683f75ed186a53d0580cb3acbfbe8c4015" id="WCEC24PMIL_1" value="" class="variation-300-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$300</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$300</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234321" rel="234321">
+<input type="hidden" name="price||378ec5d945e47d6edca14a7252f14eb46ba10dbb3b2b48f118da7c0acd10a097" id="fs_price_234321" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234321" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234321" />
+<input type="hidden" name="image||6fdf5633fc03a2fb2aea01120219c303fe58975b4912ae22c2e98553703c4f71||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/9001-General-Food-Powdered-Milk-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_234321" />
+<input type="hidden" name="url||8a9033a9b2e98de9a3e007050705bbb7f93bc7a1f72d1f0966aa986da5af2289" value="https://crosscatholic.org/products/powdered-milk-2/" id="fs_url_234321" />
+<input type="hidden" name="quantity_min||4bccf2d7707410130cb1b69df074816a6d9abef05e4b497742ce9e351daa9807||open" value="0" id="fs_quantity_min_234321" />
+<input type="hidden" name="quantity_max||1df395ff88ff0861b254791923640997d45fff48c7ce5c2e5b24243dbaf4d89d||open" value="0" id="fs_quantity_max_234321" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234321" />
+<input type="hidden" name="name||759cb2b2c4d229d6e7f98cdef6fa7daa509ebea9363a05080678a381edc5a3f6" id="fs_name_234321" value="Powdered Milk" />
+<input type="hidden" name="code||60c9d3eb1053f8152f808ce48ab445895f438e7eae59d7ebdc66f25b9d52368a" id="fs_code_234321" value="WCEC24PMIL" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f90e133b33326ffbe522cb87edfeb0a505b6bbea275ad0be77eacb9afd9566ee||open" id="WCEC24PMIL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
