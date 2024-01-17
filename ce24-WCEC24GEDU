@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24GEDU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $144 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233513" rel="233513">
+<input type="hidden" name="price||2bb56721b73d62d969af482a8ecf04ac7ac662e761685e5173a88276a6cbbc9c" id="fs_price_233513" value="144.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233513" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233513" />
+<input type="hidden" name="image||770331687209f7a013fb275c89d24f59e624b52062f5b9be6c7eab2319105dd6||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-worldwide-foxy-thumb.jpg" id="foxyshop_cart_product_image_233513" />
+<input type="hidden" name="url||97833ba7385ee3dc23f1db6d5eb00713cee7c0e88cad9ac857cf7c01f5ebd119" value="https://crosscatholic.org/products/donate-to-education-worldwide-144-donation/" id="fs_url_233513" />
+<input type="hidden" name="quantity_min||85487639d6be830cc9a2e2f06a4a9c12d33960516e1db4ae8fcd3ebef65eacfb||open" value="0" id="fs_quantity_min_233513" />
+<input type="hidden" name="quantity_max||0cffef82393ad8006a37bc637c926f31157f4a08a32a4afaef5ec885acfd5e80||open" value="0" id="fs_quantity_max_233513" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233513" />
+<input type="hidden" name="name||fb880d83123aeec67dba5e3e6311d4c91aa95ad0279b4cd1318b9af0b5fe5519" id="fs_name_233513" value="Donate to Education Worldwide - $144 donation" />
+<input type="hidden" name="code||585c3f49cde422d6faea8b25b8a5298db8fb948ce9bf82f2494161cf2b834c2f" id="fs_code_233513" value="WCEC24GEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$144_donation||b242e38d3daf2caf7137df32d7d6d84f7813d17bc51f3a4891ffec61df5fdb77" id="WCEC24GEDU_1" value="" class="variation-144-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$144</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$144.00</span></div></div></form>
+<!-- $288 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233514" rel="233514">
+<input type="hidden" name="price||d281660dccf31111d264625e2ff3227e9c5d6455d293cbaa93a1e19e71247c70" id="fs_price_233514" value="288.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233514" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233514" />
+<input type="hidden" name="image||770331687209f7a013fb275c89d24f59e624b52062f5b9be6c7eab2319105dd6||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-worldwide-foxy-thumb.jpg" id="foxyshop_cart_product_image_233514" />
+<input type="hidden" name="url||e3eb6f759f2a365a62902eb10f387df2353969d880bebcd7f6dcdb824e840d93" value="https://crosscatholic.org/products/donate-to-education-worldwide-288-donation/" id="fs_url_233514" />
+<input type="hidden" name="quantity_min||85487639d6be830cc9a2e2f06a4a9c12d33960516e1db4ae8fcd3ebef65eacfb||open" value="0" id="fs_quantity_min_233514" />
+<input type="hidden" name="quantity_max||0cffef82393ad8006a37bc637c926f31157f4a08a32a4afaef5ec885acfd5e80||open" value="0" id="fs_quantity_max_233514" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233514" />
+<input type="hidden" name="name||5783071781bf83c7cbdc7707ed7b34c238006308e24871bf00b0ee0bd0c473cb" id="fs_name_233514" value="Donate to Education Worldwide - $288 donation" />
+<input type="hidden" name="code||585c3f49cde422d6faea8b25b8a5298db8fb948ce9bf82f2494161cf2b834c2f" id="fs_code_233514" value="WCEC24GEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$288_donation||29a0f4ca9d624ab2ce3c875093891c75e44594433cd25c3234971d659aa25b10" id="WCEC24GEDU_1" value="" class="variation-288-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$288</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$288</span></div></div></form>
+<!-- $432 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233515" rel="233515">
+<input type="hidden" name="price||70740f185584e019d9c1bfcbb0505775c44968230569b8481f4f07e0fba3848b" id="fs_price_233515" value="432.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233515" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233515" />
+<input type="hidden" name="image||770331687209f7a013fb275c89d24f59e624b52062f5b9be6c7eab2319105dd6||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-worldwide-foxy-thumb.jpg" id="foxyshop_cart_product_image_233515" />
+<input type="hidden" name="url||636ccd00533e42e23de0ae1098181d2328a1bac558850072f8dc6ec744439a3a" value="https://crosscatholic.org/products/donate-to-education-worldwide-432-donation/" id="fs_url_233515" />
+<input type="hidden" name="quantity_min||85487639d6be830cc9a2e2f06a4a9c12d33960516e1db4ae8fcd3ebef65eacfb||open" value="0" id="fs_quantity_min_233515" />
+<input type="hidden" name="quantity_max||0cffef82393ad8006a37bc637c926f31157f4a08a32a4afaef5ec885acfd5e80||open" value="0" id="fs_quantity_max_233515" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233515" />
+<input type="hidden" name="name||88d703c2494fc0f7d010f03ea94b835c4f598f50419c516bf82f0aebd8eebdef" id="fs_name_233515" value="Donate to Education Worldwide - $432 donation" />
+<input type="hidden" name="code||585c3f49cde422d6faea8b25b8a5298db8fb948ce9bf82f2494161cf2b834c2f" id="fs_code_233515" value="WCEC24GEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$432_donation||a293190054f5b2af816db0adac4a4d7c85e8742df64b4ea3ebff2b78cee388fe" id="WCEC24GEDU_1" value="" class="variation-432-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$432</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$432</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233516" rel="233516">
+<input type="hidden" name="price||89415e7d11c2a82fa67633a2dc427389004b6fcce8cec76837a7c09e316b3e84" id="fs_price_233516" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233516" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233516" />
+<input type="hidden" name="image||770331687209f7a013fb275c89d24f59e624b52062f5b9be6c7eab2319105dd6||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-worldwide-foxy-thumb.jpg" id="foxyshop_cart_product_image_233516" />
+<input type="hidden" name="url||afe1e2a78501a3c722400487479cdc0ac8626b451b413e8056eafbc7efda6664" value="https://crosscatholic.org/products/donate-to-education-worldwide/" id="fs_url_233516" />
+<input type="hidden" name="quantity_min||85487639d6be830cc9a2e2f06a4a9c12d33960516e1db4ae8fcd3ebef65eacfb||open" value="0" id="fs_quantity_min_233516" />
+<input type="hidden" name="quantity_max||0cffef82393ad8006a37bc637c926f31157f4a08a32a4afaef5ec885acfd5e80||open" value="0" id="fs_quantity_max_233516" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233516" />
+<input type="hidden" name="name||5d7dc4798dcb266dd446a22fc22a0a924b118a279f7cfb147c0b6bafbe044235" id="fs_name_233516" value="Donate to Education Worldwide" />
+<input type="hidden" name="code||585c3f49cde422d6faea8b25b8a5298db8fb948ce9bf82f2494161cf2b834c2f" id="fs_code_233516" value="WCEC24GEDU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f97d97478de88a4854caef03655ffdb8047761370ad00893b23e78d1dd2373e6||open" id="WCEC24GEDU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
