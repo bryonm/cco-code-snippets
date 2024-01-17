@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24KEDU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $212 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233544" rel="233544">
+<input type="hidden" name="price||559c42c43b53cb98f2f4f448598300519d29b901cd328810c94de56efbe2a231" id="fs_price_233544" value="212.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233544" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233544" />
+<input type="hidden" name="image||7f67648a1170773bde287dbd243659ff4b720c4f7fc8f55ad624273032324b0f||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-haiti-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_233544" />
+<input type="hidden" name="url||716bf576dca4ba1fd7a8ec295f9b1d73f8365d01f15f7d53e2446ec3b1e5e0be" value="https://crosscatholic.org/products/donate-to-education-in-haiti-212-donation/" id="fs_url_233544" />
+<input type="hidden" name="quantity_min||1e4108b3ab2adeb766d9e9ef00e9610c37c3cae524a0f5893cd968a9f5670ea3||open" value="0" id="fs_quantity_min_233544" />
+<input type="hidden" name="quantity_max||e96f5679cd1e5b08140c9bb433c9b28dccdf0cce48d590d5f28d87040a8bbf10||open" value="0" id="fs_quantity_max_233544" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233544" />
+<input type="hidden" name="name||40a521251a77ed1a290c489de2c0895c5699ed53acc69cbc9658a6edc2955859" id="fs_name_233544" value="Donate to Education in Haiti - $212 donation" />
+<input type="hidden" name="code||6f0f6bee870a6d8f5b0438673ba7f7cb3e4c65335c53505c1912f5860cd57ab2" id="fs_code_233544" value="WCEC24KEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$212_donation||639a70c165fa34df63dae6dc8dae9bbf6df6c037fe8676d146debe41b1a5acee" id="WCEC24KEDU_1" value="" class="variation-212-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$212</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$212.00</span></div></div></form>
+<!-- $424 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233545" rel="233545">
+<input type="hidden" name="price||d0253d50907cbd6845c669c528e072ab0ed5c2e772b429ef8a89ac0a9b12ac8a" id="fs_price_233545" value="424.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233545" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233545" />
+<input type="hidden" name="image||7f67648a1170773bde287dbd243659ff4b720c4f7fc8f55ad624273032324b0f||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-haiti-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_233545" />
+<input type="hidden" name="url||9ba1b83d66abd94ff0b6036565943d3c1b4b3cd4295459f734faf159345801e0" value="https://crosscatholic.org/products/donate-to-education-in-haiti-424-donation/" id="fs_url_233545" />
+<input type="hidden" name="quantity_min||1e4108b3ab2adeb766d9e9ef00e9610c37c3cae524a0f5893cd968a9f5670ea3||open" value="0" id="fs_quantity_min_233545" />
+<input type="hidden" name="quantity_max||e96f5679cd1e5b08140c9bb433c9b28dccdf0cce48d590d5f28d87040a8bbf10||open" value="0" id="fs_quantity_max_233545" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233545" />
+<input type="hidden" name="name||dc4688c554b14b145cec236c2596c960f8721bef3d30fe5aeabefde6b5c80a41" id="fs_name_233545" value="Donate to Education in Haiti - $424 donation" />
+<input type="hidden" name="code||6f0f6bee870a6d8f5b0438673ba7f7cb3e4c65335c53505c1912f5860cd57ab2" id="fs_code_233545" value="WCEC24KEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$424_donation||b11d822386f024ebe68459d759b9ecd4639f4f32b93a5c159fc593b2a22cb74b" id="WCEC24KEDU_1" value="" class="variation-424-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$424</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$424</span></div></div></form>
+<!-- $636 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233546" rel="233546">
+<input type="hidden" name="price||498f59886b2ab1b2f5456db4154aac41133b888fd566a4cde0a687e8893cc067" id="fs_price_233546" value="636.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233546" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233546" />
+<input type="hidden" name="image||7f67648a1170773bde287dbd243659ff4b720c4f7fc8f55ad624273032324b0f||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-haiti-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_233546" />
+<input type="hidden" name="url||02d6fac00593ea56e51ac18901ff8073206f745146c9791618560d80a117940a" value="https://crosscatholic.org/products/donate-to-education-in-haiti-636-donation/" id="fs_url_233546" />
+<input type="hidden" name="quantity_min||1e4108b3ab2adeb766d9e9ef00e9610c37c3cae524a0f5893cd968a9f5670ea3||open" value="0" id="fs_quantity_min_233546" />
+<input type="hidden" name="quantity_max||e96f5679cd1e5b08140c9bb433c9b28dccdf0cce48d590d5f28d87040a8bbf10||open" value="0" id="fs_quantity_max_233546" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233546" />
+<input type="hidden" name="name||b9da5749ce76fddfd378bde5d61c53e8e790f29ca8abf2b6b9145de73ae1d60c" id="fs_name_233546" value="Donate to Education in Haiti - $636 donation" />
+<input type="hidden" name="code||6f0f6bee870a6d8f5b0438673ba7f7cb3e4c65335c53505c1912f5860cd57ab2" id="fs_code_233546" value="WCEC24KEDU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$636_donation||6aa63f9d71dab69de48169e57e02ab93a7eea23a38da2a7a988fa2b794487c12" id="WCEC24KEDU_1" value="" class="variation-636-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$636</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$636</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233547" rel="233547">
+<input type="hidden" name="price||fa61fab0f510ba5baf696ecaff60fe0ebfdfea8c4bc5f32b79698f413f2afeb0" id="fs_price_233547" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233547" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233547" />
+<input type="hidden" name="image||7f67648a1170773bde287dbd243659ff4b720c4f7fc8f55ad624273032324b0f||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/education-haiti-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_233547" />
+<input type="hidden" name="url||90413b0b1c1bf4ea0be8f7f462c07ccb55fbb0c937467c47cad829cee7515882" value="https://crosscatholic.org/products/donate-to-education-in-haiti/" id="fs_url_233547" />
+<input type="hidden" name="quantity_min||1e4108b3ab2adeb766d9e9ef00e9610c37c3cae524a0f5893cd968a9f5670ea3||open" value="0" id="fs_quantity_min_233547" />
+<input type="hidden" name="quantity_max||e96f5679cd1e5b08140c9bb433c9b28dccdf0cce48d590d5f28d87040a8bbf10||open" value="0" id="fs_quantity_max_233547" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233547" />
+<input type="hidden" name="name||3a13e515957735dfe4594445214d33429398467ec8c959efdf2434408acf0619" id="fs_name_233547" value="Donate to Education in Haiti" />
+<input type="hidden" name="code||6f0f6bee870a6d8f5b0438673ba7f7cb3e4c65335c53505c1912f5860cd57ab2" id="fs_code_233547" value="WCEC24KEDU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||105b8a02852741344b4e1332c07140db78c72a7c504a9c6bcc99e43099b04e33||open" id="WCEC24KEDU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
