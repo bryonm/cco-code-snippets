@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24WOBU', function () {
+
+	$out = '<div class="flex-container">
+<!-- $500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234407" rel="234407">
+<input type="hidden" name="price||a9d82656d51cfea47f09844901aaa7bf472246623b49a7fb845a091c20fa686f" id="fs_price_234407" value="500.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234407" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234407" />
+<input type="hidden" name="image||8d189343092fc81e9a709ec2751a37b9864cc562356484a24c6c09919cf28ff8||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_234407" />
+<input type="hidden" name="url||f86fc7b6387797296066a30a8794192f93720ccc066b70cd289e821412ae4bad" value="https://crosscatholic.org/products/business-loans-for-women-500-donation/" id="fs_url_234407" />
+<input type="hidden" name="quantity_min||cd7e974d27eb32bc578daeee643543ac0c8a4d3705c41c7f7bcc6e29eb46b8e9||open" value="0" id="fs_quantity_min_234407" />
+<input type="hidden" name="quantity_max||4cb6a1f1868866d575d8e74fb0207e159e438088b2bd264fdd9c157169a62778||open" value="0" id="fs_quantity_max_234407" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234407" />
+<input type="hidden" name="name||76d168e0ff7d468dd84f38a628ab9cbca4e6bedeec57e4135a9e3d0ef63587e8" id="fs_name_234407" value="Business Loans for Women - $500 donation" />
+<input type="hidden" name="code||da770d68dd3ae913637b70a7b410311352d3fdf7371dffbf8bdea7a3649b71e7" id="fs_code_234407" value="WCEC24WOBU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$500_donation||868bcc5c2032c5e527895c17b20371db80577fd3ba4676dec8c1ce1e65ebff25" id="WCEC24WOBU_1" value="" class="variation-500-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$500</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$500.00</span></div></div></form>
+<!-- $1,000 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234408" rel="234408">
+<input type="hidden" name="price||b5dcd4007b5059d659e0829f6e11fdab297ceb22423f3677ac897b31291dbb2f" id="fs_price_234408" value="1000.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234408" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234408" />
+<input type="hidden" name="image||8d189343092fc81e9a709ec2751a37b9864cc562356484a24c6c09919cf28ff8||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_234408" />
+<input type="hidden" name="url||6e9b0d59042c98cdb8ae0d86cd3448d58fe7591ff90bfb67e7cb707e367e3c03" value="https://crosscatholic.org/products/business-loans-for-women-1000-donation/" id="fs_url_234408" />
+<input type="hidden" name="quantity_min||cd7e974d27eb32bc578daeee643543ac0c8a4d3705c41c7f7bcc6e29eb46b8e9||open" value="0" id="fs_quantity_min_234408" />
+<input type="hidden" name="quantity_max||4cb6a1f1868866d575d8e74fb0207e159e438088b2bd264fdd9c157169a62778||open" value="0" id="fs_quantity_max_234408" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234408" />
+<input type="hidden" name="name||73d094497fe21ad26f94be2180b890265198f6b4a558f6ca5e8b5a29ef2149c3" id="fs_name_234408" value="Business Loans for Women - $1,000 donation" />
+<input type="hidden" name="code||da770d68dd3ae913637b70a7b410311352d3fdf7371dffbf8bdea7a3649b71e7" id="fs_code_234408" value="WCEC24WOBU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1000_donation||f8dbad7590c57e44b27b16c9b795ba36314e82f3f7998b0fe383fcdffc7118ea" id="WCEC24WOBU_1" value="" class="variation-1000-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,000</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,000</span></div></div></form>
+<!-- $2,000 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234409" rel="234409">
+<input type="hidden" name="price||d692709df655ce184d21817e0d68f6a5c294fa4c958e3b939e59fe7c084d11b8" id="fs_price_234409" value="2000.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234409" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234409" />
+<input type="hidden" name="image||8d189343092fc81e9a709ec2751a37b9864cc562356484a24c6c09919cf28ff8||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_234409" />
+<input type="hidden" name="url||455d9d1f3a25810342485c0c0c968aa047ef3dac687d05f24e83f45aa9c8d52b" value="https://crosscatholic.org/products/business-loans-for-women-2000-donation/" id="fs_url_234409" />
+<input type="hidden" name="quantity_min||cd7e974d27eb32bc578daeee643543ac0c8a4d3705c41c7f7bcc6e29eb46b8e9||open" value="0" id="fs_quantity_min_234409" />
+<input type="hidden" name="quantity_max||4cb6a1f1868866d575d8e74fb0207e159e438088b2bd264fdd9c157169a62778||open" value="0" id="fs_quantity_max_234409" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234409" />
+<input type="hidden" name="name||e1f37cd8efcb1ee2fdcd4841a6b6010bbe6f21ac11b09c4400bf8866fbcf9f00" id="fs_name_234409" value="Business Loans for Women - $2,000 donation" />
+<input type="hidden" name="code||da770d68dd3ae913637b70a7b410311352d3fdf7371dffbf8bdea7a3649b71e7" id="fs_code_234409" value="WCEC24WOBU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$2000_donation||a18aee31ec6191a376636af8f42fa9c0bf6cd4cca8a9e53436992be64b7f2600" id="WCEC24WOBU_1" value="" class="variation-2000-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$2,000</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$2,000</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234410" rel="234410">
+<input type="hidden" name="price||330aa079b68b77a7874c897918b972be1d7c97b690b05777310102f85b71cc37" id="fs_price_234410" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234410" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234410" />
+<input type="hidden" name="image||8d189343092fc81e9a709ec2751a37b9864cc562356484a24c6c09919cf28ff8||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/Business-Loans-for-Women-foxy-thumb.jpg" id="foxyshop_cart_product_image_234410" />
+<input type="hidden" name="url||9d6e77d38a4f6a654115e9c4a9c902f3e9d682022ad1770bcf330ab13833acea" value="https://crosscatholic.org/products/business-loans-for-women/" id="fs_url_234410" />
+<input type="hidden" name="quantity_min||cd7e974d27eb32bc578daeee643543ac0c8a4d3705c41c7f7bcc6e29eb46b8e9||open" value="0" id="fs_quantity_min_234410" />
+<input type="hidden" name="quantity_max||4cb6a1f1868866d575d8e74fb0207e159e438088b2bd264fdd9c157169a62778||open" value="0" id="fs_quantity_max_234410" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234410" />
+<input type="hidden" name="name||06cf3a337e6410366945850ae5818c7b6a027411e710e06a1b8d0b9636cdec4e" id="fs_name_234410" value="Business Loans for Women" />
+<input type="hidden" name="code||da770d68dd3ae913637b70a7b410311352d3fdf7371dffbf8bdea7a3649b71e7" id="fs_code_234410" value="WCEC24WOBU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||1179a46e242c84ec01094be0c2d0f49f1f979d4f44d6a2e95eacdbb0a0927dea||open" id="WCEC24WOBU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
