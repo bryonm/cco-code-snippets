@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24NGON', function () {
+
+	$out = '<div class="flex-container">
+<!-- $188 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234394" rel="234394">
+<input type="hidden" name="price||3baf501563bfaa549c99fa48ce1486d13fa9679336e5fa203f692e97b61ebb48" id="fs_price_234394" value="188.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234394" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234394" />
+<input type="hidden" name="image||836009c1d1ad77c6e0b61a663a2da05c07b25f39df6597cf11e6431c9c5fa1d6||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3006-Ngong-Catholic-Scholarship-foxy-thumb-9-1.jpg" id="foxyshop_cart_product_image_234394" />
+<input type="hidden" name="url||5b4a0ae07df627eb12d4be82ccc61542c962b9c8f5294881e98d4b2e09273712" value="https://crosscatholic.org/products/catholic-school-scholarships-in-kenya-188-donation-2/" id="fs_url_234394" />
+<input type="hidden" name="quantity_min||51018af39201f19b82b81d80d5d83ccf00954bbfc0cdb44fcd19fef4735408ab||open" value="0" id="fs_quantity_min_234394" />
+<input type="hidden" name="quantity_max||310d59493f72a20ca7b7d3acda0c84c9972782d0f7be3b504ea9f72ba31bb19c||open" value="0" id="fs_quantity_max_234394" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234394" />
+<input type="hidden" name="name||ab325af2e5e289b5d8fa9f4929414750564ba7c2ea7504f30be816d5cba6c2eb" id="fs_name_234394" value="Catholic School Scholarships in Kenya - $188 donation" />
+<input type="hidden" name="code||9efcfb9830b1707c55aa22f39b9cbfe431b7b250f6128276b72e21c1b0da6230" id="fs_code_234394" value="WCEC24NGON" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$188_donation||7c4af661c5f779b7198444b567c549e0be455ee941a82652437fc20bf025e5aa" id="WCEC24NGON_1" value="" class="variation-188-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$188</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$188.00</span></div></div></form>
+<!-- $376 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234395" rel="234395">
+<input type="hidden" name="price||b92fdbcc20131d4b96e78cf658347357f0bc4fb5ace7da6cd6053db6282f6f4e" id="fs_price_234395" value="376.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234395" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234395" />
+<input type="hidden" name="image||836009c1d1ad77c6e0b61a663a2da05c07b25f39df6597cf11e6431c9c5fa1d6||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3006-Ngong-Catholic-Scholarship-foxy-thumb-9-1.jpg" id="foxyshop_cart_product_image_234395" />
+<input type="hidden" name="url||22a8d7437b69d8fc375c14e78e1727251eeeef5d1dccc2902d82ef019da6e9d6" value="https://crosscatholic.org/products/catholic-school-scholarships-in-kenya-376-donation/" id="fs_url_234395" />
+<input type="hidden" name="quantity_min||51018af39201f19b82b81d80d5d83ccf00954bbfc0cdb44fcd19fef4735408ab||open" value="0" id="fs_quantity_min_234395" />
+<input type="hidden" name="quantity_max||310d59493f72a20ca7b7d3acda0c84c9972782d0f7be3b504ea9f72ba31bb19c||open" value="0" id="fs_quantity_max_234395" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234395" />
+<input type="hidden" name="name||2e4428adecbebe1562ece87fbacfee9ce9e9ae9b9ac63c4120e19b89e8c7c82f" id="fs_name_234395" value="Catholic School Scholarships in Kenya - $376 donation" />
+<input type="hidden" name="code||9efcfb9830b1707c55aa22f39b9cbfe431b7b250f6128276b72e21c1b0da6230" id="fs_code_234395" value="WCEC24NGON" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$376_donation||a72aa2b3ad4c59be48a6be956ce8636bef17eafd8e6f43d14d2575fd35cffbff" id="WCEC24NGON_1" value="" class="variation-376-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$376</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$376</span></div></div></form>
+<!-- $564 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234396" rel="234396">
+<input type="hidden" name="price||eb724b834482cf39ae2fe6a0062cb9f145da85e102b0d340243b3d0f7677b59b" id="fs_price_234396" value="564.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234396" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234396" />
+<input type="hidden" name="image||836009c1d1ad77c6e0b61a663a2da05c07b25f39df6597cf11e6431c9c5fa1d6||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3006-Ngong-Catholic-Scholarship-foxy-thumb-9-1.jpg" id="foxyshop_cart_product_image_234396" />
+<input type="hidden" name="url||c4c4e9ca871079e033262fb1dbf4a95cbd29ae393165b9ef4de6da1fe383d377" value="https://crosscatholic.org/products/catholic-school-scholarships-in-kenya-564-donation/" id="fs_url_234396" />
+<input type="hidden" name="quantity_min||51018af39201f19b82b81d80d5d83ccf00954bbfc0cdb44fcd19fef4735408ab||open" value="0" id="fs_quantity_min_234396" />
+<input type="hidden" name="quantity_max||310d59493f72a20ca7b7d3acda0c84c9972782d0f7be3b504ea9f72ba31bb19c||open" value="0" id="fs_quantity_max_234396" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234396" />
+<input type="hidden" name="name||9cf8958dca7904eae61fbc7b964a75ec07bb33c2474c7a7be05ccf48af2a783e" id="fs_name_234396" value="Catholic School Scholarships in Kenya - $564 donation" />
+<input type="hidden" name="code||9efcfb9830b1707c55aa22f39b9cbfe431b7b250f6128276b72e21c1b0da6230" id="fs_code_234396" value="WCEC24NGON" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$564_donation||1baf42e0869474cb8ce022b5dea950ba05268adfe1a1fe42441e913ff019a4fe" id="WCEC24NGON_1" value="" class="variation-564-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$564</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$564</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234397" rel="234397">
+<input type="hidden" name="price||c41eb95f5b7ee044db092ea71e20fa81f7958e20af2c79a24cdfce7f85ce2974" id="fs_price_234397" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234397" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234397" />
+<input type="hidden" name="image||836009c1d1ad77c6e0b61a663a2da05c07b25f39df6597cf11e6431c9c5fa1d6||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/3006-Ngong-Catholic-Scholarship-foxy-thumb-9-1.jpg" id="foxyshop_cart_product_image_234397" />
+<input type="hidden" name="url||d704b5bc5f49e166ffe9d664d635f9aa70f05ed9e5186db4e60304fb791726f0" value="https://crosscatholic.org/products/catholic-school-scholarships-in-kenya-2/" id="fs_url_234397" />
+<input type="hidden" name="quantity_min||51018af39201f19b82b81d80d5d83ccf00954bbfc0cdb44fcd19fef4735408ab||open" value="0" id="fs_quantity_min_234397" />
+<input type="hidden" name="quantity_max||310d59493f72a20ca7b7d3acda0c84c9972782d0f7be3b504ea9f72ba31bb19c||open" value="0" id="fs_quantity_max_234397" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234397" />
+<input type="hidden" name="name||e6401742701ce8b238e808828c94a845f2e314af3ecf040aa1e2ad6991f021c9" id="fs_name_234397" value="Catholic School Scholarships in Kenya" />
+<input type="hidden" name="code||9efcfb9830b1707c55aa22f39b9cbfe431b7b250f6128276b72e21c1b0da6230" id="fs_code_234397" value="WCEC24NGON" />
+<div class="foxyshop_variations">
+<input type="text" name="price||c014ae225f58b0229935630c631abae5a44612ab3fc5f94100aded8c9aef56a9||open" id="WCEC24NGON_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
