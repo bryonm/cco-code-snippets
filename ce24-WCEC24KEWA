@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24KEWA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $185 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236285" rel="236285">
+<input type="hidden" name="price||7a0e302772fc93613597d0d822f27d500cb215c04231299d1ac2cd771bafcf1c" id="fs_price_236285" value="185.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236285" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236285" />
+<input type="hidden" name="image||744779871e456c24e2342904f50c69689963625e5d0908d49a133312d97da1f3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Clean-Water-in-Kenya-foxy-thumb.jpg" id="foxyshop_cart_product_image_236285" />
+<input type="hidden" name="url||e3e1a68d837cfa6d74a37750cd60c121b7b0452446e23f58305ce73e52f13fe2" value="https://crosscatholic.org/products/clean-water-for-healthy-families-in-easter-catalog-185-donation/" id="fs_url_236285" />
+<input type="hidden" name="quantity_min||1af03862574ea8b11113512eac5414bc844806e18c3c6a69a7bcf320ef41ec0d||open" value="0" id="fs_quantity_min_236285" />
+<input type="hidden" name="quantity_max||4220bc3cee1873ca8d46e31e9a1a08717a3de80189ff8c19bd3070fbba79d44c||open" value="0" id="fs_quantity_max_236285" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236285" />
+<input type="hidden" name="name||017e42dd8536b34b0ca2128aa6eccff63af05ae6a68a4c71bb554a675f86b25f" id="fs_name_236285" value="Clean Water for Healthy Families in Easter Catalog - $185 donation" />
+<input type="hidden" name="code||63e5312be31aaeeba402d02bda01df76abc2b34dbcde519d4c4f8362dfa85c9d" id="fs_code_236285" value="WCEC24KEWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$185_donation||3d666b08733c0f94ca92fb49ecbc915a404e633d89962b489058b406368ef929" id="WCEC24KEWA_1" value="" class="variation-185-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$185</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">185.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236286" rel="236286">
+<input type="hidden" name="price||58e9c4d65eb01e403a941f27207964e232251785cbf6825b9195b157f3efcc84" id="fs_price_236286" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236286" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236286" />
+<input type="hidden" name="image||744779871e456c24e2342904f50c69689963625e5d0908d49a133312d97da1f3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Clean-Water-in-Kenya-foxy-thumb.jpg" id="foxyshop_cart_product_image_236286" />
+<input type="hidden" name="url||5582c7591f6383a53d8dbb2b8dce0eca0541b3487b1438b2ec2d92dc86104eb3" value="https://crosscatholic.org/products/clean-water-for-healthy-families-in-easter-catalog-250-donation/" id="fs_url_236286" />
+<input type="hidden" name="quantity_min||1af03862574ea8b11113512eac5414bc844806e18c3c6a69a7bcf320ef41ec0d||open" value="0" id="fs_quantity_min_236286" />
+<input type="hidden" name="quantity_max||4220bc3cee1873ca8d46e31e9a1a08717a3de80189ff8c19bd3070fbba79d44c||open" value="0" id="fs_quantity_max_236286" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236286" />
+<input type="hidden" name="name||3c514d6b561d7f9fccf733aa247b3fcd37c97242e424a4c12e2c88a51988b288" id="fs_name_236286" value="Clean Water for Healthy Families in Easter Catalog - $250 donation" />
+<input type="hidden" name="code||63e5312be31aaeeba402d02bda01df76abc2b34dbcde519d4c4f8362dfa85c9d" id="fs_code_236286" value="WCEC24KEWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||dadefe974305cc999aa84a302db19a46cce301f794e7ef43e9a8daaffb0c3775" id="WCEC24KEWA_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250</span></div></div></form>
+<!-- $500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236287" rel="236287">
+<input type="hidden" name="price||56799125faf8761045feff3dfb39b5bb1f0485ca9d1dad8bc0da11df7de902fd" id="fs_price_236287" value="500.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236287" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236287" />
+<input type="hidden" name="image||744779871e456c24e2342904f50c69689963625e5d0908d49a133312d97da1f3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Clean-Water-in-Kenya-foxy-thumb.jpg" id="foxyshop_cart_product_image_236287" />
+<input type="hidden" name="url||d9f4bb530adb0a081d8a9164aae1740832366b3e13df093c385ab08639d345ba" value="https://crosscatholic.org/products/clean-water-for-healthy-families-in-easter-catalog-500-donation/" id="fs_url_236287" />
+<input type="hidden" name="quantity_min||1af03862574ea8b11113512eac5414bc844806e18c3c6a69a7bcf320ef41ec0d||open" value="0" id="fs_quantity_min_236287" />
+<input type="hidden" name="quantity_max||4220bc3cee1873ca8d46e31e9a1a08717a3de80189ff8c19bd3070fbba79d44c||open" value="0" id="fs_quantity_max_236287" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236287" />
+<input type="hidden" name="name||107e533f63273d782e86da98109820b1187ed73d50df60d357d3c7fc862a1901" id="fs_name_236287" value="Clean Water for Healthy Families in Easter Catalog - $500 donation" />
+<input type="hidden" name="code||63e5312be31aaeeba402d02bda01df76abc2b34dbcde519d4c4f8362dfa85c9d" id="fs_code_236287" value="WCEC24KEWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$500_donation||3beea574dfcb85f3b22901c3982aa5d4cc00f319435f7ba197236a1e67ea7eda" id="WCEC24KEWA_1" value="" class="variation-500-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$555</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$555</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236288" rel="236288">
+<input type="hidden" name="price||0deae68297d9f42dae72f7f170268a32eca2c41d5e99e42907729dd256a154a9" id="fs_price_236288" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236288" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236288" />
+<input type="hidden" name="image||744779871e456c24e2342904f50c69689963625e5d0908d49a133312d97da1f3||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/Clean-Water-in-Kenya-foxy-thumb.jpg" id="foxyshop_cart_product_image_236288" />
+<input type="hidden" name="url||07f9eecd1695a6eb27f3d50cefc794e2405af53f1538e35d6e9d9cdd76726b8a" value="https://crosscatholic.org/products/clean-water-for-healthy-families-in-easter-catalog/" id="fs_url_236288" />
+<input type="hidden" name="quantity_min||1af03862574ea8b11113512eac5414bc844806e18c3c6a69a7bcf320ef41ec0d||open" value="0" id="fs_quantity_min_236288" />
+<input type="hidden" name="quantity_max||4220bc3cee1873ca8d46e31e9a1a08717a3de80189ff8c19bd3070fbba79d44c||open" value="0" id="fs_quantity_max_236288" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236288" />
+<input type="hidden" name="name||7d9b24a9f6218550f238d3d2e0c6ee40df39d631329a23a72099500778dd7124" id="fs_name_236288" value="Clean Water for Healthy Families in Easter Catalog" />
+<input type="hidden" name="code||63e5312be31aaeeba402d02bda01df76abc2b34dbcde519d4c4f8362dfa85c9d" id="fs_code_236288" value="WCEC24KEWA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||3239023cd607ee0151bb5b5c69bd8b971511e84137ee3ecd69c9cda415449ba6||open" id="WCEC24KEWA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
