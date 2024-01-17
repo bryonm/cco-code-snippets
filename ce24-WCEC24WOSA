@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24WOSA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $85 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233428" rel="233428">
+<input type="hidden" name="price||853bb9b8a6870f2b1fa1941634e4b4a5365e86b5220eb706841c2e36a1b4c30d" id="fs_price_233428" value="85.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233428" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233428" />
+<input type="hidden" name="image||531731a531cabe61433b2516f44d2e6a380f7166f13fb95896c811c5e7d4d062||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/CC2023-CleanWater-Students01-foxy-thumb.jpg" id="foxyshop_cart_product_image_233428" />
+<input type="hidden" name="url||ade4480cfb988d660d0dc7d2fc812803fcc5b7122f25a85a67cabf724b15747e" value="https://crosscatholic.org/products/donate-to-clean-water-in-malawi-zambia-85-donation/" id="fs_url_233428" />
+<input type="hidden" name="quantity_min||6d9174e57daaa42be49fb92d89beedfaafcf1f7396e611f1388a182bcc79f142||open" value="0" id="fs_quantity_min_233428" />
+<input type="hidden" name="quantity_max||9cfd00a8ef9a15e2f2c1cd8c4c7bce609d358615b5979aaf460848b3d0428bda||open" value="0" id="fs_quantity_max_233428" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233428" />
+<input type="hidden" name="name||e2773814cab79f538843127f3a4f383022377a6c3f4c00bb289fae0f06ceec1d" id="fs_name_233428" value="Donate to Clean Water in Malawi &amp; Zambia - $85 donation" />
+<input type="hidden" name="code||87439bbf268d9b9d6d940239bd70e8fe2a440d33f3acf210c1c70efa36ed4f66" id="fs_code_233428" value="WCEC24WOSA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$85_donation||9d2a0ff74bec038998bc924514d99306cd322144e4ffc0a143924bde74460226" id="WCEC24WOSA_1" value="" class="variation-85-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$85</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$85.00</span></div></div></form>
+<!-- $255 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233429" rel="233429">
+<input type="hidden" name="price||61765640fe92a35ad046a21622e746594e1a5fd9a4c4f6de5443a6457672caf2" id="fs_price_233429" value="255.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233429" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233429" />
+<input type="hidden" name="image||531731a531cabe61433b2516f44d2e6a380f7166f13fb95896c811c5e7d4d062||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/CC2023-CleanWater-Students01-foxy-thumb.jpg" id="foxyshop_cart_product_image_233429" />
+<input type="hidden" name="url||bdaf9388483047d7fdb0cf75d2d3c3d00bc94c3060e0c96f1d8dec9abbdef711" value="https://crosscatholic.org/products/donate-to-clean-water-in-malawi-zambia-255-donation/" id="fs_url_233429" />
+<input type="hidden" name="quantity_min||6d9174e57daaa42be49fb92d89beedfaafcf1f7396e611f1388a182bcc79f142||open" value="0" id="fs_quantity_min_233429" />
+<input type="hidden" name="quantity_max||9cfd00a8ef9a15e2f2c1cd8c4c7bce609d358615b5979aaf460848b3d0428bda||open" value="0" id="fs_quantity_max_233429" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233429" />
+<input type="hidden" name="name||c404ad94d1e91a2e5bcd4527b21902d0e3b4059defaee640c5721ac845de7a1d" id="fs_name_233429" value="Donate to Clean Water in Malawi &amp; Zambia - $255 donation" />
+<input type="hidden" name="code||87439bbf268d9b9d6d940239bd70e8fe2a440d33f3acf210c1c70efa36ed4f66" id="fs_code_233429" value="WCEC24WOSA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$255_donation||366c4adb9330584c49287a3cc6e04253dbaa1dacf19b3bc0bb440b334c68d070" id="WCEC24WOSA_1" value="" class="variation-255-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$255</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$255</span></div></div></form>
+<!-- $510 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233430" rel="233430">
+<input type="hidden" name="price||4d0a74c8700682586015ab21e412b1504dee94998562857efb94432dc14464cf" id="fs_price_233430" value="510.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233430" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233430" />
+<input type="hidden" name="image||531731a531cabe61433b2516f44d2e6a380f7166f13fb95896c811c5e7d4d062||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/CC2023-CleanWater-Students01-foxy-thumb.jpg" id="foxyshop_cart_product_image_233430" />
+<input type="hidden" name="url||5ca3536c356f6f7f1d910927309602dd250b3c448009bf9b621cef6bf7b862e4" value="https://crosscatholic.org/products/donate-to-clean-water-in-malawi-zambia-510-donation/" id="fs_url_233430" />
+<input type="hidden" name="quantity_min||6d9174e57daaa42be49fb92d89beedfaafcf1f7396e611f1388a182bcc79f142||open" value="0" id="fs_quantity_min_233430" />
+<input type="hidden" name="quantity_max||9cfd00a8ef9a15e2f2c1cd8c4c7bce609d358615b5979aaf460848b3d0428bda||open" value="0" id="fs_quantity_max_233430" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233430" />
+<input type="hidden" name="name||ee9ff5118bc2791e6c2f69b67b71e18ead765ecb48d0f5735fdcb1ed4c0129ab" id="fs_name_233430" value="Donate to Clean Water in Malawi &amp; Zambia - $510 donation" />
+<input type="hidden" name="code||87439bbf268d9b9d6d940239bd70e8fe2a440d33f3acf210c1c70efa36ed4f66" id="fs_code_233430" value="WCEC24WOSA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$510_donation||f28f1e2238e366c1dbefc664469203cf597a277cabb2b232cd3559397e266938" id="WCEC24WOSA_1" value="" class="variation-510-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$510</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$510</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233431" rel="233431">
+<input type="hidden" name="price||56d8fc4e8729276b10b3ce89e305c06c0d04f3cd160a45481081e3a7763380e0" id="fs_price_233431" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233431" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233431" />
+<input type="hidden" name="image||531731a531cabe61433b2516f44d2e6a380f7166f13fb95896c811c5e7d4d062||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/CC2023-CleanWater-Students01-foxy-thumb.jpg" id="foxyshop_cart_product_image_233431" />
+<input type="hidden" name="url||2eed240cc63c7c4d218286f4d3ebd8baa374fdc16770d513ee7c41235891ce00" value="https://crosscatholic.org/products/donate-to-clean-water-in-malawi-zambia/" id="fs_url_233431" />
+<input type="hidden" name="quantity_min||6d9174e57daaa42be49fb92d89beedfaafcf1f7396e611f1388a182bcc79f142||open" value="0" id="fs_quantity_min_233431" />
+<input type="hidden" name="quantity_max||9cfd00a8ef9a15e2f2c1cd8c4c7bce609d358615b5979aaf460848b3d0428bda||open" value="0" id="fs_quantity_max_233431" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233431" />
+<input type="hidden" name="name||000ff4e87c227c269552faad56a40bcea5d312b0165b2d41a8c3d4ea6ece146c" id="fs_name_233431" value="Donate to Clean Water in Malawi &amp; Zambia" />
+<input type="hidden" name="code||87439bbf268d9b9d6d940239bd70e8fe2a440d33f3acf210c1c70efa36ed4f66" id="fs_code_233431" value="WCEC24WOSA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2eac618e3cfa732e38bf4bc7ecf441812602b552185f63831009606e802f48c1||open" id="WCEC24WOSA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
