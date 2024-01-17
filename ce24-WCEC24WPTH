@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24WPTH', function () {
+
+	$out = '<div class="flex-container">
+<!-- $132 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233453" rel="233453">
+<input type="hidden" name="price||2f5c48f9f128f5ee01ff94717fc3c717c8ad812924671dc95c77ae07f7b85ec4" id="fs_price_233453" value="132.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233453" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233453" />
+<input type="hidden" name="image||f511cf66509b0cb886e15dee9038032476008197ab95232dbc3c2a7cfe6e2db2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/nicaragua-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233453" />
+<input type="hidden" name="url||5db5705eb15c7f4704f1f2119e225ee4843b4fef75206aa775281c8b42977034" value="https://crosscatholic.org/products/donate-to-provide-water-in-nicaragua-132-donation/" id="fs_url_233453" />
+<input type="hidden" name="quantity_min||14bcb907853bdda50b1b9a60bbd717cf6fef3cbbff36383017b74852efe83884||open" value="0" id="fs_quantity_min_233453" />
+<input type="hidden" name="quantity_max||6198a840401e4a27eaaf2fc29ce6eeb983591dfa9cc5a382dd422b343a89671c||open" value="0" id="fs_quantity_max_233453" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233453" />
+<input type="hidden" name="name||3f13025a45faaff6a6d93ef12c9354f6301cb86e8409c7d264fbad3da9fcd0b2" id="fs_name_233453" value="Donate to Provide Water in Nicaragua - $132 donation" />
+<input type="hidden" name="code||dda9fb581387c68bbccae7c37af21dcc6c745a6e437e4c100228dad965630468" id="fs_code_233453" value="WCEC24WPTH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$132_donation||953d335320c8a997c594724607a55d65b70fa87e14ae552b6c6d8ea34b141609" id="WCEC24WPTH_1" value="" class="variation-132-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$132</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$132.00</span></div></div></form>
+<!-- $264 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233454" rel="233454">
+<input type="hidden" name="price||37ff595899aef970ab3e6f2bc238d057b0a87cb55ff9678f7540c247dc23a1a4" id="fs_price_233454" value="264.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233454" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233454" />
+<input type="hidden" name="image||f511cf66509b0cb886e15dee9038032476008197ab95232dbc3c2a7cfe6e2db2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/nicaragua-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233454" />
+<input type="hidden" name="url||58465a6fbc7dceb427ecad83971fea8643894e1747315cb64e50efdcc8258316" value="https://crosscatholic.org/products/donate-to-provide-water-in-nicaragua-264-donation/" id="fs_url_233454" />
+<input type="hidden" name="quantity_min||14bcb907853bdda50b1b9a60bbd717cf6fef3cbbff36383017b74852efe83884||open" value="0" id="fs_quantity_min_233454" />
+<input type="hidden" name="quantity_max||6198a840401e4a27eaaf2fc29ce6eeb983591dfa9cc5a382dd422b343a89671c||open" value="0" id="fs_quantity_max_233454" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233454" />
+<input type="hidden" name="name||dc82bd464ff8804508e41260202054525cdcf1cc56ded2a83da51df32fe7ec33" id="fs_name_233454" value="Donate to Provide Water in Nicaragua - $264 donation" />
+<input type="hidden" name="code||dda9fb581387c68bbccae7c37af21dcc6c745a6e437e4c100228dad965630468" id="fs_code_233454" value="WCEC24WPTH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$264_donation||a7fe138f50cf1e51ff3e11d338a7811e49b7a1e708f0a39193ca38d98d65d863" id="WCEC24WPTH_1" value="" class="variation-264-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$264</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$264</span></div></div></form>
+<!-- $660 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233455" rel="233455">
+<input type="hidden" name="price||4ecf662b40bd60269478acfa6d21da042eb325eaa188393866962195eee406c6" id="fs_price_233455" value="660.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233455" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233455" />
+<input type="hidden" name="image||f511cf66509b0cb886e15dee9038032476008197ab95232dbc3c2a7cfe6e2db2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/nicaragua-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233455" />
+<input type="hidden" name="url||b8d8980fb29ff0ef51c64e29975ae6fb3fd5618bac4e435cf09c0a93dd80ce93" value="https://crosscatholic.org/products/donate-to-provide-water-in-nicaragua-660-donation/" id="fs_url_233455" />
+<input type="hidden" name="quantity_min||14bcb907853bdda50b1b9a60bbd717cf6fef3cbbff36383017b74852efe83884||open" value="0" id="fs_quantity_min_233455" />
+<input type="hidden" name="quantity_max||6198a840401e4a27eaaf2fc29ce6eeb983591dfa9cc5a382dd422b343a89671c||open" value="0" id="fs_quantity_max_233455" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233455" />
+<input type="hidden" name="name||f665830df2ccbb2b6ced19d7b20835a3d39e2caab879d137441ca2f5eb599c9b" id="fs_name_233455" value="Donate to Provide Water in Nicaragua - $660 donation" />
+<input type="hidden" name="code||dda9fb581387c68bbccae7c37af21dcc6c745a6e437e4c100228dad965630468" id="fs_code_233455" value="WCEC24WPTH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$660_donation||b128e0fd5899e6cb1f9f3398d914b91c08bd7a5cada1134b3a085a76844fac2a" id="WCEC24WPTH_1" value="" class="variation-660-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$660</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$660</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233456" rel="233456">
+<input type="hidden" name="price||24c190ba59f5069e7ff592a7ed5015cb68b1ce51d97c8c719622214e2c69e11b" id="fs_price_233456" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233456" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233456" />
+<input type="hidden" name="image||f511cf66509b0cb886e15dee9038032476008197ab95232dbc3c2a7cfe6e2db2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/nicaragua-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233456" />
+<input type="hidden" name="url||a8473b10660f9b01a0dc7c933c3fa4b5de7d9ba5affb061394c257214d400087" value="https://crosscatholic.org/products/donate-to-provide-water-in-nicaragua/" id="fs_url_233456" />
+<input type="hidden" name="quantity_min||14bcb907853bdda50b1b9a60bbd717cf6fef3cbbff36383017b74852efe83884||open" value="0" id="fs_quantity_min_233456" />
+<input type="hidden" name="quantity_max||6198a840401e4a27eaaf2fc29ce6eeb983591dfa9cc5a382dd422b343a89671c||open" value="0" id="fs_quantity_max_233456" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233456" />
+<input type="hidden" name="name||682aaeb8ffa1d1df1a52fd8b19298bc398a96a8938ceb86e268212d3ef1eaca7" id="fs_name_233456" value="Donate to Provide Water in Nicaragua" />
+<input type="hidden" name="code||dda9fb581387c68bbccae7c37af21dcc6c745a6e437e4c100228dad965630468" id="fs_code_233456" value="WCEC24WPTH" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9550f5976dbb32c2b22c3c084906204892424826552a93bec139900286d77eed||open" id="WCEC24WPTH_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
