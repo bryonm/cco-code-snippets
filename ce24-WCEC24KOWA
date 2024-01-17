@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24KOWA', function () {
+
+	$out = '<div class="flex-container">
+<!-- $93 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233496" rel="233496">
+<input type="hidden" name="price||c4b1604e84024775379d7926c7976ad778a0eba191ff3273e8f27a19fa2429f1" id="fs_price_233496" value="93.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233496" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233496" />
+<input type="hidden" name="image||7e38ff58d38cff7a495c509c1ef12e446074700f17a2a7c10d5e6c8ca6d6938a||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/haiti-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233496" />
+<input type="hidden" name="url||cf155c6556652a4c29c4ba9f6b1900b87812686e78df17b0b8562fb87768d6bf" value="https://crosscatholic.org/products/donate-to-provide-water-in-haiti-93-donation/" id="fs_url_233496" />
+<input type="hidden" name="quantity_min||db9f5defd1af65b0046a5c96ea28a59f6972dc374e95bd9d4f94906fc2d17fe6||open" value="0" id="fs_quantity_min_233496" />
+<input type="hidden" name="quantity_max||57b8145cd9c70c3454d78bd67813faefc18f0353fe72e0d10fb35c0a1d173e11||open" value="0" id="fs_quantity_max_233496" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233496" />
+<input type="hidden" name="name||99ecc775930d9ce792395255a2dfad853330de703c0a56655a0f29fd7f3a2a1b" id="fs_name_233496" value="Donate to Provide Water in Haiti - $93 donation" />
+<input type="hidden" name="code||0fa1e97578e4720910be17d70957796c67e6ec349ab3344611e30edc731a9a9f" id="fs_code_233496" value="WCEC24KOWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$93_donation||f3f33f0bf6e20ce13d22bab4ae75947d524d418e917f59af276473de3b29c173" id="WCEC24KOWA_1" value="" class="variation-93-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$93</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$93.00</span></div></div></form>
+<!-- $186 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233497" rel="233497">
+<input type="hidden" name="price||1ae4117fe7bc43b00d283c22e7ab56d1f25f41b04ad40779315cbac3b2b069b9" id="fs_price_233497" value="186.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233497" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233497" />
+<input type="hidden" name="image||7e38ff58d38cff7a495c509c1ef12e446074700f17a2a7c10d5e6c8ca6d6938a||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/haiti-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233497" />
+<input type="hidden" name="url||5458dce672ac729c5420a2a94604a5a43a734ed866f20cb413e899b669cba9c7" value="https://crosscatholic.org/products/donate-to-provide-water-in-haiti-186-donation/" id="fs_url_233497" />
+<input type="hidden" name="quantity_min||db9f5defd1af65b0046a5c96ea28a59f6972dc374e95bd9d4f94906fc2d17fe6||open" value="0" id="fs_quantity_min_233497" />
+<input type="hidden" name="quantity_max||57b8145cd9c70c3454d78bd67813faefc18f0353fe72e0d10fb35c0a1d173e11||open" value="0" id="fs_quantity_max_233497" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233497" />
+<input type="hidden" name="name||723fbf0ff79251f740298115b959d3fc8b9a697a417438c0c63d2795137a013a" id="fs_name_233497" value="Donate to Provide Water in Haiti - $186 donation" />
+<input type="hidden" name="code||0fa1e97578e4720910be17d70957796c67e6ec349ab3344611e30edc731a9a9f" id="fs_code_233497" value="WCEC24KOWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$186_donation||93e94289bb9d249c69df816fa0294a592df91b557d9ab41e675944ca35d902df" id="WCEC24KOWA_1" value="" class="variation-186-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$186</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$186</span></div></div></form>
+<!-- $372 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233498" rel="233498">
+<input type="hidden" name="price||9625a34331fa4eaaa9d5aa1f1b58c339827a4445f1443cdb1377d32f8ac35079" id="fs_price_233498" value="372.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233498" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233498" />
+<input type="hidden" name="image||7e38ff58d38cff7a495c509c1ef12e446074700f17a2a7c10d5e6c8ca6d6938a||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/haiti-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233498" />
+<input type="hidden" name="url||a8618baa97593d70ec4f8bc9871bf195ec326f84c03cf44392012d7ad0b19c59" value="https://crosscatholic.org/products/donate-to-provide-water-in-haiti-372-donation/" id="fs_url_233498" />
+<input type="hidden" name="quantity_min||db9f5defd1af65b0046a5c96ea28a59f6972dc374e95bd9d4f94906fc2d17fe6||open" value="0" id="fs_quantity_min_233498" />
+<input type="hidden" name="quantity_max||57b8145cd9c70c3454d78bd67813faefc18f0353fe72e0d10fb35c0a1d173e11||open" value="0" id="fs_quantity_max_233498" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233498" />
+<input type="hidden" name="name||e6035456b027998172c9835ef92cab09817ac5d462ca2c56ece248e33c194c91" id="fs_name_233498" value="Donate to Provide Water in Haiti - $372 donation" />
+<input type="hidden" name="code||0fa1e97578e4720910be17d70957796c67e6ec349ab3344611e30edc731a9a9f" id="fs_code_233498" value="WCEC24KOWA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$372_donation||7fbc77b672e4788c28da76fc39f775037067907ad067e936a0c4858fb2802171" id="WCEC24KOWA_1" value="" class="variation-372-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$372</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$372</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233499" rel="233499">
+<input type="hidden" name="price||e143603128129a61e57cc4f36b29f6c2d9efa49b6c2afc5bcb98018f7dcf34cb" id="fs_price_233499" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233499" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233499" />
+<input type="hidden" name="image||7e38ff58d38cff7a495c509c1ef12e446074700f17a2a7c10d5e6c8ca6d6938a||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/haiti-water-foxy-thumb.jpg" id="foxyshop_cart_product_image_233499" />
+<input type="hidden" name="url||d777e6637ec692c396c39bdec97fc5704b6e60128aa22b55f03847fc4bdcb55c" value="https://crosscatholic.org/products/donate-to-provide-water-in-haiti/" id="fs_url_233499" />
+<input type="hidden" name="quantity_min||db9f5defd1af65b0046a5c96ea28a59f6972dc374e95bd9d4f94906fc2d17fe6||open" value="0" id="fs_quantity_min_233499" />
+<input type="hidden" name="quantity_max||57b8145cd9c70c3454d78bd67813faefc18f0353fe72e0d10fb35c0a1d173e11||open" value="0" id="fs_quantity_max_233499" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233499" />
+<input type="hidden" name="name||9a1c84817341b1b7a8c3dc49cbd09b2eae993c8d3c97fae78297327dc5c4b3bf" id="fs_name_233499" value="Donate to Provide Water in Haiti" />
+<input type="hidden" name="code||0fa1e97578e4720910be17d70957796c67e6ec349ab3344611e30edc731a9a9f" id="fs_code_233499" value="WCEC24KOWA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2011aa5c910629712d9bf75a32b240a513bf5a6c44318bd9c4a69f72381534f9||open" id="WCEC24KOWA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
