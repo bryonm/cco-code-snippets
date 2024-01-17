@@ -1,0 +1,78 @@
+add_shortcode( 'ce24-WCEC24MUNMOT', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233599" rel="233599">
+<input type="hidden" name="price||4cbecaade59cfef2441666c7f5fde00c3adbec0e034f63526c8124767e34eb31" id="fs_price_233599" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233599" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233599" />
+<input type="hidden" name="image||b1a868824938cae06d922225281fcdd702439426969da70a793383efb71b2ad9||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_233599" />
+<input type="hidden" name="url||7512ae48368aee259e2b46d8118564c3c628d557569d9eedd677f888e8cca12a" value="https://crosscatholic.org/products/give-monthly-in-easter-catalog-50-donation-2/" id="fs_url_233599" />
+<input type="hidden" name="quantity_min||c8fad5928eb20810d8361edfd7d989f4275dbed3ed352ce0bb56e41f09ecb1ba||open" value="0" id="fs_quantity_min_233599" />
+<input type="hidden" name="quantity_max||1299c5e5fa48160ca73ce6a3b35410172f604a90aa1bfed74d4e42dfa0f25cf2||open" value="0" id="fs_quantity_max_233599" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233599" />
+<input type="hidden" name="sub_frequency||199f6fdd4e2d78bbe9b0796cb76e06aba484af122f3ed3c69cea894ec662e9d8||open" id="fs_sub_frequency_233599" value="1m" />
+<input type="hidden" name="name||088bbf396f34b891780837c1fb57e1aeac1f1450f6ab310ff63d8c1c5208f606" id="fs_name_233599" value="Give Monthly in Easter Catalog - $50 donation" />
+<input type="hidden" name="code||e93ab997d612614195bc6205959c803ff3400d72a70539142883e6b43e5c68b4" id="fs_code_233599" value="WCEC24MUNMOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||1ccdead5ce97ce85e52ca92248b1edc738ab6029c621daa15ff0a10322efff8d" id="WCEC24MUNMOT_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233600" rel="233600">
+<input type="hidden" name="price||0b8293fc48891340333ec13a3c230de162682a15bf549636500fa79b0bc9dc79" id="fs_price_233600" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233600" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233600" />
+<input type="hidden" name="image||b1a868824938cae06d922225281fcdd702439426969da70a793383efb71b2ad9||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_233600" />
+<input type="hidden" name="url||d9a38222149591ac15a7375db3d81c4607e21197514cb83dc620597e70e4cb51" value="https://crosscatholic.org/products/give-monthly-in-easter-catalog-100-donation-2/" id="fs_url_233600" />
+<input type="hidden" name="quantity_min||c8fad5928eb20810d8361edfd7d989f4275dbed3ed352ce0bb56e41f09ecb1ba||open" value="0" id="fs_quantity_min_233600" />
+<input type="hidden" name="quantity_max||1299c5e5fa48160ca73ce6a3b35410172f604a90aa1bfed74d4e42dfa0f25cf2||open" value="0" id="fs_quantity_max_233600" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233600" />
+<input type="hidden" name="sub_frequency||199f6fdd4e2d78bbe9b0796cb76e06aba484af122f3ed3c69cea894ec662e9d8||open" id="fs_sub_frequency_233600" value="1m" />
+<input type="hidden" name="name||082fb3ba11acedac51b76341be7d5336f1a8f64922da45fb04881cc0092a62f2" id="fs_name_233600" value="Give Monthly in Easter Catalog - $100 donation" />
+<input type="hidden" name="code||e93ab997d612614195bc6205959c803ff3400d72a70539142883e6b43e5c68b4" id="fs_code_233600" value="WCEC24MUNMOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||1b7913a0b227195dd3db4b3344eee9a472b6884a5bdde5dfe24e73d043d1b36e" id="WCEC24MUNMOT_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100</span></div></div></form>
+<!-- $200 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233601" rel="233601">
+<input type="hidden" name="price||e62484a0a4da7fbe6b43d19db6c3f2f710fe2b17ea12f663ac570ba1a2d2bc07" id="fs_price_233601" value="200.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233601" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233601" />
+<input type="hidden" name="image||b1a868824938cae06d922225281fcdd702439426969da70a793383efb71b2ad9||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_233601" />
+<input type="hidden" name="url||3ac07ea2ec127712da7cfeed2c233dfccdc4fe6ab4c9a667519d6e2be8f29c47" value="https://crosscatholic.org/products/give-monthly-in-easter-catalog-200-donation-2/" id="fs_url_233601" />
+<input type="hidden" name="quantity_min||c8fad5928eb20810d8361edfd7d989f4275dbed3ed352ce0bb56e41f09ecb1ba||open" value="0" id="fs_quantity_min_233601" />
+<input type="hidden" name="quantity_max||1299c5e5fa48160ca73ce6a3b35410172f604a90aa1bfed74d4e42dfa0f25cf2||open" value="0" id="fs_quantity_max_233601" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233601" />
+<input type="hidden" name="sub_frequency||199f6fdd4e2d78bbe9b0796cb76e06aba484af122f3ed3c69cea894ec662e9d8||open" id="fs_sub_frequency_233601" value="1m" />
+<input type="hidden" name="name||ab3b2539a8fdb2b8fa291013512431adda71732052831638f7a49b08979fb6a1" id="fs_name_233601" value="Give Monthly in Easter Catalog - $200 donation" />
+<input type="hidden" name="code||e93ab997d612614195bc6205959c803ff3400d72a70539142883e6b43e5c68b4" id="fs_code_233601" value="WCEC24MUNMOT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$200_donation||4a52faf9261f93ae69e83b2962d51cd2559734ceb3f3c2bfc223eabf0a3e1563" id="WCEC24MUNMOT_1" value="" class="variation-200-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$200</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$200</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233602" rel="233602">
+<input type="hidden" name="price||4c03c479eec924b64c11dc26fdfb0aaf965f83fcdf4114e44be49eeab220dcef" id="fs_price_233602" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233602" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233602" />
+<input type="hidden" name="image||b1a868824938cae06d922225281fcdd702439426969da70a793383efb71b2ad9||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/new-cc-MonthlyGiving-foxy-thumb.jpg" id="foxyshop_cart_product_image_233602" />
+<input type="hidden" name="url||483f8a71e2acc161a90c18eb6ccb82918e5ba5d9bf75d15dbabc1a3ad1649368" value="https://crosscatholic.org/products/give-monthly-in-easter-catalog-2/" id="fs_url_233602" />
+<input type="hidden" name="quantity_min||c8fad5928eb20810d8361edfd7d989f4275dbed3ed352ce0bb56e41f09ecb1ba||open" value="0" id="fs_quantity_min_233602" />
+<input type="hidden" name="quantity_max||1299c5e5fa48160ca73ce6a3b35410172f604a90aa1bfed74d4e42dfa0f25cf2||open" value="0" id="fs_quantity_max_233602" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233602" />
+<input type="hidden" name="sub_frequency||199f6fdd4e2d78bbe9b0796cb76e06aba484af122f3ed3c69cea894ec662e9d8||open" id="fs_sub_frequency_233602" value="1m" />
+<input type="hidden" name="name||a64ef686895414d2ef50a4e23e1ac35426d9c9c33800b68a68d69b8704f0c634" id="fs_name_233602" value="Give Monthly in Easter Catalog" />
+<input type="hidden" name="code||e93ab997d612614195bc6205959c803ff3400d72a70539142883e6b43e5c68b4" id="fs_code_233602" value="WCEC24MUNMOT" />
+<div class="foxyshop_variations">
+<input type="text" name="price||cb78b4d5963fbe8c0fe8d0a58484b6933db946a72f05e525953bd74d011bb16e||open" id="WCEC24MUNMOT_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
