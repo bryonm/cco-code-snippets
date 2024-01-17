@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24BIBL', function () {
+
+	$out = '<div class="flex-container">
+<!-- $80 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233592" rel="233592">
+<input type="hidden" name="price||a99bd059492bb2f54252ce7052effb1501d1d8b5a9191a876843be6ad623f880" id="fs_price_233592" value="80.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233592" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233592" />
+<input type="hidden" name="image||ea08a2ac099876e14bbae70abf909aedd4228e696fb9a87103253f4f5b24d40a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_233592" />
+<input type="hidden" name="url||1c07929c9114ec7316e42a0b7e483f97fcb88370b4b7318c58cb756339b1dc54" value="https://crosscatholic.org/products/donate-catholic-bibles-80-donation/" id="fs_url_233592" />
+<input type="hidden" name="quantity_min||0f6b02098917f6645933a438619e468c64f6293817f843afb39f41e845df76d9||open" value="0" id="fs_quantity_min_233592" />
+<input type="hidden" name="quantity_max||08e5f60a832ca61e734c78b1307d86b7468f419d56e6098c540c058a9c749f74||open" value="0" id="fs_quantity_max_233592" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233592" />
+<input type="hidden" name="name||4d239658ac10e3ad1d7742c6d409dd4d8eac8bb6bad132f8f5d1bfb6c274419e" id="fs_name_233592" value="Donate Catholic Bibles - $80 donation" />
+<input type="hidden" name="code||2ded61ee047c131b482638dc5d49c4a41c7185c431c323c7e11f33b308e6e244" id="fs_code_233592" value="WCEC24BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$80_donation||bb1ce4c72f5c48ba01a91ba24e6548e37031b5b769d4dac34509a329e17b8ff0" id="WCEC24BIBL_1" value="" class="variation-80-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$80</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$80.00</span></div></div></form>
+<!-- $160 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233588" rel="233588">
+<input type="hidden" name="price||9a7ba90db71a7ee13edafd9a93adc138cbd44d29928929917a291d59d8ba6743" id="fs_price_233588" value="160.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233588" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233588" />
+<input type="hidden" name="image||ea08a2ac099876e14bbae70abf909aedd4228e696fb9a87103253f4f5b24d40a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_233588" />
+<input type="hidden" name="url||8b87d9a3781997848190e4bfd4324f3bfd9e66be153822d44b05da0d6a54c822" value="https://crosscatholic.org/products/donate-catholic-bibles-160-donation/" id="fs_url_233588" />
+<input type="hidden" name="quantity_min||0f6b02098917f6645933a438619e468c64f6293817f843afb39f41e845df76d9||open" value="0" id="fs_quantity_min_233588" />
+<input type="hidden" name="quantity_max||08e5f60a832ca61e734c78b1307d86b7468f419d56e6098c540c058a9c749f74||open" value="0" id="fs_quantity_max_233588" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233588" />
+<input type="hidden" name="name||10b3e56a3c69883bbc712ac39c9d624ce48882bfd56679b3393d48685544ca88" id="fs_name_233588" value="Donate Catholic Bibles - $160 donation" />
+<input type="hidden" name="code||2ded61ee047c131b482638dc5d49c4a41c7185c431c323c7e11f33b308e6e244" id="fs_code_233588" value="WCEC24BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$160_donation||4ca16d95cff91db1d1c868a0372b8bb7760c77b6d0515164d4bee1bd6eac3791" id="WCEC24BIBL_1" value="" class="variation-160-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$160</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$160</span></div></div></form>
+<!-- $240 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233593" rel="233593">
+<input type="hidden" name="price||07bc73efda13ee2e7a73c0aa15154e98be001efceb62eace5be542c645833a4c" id="fs_price_233593" value="240.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233593" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233593" />
+<input type="hidden" name="image||ea08a2ac099876e14bbae70abf909aedd4228e696fb9a87103253f4f5b24d40a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_233593" />
+<input type="hidden" name="url||7f2766c7004a482e4faf0d17f5a354fb830daa5aac4d8c702519b5b346fec166" value="https://crosscatholic.org/products/donate-catholic-bibles-240-donation/" id="fs_url_233593" />
+<input type="hidden" name="quantity_min||0f6b02098917f6645933a438619e468c64f6293817f843afb39f41e845df76d9||open" value="0" id="fs_quantity_min_233593" />
+<input type="hidden" name="quantity_max||08e5f60a832ca61e734c78b1307d86b7468f419d56e6098c540c058a9c749f74||open" value="0" id="fs_quantity_max_233593" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233593" />
+<input type="hidden" name="name||f8a6ba183056fd2b59209b3e56413a8ef434926926a883197aa01056efb06d04" id="fs_name_233593" value="Donate Catholic Bibles - $240 donation" />
+<input type="hidden" name="code||2ded61ee047c131b482638dc5d49c4a41c7185c431c323c7e11f33b308e6e244" id="fs_code_233593" value="WCEC24BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$240_donation||9e9b1d047bf4a1d7d7b7860963dd8b5cc7554805361863f6a5b99f31c99620e8" id="WCEC24BIBL_1" value="" class="variation-240-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$240</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$240</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_233594" rel="233594">
+<input type="hidden" name="price||9bef7b5675617bd016518f34c74f0c5dbba16da4d9b640b10c1c26af7e703788" id="fs_price_233594" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_233594" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_233594" />
+<input type="hidden" name="image||ea08a2ac099876e14bbae70abf909aedd4228e696fb9a87103253f4f5b24d40a||open" value="https://crosscatholic.org/wp-content/uploads/2023/09/bibles-foxy-thumb.jpg" id="foxyshop_cart_product_image_233594" />
+<input type="hidden" name="url||2447e094140ed52fe44bcb873159a07b5213175b8ab11c9b4a7222e87065f67d" value="https://crosscatholic.org/products/donate-catholic-bibles/" id="fs_url_233594" />
+<input type="hidden" name="quantity_min||0f6b02098917f6645933a438619e468c64f6293817f843afb39f41e845df76d9||open" value="0" id="fs_quantity_min_233594" />
+<input type="hidden" name="quantity_max||08e5f60a832ca61e734c78b1307d86b7468f419d56e6098c540c058a9c749f74||open" value="0" id="fs_quantity_max_233594" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_233594" />
+<input type="hidden" name="name||f1e90d36944c95bb921623220d94691508d7accfb07b853daeb6fc7b28b38d6f" id="fs_name_233594" value="Donate Catholic Bibles" />
+<input type="hidden" name="code||2ded61ee047c131b482638dc5d49c4a41c7185c431c323c7e11f33b308e6e244" id="fs_code_233594" value="WCEC24BIBL" />
+<div class="foxyshop_variations">
+<input type="text" name="price||ff011650d679e91ecfbd18133d05b14b52521e3fbda22d318e0cc554a8327d09||open" id="WCEC24BIBL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
