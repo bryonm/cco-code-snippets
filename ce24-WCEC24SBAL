@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24SBAL', function () {
+
+	$out = '<div class="flex-container">
+<!-- $41 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234306" rel="234306">
+<input type="hidden" name="price||ee2e07ae3509d6eecb59ff5994cf94ae8f647e35a34b340a955f1ea03694865f" id="fs_price_234306" value="41.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234306" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234306" />
+<input type="hidden" name="image||01beeb0ae64c244cc04ee54e4b9e29faa3dde17c03804dfea1fd76b67ce3019a||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Soccer-Balls_1-150x150.jpg" id="foxyshop_cart_product_image_234306" />
+<input type="hidden" name="url||779c05726045537eb55198b4dca4ccccb22bcea3ebbdb0b6d3fa33e7c274368c" value="https://crosscatholic.org/products/soccer-balls-41-donation-2/" id="fs_url_234306" />
+<input type="hidden" name="quantity_min||b3b9eb12a5a821a33dddeb23c5c6c33e7d786a828a32c05af5bcf0ec6aa12462||open" value="0" id="fs_quantity_min_234306" />
+<input type="hidden" name="quantity_max||33fa8ff4bd924982d5867b2d24914514b07bf44e111e49dfd8011de0eef81d55||open" value="0" id="fs_quantity_max_234306" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234306" />
+<input type="hidden" name="name||d994758995c63c123fc7ceff428c6408f3ff628cb47aab81c14a07c473ed9aa1" id="fs_name_234306" value="Soccer Balls - $41 donation" />
+<input type="hidden" name="code||e7f621dcfe88dd486043e85b45cec2f3256b83de8503d3ccf6243a0f9bb02e13" id="fs_code_234306" value="WCEC24SBAL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$41_donation||cb233a7189e0396ca4582da94e08365ca33e7d16cdc21533e0c71bd06cf4ef20" id="WCEC24SBAL_1" value="" class="variation-41-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$41</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$41.00</span></div></div></form>
+<!-- $122 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234307" rel="234307">
+<input type="hidden" name="price||7b282d30fb2b872e39ca475cd7b21e441a3044d4dc7c26f6bdd86bcdd0ba98d7" id="fs_price_234307" value="122.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234307" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234307" />
+<input type="hidden" name="image||01beeb0ae64c244cc04ee54e4b9e29faa3dde17c03804dfea1fd76b67ce3019a||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Soccer-Balls_1-150x150.jpg" id="foxyshop_cart_product_image_234307" />
+<input type="hidden" name="url||8d26b844c21e387a4d291c4bca9c5a1c5f22fed2f1e5b3e8628014b570188b5a" value="https://crosscatholic.org/products/soccer-balls-122-donation-2/" id="fs_url_234307" />
+<input type="hidden" name="quantity_min||b3b9eb12a5a821a33dddeb23c5c6c33e7d786a828a32c05af5bcf0ec6aa12462||open" value="0" id="fs_quantity_min_234307" />
+<input type="hidden" name="quantity_max||33fa8ff4bd924982d5867b2d24914514b07bf44e111e49dfd8011de0eef81d55||open" value="0" id="fs_quantity_max_234307" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234307" />
+<input type="hidden" name="name||7b8e65780a07fa2e8d84ff72dd878a469313126e79c1ca0176773208821f9266" id="fs_name_234307" value="Soccer Balls - $122 donation" />
+<input type="hidden" name="code||e7f621dcfe88dd486043e85b45cec2f3256b83de8503d3ccf6243a0f9bb02e13" id="fs_code_234307" value="WCEC24SBAL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$122_donation||0a54f7ba3c82466cadf7cb49e8ef2c8aa0920002ab1c364324ffa6e3ef56069b" id="WCEC24SBAL_1" value="" class="variation-122-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$122</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$122</span></div></div></form>
+<!-- $410 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234308" rel="234308">
+<input type="hidden" name="price||6d1cf26102ce612b79456531aa7fa69657956bc04064a9601243cb5075a1a05d" id="fs_price_234308" value="410.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234308" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234308" />
+<input type="hidden" name="image||01beeb0ae64c244cc04ee54e4b9e29faa3dde17c03804dfea1fd76b67ce3019a||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Soccer-Balls_1-150x150.jpg" id="foxyshop_cart_product_image_234308" />
+<input type="hidden" name="url||1dfc5a9297be3d206b1609d89b9aa65314100dbfa79dae765ca223b4d889aa30" value="https://crosscatholic.org/products/soccer-balls-410-donation/" id="fs_url_234308" />
+<input type="hidden" name="quantity_min||b3b9eb12a5a821a33dddeb23c5c6c33e7d786a828a32c05af5bcf0ec6aa12462||open" value="0" id="fs_quantity_min_234308" />
+<input type="hidden" name="quantity_max||33fa8ff4bd924982d5867b2d24914514b07bf44e111e49dfd8011de0eef81d55||open" value="0" id="fs_quantity_max_234308" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234308" />
+<input type="hidden" name="name||ed48e5169aa147f79aa3f6edd078e6fbd7727d53990709c8fc64f369343af5db" id="fs_name_234308" value="Soccer Balls - $410 donation" />
+<input type="hidden" name="code||e7f621dcfe88dd486043e85b45cec2f3256b83de8503d3ccf6243a0f9bb02e13" id="fs_code_234308" value="WCEC24SBAL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$410_donation||7de0575b6b9604160997657a0971c5d772ebb2b28bb9fa381de04d749d96f23d" id="WCEC24SBAL_1" value="" class="variation-410-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$410</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$410</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234309" rel="234309">
+<input type="hidden" name="price||0705375d8e7c9b5ebb3d6c897015282cccf7a38c08c0c69ce562f794ff3fd660" id="fs_price_234309" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234309" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234309" />
+<input type="hidden" name="image||01beeb0ae64c244cc04ee54e4b9e29faa3dde17c03804dfea1fd76b67ce3019a||open" value="https://crosscatholic.org/wp-content/uploads/2021/08/Soccer-Balls_1-150x150.jpg" id="foxyshop_cart_product_image_234309" />
+<input type="hidden" name="url||40c6861db2fef103987ac9353f129dd177f62ca51645028a4549b76275ffbdfb" value="https://crosscatholic.org/products/soccer-balls-2/" id="fs_url_234309" />
+<input type="hidden" name="quantity_min||b3b9eb12a5a821a33dddeb23c5c6c33e7d786a828a32c05af5bcf0ec6aa12462||open" value="0" id="fs_quantity_min_234309" />
+<input type="hidden" name="quantity_max||33fa8ff4bd924982d5867b2d24914514b07bf44e111e49dfd8011de0eef81d55||open" value="0" id="fs_quantity_max_234309" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234309" />
+<input type="hidden" name="name||5daa49b02b8623427eaf3cd08d95ea82675b4f4f5bdf05207d2cc85491b63063" id="fs_name_234309" value="Soccer Balls" />
+<input type="hidden" name="code||e7f621dcfe88dd486043e85b45cec2f3256b83de8503d3ccf6243a0f9bb02e13" id="fs_code_234309" value="WCEC24SBAL" />
+<div class="foxyshop_variations">
+<input type="text" name="price||e96373e2d011a13ede0070d8621956f2ee2c87a15ed7b46b016f5a3c109fa570||open" id="WCEC24SBAL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
