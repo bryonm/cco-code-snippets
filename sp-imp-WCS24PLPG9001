@@ -1,0 +1,74 @@
+add_shortcode( 'sp-imp-WCS24PLPG9001', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236360" rel="236360">
+<input type="hidden" name="price||90004d6dfbba3dc017564dca9a74e6fbd6ba9b36f34c21c77612b3834ed93daa" id="fs_price_236360" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236360" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236360" />
+<input type="hidden" name="image||1abbd42ebcf5dab49e70720fa086fe454a3eccdd5ad5041babed1dd2e8099260||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/food-impact-foxy-thumb.jpg" id="foxyshop_cart_product_image_236360" />
+<input type="hidden" name="url||26a04e280782ac3d4e0e0ccf87a79063b8860f9dbbeb83f34555119b0f664a71" value="https://crosscatholic.org/products/donar-a-la-comida-50-regalo-2/" id="fs_url_236360" />
+<input type="hidden" name="quantity_min||d8a6940d3141e790f96bef8634cd451c5df12982fa99d126e5f3f737e7badcf6||open" value="0" id="fs_quantity_min_236360" />
+<input type="hidden" name="quantity_max||e61a5f35f80851200a15150124ad5daa754b080471700af560caa892669182f7||open" value="0" id="fs_quantity_max_236360" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236360" />
+<input type="hidden" name="name||0abeb48a4dafdff40874657ca9b3719ed7c5e6327c141897d3f760f57d9b1d36" id="fs_name_236360" value="Donar a la comida $50 Regalo" />
+<input type="hidden" name="code||0fb7e20183fead86a5a8378f2a7e67ad36e683fe6fa0f729f9467879ddc57717" id="fs_code_236360" value="WCS24PLPG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||01579df948c3bda16d6e7f5f7d9ad48262c4b9e940fff1830699706061aca921" id="WCS24PLPG9001_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236359" rel="236359">
+<input type="hidden" name="price||82ffdd78a0ebafd70294db3f3da8742df4d6d1b3ac8cfe29c558f8bc3c4071c2" id="fs_price_236359" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236359" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236359" />
+<input type="hidden" name="image||1abbd42ebcf5dab49e70720fa086fe454a3eccdd5ad5041babed1dd2e8099260||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/food-impact-foxy-thumb.jpg" id="foxyshop_cart_product_image_236359" />
+<input type="hidden" name="url||8d649925b2d6cdd31079719aa85c610312da3e6aa2c6c084e568860bddcf6de4" value="https://crosscatholic.org/products/donar-a-la-comida-100-regalo-2/" id="fs_url_236359" />
+<input type="hidden" name="quantity_min||d8a6940d3141e790f96bef8634cd451c5df12982fa99d126e5f3f737e7badcf6||open" value="0" id="fs_quantity_min_236359" />
+<input type="hidden" name="quantity_max||e61a5f35f80851200a15150124ad5daa754b080471700af560caa892669182f7||open" value="0" id="fs_quantity_max_236359" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236359" />
+<input type="hidden" name="name||e15f2f901d0aa5abfb0fcf8201ac02bd05b1e29be2b05c9659b0070136cfeee8" id="fs_name_236359" value="Donar a la comida $100 Regalo" />
+<input type="hidden" name="code||0fb7e20183fead86a5a8378f2a7e67ad36e683fe6fa0f729f9467879ddc57717" id="fs_code_236359" value="WCS24PLPG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||3ee980ba66883e8d7d13a34c01ddd9c4b903b08cb56c1ef42e1bb149220fd9cf" id="WCS24PLPG9001_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236358" rel="236358">
+<input type="hidden" name="price||505ac3beff590cc09cfa41f802a8cc45111e2d9804e7427e567315af8bf210c0" id="fs_price_236358" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236358" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236358" />
+<input type="hidden" name="image||1abbd42ebcf5dab49e70720fa086fe454a3eccdd5ad5041babed1dd2e8099260||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/food-impact-foxy-thumb.jpg" id="foxyshop_cart_product_image_236358" />
+<input type="hidden" name="url||51362b01a6a43dad2490f1c91a6ff0b5cd993116d2c35229ed388195ab546021" value="https://crosscatholic.org/products/donar-a-la-comida-250-regalo/" id="fs_url_236358" />
+<input type="hidden" name="quantity_min||d8a6940d3141e790f96bef8634cd451c5df12982fa99d126e5f3f737e7badcf6||open" value="0" id="fs_quantity_min_236358" />
+<input type="hidden" name="quantity_max||e61a5f35f80851200a15150124ad5daa754b080471700af560caa892669182f7||open" value="0" id="fs_quantity_max_236358" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236358" />
+<input type="hidden" name="name||35ca55b6b62fcab5dfa86a867c150ef89f84dff87520800a3d662f4e4f75bea8" id="fs_name_236358" value="Donar a la comida $250 Regalo" />
+<input type="hidden" name="code||0fb7e20183fead86a5a8378f2a7e67ad36e683fe6fa0f729f9467879ddc57717" id="fs_code_236358" value="WCS24PLPG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||e7af51ccc821f8cb1e322c9eb7926e509da9f543b4a0585b1b2f75a00583881c" id="WCS24PLPG9001_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236361" rel="236361">
+<input type="hidden" name="price||9e6a64bd05d4517d48b5c3e4d89825d7e4233e2343d9f7a5f15ef84da8233bf2" id="fs_price_236361" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236361" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236361" />
+<input type="hidden" name="image||1abbd42ebcf5dab49e70720fa086fe454a3eccdd5ad5041babed1dd2e8099260||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/food-impact-foxy-thumb.jpg" id="foxyshop_cart_product_image_236361" />
+<input type="hidden" name="url||7576ab09c6c8dbb1b4b42e3486c1f5741ff2f7939fc0108b4fd5110d67e8545c" value="https://crosscatholic.org/products/donar-a-la-comida-2/" id="fs_url_236361" />
+<input type="hidden" name="quantity_min||d8a6940d3141e790f96bef8634cd451c5df12982fa99d126e5f3f737e7badcf6||open" value="0" id="fs_quantity_min_236361" />
+<input type="hidden" name="quantity_max||e61a5f35f80851200a15150124ad5daa754b080471700af560caa892669182f7||open" value="0" id="fs_quantity_max_236361" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236361" />
+<input type="hidden" name="name||aacc25a32eade5183a546041c65f91c1aa3d2e95d1bbcb4bd7e7967e2db1b02f" id="fs_name_236361" value="Donar a la comida" />
+<input type="hidden" name="code||0fb7e20183fead86a5a8378f2a7e67ad36e683fe6fa0f729f9467879ddc57717" id="fs_code_236361" value="WCS24PLPG9001" />
+<div class="foxyshop_variations">
+<input type="text" name="price||7e266401f8468de33b81ef1602fd28ab2fbc92307556e9a2c2f62d07d3f9831e||open" id="WCS24PLPG9001_1" value="" class="variation-price foxyshop_required" required placeholder="$$"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
