@@ -1,0 +1,76 @@
+add_shortcode( 'sp-imp-WCS24PLPG9004', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236447" rel="236447">
+<input type="hidden" name="price||854f8199dca8281e6df309a7863c644bfe8141b0f1032b2a9185251592d84e71" id="fs_price_236447" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236447" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236447" />
+<input type="hidden" name="image||df9b2d7596c64d598036a2c1d4373c61f826931aa079a1fb7f29a6871eb4f53d||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-HOUSING-foxy-thumb.jpg" id="foxyshop_cart_product_image_236447" />
+<input type="hidden" name="url||74982eb452c55844cae4556b24c2c61aaa98858c3f8fa8d1ba7c034607144a8c" value="https://crosscatholic.org/products/donar-a-vivienda-50-regalo-2/" id="fs_url_236447" />
+<input type="hidden" name="quantity_min||d1b2b87857b09ca837516b05e7c0aca6481b8b552cbe08a940663c4439ad4231||open" value="0" id="fs_quantity_min_236447" />
+<input type="hidden" name="quantity_max||07e398f84d97b1c2ac2fc35311026342cd58f966eb72a601387ec5cb2c06dbfa||open" value="0" id="fs_quantity_max_236447" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236447" />
+<input type="hidden" name="name||bc28c4b7572d4acf1cb2cb06fa06855ddd5a297b793d680c4617356ef725ff23" id="fs_name_236447" value="Donar a Vivienda $50 regalo" />
+<input type="hidden" name="code||341e696dbbfe9c7a648a70d1efc4bdfe2c61ff659f01b2948b15664abd0deaeb" id="fs_code_236447" value="WCS24PLPG9004" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||b7c1f1f32ec6b46e8bf5283cbe0e0c6347b3e0d4b84360255b687be67055ba2b" id="WCS24PLPG9004_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236448" rel="236448">
+<input type="hidden" name="price||b164b96dd835ab02ddcb519a52ed47647330083e283dcd63fecccf703bfb27bd" id="fs_price_236448" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236448" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236448" />
+<input type="hidden" name="image||df9b2d7596c64d598036a2c1d4373c61f826931aa079a1fb7f29a6871eb4f53d||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-HOUSING-foxy-thumb.jpg" id="foxyshop_cart_product_image_236448" />
+<input type="hidden" name="url||9243fcbb62545029c706b92a8eb11d2448dcb334bc8620ed92c245c6fb7ce577" value="https://crosscatholic.org/products/donar-a-vivienda-100-regalo-2/" id="fs_url_236448" />
+<input type="hidden" name="quantity_min||d1b2b87857b09ca837516b05e7c0aca6481b8b552cbe08a940663c4439ad4231||open" value="0" id="fs_quantity_min_236448" />
+<input type="hidden" name="quantity_max||07e398f84d97b1c2ac2fc35311026342cd58f966eb72a601387ec5cb2c06dbfa||open" value="0" id="fs_quantity_max_236448" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236448" />
+<input type="hidden" name="name||7a568c8e5ac3075eb3c242a374d9ab34bbd3e7393c12729e38cb0e6b9f7e878b" id="fs_name_236448" value="Donar a Vivienda $100 regalo" />
+<input type="hidden" name="code||341e696dbbfe9c7a648a70d1efc4bdfe2c61ff659f01b2948b15664abd0deaeb" id="fs_code_236448" value="WCS24PLPG9004" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||b83dc8ea9904cc57c40fda570e91cccb7571923f3acdc2d8c5ed87a9068dcfdc" id="WCS24PLPG9004_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236449" rel="236449">
+<input type="hidden" name="price||bd4f7c2e1ab148031fcb831157ab0a5d031e1868c56bd3fccdc17d23fe02f378" id="fs_price_236449" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236449" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236449" />
+<input type="hidden" name="image||df9b2d7596c64d598036a2c1d4373c61f826931aa079a1fb7f29a6871eb4f53d||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-HOUSING-foxy-thumb.jpg" id="foxyshop_cart_product_image_236449" />
+<input type="hidden" name="url||94e1dcad1dc470cdcbc6778e011d4a0c979ec8e07373cd7f13a40f092b28df55" value="https://crosscatholic.org/products/donar-a-vivienda-25-regalo-2/" id="fs_url_236449" />
+<input type="hidden" name="quantity_min||d1b2b87857b09ca837516b05e7c0aca6481b8b552cbe08a940663c4439ad4231||open" value="0" id="fs_quantity_min_236449" />
+<input type="hidden" name="quantity_max||07e398f84d97b1c2ac2fc35311026342cd58f966eb72a601387ec5cb2c06dbfa||open" value="0" id="fs_quantity_max_236449" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236449" />
+<input type="hidden" name="name||e0500139f7fe994019b686154c9739c2f70a5eeb95cff0f972974253ea0edc51" id="fs_name_236449" value="Donar a Vivienda $250 regalo" />
+<input type="hidden" name="code||341e696dbbfe9c7a648a70d1efc4bdfe2c61ff659f01b2948b15664abd0deaeb" id="fs_code_236449" value="WCS24PLPG9004" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||fe6edc14df38d4eed5137d402d0717c21a46ff29b1b6d6fbfbda8394603843f1" id="WCS24PLPG9004_1" value="" class="variation-250-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236450" rel="236450">
+<input type="hidden" name="price||51051cf30be27412907ac5f3a345d69fba2e5ab99cb70922a7037d7ded4846e6" id="fs_price_236450" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236450" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236450" />
+<input type="hidden" name="image||df9b2d7596c64d598036a2c1d4373c61f826931aa079a1fb7f29a6871eb4f53d||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-HOUSING-foxy-thumb.jpg" id="foxyshop_cart_product_image_236450" />
+<input type="hidden" name="url||2b6970584aef67e0110f837274116a2bc7ee6a3f55a97488701c1d6a4024bc7f" value="https://crosscatholic.org/products/donar-a-vivienda-2/" id="fs_url_236450" />
+<input type="hidden" name="quantity_min||d1b2b87857b09ca837516b05e7c0aca6481b8b552cbe08a940663c4439ad4231||open" value="0" id="fs_quantity_min_236450" />
+<input type="hidden" name="quantity_max||07e398f84d97b1c2ac2fc35311026342cd58f966eb72a601387ec5cb2c06dbfa||open" value="0" id="fs_quantity_max_236450" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236450" />
+<input type="hidden" name="name||887097cb7d05ea1d473a35ce6df1c99d62a6ae83476de4709d16b8e654023f3e" id="fs_name_236450" value="Donar a Vivienda" />
+<input type="hidden" name="code||341e696dbbfe9c7a648a70d1efc4bdfe2c61ff659f01b2948b15664abd0deaeb" id="fs_code_236450" value="WCS24PLPG9004" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9ba12e2a93d370a2624a73ba8e8f8613207e9a21aca153cca79ca62338f958e1||open" id="WCS24PLPG9004_1" value="" class="variation-price foxyshop_required" required placeholder="$$"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
