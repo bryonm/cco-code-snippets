@@ -1,0 +1,74 @@
+add_shortcode( 'sp-imp-WCS24PLPG9014', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236525" rel="236525">
+<input type="hidden" name="price||bd57e0d71eef9711d2085e32d84d46d14eb3732e878427bb9cfce98a87592110" id="fs_price_236525" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236525" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236525" />
+<input type="hidden" name="image||d60048115bd7c0bad5d09d890b4afc76f40af7cc2e8511957e134e050d5863d2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-DISASTERRELIEF-foxy-thumb.jpg" id="foxyshop_cart_product_image_236525" />
+<input type="hidden" name="url||083292f31cb46fd96a60f9f68411b8ff645a3f8117b1957c6dd706d3c35a6f90" value="https://crosscatholic.org/products/donar-a-apoyo-a-damnificados-50-regalo-2/" id="fs_url_236525" />
+<input type="hidden" name="quantity_min||208ee6a9017854d7c27d2dc2dfb4747989aece18660076c7f8d2dd7301f0f2c6||open" value="0" id="fs_quantity_min_236525" />
+<input type="hidden" name="quantity_max||46446c64c53cf490a76e75a42b2ed67a8c0659604815b9bcfaf8d7b9b85d92e5||open" value="0" id="fs_quantity_max_236525" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236525" />
+<input type="hidden" name="name||602b9d68f7cb15efd3d3ad9ab9c2dd6d11f87e97f45c159576dafd872669c32c" id="fs_name_236525" value="Donar a apoyo a damnificados $50 regalo" />
+<input type="hidden" name="code||44edbebb2b62257f6a99c48f64e35efc7049c7026ad74b44c0a5a04db10fb16f" id="fs_code_236525" value="WCS24PLPG9014" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||99b6002f389294b6d78ff11e5d924c85ca65e4e5bdaea4111b35e3f89da6243f" id="WCS24PLPG9014_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236526" rel="236526">
+<input type="hidden" name="price||b20ba55548b09471b767ab5bc52e8987f4f12c134e292c37d680c23ad8de9d4a" id="fs_price_236526" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236526" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236526" />
+<input type="hidden" name="image||d60048115bd7c0bad5d09d890b4afc76f40af7cc2e8511957e134e050d5863d2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-DISASTERRELIEF-foxy-thumb.jpg" id="foxyshop_cart_product_image_236526" />
+<input type="hidden" name="url||86b30a436c9f084f25b399a7adb46d0ffddaa4319237ab2ecca247955f7b5b9a" value="https://crosscatholic.org/products/donar-a-apoyo-a-damnificados-100-regalo-2/" id="fs_url_236526" />
+<input type="hidden" name="quantity_min||208ee6a9017854d7c27d2dc2dfb4747989aece18660076c7f8d2dd7301f0f2c6||open" value="0" id="fs_quantity_min_236526" />
+<input type="hidden" name="quantity_max||46446c64c53cf490a76e75a42b2ed67a8c0659604815b9bcfaf8d7b9b85d92e5||open" value="0" id="fs_quantity_max_236526" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236526" />
+<input type="hidden" name="name||f8eba2c4cd653b6e550721c43b2d9e39285d844c94cc89530fcdc9e0b7944b37" id="fs_name_236526" value="Donar a apoyo a damnificados $100 regalo" />
+<input type="hidden" name="code||44edbebb2b62257f6a99c48f64e35efc7049c7026ad74b44c0a5a04db10fb16f" id="fs_code_236526" value="WCS24PLPG9014" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||92fc742fc5a7f6001eb42442b1c57309f29b722921050c675f226a71cf0ee05a" id="WCS24PLPG9014_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236527" rel="236527">
+<input type="hidden" name="price||2d6718ee9df84e1685aeb61123ccb8c1966bf599c8716528d53837aecadae781" id="fs_price_236527" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236527" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236527" />
+<input type="hidden" name="image||d60048115bd7c0bad5d09d890b4afc76f40af7cc2e8511957e134e050d5863d2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-DISASTERRELIEF-foxy-thumb.jpg" id="foxyshop_cart_product_image_236527" />
+<input type="hidden" name="url||9cb429255f3ac470220ce0b20aad593d2902b2ba0cf527e5bf53806b9395f9d3" value="https://crosscatholic.org/products/donar-a-apoyo-a-damnificados-250-regalo/" id="fs_url_236527" />
+<input type="hidden" name="quantity_min||208ee6a9017854d7c27d2dc2dfb4747989aece18660076c7f8d2dd7301f0f2c6||open" value="0" id="fs_quantity_min_236527" />
+<input type="hidden" name="quantity_max||46446c64c53cf490a76e75a42b2ed67a8c0659604815b9bcfaf8d7b9b85d92e5||open" value="0" id="fs_quantity_max_236527" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236527" />
+<input type="hidden" name="name||d9bfeb8f568f3fae05b4b480d8c26045fce2b5510aefcbcdd5f54f6ca71b2243" id="fs_name_236527" value="Donar a apoyo a damnificados $250 regalo" />
+<input type="hidden" name="code||44edbebb2b62257f6a99c48f64e35efc7049c7026ad74b44c0a5a04db10fb16f" id="fs_code_236527" value="WCS24PLPG9014" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||7c2720d1dd9ce099d4e35c77826a22e8b52951627b7a679797daf0b14931d82c" id="WCS24PLPG9014_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236528" rel="236528">
+<input type="hidden" name="price||fb95ca598d8a8e8a72a6a7ec6e7648ebc1c3b3b3d4c41fc88c3b734e1ee9b52b" id="fs_price_236528" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236528" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236528" />
+<input type="hidden" name="image||d60048115bd7c0bad5d09d890b4afc76f40af7cc2e8511957e134e050d5863d2||open" value="https://crosscatholic.org/wp-content/uploads/2023/12/FY2023-Impact-Page-DISASTERRELIEF-foxy-thumb.jpg" id="foxyshop_cart_product_image_236528" />
+<input type="hidden" name="url||1d6c911fb578a480e22d22d5a787e0930f4fc2d9ef9484e85a3443d119d88e44" value="https://crosscatholic.org/products/donar-a-apoyo-a-damnificados-2/" id="fs_url_236528" />
+<input type="hidden" name="quantity_min||208ee6a9017854d7c27d2dc2dfb4747989aece18660076c7f8d2dd7301f0f2c6||open" value="0" id="fs_quantity_min_236528" />
+<input type="hidden" name="quantity_max||46446c64c53cf490a76e75a42b2ed67a8c0659604815b9bcfaf8d7b9b85d92e5||open" value="0" id="fs_quantity_max_236528" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236528" />
+<input type="hidden" name="name||2a259469eb5d5d0d659bafb514ce37bbbc15e4b20721d840314bafb293052965" id="fs_name_236528" value="Donar a apoyo a damnificados" />
+<input type="hidden" name="code||44edbebb2b62257f6a99c48f64e35efc7049c7026ad74b44c0a5a04db10fb16f" id="fs_code_236528" value="WCS24PLPG9014" />
+<div class="foxyshop_variations">
+<input type="text" name="price||0e51c61d77522650dfb23f4d2f40142c0ae1df8c61988dbf0c28117bd1c0b527||open" id="WCS24PLPG9014_1" value="" class="variation-price foxyshop_required" required placeholder="$$"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
