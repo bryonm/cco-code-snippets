@@ -1,0 +1,74 @@
+add_shortcode( 'eb-WCEC24BLOG0000B4', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236024" rel="236024">
+<input type="hidden" name="price||e866f1b78226d7e5cf31131d9083f77ae7f3a4cfcb26c4bfb4f8ba41cb37fd2c" id="fs_price_236024" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236024" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236024" />
+<input type="hidden" name="image||a68a761353ce5e048963a003ca69ac8b8fffe1dc4a8405a916163a23fd19ab23||open" value="https://crosscatholic.org/wp-content/uploads/2024/01/WorldWaterDay-blog4-foxy-thumb.jpg" id="foxyshop_cart_product_image_236024" />
+<input type="hidden" name="url||2891e4adfc88498613ca7cc8bb69545bb100d1d200de1e3469414b49838a7bf8" value="https://crosscatholic.org/products/general-water-50-gift-2/" id="fs_url_236024" />
+<input type="hidden" name="quantity_min||52e36c659c39a420d25f4337f1fcabb8941db728ea9e58f4a7bc9011a800cb12||open" value="0" id="fs_quantity_min_236024" />
+<input type="hidden" name="quantity_max||2ca180e2fdc991f41365a8672d1395551a029b83efcdbcde152672ee8257cb0f||open" value="0" id="fs_quantity_max_236024" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236024" />
+<input type="hidden" name="name||c47e3453ad65e42423aa7bf08200b803be73864a468723b2eb6a05adb328ea82" id="fs_name_236024" value="General Water $50 Gift" />
+<input type="hidden" name="code||642d8311baed02aac858f69b1d733d94441ec8e848a684c9e63b4cd9a9f6cd8e" id="fs_code_236024" value="WCEC24BLOG0000B4" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||728155a644d8185ecc6dc141cb12fe846fd8c25f8244a26d8f3a30835538fd13" id="WCEC24BLOG0000B4_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236025" rel="236025">
+<input type="hidden" name="price||4bef8c42acf0c616f052d1db755df9bdac867ab1bf6030e36375e16edeba2489" id="fs_price_236025" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236025" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236025" />
+<input type="hidden" name="image||a68a761353ce5e048963a003ca69ac8b8fffe1dc4a8405a916163a23fd19ab23||open" value="https://crosscatholic.org/wp-content/uploads/2024/01/WorldWaterDay-blog4-foxy-thumb.jpg" id="foxyshop_cart_product_image_236025" />
+<input type="hidden" name="url||c94ea42f7f1e443568495f99047806570c915c307207a15e881db0e5cc78cbda" value="https://crosscatholic.org/products/general-water-100-gift-2/" id="fs_url_236025" />
+<input type="hidden" name="quantity_min||52e36c659c39a420d25f4337f1fcabb8941db728ea9e58f4a7bc9011a800cb12||open" value="0" id="fs_quantity_min_236025" />
+<input type="hidden" name="quantity_max||2ca180e2fdc991f41365a8672d1395551a029b83efcdbcde152672ee8257cb0f||open" value="0" id="fs_quantity_max_236025" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236025" />
+<input type="hidden" name="name||c83aec02da46ba1dd6ba7d69ddaf72ca7ab8826fece58fe2ad9f639aa789068d" id="fs_name_236025" value="General Water $100 Gift" />
+<input type="hidden" name="code||642d8311baed02aac858f69b1d733d94441ec8e848a684c9e63b4cd9a9f6cd8e" id="fs_code_236025" value="WCEC24BLOG0000B4" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||49c349f0d3f698d2896629bd0ddd37e9b9a1d4114423cd304eb9a37f17d26ec4" id="WCEC24BLOG0000B4_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236026" rel="236026">
+<input type="hidden" name="price||ba4775fa52969f52783ae4177a866a17461d90c498619814c4e81787b84261eb" id="fs_price_236026" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236026" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236026" />
+<input type="hidden" name="image||a68a761353ce5e048963a003ca69ac8b8fffe1dc4a8405a916163a23fd19ab23||open" value="https://crosscatholic.org/wp-content/uploads/2024/01/WorldWaterDay-blog4-foxy-thumb.jpg" id="foxyshop_cart_product_image_236026" />
+<input type="hidden" name="url||b4fb83215606e0ea6b4e5c87731e45f9898152280c84df1932ef9a04f821533e" value="https://crosscatholic.org/products/general-water-250-gift/" id="fs_url_236026" />
+<input type="hidden" name="quantity_min||52e36c659c39a420d25f4337f1fcabb8941db728ea9e58f4a7bc9011a800cb12||open" value="0" id="fs_quantity_min_236026" />
+<input type="hidden" name="quantity_max||2ca180e2fdc991f41365a8672d1395551a029b83efcdbcde152672ee8257cb0f||open" value="0" id="fs_quantity_max_236026" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236026" />
+<input type="hidden" name="name||e8903fe9a288df93c007e26a72d95a0858775dce736bb94531d5aed298d75892" id="fs_name_236026" value="General Water $250 Gift" />
+<input type="hidden" name="code||642d8311baed02aac858f69b1d733d94441ec8e848a684c9e63b4cd9a9f6cd8e" id="fs_code_236026" value="WCEC24BLOG0000B4" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||6d5e19dcaaef24c7ebdab70c70713b5060b57148dc460b6200bfcf93cc493934" id="WCEC24BLOG0000B4_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_236027" rel="236027">
+<input type="hidden" name="price||7949cdcd8e079b8ac6b16e9243f3b806060608194c83cddce947f26de976deff" id="fs_price_236027" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_236027" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_236027" />
+<input type="hidden" name="image||a68a761353ce5e048963a003ca69ac8b8fffe1dc4a8405a916163a23fd19ab23||open" value="https://crosscatholic.org/wp-content/uploads/2024/01/WorldWaterDay-blog4-foxy-thumb.jpg" id="foxyshop_cart_product_image_236027" />
+<input type="hidden" name="url||6058018b9c1b838a798ec5851a5d05e2bb90da69906aa207a6e515b70520118c" value="https://crosscatholic.org/products/general-water-gift-2/" id="fs_url_236027" />
+<input type="hidden" name="quantity_min||52e36c659c39a420d25f4337f1fcabb8941db728ea9e58f4a7bc9011a800cb12||open" value="0" id="fs_quantity_min_236027" />
+<input type="hidden" name="quantity_max||2ca180e2fdc991f41365a8672d1395551a029b83efcdbcde152672ee8257cb0f||open" value="0" id="fs_quantity_max_236027" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_236027" />
+<input type="hidden" name="name||18185e5a0e9581b8108155896d3764808170a56b11067ab097bb8a311e443c75" id="fs_name_236027" value="General Water Gift" />
+<input type="hidden" name="code||642d8311baed02aac858f69b1d733d94441ec8e848a684c9e63b4cd9a9f6cd8e" id="fs_code_236027" value="WCEC24BLOG0000B4" />
+<div class="foxyshop_variations">
+<input type="text" name="price||350826b148342afb0a2157005d7e424f0ed4849d8b87c476c273ab867a77cecb||open" id="WCEC24BLOG0000B4_1" value="" class="variation-price foxyshop_required" style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
