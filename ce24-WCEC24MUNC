@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24MUNC', function () {
+
+	$out = '<div class="flex-container">
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234658" rel="234658">
+<input type="hidden" name="price||e68a1e5b759dbdebaeabb664add99cd0c4137466640c74002e11d9e62642444d" id="fs_price_234658" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234658" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234658" />
+<input type="hidden" name="image||c9ed9a309bdc450313376ee75f80ff29297c926b6edad9605ba9e31924f2f7e7||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0000-Most-Urgent-Need-Monthly-foxy-thumb-24-6.jpg" id="foxyshop_cart_product_image_234658" />
+<input type="hidden" name="url||ef53f62d035023469edb7d8264b869fe58e4405a70b82b9f09b4998664e13482" value="https://crosscatholic.org/products/most-urgent-need-100-donation-4/" id="fs_url_234658" />
+<input type="hidden" name="quantity_min||90a94eb381f72e203281afa07f0ca816f1d95e41d1cdb9f7e9c23d62631b57cf||open" value="0" id="fs_quantity_min_234658" />
+<input type="hidden" name="quantity_max||e7556fc6d117da0c4c6d2d67f9da9998590a633ca4af622af1f239e56df1d3af||open" value="0" id="fs_quantity_max_234658" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234658" />
+<input type="hidden" name="name||ea4ac16d4f3408702af1cd7fb648bd2fda35ce29935cb43bdcf278bf00e4e25a" id="fs_name_234658" value="Most Urgent Need - $100 donation" />
+<input type="hidden" name="code||b4d637e45998e43384874f2861810d82a82db9a7517ef7b713f909f484f29222" id="fs_code_234658" value="WCEC24MUNC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||888c8ea9c0c24b192a9efe82bb2369e2ae436224cf7d833ab4507eccdecc16ad" id="WCEC24MUNC_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234659" rel="234659">
+<input type="hidden" name="price||b344d67ddc346431b7d071523a29c65aa51c61bd680069f9b212234b73563f99" id="fs_price_234659" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234659" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234659" />
+<input type="hidden" name="image||c9ed9a309bdc450313376ee75f80ff29297c926b6edad9605ba9e31924f2f7e7||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0000-Most-Urgent-Need-Monthly-foxy-thumb-24-6.jpg" id="foxyshop_cart_product_image_234659" />
+<input type="hidden" name="url||08ca73f8b2333f165a4608460ef534e3675a7c13c161f2572251a539167e7f61" value="https://crosscatholic.org/products/most-urgent-need-250-donation-2/" id="fs_url_234659" />
+<input type="hidden" name="quantity_min||90a94eb381f72e203281afa07f0ca816f1d95e41d1cdb9f7e9c23d62631b57cf||open" value="0" id="fs_quantity_min_234659" />
+<input type="hidden" name="quantity_max||e7556fc6d117da0c4c6d2d67f9da9998590a633ca4af622af1f239e56df1d3af||open" value="0" id="fs_quantity_max_234659" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234659" />
+<input type="hidden" name="name||c1215fa4c681f1a92ff37e8e55cbe7c3f07e677d3d7263eadcf37e8df6bda2d5" id="fs_name_234659" value="Most Urgent Need - $250 donation" />
+<input type="hidden" name="code||b4d637e45998e43384874f2861810d82a82db9a7517ef7b713f909f484f29222" id="fs_code_234659" value="WCEC24MUNC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||3325b3042bd2b14cbb6fa4a94c3ff534e114ab14bb1eb8a1e4cec0a0e7abf2ea" id="WCEC24MUNC_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250</span></div></div></form>
+<!-- $500 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234660" rel="234660">
+<input type="hidden" name="price||3e1ac3fa3cadcbda07fe6dd3a1d88e2ad214b94650bfcaed09c62be85e70c73c" id="fs_price_234660" value="500.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234660" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234660" />
+<input type="hidden" name="image||c9ed9a309bdc450313376ee75f80ff29297c926b6edad9605ba9e31924f2f7e7||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0000-Most-Urgent-Need-Monthly-foxy-thumb-24-6.jpg" id="foxyshop_cart_product_image_234660" />
+<input type="hidden" name="url||5fbaa8e89aee62e4f7b04c0767621725d92db97482a6bedfdae464f0d3e4132e" value="https://crosscatholic.org/products/most-urgent-need-500-donation-2/" id="fs_url_234660" />
+<input type="hidden" name="quantity_min||90a94eb381f72e203281afa07f0ca816f1d95e41d1cdb9f7e9c23d62631b57cf||open" value="0" id="fs_quantity_min_234660" />
+<input type="hidden" name="quantity_max||e7556fc6d117da0c4c6d2d67f9da9998590a633ca4af622af1f239e56df1d3af||open" value="0" id="fs_quantity_max_234660" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234660" />
+<input type="hidden" name="name||2d739a579b1d97c0f62b7f82d91ef4158eecc4cd07cb4c2fe06d1865c786d55f" id="fs_name_234660" value="Most Urgent Need - $500 donation" />
+<input type="hidden" name="code||b4d637e45998e43384874f2861810d82a82db9a7517ef7b713f909f484f29222" id="fs_code_234660" value="WCEC24MUNC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$500_donation||28e7f66062f6fb06a0f55f58b45459d1f810c311bcdeb496fa0af75d49f708d8" id="WCEC24MUNC_1" value="" class="variation-500-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$500</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$500</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_234661" rel="234661">
+<input type="hidden" name="price||7c2f005f054ea4e79c261f67637c81c9b6c7f339829835a51b46e573d6e9a110" id="fs_price_234661" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_234661" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_234661" />
+<input type="hidden" name="image||c9ed9a309bdc450313376ee75f80ff29297c926b6edad9605ba9e31924f2f7e7||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/0000-Most-Urgent-Need-Monthly-foxy-thumb-24-6.jpg" id="foxyshop_cart_product_image_234661" />
+<input type="hidden" name="url||175c453f78a57ac54dc04c2d24f0ec1457dc568123f99130fca8581145bf2435" value="https://crosscatholic.org/products/most-urgent-need-4/" id="fs_url_234661" />
+<input type="hidden" name="quantity_min||90a94eb381f72e203281afa07f0ca816f1d95e41d1cdb9f7e9c23d62631b57cf||open" value="0" id="fs_quantity_min_234661" />
+<input type="hidden" name="quantity_max||e7556fc6d117da0c4c6d2d67f9da9998590a633ca4af622af1f239e56df1d3af||open" value="0" id="fs_quantity_max_234661" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_234661" />
+<input type="hidden" name="name||f5c35eb4456129ff624fa764bd6ad0c9c5d5712937f4c2f5c9902c3b902aacd7" id="fs_name_234661" value="Most Urgent Need" />
+<input type="hidden" name="code||b4d637e45998e43384874f2861810d82a82db9a7517ef7b713f909f484f29222" id="fs_code_234661" value="WCEC24MUNC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||07d52aa758e3a60ed8e2be3411805811af438546d67c585a5bfacd904de90a03||open" id="WCEC24MUNC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
