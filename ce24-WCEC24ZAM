@@ -1,0 +1,74 @@
+add_shortcode( 'ce24-WCEC24ZAM', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_238786" rel="238786">
+<input type="hidden" name="price||b677b28bfdc8e402e325ff602425333939d2c533fc38e4c93e92afce4cd242b1" id="fs_price_238786" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_238786" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_238786" />
+<input type="hidden" name="image||acfb1c0d194b35383390ef4e21eeec96df095b37111215bad172bfd17e8fcf6f||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/cholera-zambia-foxy-thumb.jpg" id="foxyshop_cart_product_image_238786" />
+<input type="hidden" name="url||ffec1dab945c3ac2ff5bd62fbf139095d36092fd24171aade9291ae91a153fe8" value="https://crosscatholic.org/products/donate-to-most-urgent-need-50-donation/" id="fs_url_238786" />
+<input type="hidden" name="quantity_min||3b2afe64e445e109227894ab09329849041679382b4ce54e8996d1c15b5169ba||open" value="0" id="fs_quantity_min_238786" />
+<input type="hidden" name="quantity_max||691e6614f7e2063862f5ba7cc3748e68312b26c4cdba88b9c92ebb4dd60ef251||open" value="0" id="fs_quantity_max_238786" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_238786" />
+<input type="hidden" name="name||ab79ad2844617c372aca5e0a694579e9f0346a265ef33d10481dd1cec4efaf3d" id="fs_name_238786" value="Donate to Most Urgent Need - $50 donation" />
+<input type="hidden" name="code||2f8f84817c0173a90cc7aa230230c3adfcc7848fed1309791806478b61ca120b" id="fs_code_238786" value="WCEC24ZAM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||cd803750678c72677b8504461cc0e5159b0617b05fb3ce7437cfb66c13e48213" id="WCEC24ZAM_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_238785" rel="238785">
+<input type="hidden" name="price||78c2b5d00a1f43b5a8e34d2c5cb4797c602a21e4a76e886278f107d651828dac" id="fs_price_238785" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_238785" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_238785" />
+<input type="hidden" name="image||acfb1c0d194b35383390ef4e21eeec96df095b37111215bad172bfd17e8fcf6f||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/cholera-zambia-foxy-thumb.jpg" id="foxyshop_cart_product_image_238785" />
+<input type="hidden" name="url||629e86527b9a7af0ce3c64cfea86f0beb6fa962f54bc56b1ba5c150c644d45e2" value="https://crosscatholic.org/products/donate-to-most-urgent-need-100-donation/" id="fs_url_238785" />
+<input type="hidden" name="quantity_min||3b2afe64e445e109227894ab09329849041679382b4ce54e8996d1c15b5169ba||open" value="0" id="fs_quantity_min_238785" />
+<input type="hidden" name="quantity_max||691e6614f7e2063862f5ba7cc3748e68312b26c4cdba88b9c92ebb4dd60ef251||open" value="0" id="fs_quantity_max_238785" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_238785" />
+<input type="hidden" name="name||80cb6036224ec657d01e4c9b3bce465456c8864fbbbf07be8bf51dfcf52a6ec9" id="fs_name_238785" value="Donate to Most Urgent Need - $100 donation" />
+<input type="hidden" name="code||2f8f84817c0173a90cc7aa230230c3adfcc7848fed1309791806478b61ca120b" id="fs_code_238785" value="WCEC24ZAM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||82e7b4749ed026a1eeb1da221a8d0599688383107ea0dddedba8d14034910b12" id="WCEC24ZAM_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100</span></div></div></form>
+<!-- $200 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_238787" rel="238787">
+<input type="hidden" name="price||c60a3dce44cf6c8168f435c22f66f5cd5e964e95e6cbf206edc3890214264403" id="fs_price_238787" value="200.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_238787" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_238787" />
+<input type="hidden" name="image||acfb1c0d194b35383390ef4e21eeec96df095b37111215bad172bfd17e8fcf6f||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/cholera-zambia-foxy-thumb.jpg" id="foxyshop_cart_product_image_238787" />
+<input type="hidden" name="url||ca0ef4fcd959066a61316c57067a561bc59c89b5781fbc6117afc7e03549be23" value="https://crosscatholic.org/products/donate-to-most-urgent-need-200-donation/" id="fs_url_238787" />
+<input type="hidden" name="quantity_min||3b2afe64e445e109227894ab09329849041679382b4ce54e8996d1c15b5169ba||open" value="0" id="fs_quantity_min_238787" />
+<input type="hidden" name="quantity_max||691e6614f7e2063862f5ba7cc3748e68312b26c4cdba88b9c92ebb4dd60ef251||open" value="0" id="fs_quantity_max_238787" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_238787" />
+<input type="hidden" name="name||3895daa0c40df1eb0ed231e7b77b4524488daec96840f753c411f7e8facbe7be" id="fs_name_238787" value="Donate to Most Urgent Need - $200 donation" />
+<input type="hidden" name="code||2f8f84817c0173a90cc7aa230230c3adfcc7848fed1309791806478b61ca120b" id="fs_code_238787" value="WCEC24ZAM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$200_donation||8d7767f5866d1cdfb0fe74e4fe860d14e1dee403797cf7bde5a9a46240cd068c" id="WCEC24ZAM_1" value="" class="variation-200-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$200</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$200</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_238788" rel="238788">
+<input type="hidden" name="price||96de3689bf786ef94ea976af4b1941425621742ad14bab20220eaeeb9e12af6d" id="fs_price_238788" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_238788" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_238788" />
+<input type="hidden" name="image||acfb1c0d194b35383390ef4e21eeec96df095b37111215bad172bfd17e8fcf6f||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/cholera-zambia-foxy-thumb.jpg" id="foxyshop_cart_product_image_238788" />
+<input type="hidden" name="url||aa257f674076f030a80fd4c27f4c698b55fbd7fded6b611daf92ae3ed34697b4" value="https://crosscatholic.org/products/donate-to-most-urgent-need-5/" id="fs_url_238788" />
+<input type="hidden" name="quantity_min||3b2afe64e445e109227894ab09329849041679382b4ce54e8996d1c15b5169ba||open" value="0" id="fs_quantity_min_238788" />
+<input type="hidden" name="quantity_max||691e6614f7e2063862f5ba7cc3748e68312b26c4cdba88b9c92ebb4dd60ef251||open" value="0" id="fs_quantity_max_238788" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_238788" />
+<input type="hidden" name="name||5e0b639934e44ab0dd16b6cb64610f0081c6a9ed518ed94f6fcdbc633b611dac" id="fs_name_238788" value="Donate to Most Urgent Need" />
+<input type="hidden" name="code||2f8f84817c0173a90cc7aa230230c3adfcc7848fed1309791806478b61ca120b" id="fs_code_238788" value="WCEC24ZAM" />
+<div class="foxyshop_variations">
+<input type="text" name="price||bfcafa080a8c6b2fb89742b502268fa8aded1cd76cec1dd9acc21558dbb1bb4d||open" id="WCEC24ZAM_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
