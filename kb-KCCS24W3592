@@ -1,0 +1,34 @@
+add_shortcode( 'kb-KCCS24W3592', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_238457" rel="238457">
+<input type="hidden" name="price||03849e4d788e26894aec04e949711457602bee525f6f72cf3b3a34790ac8c328" id="fs_price_238457" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_238457" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_238457" />
+<input type="hidden" name="image||cdaa78b8b2b6125010a7a078e8fa601d649e1530057db202a6fb991c7c4c8ecb||open" value="https://crosscatholic.org/wp-content/uploads/2023/10/LentParishioners-foxy-thumb.jpg" id="foxyshop_cart_product_image_238457" />
+<input type="hidden" name="url||795dbd862882ca93eed8dcba00cc78b887ec7cf8c176c693dec9e53bb3fcd776" value="https://crosscatholic.org/products/provide-clean-water-8/" id="fs_url_238457" />
+<input type="hidden" name="quantity_min||6d7d5e02ed464ac06d57a5282e1d0437e02c09fb8e9b51b4c64e08fa6c8a035e||open" value="0" id="fs_quantity_min_238457" />
+<input type="hidden" name="quantity_max||ddd9c0ee31e5c25f6f33bbde840468cfa37f4f4179dddb72a53db1f32c587ed1||open" value="0" id="fs_quantity_max_238457" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_238457" />
+<input type="hidden" name="name||73b34c52cefad253a70bad2f444db4ec51e1ad46088fb3d7fa0abf754f84d9bc" id="fs_name_238457" value="Provide Clean Water" />
+<input type="hidden" name="code||0be54b56c1a5da8b9c2215515cce10887c70bfd012c55500efba44ca8a516d16" id="fs_code_238457" value="KCCS24W3592" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCS24W3592_1" class="variation-donation">
+<option value="$4,067 can bring clean water to 192 people{p:4067}||01069711e979fbf8335219ed75fdc935d575df079caf264a6c7f983f1c1adda5" priceset="406700">$4,067 can bring clean water to 192 people</option>
+<option value="$2,033 can bring clean water to 96 people{p:2033}||c52841a234eea7dde260c7a5bd77b30d9cd433f19e8ec9db4dfd144867060540" priceset="203300">$2,033 can bring clean water to 96 people</option>
+<option value="$1,017 can bring clean water to 48 people{p:1017}||a0ec1693d919039f75e78735f308e7ce868e3d2098880217b931ae9399ea01e9" priceset="101700">$1,017 can bring clean water to 48 people</option>
+<option selected value="$508 can bring clean water to 24 people{p:508}||efd98fea4caad9e68975a654692852a9fa3bc272b33f4273d63d4b121d36d193" priceset="50800">$508 can bring clean water to 24 people</option>
+<option value="Other{dkey:custom-price}||adc7fcfd6e5e3a11c9b72b8210daad2116fc77da22868b3d11456a8a1a176959" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="KCCS24W3592_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||4fe5b2023eaed5e73db5b6c4b32db32fa30bd1659cfba5057f79977dc34263a4||open" id="KCCS24W3592_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
