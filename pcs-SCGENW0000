@@ -15,8 +15,8 @@ add_shortcode( 'pcs-SCGENW0000', function () {
 <input type="hidden" name="code||5d396d22a8062292ef441e2ee74c18b1abc29e96c506b58c4554d089723ec6f3" id="fs_code_6671" value="SCGENW0000" />
 <div class="foxyshop_variations">
 <select name="Donation" id="SCGENW0000_1" class="variation-donation">
-<option value="$35{p:35}||629a2598fe91f363f8b69d5aaf7ad91be61dd8280f4874278e257ee5936bba29" priceset="3500">$35</option>
-<option selected="" value="$75{p:75}||d77cea41ed3996fa2b2f130fabf15b10f0ef6e1701f9018e9baa90f6495ea11f" priceset="7500">$75</option>
+<option value="$50{p:50}||a018bef0beb07587b0f259ff0ef4f1d21a59f1bad4f9158a60e61735eccc73a8" priceset="5000">$50</option>
+<option selected value="$92{p:92}||9ecace91125429b67c83ac0c431b5746993c632995e7e12c3ec528d9d4999187" priceset="9200">$92</option>
 <option value="$250{p:250}||6fbb7de393dfddb742a246febb591fcd594eaa9b2d915320f9e7ce14a9370975" priceset="25000">$250</option>
 <option value="$500{p:500}||26a2e91635dab00aeeb6f1d4d93f424044b2ea74152018b780226b3f7bd8426c" priceset="50000">$500</option>
 <option value="$2,500{p:2500}||f5abfb0c00818f150949e5a7f9bec3fa381349a1196ec791dfc2415bbbb8748e" priceset="250000">$2,500</option>
