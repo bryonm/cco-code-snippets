@@ -15,18 +15,19 @@ add_shortcode( 'cr-WCPLPG0784', function () {
 <input type="hidden" name="code||7332949271937c70f143d325eee7889f62ad3f467a337461e0c5f42486c0771f" id="fs_code_14107" value="WCPLPG0784" />
 <div class="foxyshop_variations">
 <select name="Donation" id="WCPLPG0784_1" class="variation-donation">
-<option value="$35{p:35}||40fe6f90e14a250f587a71e08210de44f71fc4d824b6311b3b1ced2d8f9a427d" priceset="3500">$35</option>
-<option selected="" value="$50{p:50}||e93e44f11203a5029d194f1090806b2fdcec77990dfd5d2dd72136f67b563f45" priceset="5000">$50</option>
-<option value="$75{p:75}||270cb71d12815c460065b478f3a80a4db403726868d63b4fb004e82d08be6afc" priceset="7500">$75</option>
+<option value="$50{p:50}||e93e44f11203a5029d194f1090806b2fdcec77990dfd5d2dd72136f67b563f45" priceset="5000">$50</option>
 <option value="$100{p:100}||e962cb049ed7b484c71f52373a42a81c034b0a44cd9925379d5504df6e3ee7f3" priceset="10000">$100</option>
+<option value="$250{p:250}||1a60e870d888ffc42f01a365035be1747127882e10dd95391a768db8f288a6f6" priceset="25000">$250</option>
+<option value="$500{p:500}||1e431ba0cc0c4cf4837cab63b1be26d8bb856c50a8b023facf0946a67fcc371d" priceset="50000">$500</option>
 <option value="Other{dkey:custom-price}||dfead691d00c818915db24ebf0724cae82c3b6b326919bcf369ef22741b2f8fe" displaykey="custom-price">Other</option>
 </select>
 <div class="clr"></div>
 <label for="WCPLPG0784_2" class="variation-price dkey" dkey="custom-price"></label>
-<input type="text" name="price||be178c45faf3c627ffb7c4cdaea333439897d58b9272a92dc3f5e4fa71698c39||open" id="WCPLPG0784_2" value="" class="variation-price dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<input type="text" name="price||be178c45faf3c627ffb7c4cdaea333439897d58b9272a92dc3f5e4fa71698c39||open" id="WCPLPG0784_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
 <div class="clr"></div>
-<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||bf92159c695aff085ea8fae0e29e2174ae9246c32f481f89e7fdc539c56de6dd" id="WCPLPG0784_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
-<label for="WCPLPG0784_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||bf92159c695aff085ea8fae0e29e2174ae9246c32f481f89e7fdc539c56de6dd" id="WCPLPG0784_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCPLPG0784_3_0" class="variation-choose-one foxyshop_no_width">One time</label>
 <div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||21f5dfca0e8ba608fc31df5ea27ce8f162ad8f9f10e64a75c32e493700e26638" id="WCPLPG0784_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
 <label for="WCPLPG0784_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
 <div class="clr"></div></div><div class="clr"></div>
