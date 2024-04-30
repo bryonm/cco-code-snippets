@@ -1,0 +1,40 @@
+add_shortcode( 'cr-WC24059001CAD', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_247799" rel="247799">
+<input type="hidden" name="price||6f29808e3beaa4795af99b2850ee07a431a76c1631be5d62b8e36d081445befc" id="fs_price_247799" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_247799" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_247799" />
+<input type="hidden" name="image||6f834d776b34bca6fe121b62e3f24463160e629052daa9a2c3bdf0aca50ba1fc||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_247799" />
+<input type="hidden" name="url||33d05b0b22b777e17467ba673b7430500b076a985cf5c47d625d6d9b7cc5c6d1" value="https://crosscatholic.org/products/donate-to-milk-powder-4/" id="fs_url_247799" />
+<input type="hidden" name="quantity_min||5577a0685babfb139302a0daa7ad3634810a34bceb73ccce8abbc49afcd5361e||open" value="0" id="fs_quantity_min_247799" />
+<input type="hidden" name="quantity_max||dc7df7c5dc27aea234fb035dd703679b2150e42e35240f1fe660c1948438a7a5||open" value="0" id="fs_quantity_max_247799" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_247799" />
+<input type="hidden" name="sub_frequency||e90f09f2c9ec2023fd18968d46ab4d0cc0216f52f58467689bd94580a8e9697b||open" id="fs_sub_frequency_247799" value="" />
+<input type="hidden" name="name||b998dcf57735f478a27a3c57eb109f77b2acbb5910efc38ebfbfe271186525e2" id="fs_name_247799" value="Donate to Milk Powder" />
+<input type="hidden" name="code||9b72c5bd6edcc56984a62612c5e76a9e926a916d1a6992a53cdf519bc29fa4cb" id="fs_code_247799" value="WC24059001CAD" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC24059001CAD_1" class="variation-donation">
+<option value="$30 can provide 115 cups of milk{p:30}||f3f7cc98d6863af175248fd2578f86f79db2c021fa1c392b2f46e98a00edb680" priceset="3000">$30 can provide 115 cups of milk</option>
+<option value="$60 can provide 231 cups of milk{p:60}||dd923d4592a55499d12cacb0200789d980bb319b121b16a6d5dbd7a488721a64" priceset="6000">$60 can provide 231 cups of milk</option>
+<option value="$120 can provide 462 cups of milk{p:120}||e058e346449631a590396ac7f25ec25185991b6ce4dfc1f07a94e164f6dc4d47" priceset="12000">$120 can provide 462 cups of milk</option>
+<option value="$240 can provide 923 glasses of milk{p:240}||69201e068c5d04966cfe8e76394a25bc8ef294e7c1286028e7625f6d15761650" priceset="24000">$240 can provide 923 glasses of milk</option>
+<option value="Other{dkey:custom-price}||39bbe6899b8608ea1ae17939cda9a709a2ba636a5aabd086c1a8d734adfea4b2" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC24059001CAD_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||4846ca271f1bbc2de35e360a70238ba8326f39e4c79beef36256da61f0fc2fd8||open" id="WC24059001CAD_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||c5106bda86c88de5ac87e9bd8fca0608ae2a1c67278fe8f06217a6229063771d" id="WC24059001CAD_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC24059001CAD_3_0" class="variation-choose-one foxyshop_no_width">One time</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||29c4e90ee2b53ba84491415dcf0290c736710cb4a83ad434a93dc12af17b4f65" id="WC24059001CAD_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC24059001CAD_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
