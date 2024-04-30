@@ -1,0 +1,40 @@
+add_shortcode( 'sp-cr-WCS24059001', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_246305" rel="246305">
+<input type="hidden" name="price||25313add321620c718eb3f086afb122d5c09cceb08813400be65a0e964ed8cec" id="fs_price_246305" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_246305" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_246305" />
+<input type="hidden" name="image||f8f79c557210185313f55973ef40333da705e4ef5c76db5f07cfc358b51d31d8||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_246305" />
+<input type="hidden" name="url||3283a100f8a4465ef3694aec6cd52639660671ceff421b9d6052c83d434f4a91" value="https://crosscatholic.org/products/haz-una-donacion-hoy-y-brinda-leche-en-polvo-3/" id="fs_url_246305" />
+<input type="hidden" name="quantity_min||ace9964669a97a1ebc41da75394dc2b0a49b0b1520353cf4ffc289d14b6c9161||open" value="0" id="fs_quantity_min_246305" />
+<input type="hidden" name="quantity_max||57282bb3552ded8ca8ffe68fb44a8dad5794a6df9f5a0cbf751e976e29b839e2||open" value="0" id="fs_quantity_max_246305" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_246305" />
+<input type="hidden" name="sub_frequency||097631ae2ad1390068582f21e4fc805fbf2580d67e3451334ceb4159b12cdc2c||open" id="fs_sub_frequency_246305" value="" />
+<input type="hidden" name="name||f30def84e5379f8b9da21dbd29962061547dfb1047e9cb6263dccdbab07fe700" id="fs_name_246305" value="Haz una donación hoy y brinda leche en polvo" />
+<input type="hidden" name="code||8abdce44303484db08108906adc3931fda46f4c001bf1b05ca8a2d81cf2c11aa" id="fs_code_246305" value="WCS24059001" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCS24059001_1" class="variation-donation">
+<option value="$30 pueden proporcionar 115 vasos de leche{p:30}||2989c38a2d6616472f02e14f15ffffa2fcc7afeaa7d47a54ec3c548d3753e6e9" priceset="3000">$30 pueden proporcionar 115 vasos de leche</option>
+<option selected value="$60 pueden proporcionar 231 vasos de leche{p:60}||0ee3b2f0d63d089c4e3976fe4823dd50eec7dcef6e2fbcab96a7e843c8b0633d" priceset="6000">$60 pueden proporcionar 231 vasos de leche</option>
+<option value="$120 pueden proporcionar 462 vasos de leche{p:120}||c2afe6f202dbfe3cface8e9b62ef7c8e78b57a4220cedb24fea8c66aaedfc8fd" priceset="12000">$120 pueden proporcionar 462 vasos de leche</option>
+<option value="$240 pueden proporcionar 923 vasos de leche{p:240}||769376da0eaac1fe4fada13c140e6b8deace65fb84a6947bb6c53dc3ee4226ee" priceset="24000">$240 pueden proporcionar 923 vasos de leche</option>
+<option value="Otro{dkey:custom-price}||a40c2648854271b4a7135d57e86d1ce71a8ae3ff93900b296f8d4e15e6507c1e" displaykey="custom-price">Otro</option>
+</select>
+<div class="clr"></div>
+<label for="WCS24059001_2" class="variation-price dkey" dkey="custom-price"></label>
+<input type="text" name="price||9b7e44cf1cd6aefca399adeb79cd7d4505abdc1225bafbec46cb5519c87c75a0||open" id="WCS24059001_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper">
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||7c9cb938838cf00a9b2be5edb009234f5ccebb826d34c6e2c68b506c22baa075" id="WCS24059001_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCS24059001_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="El 25 de cada mes{fr:1m|c+MOT}||b90592647652d156c52a601484685ba12c96f7eb54f07fe2256fedb9c15b4758" id="WCS24059001_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCS24059001_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div><div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
