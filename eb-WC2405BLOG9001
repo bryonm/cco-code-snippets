@@ -1,0 +1,74 @@
+add_shortcode( 'eb-WC2405BLOG9001', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248163" rel="248163">
+<input type="hidden" name="price||cb98789310e49a19d1af510b3c94bf4db723726c3776d253add77dcc74df9c7b" id="fs_price_248163" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248163" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248163" />
+<input type="hidden" name="image||3379d87f906a50b669fc39f70ee59bc7fd0a5628163e367c4e9393fa6b3fd913||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248163" />
+<input type="hidden" name="url||5e21e92cdcd9a525dfa1920f37a0a90b108837d7f92e7a76254830fb5673fe27" value="https://crosscatholic.org/products/donate-to-milk-powder-50-gift/" id="fs_url_248163" />
+<input type="hidden" name="quantity_min||5635d51262f4ce366022906164e824f4d4d0d22662ff72c9c497109e3f365937||open" value="0" id="fs_quantity_min_248163" />
+<input type="hidden" name="quantity_max||4c06a8b2bb47a27ec71ae9bd61e6074eedcd170e04f2d19371ac6081a6ce3a80||open" value="0" id="fs_quantity_max_248163" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248163" />
+<input type="hidden" name="name||bae5081f290cfd0b70ddc16a39f7f1439cf17ba845f30dfa9c130c4069ce1e5e" id="fs_name_248163" value="Donate to Milk Powder $50 Gift" />
+<input type="hidden" name="code||3c9577b1cd82f2bbdae0ebffd333362d6adf4fd1d26f0f0ab456b66d435a960e" id="fs_code_248163" value="WC2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||1bef77258c3f1c40743d9e58341c558bac86243c3a4a9d33351eb5f40b20f06e" id="WC2405BLOG9001_1" value="" class="variation-50-donation" />
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248164" rel="248164">
+<input type="hidden" name="price||6d4484ba1970db65ded5ecc3876b314b591fe4fb90410e7406069c29c6b1b510" id="fs_price_248164" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248164" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248164" />
+<input type="hidden" name="image||3379d87f906a50b669fc39f70ee59bc7fd0a5628163e367c4e9393fa6b3fd913||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248164" />
+<input type="hidden" name="url||ee77aaf0b23f83e2fd128a6d261c5d66848aab74c67b6683e4dc5ecf3b82fa48" value="https://crosscatholic.org/products/donate-to-milk-powder-100-gift/" id="fs_url_248164" />
+<input type="hidden" name="quantity_min||5635d51262f4ce366022906164e824f4d4d0d22662ff72c9c497109e3f365937||open" value="0" id="fs_quantity_min_248164" />
+<input type="hidden" name="quantity_max||4c06a8b2bb47a27ec71ae9bd61e6074eedcd170e04f2d19371ac6081a6ce3a80||open" value="0" id="fs_quantity_max_248164" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248164" />
+<input type="hidden" name="name||9a978d2857d9d0bc7fea298b0b8b8deb6ea0f6f0cd726a9bac6112395b63c2f4" id="fs_name_248164" value="Donate to Milk Powder $100 Gift" />
+<input type="hidden" name="code||3c9577b1cd82f2bbdae0ebffd333362d6adf4fd1d26f0f0ab456b66d435a960e" id="fs_code_248164" value="WC2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||c47929a2aa38a43f0b8ba294d2497e1908412b8c1b8a081f590060f8a244f43b" id="WC2405BLOG9001_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248165" rel="248165">
+<input type="hidden" name="price||424615ba5ca117a69df84debac5db56f3561784f194127a26888af154f0f2c5c" id="fs_price_248165" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248165" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248165" />
+<input type="hidden" name="image||3379d87f906a50b669fc39f70ee59bc7fd0a5628163e367c4e9393fa6b3fd913||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248165" />
+<input type="hidden" name="url||bcf4bb0b4d5b54bd696ea9029cbc92df2bb26e7af03672590a94394e8b1878aa" value="https://crosscatholic.org/products/donate-to-milk-powder-250-gift/" id="fs_url_248165" />
+<input type="hidden" name="quantity_min||5635d51262f4ce366022906164e824f4d4d0d22662ff72c9c497109e3f365937||open" value="0" id="fs_quantity_min_248165" />
+<input type="hidden" name="quantity_max||4c06a8b2bb47a27ec71ae9bd61e6074eedcd170e04f2d19371ac6081a6ce3a80||open" value="0" id="fs_quantity_max_248165" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248165" />
+<input type="hidden" name="name||e09d67a76bee7508f6e2044e605f513ec98739459145340bc677f8f23c66ece7" id="fs_name_248165" value="Donate to Milk Powder $250 Gift" />
+<input type="hidden" name="code||3c9577b1cd82f2bbdae0ebffd333362d6adf4fd1d26f0f0ab456b66d435a960e" id="fs_code_248165" value="WC2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||06d26dca9777450e08bdc672354e6e5fbafd40f93794b4eae10c34dca37664d0" id="WC2405BLOG9001_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248166" rel="248166">
+<input type="hidden" name="price||452b3bf7377b7150e0587a339a7a1dfd157f3baaf6b00a923ba8ba182a175e44" id="fs_price_248166" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248166" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248166" />
+<input type="hidden" name="image||3379d87f906a50b669fc39f70ee59bc7fd0a5628163e367c4e9393fa6b3fd913||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248166" />
+<input type="hidden" name="url||9ac198333ad0d6baed8bc03c09e1d5d72f07b3eae9396c451c4c7d036620c2a4" value="https://crosscatholic.org/products/donate-to-milk-powder-5/" id="fs_url_248166" />
+<input type="hidden" name="quantity_min||5635d51262f4ce366022906164e824f4d4d0d22662ff72c9c497109e3f365937||open" value="0" id="fs_quantity_min_248166" />
+<input type="hidden" name="quantity_max||4c06a8b2bb47a27ec71ae9bd61e6074eedcd170e04f2d19371ac6081a6ce3a80||open" value="0" id="fs_quantity_max_248166" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248166" />
+<input type="hidden" name="name||759711f2f1e899b45249c0e011322a61167d0a39ffa752c87e583f86d0b29518" id="fs_name_248166" value="Donate to Milk Powder" />
+<input type="hidden" name="code||3c9577b1cd82f2bbdae0ebffd333362d6adf4fd1d26f0f0ab456b66d435a960e" id="fs_code_248166" value="WC2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2666c392a3d0815df7e621526721f4537487e031fec55f334facd17b2b01e780||open" id="WC2405BLOG9001_1" value="" class="variation-price foxyshop_required" style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
