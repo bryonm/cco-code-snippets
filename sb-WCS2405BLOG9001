@@ -1,0 +1,73 @@
+add_shortcode( 'sb-WCS2405BLOG9001', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248181" rel="248181">
+<input type="hidden" name="price||883d03d11d0b715c1265d0f35eca57e564182fc950e7b019672594e6a44fd05c" id="fs_price_248181" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248181" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248181" />
+<input type="hidden" name="image||d41fc5c5f92e4a029acfb61c79d91e8e3a859e47a30fd96b4ca033e71f37b991||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248181" />
+<input type="hidden" name="url||647084a95fec7e2ef48968b312151f870ba629ce000cf644729f31f369241450" value="https://crosscatholic.org/products/haz-una-donacion-hoy-y-brinda-leche-en-polvo-de-50/" id="fs_url_248181" />
+<input type="hidden" name="quantity_min||a8d74d48a6ddbaac632a1901f70d3f2c80c54ba8b96162dd06940646395038d9||open" value="0" id="fs_quantity_min_248181" />
+<input type="hidden" name="quantity_max||8a236f04e1f71de66d24c1d0641beaad83d5bfabaea3d9a44fe41b31ac8e7580||open" value="0" id="fs_quantity_max_248181" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248181" />
+<input type="hidden" name="name||da4125e2fec6526c54faedd2d1f29d4cededd92572d50b8ec1b78c497a495b72" id="fs_name_248181" value="Haz una donación hoy y brinda leche en polvo de $50" />
+<input type="hidden" name="code||6cb7ad7b4adcb4124133c6c0358bab6802837cb0fc70b0e7e032c0f69c84e914" id="fs_code_248181" value="WCS2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||3b4ade659f89b5349613ecc9f169fddaa7011a39e651dcfa52f7c686e080f560" id="WCS2405BLOG9001_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248182" rel="248182">
+<input type="hidden" name="price||ea30f5e4bc97e14e090e6aa03b09a86a086e381ee4d697e7843fcc3f2d7e2d89" id="fs_price_248182" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248182" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248182" />
+<input type="hidden" name="image||d41fc5c5f92e4a029acfb61c79d91e8e3a859e47a30fd96b4ca033e71f37b991||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248182" />
+<input type="hidden" name="url||153ff2601ab0199eb5fd8e735b575d5b7b96c76099d7b63930d63cf8afdfcb61" value="https://crosscatholic.org/products/haz-una-donacion-hoy-y-brinda-leche-en-polvo-de-100/" id="fs_url_248182" />
+<input type="hidden" name="quantity_min||a8d74d48a6ddbaac632a1901f70d3f2c80c54ba8b96162dd06940646395038d9||open" value="0" id="fs_quantity_min_248182" />
+<input type="hidden" name="quantity_max||8a236f04e1f71de66d24c1d0641beaad83d5bfabaea3d9a44fe41b31ac8e7580||open" value="0" id="fs_quantity_max_248182" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248182" />
+<input type="hidden" name="name||01399b93484c4cae5f7b034345961ce3f745ec4431561aabd37d6c64b48ebb28" id="fs_name_248182" value="Haz una donación hoy y brinda leche en polvo de $100" />
+<input type="hidden" name="code||6cb7ad7b4adcb4124133c6c0358bab6802837cb0fc70b0e7e032c0f69c84e914" id="fs_code_248182" value="WCS2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||3cf21bf30876cada675e25dc2a5e27fd962bf28f3d9282736ba8a23a491ef342" id="WCS2405BLOG9001_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248183" rel="248183">
+<input type="hidden" name="price||d1fb579e9f563b47c8e50ae109a5f0591f01be487b9c3f158c8c18ebf27c2f70" id="fs_price_248183" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248183" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248183" />
+<input type="hidden" name="image||d41fc5c5f92e4a029acfb61c79d91e8e3a859e47a30fd96b4ca033e71f37b991||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248183" />
+<input type="hidden" name="url||bbe52db68f7413c30e3d9d2a786200f8b1ac59833f96ac734683e3deb95e30bf" value="https://crosscatholic.org/products/haz-una-donacion-hoy-y-brinda-leche-en-polvo-de-250/" id="fs_url_248183" />
+<input type="hidden" name="quantity_min||a8d74d48a6ddbaac632a1901f70d3f2c80c54ba8b96162dd06940646395038d9||open" value="0" id="fs_quantity_min_248183" />
+<input type="hidden" name="quantity_max||8a236f04e1f71de66d24c1d0641beaad83d5bfabaea3d9a44fe41b31ac8e7580||open" value="0" id="fs_quantity_max_248183" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248183" />
+<input type="hidden" name="name||e9c3a13d340f1b7878449dc1c5a1fc06ea08b6b1b6adeb945adc87257fdfcee2" id="fs_name_248183" value="Haz una donación hoy y brinda leche en polvo de $250" />
+<input type="hidden" name="code||6cb7ad7b4adcb4124133c6c0358bab6802837cb0fc70b0e7e032c0f69c84e914" id="fs_code_248183" value="WCS2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||88952b2f80de4c89114f2ff8a75dbdc6ad07eeb841ef40c500ae6aa32987801e" id="WCS2405BLOG9001_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_248184" rel="248184">
+<input type="hidden" name="price||f3490964144a88185c3b4f4b2f2de8564cc4d2b1f1e1a5a3f45c85a4a19f6f8f" id="fs_price_248184" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_248184" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_248184" />
+<input type="hidden" name="image||d41fc5c5f92e4a029acfb61c79d91e8e3a859e47a30fd96b4ca033e71f37b991||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_248184" />
+<input type="hidden" name="url||49b44bde7d1735b32aa985ac04b07df98f24cfd9dada7b025c191cc3fa74402d" value="https://crosscatholic.org/products/haz-una-donacion-hoy-y-brinda-leche-en-polvo-4/" id="fs_url_248184" />
+<input type="hidden" name="quantity_min||a8d74d48a6ddbaac632a1901f70d3f2c80c54ba8b96162dd06940646395038d9||open" value="0" id="fs_quantity_min_248184" />
+<input type="hidden" name="quantity_max||8a236f04e1f71de66d24c1d0641beaad83d5bfabaea3d9a44fe41b31ac8e7580||open" value="0" id="fs_quantity_max_248184" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_248184" />
+<input type="hidden" name="name||3f5ab02793db771ad3ed5fc9b8e98ab11e0ec8c6b91bbf239c84726378123bbc" id="fs_name_248184" value="Haz una donación hoy y brinda leche en polvo" />
+<input type="hidden" name="code||6cb7ad7b4adcb4124133c6c0358bab6802837cb0fc70b0e7e032c0f69c84e914" id="fs_code_248184" value="WCS2405BLOG9001" />
+<div class="foxyshop_variations">
+<input type="text" name="price||d4a207a0a509aa88d155e248e92bb8616975445f5d1b8eb02689c24d3e50ed67||open" id="WCS2405BLOG9001_1" value="" class="variation-price foxyshop_required" placeholder="$$"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
