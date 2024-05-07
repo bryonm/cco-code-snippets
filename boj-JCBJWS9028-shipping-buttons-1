@@ -1,0 +1,79 @@
+	add_shortcode( 'boj-JCBJWS9028-shipping-buttons-1', function () {
+
+	$out = '<div class="flex-container">
+<div class="button-container-1">
+<!-- 1 Box/$9 -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_246239" rel="246239">
+<input type="hidden" name="price||e248fecb7206ec59a35b51a427a66909365e8eb2142d5b449ab85d732d520380" id="fs_price_246239" value="9.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_246239" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_246239" />
+<input type="hidden" name="image||8f290d242e11edcbfd63c0c80e06703acaea65b97698d27d89190883665a6d94||open" value="https://crosscatholic.org/wp-content/uploads/2020/06/BOJ-Logo-foxy-thumb.jpg" id="foxyshop_cart_product_image_246239" />
+<input type="hidden" name="url||71897d8d3a4ab524d69fffdd2c2cc84ce46d97ea3aa53c5d6eedbd74662dc477" value="https://crosscatholic.org/products/box-of-joy-shipping-1-box-9/" id="fs_url_246239" />
+<input type="hidden" name="quantity_min||141d97e2de9daff239767ea7b74395f7cbbb0ffde0bd9497da2b7671b76a210a||open" value="0" id="fs_quantity_min_246239" />
+<input type="hidden" name="quantity_max||6edc1da93de2b79c77792ca24689f080ca85782cf54f7e204d1674fd5d6a289a||open" value="0" id="fs_quantity_max_246239" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_246239" />
+<input type="hidden" name="name||da380e7466e952d8a3912bf09e8ca29f1d2fd60b1d772c20fc965a959d6e0674" id="fs_name_246239" value="Box of Joy - Shipping 1 Box - $9" />
+<input type="hidden" name="code||47c6c28aeba21e9c6becdb73dd3dd1a8c04bf418b32523b3738cc182c3a355a2" id="fs_code_246239" value="JCBJWS9028" />
+<div class="foxyshop_variations-shp">
+<input type="hidden" name="$9_donation||9f0b953c00d463482e388e43e4bcc631cbf66f3b73070606bc3738a202e47401" id="JCBJWS9028_1" value="" class="variation-9-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_shp">1 Box/$9</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$9.00</span></div></div></form>
+<!-- 4 Boxes/$36 -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_246240" rel="246240">
+<input type="hidden" name="price||bde27ed736fadcddc038b486d2d64c83b6ed0a48ee40e5321b391a6fd287728d" id="fs_price_246240" value="36.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_246240" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_246240" />
+<input type="hidden" name="image||8f290d242e11edcbfd63c0c80e06703acaea65b97698d27d89190883665a6d94||open" value="https://crosscatholic.org/wp-content/uploads/2020/06/BOJ-Logo-foxy-thumb.jpg" id="foxyshop_cart_product_image_246240" />
+<input type="hidden" name="url||6a16aa064fbec8ec36a8e878e9bb92d5d16aa4271cfc55b42c8d9804631b7068" value="https://crosscatholic.org/products/box-of-joy-shipping-4-box-36/" id="fs_url_246240" />
+<input type="hidden" name="quantity_min||141d97e2de9daff239767ea7b74395f7cbbb0ffde0bd9497da2b7671b76a210a||open" value="0" id="fs_quantity_min_246240" />
+<input type="hidden" name="quantity_max||6edc1da93de2b79c77792ca24689f080ca85782cf54f7e204d1674fd5d6a289a||open" value="0" id="fs_quantity_max_246240" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_246240" />
+<input type="hidden" name="name||648ec39a241a4633ef57345144418f72d7f02f9b06809e39b6bc33f054b66e26" id="fs_name_246240" value="Box of Joy - Shipping 4 Boxes - $36" />
+<input type="hidden" name="code||47c6c28aeba21e9c6becdb73dd3dd1a8c04bf418b32523b3738cc182c3a355a2" id="fs_code_246240" value="JCBJWS9028" />
+<div class="foxyshop_variations-shp">
+<input type="hidden" name="$36_donation||1bad07d7d928334456f2789f23bdd4c00461108ab44d031dd9bda9d36fcd048c" id="JCBJWS9028_1" value="" class="variation-36-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_shp">4 Boxes/$36</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$36.00</span></div></div></form>
+
+</div>
+
+
+<div class="button-container-2">
+
+<!-- 8 Boxes/$72 -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_246241" rel="246241">
+<input type="hidden" name="price||e485e48634e57b6a2dd00dd2b1c8e7606e5900ec9daa62d8ea5339a09e0a5263" id="fs_price_246241" value="72.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_246241" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_246241" />
+<input type="hidden" name="image||8f290d242e11edcbfd63c0c80e06703acaea65b97698d27d89190883665a6d94||open" value="https://crosscatholic.org/wp-content/uploads/2020/06/BOJ-Logo-foxy-thumb.jpg" id="foxyshop_cart_product_image_246241" />
+<input type="hidden" name="url||a52d2d25c0a8e0db0670ea7ad4e6d794932a26849bda0b6e7bcd983ba53d3411" value="https://crosscatholic.org/products/box-of-joy-shipping-8-boxes-72/" id="fs_url_246241" />
+<input type="hidden" name="quantity_min||141d97e2de9daff239767ea7b74395f7cbbb0ffde0bd9497da2b7671b76a210a||open" value="0" id="fs_quantity_min_246241" />
+<input type="hidden" name="quantity_max||6edc1da93de2b79c77792ca24689f080ca85782cf54f7e204d1674fd5d6a289a||open" value="0" id="fs_quantity_max_246241" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_246241" />
+<input type="hidden" name="name||77ea1f719fe47d383adb6e8ab2bd1766fc9fba88d64d36494c1a8e269365582e" id="fs_name_246241" value="Box of Joy - Shipping 8 Boxes - $72" />
+<input type="hidden" name="code||47c6c28aeba21e9c6becdb73dd3dd1a8c04bf418b32523b3738cc182c3a355a2" id="fs_code_246241" value="JCBJWS9028" />
+<div class="foxyshop_variations-shp">
+<input type="hidden" name="$72_donation||3afe213acf5173efeeb588493919d41413b29412982d0b6eea20a411a28d8ae8" id="JCBJWS9028_1" value="" class="variation-72-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_shp">8 Boxes/$72</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$72.00</span></div></div></form>
+<!-- 12 Boxes/$108 -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_246242" rel="246242">
+<input type="hidden" name="price||f80c59f0f4a1a0e4c4f6afbde8668eafb9919264ef073395df43cc5c128923e0" id="fs_price_246242" value="108.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_246242" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_246242" />
+<input type="hidden" name="image||8f290d242e11edcbfd63c0c80e06703acaea65b97698d27d89190883665a6d94||open" value="https://crosscatholic.org/wp-content/uploads/2020/06/BOJ-Logo-foxy-thumb.jpg" id="foxyshop_cart_product_image_246242" />
+<input type="hidden" name="url||e5a092349dde4be995673959fb4440f2f503d84611ec6dd8dc04186231e03621" value="https://crosscatholic.org/products/box-of-joy-shipping-12-boxes-108/" id="fs_url_246242" />
+<input type="hidden" name="quantity_min||141d97e2de9daff239767ea7b74395f7cbbb0ffde0bd9497da2b7671b76a210a||open" value="0" id="fs_quantity_min_246242" />
+<input type="hidden" name="quantity_max||6edc1da93de2b79c77792ca24689f080ca85782cf54f7e204d1674fd5d6a289a||open" value="0" id="fs_quantity_max_246242" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_246242" />
+<input type="hidden" name="name||ae6fdfd191ddcb6eed920acd899f1689d0823dfebd70abcc92a2032f003ab406" id="fs_name_246242" value="Box of Joy - Shipping 12 Boxes - $108" />
+<input type="hidden" name="code||47c6c28aeba21e9c6becdb73dd3dd1a8c04bf418b32523b3738cc182c3a355a2" id="fs_code_246242" value="JCBJWS9028" />
+<div class="foxyshop_variations-shp">
+<input type="hidden" name="$108_donation||4d11f15142718265a4783c1856cb15a27bf1342ddd25f86e193966cae5e84b61" id="JCBJWS9028_1" value="" class="variation-108-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button_shp">12 Boxes/$108</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$108.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
