@@ -1,28 +1,12 @@
 add_shortcode( 'donate_0442', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_115075" rel="115075">
-<input type="hidden" name="price||79e6dbfe0fb28270b5a66945ebb82c3dac16fb0c04d79fb36a3ceb980d3052e0" id="fs_price_115075" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_115075" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_115075" />
-<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0442-foxy-thumb-fy23.jpg" id="foxyshop_cart_product_image_115075" />
-<input type="hidden" name="url||44b088620deb46bc2c65f5be57ed0469d72311b532021afc156c4af0452140d6" value="https://crosscatholic.org/products/0442-baraka-catholic-kindergarten-25-gift/" id="fs_url_115075" />
-<input type="hidden" name="quantity_min||b4166d43cedeb43bde5382e80824bb5698a447802be2aecd36d0287c89ed14a4||open" value="0" id="fs_quantity_min_115075" />
-<input type="hidden" name="quantity_max||fc2a443752b88bdea0a6e250540bb6ab6118c3c070fa4c14d27ec82cd72b639e||open" value="0" id="fs_quantity_max_115075" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_115075" />
-<input type="hidden" name="name||596ac92b4b03937d23ddaeb11977eebf9a490722414e0011176d16966aba978c" id="fs_name_115075" value="0442 - Baraka Catholic Kindergarten $25 Gift" />
-<input type="hidden" name="code||4710120f7d9db02040071344519fc55e562c4cf4387fd70ea22124ca11768bab" id="fs_code_115075" value="WCPROJ0442" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||b7c6cc297debe8f07141568016645e21c3d10770c5d2dfbf88ec6d9be851be04" id="WCPROJ0442_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_115077" rel="115077">
 <input type="hidden" name="price||0136015fa2cddc18fcba80eeb07529eacfab30ee6d56f2da51a79aba8b9f9671" id="fs_price_115077" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_115077" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_115077" />
-<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0442-foxy-thumb-fy23.jpg" id="foxyshop_cart_product_image_115077" />
+<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/0442-foxy-thumb.jpg" id="foxyshop_cart_product_image_115077" />
 <input type="hidden" name="url||b5f9c6aaead8dc9c9013048bf240cfa37467517a5df6c8f42769b3bd514d5b1e" value="https://crosscatholic.org/products/0442-baraka-catholic-kindergarten-50-gift/" id="fs_url_115077" />
 <input type="hidden" name="quantity_min||b4166d43cedeb43bde5382e80824bb5698a447802be2aecd36d0287c89ed14a4||open" value="0" id="fs_quantity_min_115077" />
 <input type="hidden" name="quantity_max||fc2a443752b88bdea0a6e250540bb6ab6118c3c070fa4c14d27ec82cd72b639e||open" value="0" id="fs_quantity_max_115077" />
@@ -38,7 +22,7 @@ add_shortcode( 'donate_0442', function () {
 <input type="hidden" name="price||340ec0675c549851066163564c85348e90c1a7ed6c6c24f73d39c9f10ec0afcb" id="fs_price_115078" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_115078" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_115078" />
-<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0442-foxy-thumb-fy23.jpg" id="foxyshop_cart_product_image_115078" />
+<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/0442-foxy-thumb.jpg" id="foxyshop_cart_product_image_115078" />
 <input type="hidden" name="url||3d1888ade1072aeb34010d425482c4b967059bc3a3ae6e54ccb57468d11c0b4c" value="https://crosscatholic.org/products/0442-baraka-catholic-kindergarten-100-gift/" id="fs_url_115078" />
 <input type="hidden" name="quantity_min||b4166d43cedeb43bde5382e80824bb5698a447802be2aecd36d0287c89ed14a4||open" value="0" id="fs_quantity_min_115078" />
 <input type="hidden" name="quantity_max||fc2a443752b88bdea0a6e250540bb6ab6118c3c070fa4c14d27ec82cd72b639e||open" value="0" id="fs_quantity_max_115078" />
@@ -49,13 +33,29 @@ add_shortcode( 'donate_0442', function () {
 <input type="hidden" name="$100_donation||869838951c4f65879b7304149529759c5287b8be81b75c74c52a16f7e207e212" id="WCPROJ0442_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_115075" rel="115075">
+<input type="hidden" name="price||293a5ecafed84a4a12c802abb474c1497ad3c9b21afdb4b708993d96c34ed587" id="fs_price_115075" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_115075" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_115075" />
+<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/0442-foxy-thumb.jpg" id="foxyshop_cart_product_image_115075" />
+<input type="hidden" name="url||44b088620deb46bc2c65f5be57ed0469d72311b532021afc156c4af0452140d6" value="https://crosscatholic.org/products/0442-baraka-catholic-kindergarten-25-gift/" id="fs_url_115075" />
+<input type="hidden" name="quantity_min||b4166d43cedeb43bde5382e80824bb5698a447802be2aecd36d0287c89ed14a4||open" value="0" id="fs_quantity_min_115075" />
+<input type="hidden" name="quantity_max||fc2a443752b88bdea0a6e250540bb6ab6118c3c070fa4c14d27ec82cd72b639e||open" value="0" id="fs_quantity_max_115075" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_115075" />
+<input type="hidden" name="name||d5fd8b13d6f7b1d5b62516293f356d2290fb54357315fbce78108305269cd366" id="fs_name_115075" value="0442 - Baraka Catholic Kindergarten $250 Gift" />
+<input type="hidden" name="code||4710120f7d9db02040071344519fc55e562c4cf4387fd70ea22124ca11768bab" id="fs_code_115075" value="WCPROJ0442" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||17fa2ed57eacea30c8bdfc9b1d245a15f496e77422187a437a230e0c2c21a725" id="WCPROJ0442_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_115076" rel="115076">
 <input type="hidden" name="price||d1c2444f1322bc0103b7123dbec0a7b8011d33e37b76d4b68448c8fa75ce2ca2" id="fs_price_115076" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_115076" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_115076" />
-<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/0442-foxy-thumb-fy23.jpg" id="foxyshop_cart_product_image_115076" />
+<input type="hidden" name="image||f3855716459c6180f77d0041952813c56e6d37e70bf8cf29bf5d3c65a9dfb0ff||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/0442-foxy-thumb.jpg" id="foxyshop_cart_product_image_115076" />
 <input type="hidden" name="url||dce49be0f8d157111dc8741b9a03e75369302df15f355ac63e52a1230dcaad6f" value="https://crosscatholic.org/products/0442-baraka-catholic-kindergarten/" id="fs_url_115076" />
 <input type="hidden" name="quantity_min||b4166d43cedeb43bde5382e80824bb5698a447802be2aecd36d0287c89ed14a4||open" value="0" id="fs_quantity_min_115076" />
 <input type="hidden" name="quantity_max||fc2a443752b88bdea0a6e250540bb6ab6118c3c070fa4c14d27ec82cd72b639e||open" value="0" id="fs_quantity_max_115076" />
