@@ -1,24 +1,6 @@
 add_shortcode( 'donate_0265', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35712" rel="35712">
-<input type="hidden" name="price||1b40b8caab9f3bb2802831a426298e43e95fc78ee0bedf7bfef86dc81ff1f7d4" id="fs_price_35712" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35712" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35712" />
-<input type="hidden" name="image||2d357d07e9a54238b22cdaebd9a05e88840d92f68dec212ef89a803d61f5295b||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0265-foxy-thumb.jpg" id="foxyshop_cart_product_image_35712" />
-<input type="hidden" name="url||9a6d553d79536d56d54c748dfff387d6dbc2b0a7b378fd8f7cd8c257961fd078" value="https://crosscatholic.org/products/0265-daughters-of-wisdom-medical-prison-ministry-2/" id="fs_url_35712" />
-<input type="hidden" name="quantity_min||abb9da568a3d8caa63f2ca31ffc0a732018628ed82d9f0858ecc47bd219269d7||open" value="0" id="fs_quantity_min_35712" />
-<input type="hidden" name="quantity_max||4c7cf94d5accd08674c3cd07f3adb60016275663ad93ce80b4e87176d2500399||open" value="0" id="fs_quantity_max_35712" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35712" />
-<input type="hidden" name="name||7025875dbf1a1e7e82fe86d5136ec2094c5a5be8d0afc5c6bb1c807b01cba596" id="fs_name_35712" value="0265 - Daughters of Wisdom Medical Prison Ministry" />
-<input type="hidden" name="code||d13699612f5f85984f588edd66401a5540b50823dcd4daa93ee9f81f8be0fa65" id="fs_code_35712" value="WCPROJ0265" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||4f641579067c0bdbfc3aa17c61aa9e2719384aa562a5a5cb5de31a8c16037d92" id="WCPROJ0265_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35715" rel="35715">
 <input type="hidden" name="price||e1a2dbcc671b3be5442cc3081e5bf44bdc40aeec855cdf771b129f02de290bfd" id="fs_price_35715" value="50.00" />
@@ -35,7 +17,6 @@ add_shortcode( 'donate_0265', function () {
 <input type="hidden" name="$50_donation||f8136400c73aa689873798e250faf445d894b7c67798131be75496a3cdd9e8b6" id="WCPROJ0265_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
 <!-- $100 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35718" rel="35718">
 <input type="hidden" name="price||3e09d2faf5ead723ac2ebd5c381785fc00e7423e6a692f92c548f73700947193" id="fs_price_35718" value="100.00" />
@@ -52,10 +33,24 @@ add_shortcode( 'donate_0265', function () {
 <input type="hidden" name="$100_donation||8691b14232439fb14d91722a32f28ad5f6f92a8e68ae5c1ac55a3ec8cab4a19b" id="WCPROJ0265_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35712" rel="35712">
+<input type="hidden" name="price||9af4f900b0f85718d7263421360dc75514afbc58c00ffc10a8d563ae02a59fc3" id="fs_price_35712" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35712" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35712" />
+<input type="hidden" name="image||2d357d07e9a54238b22cdaebd9a05e88840d92f68dec212ef89a803d61f5295b||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0265-thumb_1.jpg" id="foxyshop_cart_product_image_35712" />
+<input type="hidden" name="url||9a6d553d79536d56d54c748dfff387d6dbc2b0a7b378fd8f7cd8c257961fd078" value="https://crosscatholic.org/products/0265-daughters-of-wisdom-medical-prison-ministry-2/" id="fs_url_35712" />
+<input type="hidden" name="quantity_min||abb9da568a3d8caa63f2ca31ffc0a732018628ed82d9f0858ecc47bd219269d7||open" value="0" id="fs_quantity_min_35712" />
+<input type="hidden" name="quantity_max||4c7cf94d5accd08674c3cd07f3adb60016275663ad93ce80b4e87176d2500399||open" value="0" id="fs_quantity_max_35712" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35712" />
+<input type="hidden" name="name||051f61f3e6462c2432b2a0300f8d2c482727fc7cf0967d4cfff4bcb8d234b591" id="fs_name_35712" value="0265 - Daughters of Wisdom Medical Prison Ministry $250 donation" />
+<input type="hidden" name="code||d13699612f5f85984f588edd66401a5540b50823dcd4daa93ee9f81f8be0fa65" id="fs_code_35712" value="WCPROJ0265" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||9155b71d42b6a5375a0fcafbeaf085c68fabeaeafaf29d0b1e3c44980e5e9ef5" id="WCPROJ0265_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
-
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35708" rel="35708">
 <input type="hidden" name="price||f0b1cb38ba4c5adf76570692f747a7a70863b46509714d9e0a6b39888f9088cc" id="fs_price_35708" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35708" />
