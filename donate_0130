@@ -2,69 +2,68 @@ add_shortcode( 'donate_0130', function () {
 
 	$out = '<div class="flex-container">
 <!-- $50 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35004" rel="35004">
-<input type="hidden" name="price||15b87bde8cab0897cd1c5ecbcb3b376ced0eef86f1608de16b0ae0b1781b9d82" id="fs_price_35004" value="50.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35004" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35004" />
-<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_35004" />
-<input type="hidden" name="url||cc500dd6f68a081f8bc5ea5908ddf2fa31ce1fa84c563b09aed97104ae5385f3" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals-2/" id="fs_url_35004" />
-<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_35004" />
-<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_35004" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35004" />
-<input type="hidden" name="name||ff2985463b755ca770696db6e23f36b3050003d7030bbcc338a201a7dcf09096" id="fs_name_35004" value="0130 - Dagama Handicapped Student Meals" />
-<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_35004" value="WCPROJ0130" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251319" rel="251319">
+<input type="hidden" name="price||15b87bde8cab0897cd1c5ecbcb3b376ced0eef86f1608de16b0ae0b1781b9d82" id="fs_price_251319" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251319" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251319" />
+<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_251319" />
+<input type="hidden" name="url||eb4576dc87a1777a6f2966f83a5aa5f082548a9512bdf7d7a48404ae62b310a5" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals-50-donation/" id="fs_url_251319" />
+<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_251319" />
+<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_251319" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251319" />
+<input type="hidden" name="name||ca5867613901eebc6e7a627077cc8fab98d3004d25907088f8796544976473b3" id="fs_name_251319" value="0130 – Dagama Handicapped Student Meals $50 Donation" />
+<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_251319" value="WCPROJ0130" />
 <div class="foxyshop_variations">
 <input type="hidden" name="$50_donation||65efb5b4566daf8ce60217bde5aa8dd8cf314c665b20add3761f1948ceff2c74" id="WCPROJ0130_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  <!-- $100 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35010" rel="35010">
-<input type="hidden" name="price||79c4799fe1a416a1ee7a40a2c4994013e8e3adfde69bec1b3abbc3cef16a642a" id="fs_price_35010" value="100.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35010" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35010" />
-<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_35010" />
-<input type="hidden" name="url||579d6e0adda628804df856abfcb3a75e18a94dd4c4427dc62e843054b34bc199" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals-4/" id="fs_url_35010" />
-<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_35010" />
-<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_35010" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35010" />
-<input type="hidden" name="name||ff2985463b755ca770696db6e23f36b3050003d7030bbcc338a201a7dcf09096" id="fs_name_35010" value="0130 - Dagama Handicapped Student Meals" />
-<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_35010" value="WCPROJ0130" />
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251320" rel="251320">
+<input type="hidden" name="price||79c4799fe1a416a1ee7a40a2c4994013e8e3adfde69bec1b3abbc3cef16a642a" id="fs_price_251320" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251320" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251320" />
+<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_251320" />
+<input type="hidden" name="url||91982658605c5d5a6ddc60b8bf44d7b7d9e31fe6b5287e8346e40f9d713cb2ea" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals-100-donation/" id="fs_url_251320" />
+<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_251320" />
+<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_251320" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251320" />
+<input type="hidden" name="name||19dc17d81c018fa0259842dbf3234dbbea5012933cb3cfec7c4bdb817e8a5048" id="fs_name_251320" value="0130 – Dagama Handicapped Student Meals $100 Donation" />
+<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_251320" value="WCPROJ0130" />
 <div class="foxyshop_variations">
 <input type="hidden" name="$100_donation||4747c6159331ec7385e98332bb9c5866ff65a2c478f00021c966cd3768bd4984" id="WCPROJ0130_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
 <!-- $250 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35001" rel="35001">
-<input type="hidden" name="price||fd6decbb1f41361371d324be59542fad3c58a7da0cc1c6d64449d5ad288c65bf" id="fs_price_35001" value="250.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35001" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35001" />
-<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_35001" />
-<input type="hidden" name="url||542947eba630049ffc71edeaec924b3ae7ed11ccabcb40ea9beb775eba195ee3" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals/" id="fs_url_35001" />
-<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_35001" />
-<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_35001" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35001" />
-<input type="hidden" name="name||c825d00ac679ad3b7f693d119810acdd429afb797102f93f754d5041aa74b18a" id="fs_name_35001" value="0130 - Dagama Handicapped Student Meals - $250 donation" />
-<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_35001" value="WCPROJ0130" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251321" rel="251321">
+<input type="hidden" name="price||fd6decbb1f41361371d324be59542fad3c58a7da0cc1c6d64449d5ad288c65bf" id="fs_price_251321" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251321" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251321" />
+<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_251321" />
+<input type="hidden" name="url||155acdbd9193ef2d09b74b44c2874ebad8ce63dda3b4398bd3080745ee633122" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals-250-donation/" id="fs_url_251321" />
+<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_251321" />
+<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_251321" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251321" />
+<input type="hidden" name="name||e2545849520e0f81ce9a794d3827332da1c203291687f0ad81450aed20af21bf" id="fs_name_251321" value="0130 – Dagama Handicapped Student Meals $250 Donation" />
+<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_251321" value="WCPROJ0130" />
 <div class="foxyshop_variations">
 <input type="hidden" name="$250_donation||c5a22a36f7cd7f0290d23dce59461456a1fa2e767201e5db875dc58565e2d2fd" id="WCPROJ0130_1" value="" class="variation-250-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
-  <!-- OTHER BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35007" rel="35007">
-<input type="hidden" name="price||63a889530981e73633384489f92c20a92a72acb35866bc4d3e56fd537716e5bc" id="fs_price_35007" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35007" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35007" />
-<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_35007" />
-<input type="hidden" name="url||2d55ca7afdc7bd1ed523311d3c062fa71e6734b596ac9b0f0dc5dbb9d85d2130" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals-3/" id="fs_url_35007" />
-<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_35007" />
-<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_35007" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35007" />
-<input type="hidden" name="name||ff2985463b755ca770696db6e23f36b3050003d7030bbcc338a201a7dcf09096" id="fs_name_35007" value="0130 - Dagama Handicapped Student Meals" />
-<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_35007" value="WCPROJ0130" />
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251322" rel="251322">
+<input type="hidden" name="price||63a889530981e73633384489f92c20a92a72acb35866bc4d3e56fd537716e5bc" id="fs_price_251322" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251322" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251322" />
+<input type="hidden" name="image||e2efe5f20374b61bd9d69816380a4945f32a3a225d258b65ef7a8fc35d59612e||open" value="https://crosscatholic.org/wp-content/uploads/2023/03/0130-foxy-thumb.jpg" id="foxyshop_cart_product_image_251322" />
+<input type="hidden" name="url||0a926b3569fcbbf201cc8489d4c1a1bcacf47901c5c233f6294e7b6b08863032" value="https://crosscatholic.org/products/0130-dagama-handicapped-student-meals-donation/" id="fs_url_251322" />
+<input type="hidden" name="quantity_min||c0264814f940e387ff400a17643c5e8ad903f56b8f405cd20f860c5541051b02||open" value="0" id="fs_quantity_min_251322" />
+<input type="hidden" name="quantity_max||71211a77d0e57860e275704c3dce4f2a5b75c234849ae3e685a249ba4977838f||open" value="0" id="fs_quantity_max_251322" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251322" />
+<input type="hidden" name="name||51fd957605afbc2592bec3f5ca8128af8fc9a7fa679ca5a250958f7f8858bf72" id="fs_name_251322" value="0130 – Dagama Handicapped Student Meals Donation" />
+<input type="hidden" name="code||8e6e791954324fd4524fde7ce28d8d6709de5111df215ad4585b979fd19b1043" id="fs_code_251322" value="WCPROJ0130" />
 <div class="foxyshop_variations">
-<input type="text" name="price||6ee8e948e85c9991ac4747ff22a91354cba0c5eedc808b72b9c869a519663590||open" id="WCPROJ0130_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
-
+<input type="text" name="price||6ee8e948e85c9991ac4747ff22a91354cba0c5eedc808b72b9c869a519663590||open" id="WCPROJ0130_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
