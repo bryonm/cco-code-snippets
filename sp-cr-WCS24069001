@@ -1,0 +1,39 @@
+add_shortcode( 'sp-cr-WCS24069001', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_250005" rel="250005">
+<input type="hidden" name="price||871f07bb39b71e1ff7845150f3bcd5be649d908c7f51580d4a4e51209743e0c7" id="fs_price_250005" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_250005" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_250005" />
+<input type="hidden" name="image||599e83659b88f0ebe8b6629597e933fb9dbb2767a80150abd5249591417989c1||open" value="https://crosscatholic.org/wp-content/uploads/2024/05/comida-foxy-thumb.jpg" id="foxyshop_cart_product_image_250005" />
+<input type="hidden" name="url||3d028f2b94a062d743633b3527672f815015c3ba633ff34018f09e375ddb6366" value="https://crosscatholic.org/products/comida-sana-donacion-11/" id="fs_url_250005" />
+<input type="hidden" name="quantity_min||96cc09d8540ed09812dd06de15b0a9ee734bad943a3fca6e7e00ed995c1d6ff1||open" value="0" id="fs_quantity_min_250005" />
+<input type="hidden" name="quantity_max||43e4045a130a27990387eb2b4993f4c69382655843bdfe0982f7322ae2274606||open" value="0" id="fs_quantity_max_250005" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_250005" />
+<input type="hidden" name="sub_frequency||e9ce1cb763d16325719fc3857be7267852c879e2686496ec8135b903108f9879||open" id="fs_sub_frequency_250005" value="" />
+<input type="hidden" name="name||e8b758314235cc59f7f65da4c828126e46c0c7ca798b844a0053a5633613f6d4" id="fs_name_250005" value="Comida sana donación" />
+<input type="hidden" name="code||03dde4e3cacb6c8f3378bdb654962012ab18dc34d3255584b28f06bd49c5c22e" id="fs_code_250005" value="WCS24069001" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCS24069001_1" class="variation-donation">
+<option value="$35 proporcionan 233 comidas nutritivas{p:35}||d0cfb867c22e3ece8845e5803ecb2bc448eb743e2dc037af4b602228ee67ddec" priceset="3500">$35 proporcionan 233 comidas nutritivas</option>
+<option selected value="$50 proporcionan 333 comidas nutritivas{p:50}||d04978ee818305d4fd8cc90e7eb21b28dcd008d1586867a0097c1df69147e073" priceset="5000">$50 proporcionan 333 comidas nutritivas</option>
+<option value="$100 proporcionan 667 comidas nutritivas{p:100}||d0dfffb5651d4f70a1b9db64660097ab2d827a912e8e5cbe516f9cabbc110ada" priceset="10000">$100 proporcionan 667 comidas nutritivas</option>
+<option value="$150 proporcionan 1,000 comidas nutritivas{p:150}||04b7cd65504499adfc0eac863d719ad35913060e47ebdd51d95a4c704d84bcb5" priceset="15000">$150 proporcionan 1,000 comidas nutritivas</option>
+<option value="Otro{dkey:custom-price}||a7dd2eb4ece976f2fe6be65ef12df8a55c334c7866d1c3e147fd7266be0977b8" displaykey="custom-price">Otro</option>
+</select>
+<div class="clr"></div>
+<label for="WCS24069001_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||71d820f3d04c4c0f39d5e318a9cadabe37cad868d894982725a415597c93701a||open" id="WCS24069001_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||b83cf247a09a12c36855f89476c02550a60f0578bfc7ba7902788f32d9a0e693" id="WCS24069001_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCS24069001_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+MOT}||1f6199fa23f714d74d2b15d543798b019e133ecd92565b42f051e62530737953" id="WCS24069001_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCS24069001_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
