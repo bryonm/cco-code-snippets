@@ -1,26 +1,7 @@
 add_shortcode( 'donate_0361', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_55886" rel="55886">
-<input type="hidden" name="price||3d11e1970b780cbe60335638c466e724e45b848b275c39a3416a39557fedd259" id="fs_price_55886" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_55886" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_55886" />
-<input type="hidden" name="image||fd6b21665e0201eb3d3c8bdcb19fe102538403b3d97451b66318a97fe193218e||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/0361-thumb.jpg" id="foxyshop_cart_product_image_55886" />
-<input type="hidden" name="url||ba5c97b86e8561ccfa2ca6e97345bc9342148b06e5e78400fef68dd531f31cb5" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support/" id="fs_url_55886" />
-<input type="hidden" name="quantity_min||b6039136eb669d371821daacab44567ad20238b207a99579b46910beb5fcee48||open" value="0" id="fs_quantity_min_55886" />
-<input type="hidden" name="quantity_max||32fa5c0693d60b12408defd3cdffe4351b660ac71fe8ea66846176e0e2d0a156||open" value="0" id="fs_quantity_max_55886" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_55886" />
-<input type="hidden" name="name||5435d8c7d6bba761f943ff6e44f39734989eaa3dec53874578d57fc81981849b" id="fs_name_55886" value="0361 - CFSOP Jamaica Sisters Support" />
-<input type="hidden" name="code||b3d83b62b8056d7386c040f06c54e87a321a5c261294ed83228ce622bef3f676" id="fs_code_55886" value="WCPROJ0361" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||023191861f78d00e470d0442765e9e8ed9412c567a375d2189d9746bfd5ceb74" id="WCPROJ0361_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
-
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_55892" rel="55892">
 <input type="hidden" name="price||eb8cf75baa8a0bc1c03f14e4e5e4f6051bdb87db2ac5807661f9e5df2418fded" id="fs_price_55892" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_55892" />
@@ -36,7 +17,6 @@ add_shortcode( 'donate_0361', function () {
 <input type="hidden" name="$50_donation||0b51983da564d7403ea49568a6bc0c865b4c3baabec9f588b013b3f4d622a02f" id="WCPROJ0361_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
 <!-- $100 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_55895" rel="55895">
 <input type="hidden" name="price||dc2d02ec4383abc0a779faeded09339b808d68d5382f955fce10142f4fa5d9a9" id="fs_price_55895" value="100.00" />
@@ -53,11 +33,24 @@ add_shortcode( 'donate_0361', function () {
 <input type="hidden" name="$100_donation||21134e195d56dc6995a66f489efaca6952bc401e6bf6b9caa16ec10b9790e1a6" id="WCPROJ0361_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251388" rel="251388">
+<input type="hidden" name="price||fee49ddf021da21958e490ca69e7479255d0d405e738ccb1765c9ff53b473b0d" id="fs_price_251388" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251388" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251388" />
+<input type="hidden" name="image||fd6b21665e0201eb3d3c8bdcb19fe102538403b3d97451b66318a97fe193218e||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/0361-thumb_1.jpg" id="foxyshop_cart_product_image_251388" />
+<input type="hidden" name="url||e072f36ab24dad12b137476775adf8947bd894f58a15aedff803071d03d16b2c" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-250-donation/" id="fs_url_251388" />
+<input type="hidden" name="quantity_min||b6039136eb669d371821daacab44567ad20238b207a99579b46910beb5fcee48||open" value="0" id="fs_quantity_min_251388" />
+<input type="hidden" name="quantity_max||32fa5c0693d60b12408defd3cdffe4351b660ac71fe8ea66846176e0e2d0a156||open" value="0" id="fs_quantity_max_251388" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251388" />
+<input type="hidden" name="name||0bd8bb23a728559d1f6be1f8bc5ffa3baebdd9b849f61522e69c33fe81db712a" id="fs_name_251388" value="0361 - CFSOP Jamaica Sisters Support $250 donation" />
+<input type="hidden" name="code||b3d83b62b8056d7386c040f06c54e87a321a5c261294ed83228ce622bef3f676" id="fs_code_251388" value="WCPROJ0361" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||bc3136489c8d89db2e53e402e798c5836fb13dd3736ba8b96d3d5469b0903486" id="WCPROJ0361_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
-
-
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_55887" rel="55887">
 <input type="hidden" name="price||5e3934771c9c6b3cfabdf2510cf4c5eaf07dd3755a7bbf9222cd80e056f3db78" id="fs_price_55887" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_55887" />
