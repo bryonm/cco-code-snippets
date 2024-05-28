@@ -1,24 +1,6 @@
 add_shortcode( 'donate_0240', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35246" rel="35246">
-<input type="hidden" name="price||a7f8800c821d4e39e7e2caf681e11c7f495c7d42e7437097ec2d11b0417adf75" id="fs_price_35246" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35246" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35246" />
-<input type="hidden" name="image||3a97dfa89ad41e8300c80023a47db610bf3c5da8194edd169b8e35b17329ee8a||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0240-foxy-thumb-23-b.jpg" id="foxyshop_cart_product_image_35246" />
-<input type="hidden" name="url||31e0b981425e52a7fc90e430f258b4117d573401954721fc9550ff094ca15308" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program/" id="fs_url_35246" />
-<input type="hidden" name="quantity_min||21af3c6486f33911a2f99bfdb272e5a22245dfc3a318c944d67d597c9ba42288||open" value="0" id="fs_quantity_min_35246" />
-<input type="hidden" name="quantity_max||75737be2ca382513a525d8d1b721bc71a732ac8b72a508082844df153f7178a4||open" value="0" id="fs_quantity_max_35246" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35246" />
-<input type="hidden" name="name||ac86680106896e8a29c539b2f4ae51d437805858fbd33648d80f2243f5f5908b" id="fs_name_35246" value="0240 - Haitian Education and Leadership Program - $25 donation" />
-<input type="hidden" name="code||e33efddafacb49ad3c401438682d68ffd06348b34f63a7770a8f4ef892b094a2" id="fs_code_35246" value="WCPROJ0240" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||e9194cd280ff04dbf1fe7593cd1b693cb88cddcb6387368a5b11bb00e59ca8ce" id="WCPROJ0240_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35249" rel="35249">
 <input type="hidden" name="price||edd7b20603f293cd5c76c5d82df3829c54ae28acff07b00863d814afc4926d53" id="fs_price_35249" value="50.00" />
@@ -35,7 +17,6 @@ add_shortcode( 'donate_0240', function () {
 <input type="hidden" name="$50_donation||76a8f7c4543fa84ea4c7b85f698d0fa8cb84364dee0f78ddba98190847f5de27" id="WCPROJ0240_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
 <!-- $100 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35252" rel="35252">
 <input type="hidden" name="price||09ca2d522e4a748c44f0cda64502488f5553e00e8fd1bda5a5add92b2ae9b3c0" id="fs_price_35252" value="100.00" />
@@ -52,8 +33,23 @@ add_shortcode( 'donate_0240', function () {
 <input type="hidden" name="$100_donation||a63972e244217d24f178f060d71813e147a78dc450852dea0b26ed43d0e6d2f0" id="WCPROJ0240_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35246" rel="35246">
+<input type="hidden" name="price||362b33eafa8275f2c978c3e902f4484169aff65e413eef295d3779d663b792df" id="fs_price_35246" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35246" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35246" />
+<input type="hidden" name="image||3a97dfa89ad41e8300c80023a47db610bf3c5da8194edd169b8e35b17329ee8a||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0240-foxy-thumb-23-b.jpg" id="foxyshop_cart_product_image_35246" />
+<input type="hidden" name="url||31e0b981425e52a7fc90e430f258b4117d573401954721fc9550ff094ca15308" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program/" id="fs_url_35246" />
+<input type="hidden" name="quantity_min||21af3c6486f33911a2f99bfdb272e5a22245dfc3a318c944d67d597c9ba42288||open" value="0" id="fs_quantity_min_35246" />
+<input type="hidden" name="quantity_max||75737be2ca382513a525d8d1b721bc71a732ac8b72a508082844df153f7178a4||open" value="0" id="fs_quantity_max_35246" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35246" />
+<input type="hidden" name="name||237b8f1a62ee9fbc6187840c242b4a871ba6a46307284ddfe7b23e47bddd9021" id="fs_name_35246" value="0240 - Haitian Education and Leadership Program $250 donation" />
+<input type="hidden" name="code||e33efddafacb49ad3c401438682d68ffd06348b34f63a7770a8f4ef892b094a2" id="fs_code_35246" value="WCPROJ0240" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||a8d67607ae59223b8d0642ba6ae6f1054c798afcbbf95da53fb7ccb10f445f5c" id="WCPROJ0240_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35255" rel="35255">
 <input type="hidden" name="price||576833962f9a0d73c997f91844dcaf0f614ff39445bff806cda8ab5a8895181f" id="fs_price_35255" value="0.00" />
