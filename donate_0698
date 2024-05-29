@@ -1,22 +1,6 @@
 add_shortcode( 'donate_0698', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35965" rel="35965">
-<input type="hidden" name="price||4051eb176547e6473945973c06fcd8129918ad6c63e9129bc581fc1faa487ee3" id="fs_price_35965" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35965" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35965" />
-<input type="hidden" name="image||e8b0ecc5758735bd3df443934f8e3457a8cfd3d0394249ac6bfc2d1330a5ee7c||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0698-thumb_1.jpg" id="foxyshop_cart_product_image_35965" />
-<input type="hidden" name="url||69d94e45af7769fe29adcf7c26b6f017a2fc1d00b75e0808e2ee40d88df0088f" value="https://crosscatholic.org/products/0698-pallotti-high-school-scholarships/" id="fs_url_35965" />
-<input type="hidden" name="quantity_min||bacdf77a2f58906b4178919216b6b9225a62ad2594678d7b1bb9a8ff42a93f36||open" value="0" id="fs_quantity_min_35965" />
-<input type="hidden" name="quantity_max||1c9d7168532f091692818e1d09ec13eadaf45f0aac01a4e96b86c29e7cb38ccf||open" value="0" id="fs_quantity_max_35965" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35965" />
-<input type="hidden" name="name||848e4527909fa7ca7259ccf56784bc95d9683917abd198990618c406cd43fa3c" id="fs_name_35965" value="0698 - Pallotti High School Scholarships" />
-<input type="hidden" name="code||0a5e63c425f4b11b2c9b73bd3891fc49db12cf90cb23ae667bb66e10f8f9d7d6" id="fs_code_35965" value="WCPROJ0698" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||5db6aae1763dfc042912448c875821c230901783a53886801ccf633ef9bcc734" id="WCPROJ0698_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35973" rel="35973">
 <input type="hidden" name="price||7eaeeaa62b396627ded3f8379e69310f7b3e2a0e03b27405dd0ff46e69d54e45" id="fs_price_35973" value="50.00" />
@@ -49,6 +33,23 @@ add_shortcode( 'donate_0698', function () {
 <input type="hidden" name="$100_donation||faee0497fc5ea9e5fe9492de4481480e04fa5a56a13403880e7120665da15bcc" id="WCPROJ0698_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35965" rel="35965">
+<input type="hidden" name="price||908240128717f37f41d05b4845f08cf296294418d583f254301c51ca92c7649c" id="fs_price_35965" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35965" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35965" />
+<input type="hidden" name="image||e8b0ecc5758735bd3df443934f8e3457a8cfd3d0394249ac6bfc2d1330a5ee7c||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0698-thumb.jpg" id="foxyshop_cart_product_image_35965" />
+<input type="hidden" name="url||69d94e45af7769fe29adcf7c26b6f017a2fc1d00b75e0808e2ee40d88df0088f" value="https://crosscatholic.org/products/0698-pallotti-high-school-scholarships/" id="fs_url_35965" />
+<input type="hidden" name="quantity_min||bacdf77a2f58906b4178919216b6b9225a62ad2594678d7b1bb9a8ff42a93f36||open" value="0" id="fs_quantity_min_35965" />
+<input type="hidden" name="quantity_max||1c9d7168532f091692818e1d09ec13eadaf45f0aac01a4e96b86c29e7cb38ccf||open" value="0" id="fs_quantity_max_35965" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35965" />
+<input type="hidden" name="name||d82866d966d595405692b2a006b996de1d6641493aa0b7d6eea2e750e8b43714" id="fs_name_35965" value="0698 - Pallotti High School Scholarships $250 donation" />
+<input type="hidden" name="code||0a5e63c425f4b11b2c9b73bd3891fc49db12cf90cb23ae667bb66e10f8f9d7d6" id="fs_code_35965" value="WCPROJ0698" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||7d2dca9edf5475289d4bfec7c68c2fce2d2393cc6b054a606bdde7b9c9f979cc" id="WCPROJ0698_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35966" rel="35966">
