@@ -1,28 +1,12 @@
 add_shortcode( 'donate_0709', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35986" rel="35986">
-<input type="hidden" name="price||2ae6239ca123b4cfa67e5b2b9ca1a08f1a33c5f3146e6a5555fef4de8e9597ff" id="fs_price_35986" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35986" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35986" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0709-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_35986" />
-<input type="hidden" name="url||2db5782724b85c37148d170f10a71153f1c568152251e1b8bfc1bada560ec171" value="https://crosscatholic.org/products/0709-working-boys-center/" id="fs_url_35986" />
-<input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35986" />
-<input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35986" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35986" />
-<input type="hidden" name="name||f89c1f994022e53bbbcf2eb25214ccbefbf94b2fcd622cf1f1873f9cb93457a9" id="fs_name_35986" value="0709 - Working Boys Center" />
-<input type="hidden" name="code||144653e3818a28cbbad55c812bc57e466e1f5b79e67f7da7737cc573b81273ba" id="fs_code_35986" value="WCPROJ0709" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||cf02e29d9547d13e883fb18081296d2a725e2e1cefdf417a727789e4024176b7" id="WCPROJ0709_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form> 
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35994" rel="35994">
 <input type="hidden" name="price||c044d22c41f0d829327f6a06cb7f6fcdfec340b77b21924af2345a0a7b4eac8a" id="fs_price_35994" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35994" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35994" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0709-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_35994" />
+<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35994" />
 <input type="hidden" name="url||a3d05f57ccd2d68d8723183c9e86dcd1665c838b7c4ed2b444a6a27069a606dd" value="https://crosscatholic.org/products/0709-working-boys-center-3/" id="fs_url_35994" />
 <input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35994" />
 <input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35994" />
@@ -38,7 +22,7 @@ add_shortcode( 'donate_0709', function () {
 <input type="hidden" name="price||190e21e2cb4a9c0710d8fd76c13fea982baddc97fc2c840f418ce865ddbb984a" id="fs_price_35997" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35997" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35997" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0709-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_35997" />
+<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35997" />
 <input type="hidden" name="url||ff686c4df8633d137769870016fb3997a7d6ddde9efc8751748152b8f04dff5c" value="https://crosscatholic.org/products/0709-working-boys-center-4/" id="fs_url_35997" />
 <input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35997" />
 <input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35997" />
@@ -49,13 +33,30 @@ add_shortcode( 'donate_0709', function () {
 <input type="hidden" name="$100_donation||7bde0c2010f97f96d5789efc692741eb7fe4c122707da578d7ebacbf4bdc1525" id="WCPROJ0709_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35986" rel="35986">
+<input type="hidden" name="price||23f000191e3516e6b5e1611d059a205276307b0273de567e575e66ff152d1b59" id="fs_price_35986" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35986" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35986" />
+<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35986" />
+<input type="hidden" name="url||2db5782724b85c37148d170f10a71153f1c568152251e1b8bfc1bada560ec171" value="https://crosscatholic.org/products/0709-working-boys-center/" id="fs_url_35986" />
+<input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35986" />
+<input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35986" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35986" />
+<input type="hidden" name="name||e23ccc79f96073fa825789d22e983272b2341289142d28894a19a586760d0fc0" id="fs_name_35986" value="0709 - Working Boys Center $250 donation" />
+<input type="hidden" name="code||144653e3818a28cbbad55c812bc57e466e1f5b79e67f7da7737cc573b81273ba" id="fs_code_35986" value="WCPROJ0709" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||c2f863321e93e8c51baefe2ed8f0264485d9cdaded5323d450d845dce6884e1a" id="WCPROJ0709_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form> 
+
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35989" rel="35989">
 <input type="hidden" name="price||339a070b3d2455c3f5b6aac0ce28877c649b997469488a2beb69551906adca00" id="fs_price_35989" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35989" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35989" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0709-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_35989" />
+<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35989" />
 <input type="hidden" name="url||7d56dd37b884a930fbdbcc7aed1c847c33bd7ad52555d4f070f3d68c37a43ee9" value="https://crosscatholic.org/products/0709-working-boys-center-2/" id="fs_url_35989" />
 <input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35989" />
 <input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35989" />
