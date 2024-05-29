@@ -1,24 +1,6 @@
 add_shortcode( 'donate_0970', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36113" rel="36113">
-<input type="hidden" name="price||f163bb3732ad23e3f0807da8a75b3e7a7a29f31abadd2d79f3a2d9773810b83c" id="fs_price_36113" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36113" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36113" />
-<input type="hidden" name="image||aea4dba9b2328c1c140fe44602f7d6d51b69bebe59ff6d85aa21aac49a04ecbf||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/0970-foxy-thumb.jpg" id="foxyshop_cart_product_image_36113" />
-<input type="hidden" name="url||55e90e7116da497c81005c4a8fb70db16c457f649f77903589e0e601262dbd7d" value="https://crosscatholic.org/products/0970-marie-adelaide-girls-rescue-center/" id="fs_url_36113" />
-<input type="hidden" name="quantity_min||d5e1b54a88df21d4cf2d9d7987b9d073b81a0bf0b7791d1fff1d944bbc576aa3||open" value="0" id="fs_quantity_min_36113" />
-<input type="hidden" name="quantity_max||eba9ec1e1949282ce4399cd04ce9343ea174e0b17994f5912ef46360652eede3||open" value="0" id="fs_quantity_max_36113" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36113" />
-<input type="hidden" name="name||590d7d6b62fda09533f917f0ab5a87211e15eb5fe4487d54aa55668c7978cb59" id="fs_name_36113" value="0970 - Marie Adelaide Girls Rescue Center" />
-<input type="hidden" name="code||9e039195df79b61e47a69c309903cef6ddea82f2239d40312448544a1defdb98" id="fs_code_36113" value="WCPROJ0970" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||54f9ea4f10d0bef3ed4d32b765034c28bac8b2b976697dda690cbcc30ea588b4" id="WCPROJ0970_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36121" rel="36121">
 <input type="hidden" name="price||c4240469dcd8f9f948b091c8bd488a6a40549e2abc0d2cfd621f742f3927a652" id="fs_price_36121" value="50.00" />
@@ -52,6 +34,24 @@ add_shortcode( 'donate_0970', function () {
 <input type="hidden" name="$100_donation||386b1cff46089f0b20fa2f1ac07c75e719a3d001af00e5cf53cf4a09fdfd3c99" id="WCPROJ0970_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36113" rel="36113">
+<input type="hidden" name="price||d0224eae615ef6ab39f169c447eb2092213ae0655ced4137a109e54c1830b0fd" id="fs_price_36113" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36113" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36113" />
+<input type="hidden" name="image||aea4dba9b2328c1c140fe44602f7d6d51b69bebe59ff6d85aa21aac49a04ecbf||open" value="https://crosscatholic.org/wp-content/uploads/2023/01/0970-foxy-thumb.jpg" id="foxyshop_cart_product_image_36113" />
+<input type="hidden" name="url||55e90e7116da497c81005c4a8fb70db16c457f649f77903589e0e601262dbd7d" value="https://crosscatholic.org/products/0970-marie-adelaide-girls-rescue-center/" id="fs_url_36113" />
+<input type="hidden" name="quantity_min||d5e1b54a88df21d4cf2d9d7987b9d073b81a0bf0b7791d1fff1d944bbc576aa3||open" value="0" id="fs_quantity_min_36113" />
+<input type="hidden" name="quantity_max||eba9ec1e1949282ce4399cd04ce9343ea174e0b17994f5912ef46360652eede3||open" value="0" id="fs_quantity_max_36113" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36113" />
+<input type="hidden" name="name||c3dab312a015af34ad662dddb272cae925caedfe4aad3427230ae69eafbe921a" id="fs_name_36113" value="0970 - Marie Adelaide Girls Rescue Center $250 donation" />
+<input type="hidden" name="code||9e039195df79b61e47a69c309903cef6ddea82f2239d40312448544a1defdb98" id="fs_code_36113" value="WCPROJ0970" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||0aa844b2c6ce0c555fd1d34d5a3aa0cbeeb33c8abf1178fcfc9e2deb79fdef8c" id="WCPROJ0970_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+  
+
 <div class="or-text">or</div>
   
 <!-- OTHER BUTTON -->
