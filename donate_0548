@@ -1,30 +1,12 @@
 add_shortcode( 'donate_0548', function () {
 
 	$out = '<div class="flex-container">
-
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_33913" rel="33913">
-<input type="hidden" name="price||06d59e2b1e4766895ef942b5568c43cad73f1cb4609ec81a22d9229ba53b5f47" id="fs_price_33913" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_33913" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_33913" />
-<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0548-foxy-thumb-23.jpg" id="foxyshop_cart_product_image_33913" />
-<input type="hidden" name="url||1e10f5a64beed9876bdd246c7f6fcd97c5889d3ed463c44e426afa5371ff3f00" value="https://crosscatholic.org/products/0548-salesian-chicos-calle/" id="fs_url_33913" />
-<input type="hidden" name="quantity_min||42325e5ffbf2295b49ed3159d1e62aca66b9af4048180fd0bf02c270a931c443||open" value="0" id="fs_quantity_min_33913" />
-<input type="hidden" name="quantity_max||93c20d68f145df6452f777be44969183437c7f641741cf5100b5920428247619||open" value="0" id="fs_quantity_max_33913" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_33913" />
-<input type="hidden" name="name||cffaa128b7e5e630cd4a41a89d9e8a629a0cea1570e16db01d0a098b76ff3c1c" id="fs_name_33913" value="0548 - Salesian Chicos Calle" />
-<input type="hidden" name="code||13dddef6b6cf685bdb13e06655481c02a68cc7f0070521fb42ac91b71a3602f9" id="fs_code_33913" value="WCPROJ0548" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||9a600dab24142455f8b4e05f0829dbe7493a6db5c221fda1112eaaa81bcda382" id="WCPROJ0548_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_33920" rel="33920">
 <input type="hidden" name="price||129b19e2e0d8560f08176b99520488cf629d0b7e4d65fdfdac192a8defe1c14e" id="fs_price_33920" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_33920" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_33920" />
-<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0548-foxy-thumb-23.jpg" id="foxyshop_cart_product_image_33920" />
+<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/0548-foxy-thumb.jpg" id="foxyshop_cart_product_image_33920" />
 <input type="hidden" name="url||fe51a763710ba39cb960c174de0ec82139bdb9a6e3b2be93cfb700ac21548deb" value="https://crosscatholic.org/products/0548-salesian-chicos-calle-2/" id="fs_url_33920" />
 <input type="hidden" name="quantity_min||42325e5ffbf2295b49ed3159d1e62aca66b9af4048180fd0bf02c270a931c443||open" value="0" id="fs_quantity_min_33920" />
 <input type="hidden" name="quantity_max||93c20d68f145df6452f777be44969183437c7f641741cf5100b5920428247619||open" value="0" id="fs_quantity_max_33920" />
@@ -42,7 +24,7 @@ add_shortcode( 'donate_0548', function () {
 <input type="hidden" name="price||77c0d654c758c611cf0610ee6ac3b3f888f4be882213e339c9dcc2ae6dde4324" id="fs_price_33923" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_33923" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_33923" />
-<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0548-foxy-thumb-23.jpg" id="foxyshop_cart_product_image_33923" />
+<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/0548-foxy-thumb.jpg" id="foxyshop_cart_product_image_33923" />
 <input type="hidden" name="url||0c9fc3ee1735d1062f8c3ca88a90b0fc9d0fa676f5225766663b4d2bc132b363" value="https://crosscatholic.org/products/0548-salesian-chicos-calle-3/" id="fs_url_33923" />
 <input type="hidden" name="quantity_min||42325e5ffbf2295b49ed3159d1e62aca66b9af4048180fd0bf02c270a931c443||open" value="0" id="fs_quantity_min_33923" />
 <input type="hidden" name="quantity_max||93c20d68f145df6452f777be44969183437c7f641741cf5100b5920428247619||open" value="0" id="fs_quantity_max_33923" />
@@ -54,6 +36,23 @@ add_shortcode( 'donate_0548', function () {
 </div>
 
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_33913" rel="33913">
+<input type="hidden" name="price||839c05b22b9c6787247a4499aef116f88cbb7bc83f0467e5e493cf0b290ad0df" id="fs_price_33913" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_33913" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_33913" />
+<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/0548-foxy-thumb.jpg" id="foxyshop_cart_product_image_33913" />
+<input type="hidden" name="url||1e10f5a64beed9876bdd246c7f6fcd97c5889d3ed463c44e426afa5371ff3f00" value="https://crosscatholic.org/products/0548-salesian-chicos-calle/" id="fs_url_33913" />
+<input type="hidden" name="quantity_min||42325e5ffbf2295b49ed3159d1e62aca66b9af4048180fd0bf02c270a931c443||open" value="0" id="fs_quantity_min_33913" />
+<input type="hidden" name="quantity_max||93c20d68f145df6452f777be44969183437c7f641741cf5100b5920428247619||open" value="0" id="fs_quantity_max_33913" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_33913" />
+<input type="hidden" name="name||77ed33cefc47cf0b7cbfe066c1a22b412b00db3dcce5b6e7e265df19dd8deeaf" id="fs_name_33913" value="0548 - Salesian Chicos Calle $250 donation" />
+<input type="hidden" name="code||13dddef6b6cf685bdb13e06655481c02a68cc7f0070521fb42ac91b71a3602f9" id="fs_code_33913" value="WCPROJ0548" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||5f6d5bf6ace37ec6b5a13cec482894b31dee5a1b0fc717f2d17c769d4457ba80" id="WCPROJ0548_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+
 
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
@@ -62,7 +61,7 @@ add_shortcode( 'donate_0548', function () {
 <input type="hidden" name="price||63bd5a0ed1bcc23a4176c971e61613bb6668df42ca8188e6b98de7001d1e1627" id="fs_price_33927" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_33927" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_33927" />
-<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0548-foxy-thumb-23.jpg" id="foxyshop_cart_product_image_33927" />
+<input type="hidden" name="image||7730dfc4cd9d60a75abd052e914413d93f10c0993bf97c8eced3e4ddb65782d8||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/0548-foxy-thumb.jpg" id="foxyshop_cart_product_image_33927" />
 <input type="hidden" name="url||989f81f669d1a5869b1a886137a526e6526afcca4a456fd4c6afd4a1209e45ec" value="https://crosscatholic.org/products/0548-salesian-chicos-calle-4/" id="fs_url_33927" />
 <input type="hidden" name="quantity_min||42325e5ffbf2295b49ed3159d1e62aca66b9af4048180fd0bf02c270a931c443||open" value="0" id="fs_quantity_min_33927" />
 <input type="hidden" name="quantity_max||93c20d68f145df6452f777be44969183437c7f641741cf5100b5920428247619||open" value="0" id="fs_quantity_max_33927" />
