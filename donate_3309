@@ -1,24 +1,6 @@
 add_shortcode( 'donate_3309', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_173934" rel="173934">
-<input type="hidden" name="price||5ba57cd5dd62c651832edfd4d3e0d11ff2985b3ef15225e3883917a5d02cebba" id="fs_price_173934" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_173934" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_173934" />
-<input type="hidden" name="image||d8a07fd5f39974d957e2865c4a4484301ee77e07487a81f9f5966dc264477eaa||open" value="https://crosscatholic.org/wp-content/uploads/2022/11/3309-foxy-thumb.jpg" id="foxyshop_cart_product_image_173934" />
-<input type="hidden" name="url||da1a9578030cd1fea23e9a88511adc7b2f90dce14e5e5550dbd6b491bc54c362" value="https://crosscatholic.org/products/3309-daughters-of-charity-emergency-support-25-donation/" id="fs_url_173934" />
-<input type="hidden" name="quantity_min||7a76ed0b378b9cec5d6bb71084ffad67442355a7acddfb12fc6205d1f6ef74ad||open" value="0" id="fs_quantity_min_173934" />
-<input type="hidden" name="quantity_max||1a58986699df0997e4d5e0d164aa1294281a3d9d7d6a12aa9f9c06e8a2ffe16e||open" value="0" id="fs_quantity_max_173934" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_173934" />
-<input type="hidden" name="name||0010972c96d66ae6f865727411bdbd18d093f15a8f38aede26e432590e31e0f8" id="fs_name_173934" value="3309 - Daughters of Charity Emergency Support - $25 donation" />
-<input type="hidden" name="code||96d9efe4f0e9347b0c18001127725ff1a1d943f3aad4904ab81d56a951bd2b85" id="fs_code_173934" value="WCPROJ3309" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||ca27eb5e48cfec71fa2231f5cf6d0aa9a292ce07a945527f3cb1b81ebbcbdc0e" id="WCPROJ3309_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_173935" rel="173935">
 <input type="hidden" name="price||e5b90abb64a4aa7456063b9cd39867c46f7b389cd44d9eec6c9dce2f778640a1" id="fs_price_173935" value="50.00" />
@@ -52,6 +34,24 @@ add_shortcode( 'donate_3309', function () {
 <input type="hidden" name="$100_donation||01d8c5c36da56050507f6f54eeba7ff700add60154b1784240adc006b38bef1e" id="WCPROJ3309_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_173934" rel="173934">
+<input type="hidden" name="price||4af2e3ec0dba16459b66bc47e5748c268240ac53f183fec881159db1b1f5eb76" id="fs_price_173934" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_173934" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_173934" />
+<input type="hidden" name="image||d8a07fd5f39974d957e2865c4a4484301ee77e07487a81f9f5966dc264477eaa||open" value="https://crosscatholic.org/wp-content/uploads/2022/11/3309-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_173934" />
+<input type="hidden" name="url||da1a9578030cd1fea23e9a88511adc7b2f90dce14e5e5550dbd6b491bc54c362" value="https://crosscatholic.org/products/3309-daughters-of-charity-emergency-support-25-donation/" id="fs_url_173934" />
+<input type="hidden" name="quantity_min||7a76ed0b378b9cec5d6bb71084ffad67442355a7acddfb12fc6205d1f6ef74ad||open" value="0" id="fs_quantity_min_173934" />
+<input type="hidden" name="quantity_max||1a58986699df0997e4d5e0d164aa1294281a3d9d7d6a12aa9f9c06e8a2ffe16e||open" value="0" id="fs_quantity_max_173934" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_173934" />
+<input type="hidden" name="name||5f35b35f8ec429299733ab7091f2dcbac8e515c41c3da73c55288d4a66e35843" id="fs_name_173934" value="3309 - Daughters of Charity Emergency Support $250 donation" />
+<input type="hidden" name="code||96d9efe4f0e9347b0c18001127725ff1a1d943f3aad4904ab81d56a951bd2b85" id="fs_code_173934" value="WCPROJ3309" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||fd2e5ad7453c605a28c57682f5dc40c150540b316f29c1f92509e39d6ffd9978" id="WCPROJ3309_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+  
+
 <div class="or-text">or</div>
   
 <!-- OTHER BUTTON -->
