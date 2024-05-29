@@ -1,28 +1,12 @@
 add_shortcode( 'donate_0618', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132165" rel="132165">
-<input type="hidden" name="price||dd34523ea3ffca7e97b2491459365da507a9a95f14ab99bb42a66824fcf959ec" id="fs_price_132165" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132165" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132165" />
-<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2022/04/0618-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_132165" />
-<input type="hidden" name="url||5872444e7564854685932ffa560a50546e19184f794535936f75221df6b30472" value="https://crosscatholic.org/products/0618-brothers-of-good-works-counseling-and-social-services-center-25-gift/" id="fs_url_132165" />
-<input type="hidden" name="quantity_min||bba0564439fdb17833ccfd80bbe090d5ed47040b18f0439dcbb9049855a15d56||open" value="0" id="fs_quantity_min_132165" />
-<input type="hidden" name="quantity_max||0d130fbaf1fc6539583cef76bd160c116e82767a673a5d234982657df9fe8f54||open" value="0" id="fs_quantity_max_132165" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_132165" />
-<input type="hidden" name="name||05ae9added77d0906a4ba6564b95af04aa043741bae229b7daed47bd42356438" id="fs_name_132165" value="0618 - Brothers of Good Works Counseling and Social Services Center $25 Gift" />
-<input type="hidden" name="code||5cdd94e3fd7f50de2458282278632bb9983021bb31467b169464573fa79893d1" id="fs_code_132165" value="WCPROJ0618" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||773efeb6edf996d1fa4984a64a3f23386f0476b4a14a1693e570fa7034be6c47" id="WCPROJ0618_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132166" rel="132166">
 <input type="hidden" name="price||877a7ab8e736bebc35cd46edf5e234f005d6d0a0641203f74299aa74f224783e" id="fs_price_132166" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132166" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132166" />
-<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2022/04/0618-foxy-thumb.jpg" id="foxyshop_cart_product_image_132166" />
+<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0618-foxy-thumb.jpg" id="foxyshop_cart_product_image_132166" />
 <input type="hidden" name="url||bd1fb464cd6b9c266b0cf6e1278839c3a94356da26a7efcada9dbba5cb21332d" value="https://crosscatholic.org/products/0618-brothers-of-good-works-counseling-and-social-services-center-50-gift/" id="fs_url_132166" />
 <input type="hidden" name="quantity_min||bba0564439fdb17833ccfd80bbe090d5ed47040b18f0439dcbb9049855a15d56||open" value="0" id="fs_quantity_min_132166" />
 <input type="hidden" name="quantity_max||0d130fbaf1fc6539583cef76bd160c116e82767a673a5d234982657df9fe8f54||open" value="0" id="fs_quantity_max_132166" />
@@ -38,7 +22,7 @@ add_shortcode( 'donate_0618', function () {
 <input type="hidden" name="price||4db9e10efe723f1083199678a42e769fb6772df6cd8060bb93fb1c9909b2f90d" id="fs_price_132164" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132164" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132164" />
-<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2022/04/0618-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_132164" />
+<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0618-foxy-thumb.jpg" id="foxyshop_cart_product_image_132164" />
 <input type="hidden" name="url||382a3c2ca543cf6c50265c771d7f51dd8e12dea9ebdcd561af463803eb9dafba" value="https://crosscatholic.org/products/0618-brothers-of-good-works-counseling-and-social-services-center-100-gift/" id="fs_url_132164" />
 <input type="hidden" name="quantity_min||bba0564439fdb17833ccfd80bbe090d5ed47040b18f0439dcbb9049855a15d56||open" value="0" id="fs_quantity_min_132164" />
 <input type="hidden" name="quantity_max||0d130fbaf1fc6539583cef76bd160c116e82767a673a5d234982657df9fe8f54||open" value="0" id="fs_quantity_max_132164" />
@@ -49,13 +33,30 @@ add_shortcode( 'donate_0618', function () {
 <input type="hidden" name="$100_donation||ca7e44f0e2a660bb844b0f741cafb078ecda8e645ae73a5b70a055246814275b" id="WCPROJ0618_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132165" rel="132165">
+<input type="hidden" name="price||070409c0e4560a68c5e357d991c145ed20b6a68bae8b295478d6428d653f124f" id="fs_price_132165" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132165" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132165" />
+<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0618-foxy-thumb.jpg" id="foxyshop_cart_product_image_132165" />
+<input type="hidden" name="url||5872444e7564854685932ffa560a50546e19184f794535936f75221df6b30472" value="https://crosscatholic.org/products/0618-brothers-of-good-works-counseling-and-social-services-center-25-gift/" id="fs_url_132165" />
+<input type="hidden" name="quantity_min||bba0564439fdb17833ccfd80bbe090d5ed47040b18f0439dcbb9049855a15d56||open" value="0" id="fs_quantity_min_132165" />
+<input type="hidden" name="quantity_max||0d130fbaf1fc6539583cef76bd160c116e82767a673a5d234982657df9fe8f54||open" value="0" id="fs_quantity_max_132165" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_132165" />
+<input type="hidden" name="name||f51097570d45b066cb7ba180813c52107edeafbee17caf104d4f644d5f46a73d" id="fs_name_132165" value="0618 - Brothers of Good Works Counseling and Social Services Center $250 Gift" />
+<input type="hidden" name="code||5cdd94e3fd7f50de2458282278632bb9983021bb31467b169464573fa79893d1" id="fs_code_132165" value="WCPROJ0618" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||2ba5b1826589a369ffce81be9affaedf7cbea299e980105ffd77a295da7086fe" id="WCPROJ0618_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_132163" rel="132163">
 <input type="hidden" name="price||584474104235b21dc9e87475c645472bfc5c54c94048285b5668e1d4912cc14c" id="fs_price_132163" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_132163" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_132163" />
-<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2022/04/0618-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_132163" />
+<input type="hidden" name="image||53a51790eb7fc2f0733062035e79a5097096212c9bec04e89a756fd8c27d2c96||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0618-foxy-thumb.jpg" id="foxyshop_cart_product_image_132163" />
 <input type="hidden" name="url||c486268ff4f13606503212ffd518a5ff84639fac66999a94f0f6af12bf4d2ab7" value="https://crosscatholic.org/products/0618-brothers-of-good-works-counseling-and-social-services-center/" id="fs_url_132163" />
 <input type="hidden" name="quantity_min||bba0564439fdb17833ccfd80bbe090d5ed47040b18f0439dcbb9049855a15d56||open" value="0" id="fs_quantity_min_132163" />
 <input type="hidden" name="quantity_max||0d130fbaf1fc6539583cef76bd160c116e82767a673a5d234982657df9fe8f54||open" value="0" id="fs_quantity_max_132163" />
