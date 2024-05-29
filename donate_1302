@@ -1,22 +1,6 @@
 add_shortcode( 'donate_1302', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186910" rel="186910">
-<input type="hidden" name="price||84cdf2ab11d41e4e631390830feb836a75d437960a1f22aa137d0020b25fcdf2" id="fs_price_186910" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_186910" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_186910" />
-<input type="hidden" name="image||b807ac022fcf04f4ae1417d2d8dbf4210102614c7e6e48b7a55e5535cc2ee7c8||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/1302-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_186910" />
-<input type="hidden" name="url||ca757a591fcd0a4a2bbfd0bc701eb55153541ef1b462202168d315bb68ebb52b" value="https://crosscatholic.org/products/1302-toledo-high-school-support-25-donation/" id="fs_url_186910" />
-<input type="hidden" name="quantity_min||bbea6b4e5465880d06495e72ba78d7b7945042cb3b60acca0baad3047ac857a9||open" value="0" id="fs_quantity_min_186910" />
-<input type="hidden" name="quantity_max||21a0b195439357febff546891f767c8bfdf504b9d583ca2f66fef0252ccfb92b||open" value="0" id="fs_quantity_max_186910" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_186910" />
-<input type="hidden" name="name||f344e9c7a5e68910683b78eb157281287d73739d536f03edec11e6e70df1d31f" id="fs_name_186910" value="1302 - Toledo High School Support - $25 donation" />
-<input type="hidden" name="code||c6a6ea9140e7b25a69e5427a74593e24b4cf3a12a9733d205293084374242ca5" id="fs_code_186910" value="WCPROJ1302" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||c18c76112d230fea2044fb128a7533552355fad14259ae9c862d16e7471ceb25" id="WCPROJ1302_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186911" rel="186911">
 <input type="hidden" name="price||67d2db2b217742912ac9c3404ab9a7df41d014de74df641b805ce57dda74ebca" id="fs_price_186911" value="50.00" />
@@ -49,6 +33,23 @@ add_shortcode( 'donate_1302', function () {
 <input type="hidden" name="$100_donation||ee615ca73ba16b1a06966d35c94bf108c5d82cd2fb25f49410565473c494209c" id="WCPROJ1302_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186910" rel="186910">
+<input type="hidden" name="price||134b4c859e00ffaa00378a323bee174280fb92699590c86eee6dd13e6685d6d2" id="fs_price_186910" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_186910" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_186910" />
+<input type="hidden" name="image||b807ac022fcf04f4ae1417d2d8dbf4210102614c7e6e48b7a55e5535cc2ee7c8||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/1302-foxy-thumb-b-3.jpg" id="foxyshop_cart_product_image_186910" />
+<input type="hidden" name="url||ca757a591fcd0a4a2bbfd0bc701eb55153541ef1b462202168d315bb68ebb52b" value="https://crosscatholic.org/products/1302-toledo-high-school-support-25-donation/" id="fs_url_186910" />
+<input type="hidden" name="quantity_min||bbea6b4e5465880d06495e72ba78d7b7945042cb3b60acca0baad3047ac857a9||open" value="0" id="fs_quantity_min_186910" />
+<input type="hidden" name="quantity_max||21a0b195439357febff546891f767c8bfdf504b9d583ca2f66fef0252ccfb92b||open" value="0" id="fs_quantity_max_186910" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_186910" />
+<input type="hidden" name="name||ee4fafba7f1406fd55db711938bd8faa8f80943336c9f0755e2586cdd4f3a273" id="fs_name_186910" value="1302 - Toledo High School Support $250 donation" />
+<input type="hidden" name="code||c6a6ea9140e7b25a69e5427a74593e24b4cf3a12a9733d205293084374242ca5" id="fs_code_186910" value="WCPROJ1302" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||8db2468e65a1e8d9a908eb0170e8eaae2086f13df4953aeaf9a6c6120c732eca" id="WCPROJ1302_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_186913" rel="186913">
