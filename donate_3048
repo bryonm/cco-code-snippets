@@ -1,22 +1,6 @@
 add_shortcode( 'donate_3048', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78936" rel="78936">
-<input type="hidden" name="price||3c14daa0a914e43ec53944555614f295c5b3b82dce98c6d1127a6e8c651b1cf9" id="fs_price_78936" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_78936" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_78936" />
-<input type="hidden" name="image||af8100416137fdaf0545842f4e661e40394ffc0688d98f99d6b15f8e98506330||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/3048-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_78936" />
-<input type="hidden" name="url||290a866fb2c8878384e78c11d469b710f4e31043d2b3220c5f64a8759aec2543" value="https://crosscatholic.org/products/3048-batey-relief-alliance-agriculture-25-gift/" id="fs_url_78936" />
-<input type="hidden" name="quantity_min||da3dc3e06e82bb0f2420d42153ae6c8d9eb4c2d8c2b748402ac5535909d0ede4||open" value="0" id="fs_quantity_min_78936" />
-<input type="hidden" name="quantity_max||e28da128bc9041a39bb43eb0047f880cfb621e6e05a46542556449b37b68bd85||open" value="0" id="fs_quantity_max_78936" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_78936" />
-<input type="hidden" name="name||445af98d2a278f85724acceb9ef596b30dbd3e24dc2539d12c00f9c5056fc1b3" id="fs_name_78936" value="3048 - Batey Relief Alliance Agriculture $25 Gift" />
-<input type="hidden" name="code||bfee4f7870f7ac47923b80c64e511d88ffbaea3777e279409c0ebb2aa07595ec" id="fs_code_78936" value="WCPROJ3048" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||b8ce636b4b45255c9365386f0fe1257d868f489970cef253748811e39baf5946" id="WCPROJ3048_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78948" rel="78948">
 <input type="hidden" name="price||20eb04211e0b99e9f12ec332810af85c6fcf8344aef24efc0ce5717bf67bf6f4" id="fs_price_78948" value="50.00" />
@@ -49,6 +33,23 @@ add_shortcode( 'donate_3048', function () {
 <input type="hidden" name="$100_donation||060262464fd462c051b7d07169b3b20de96f40d60c5536961493450f0fdb4df2" id="WCPROJ3048_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251715" rel="251715">
+<input type="hidden" name="price||2109eb21d099218c35f8a256b5b76ae479f898b319c355c7b011f20b29cf6fd4" id="fs_price_251715" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251715" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251715" />
+<input type="hidden" name="image||af8100416137fdaf0545842f4e661e40394ffc0688d98f99d6b15f8e98506330||open" value="https://crosscatholic.org/wp-content/uploads/2022/12/3048-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_251715" />
+<input type="hidden" name="url||23879752b2991961c6cb80a29d2eeb3e9db6ae535c319c12c003f8a684c2348f" value="https://crosscatholic.org/products/3048-batey-relief-alliance-agriculture-250-donation/" id="fs_url_251715" />
+<input type="hidden" name="quantity_min||da3dc3e06e82bb0f2420d42153ae6c8d9eb4c2d8c2b748402ac5535909d0ede4||open" value="0" id="fs_quantity_min_251715" />
+<input type="hidden" name="quantity_max||e28da128bc9041a39bb43eb0047f880cfb621e6e05a46542556449b37b68bd85||open" value="0" id="fs_quantity_max_251715" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251715" />
+<input type="hidden" name="name||9bae3a375c3b4d448ba8920f56cf13b39633146ce736fc63c6757f6f06772981" id="fs_name_251715" value="3048 - Batey Relief Alliance Agriculture $250 Donation" />
+<input type="hidden" name="code||bfee4f7870f7ac47923b80c64e511d88ffbaea3777e279409c0ebb2aa07595ec" id="fs_code_251715" value="WCPROJ3048" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||e6b2369f1f3169ecd269d630658e4adefdbc72eefeca8a0b2e75897bbfe4465f" id="WCPROJ3048_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_78935" rel="78935">
