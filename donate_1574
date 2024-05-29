@@ -1,24 +1,6 @@
 add_shortcode( 'donate_1574', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50077" rel="50077">
-<input type="hidden" name="price||895c1277c3c7a56f74bc4ca36258c1f9c8ecef4f930ef810ed5ff62c4806bf95" id="fs_price_50077" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_50077" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_50077" />
-<input type="hidden" name="image||1ee97add8eb2fb3699f38503012227599344a263c3961d385a87c15457df2c51||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1574-1-foxy.jpg" id="foxyshop_cart_product_image_50077" />
-<input type="hidden" name="url||13059871de747866e216d8bcce6c3451b4cef2b121a950d8ea7e6028da362e07" value="https://crosscatholic.org/products/1574-boys-and-girls-town-philippines/" id="fs_url_50077" />
-<input type="hidden" name="quantity_min||f484ba66158aa9e849144940826cd7a40470038518a81e494fe5eecfe3a921da||open" value="0" id="fs_quantity_min_50077" />
-<input type="hidden" name="quantity_max||a56870f4ad2af3bc57a5ad46d18a921984f6e6f94536375e9169bd5fbfadec46||open" value="0" id="fs_quantity_max_50077" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_50077" />
-<input type="hidden" name="name||b3e39323bd072ebfacfff4310d4f960a52d4ddfbb58008974e88243961cfffe9" id="fs_name_50077" value="1574 - Boys and Girls Town - Philippines" />
-<input type="hidden" name="code||388cf122d24b7158e3e51925371e7392a2ba6153ab02d5e44aa9aa253b84a0f1" id="fs_code_50077" value="WCPROJ1574" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||3b74742cd09cc1cb4720dbf31271174227affd8847e4125a8ad3031b1bf37aae" id="WCPROJ1574_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_50075" rel="50075">
 <input type="hidden" name="price||2fbca11e59973c94e1d9586ba98aaf75e6f1eff298112c56df54c81cff5a75bb" id="fs_price_50075" value="50.00" />
@@ -52,6 +34,24 @@ add_shortcode( 'donate_1574', function () {
 <input type="hidden" name="$100_donation||0376fdcb3259575e60adde8318bb95ee54e19ab9540f063f584a12edad739ad4" id="WCPROJ1574_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251704" rel="251704">
+<input type="hidden" name="price||8a3d14b21b717455dc8f25676639bbaefbff6b50e4e775ab9f3791ed142c642c" id="fs_price_251704" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251704" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251704" />
+<input type="hidden" name="image||1ee97add8eb2fb3699f38503012227599344a263c3961d385a87c15457df2c51||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/FY2021-1574-1-foxy_1.jpg" id="foxyshop_cart_product_image_251704" />
+<input type="hidden" name="url||8d7c0855fa61855a9371cd07ad254a66b982bc504dac298d94e1341ba08b3285" value="https://crosscatholic.org/products/1574-boys-and-girls-town-250-donation/" id="fs_url_251704" />
+<input type="hidden" name="quantity_min||f484ba66158aa9e849144940826cd7a40470038518a81e494fe5eecfe3a921da||open" value="0" id="fs_quantity_min_251704" />
+<input type="hidden" name="quantity_max||a56870f4ad2af3bc57a5ad46d18a921984f6e6f94536375e9169bd5fbfadec46||open" value="0" id="fs_quantity_max_251704" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251704" />
+<input type="hidden" name="name||5fb77e01a232aa61413e3a1f62e6da6327923e477e2df57e4a08f9501fbab836" id="fs_name_251704" value="1574 - Boys and Girls Town $250 Donation" />
+<input type="hidden" name="code||388cf122d24b7158e3e51925371e7392a2ba6153ab02d5e44aa9aa253b84a0f1" id="fs_code_251704" value="WCPROJ1574" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||530061f47afc9e94db21ca0bbbe04161df701dd5f7e61a8f49b7e93ea4902266" id="WCPROJ1574_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+  
+
 <div class="or-text">or</div>
   
 <!-- OTHER BUTTON -->
