@@ -1,30 +1,12 @@
 add_shortcode( 'donate_0714', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36008" rel="36008">
-<input type="hidden" name="price||9486a9e22e44b041386c62ee484f92437d8560603cdfa4db7477f729d3d9283f" id="fs_price_36008" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36008" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36008" />
-<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0714-thumb.jpg" id="foxyshop_cart_product_image_36008" />
-<input type="hidden" name="url||7764e9c08763b7fcf249554b655f193e438f0bded50134b2b46dabde3839883f" value="https://crosscatholic.org/products/0714-chicos-de-la-calle-children-of-the-street/" id="fs_url_36008" />
-<input type="hidden" name="quantity_min||32752f57a931d5ab057e5251a1b391ae5c6afb317d4cfe40d7be5b82d289afd4||open" value="0" id="fs_quantity_min_36008" />
-<input type="hidden" name="quantity_max||3c0fc577c30fc5464471ac22f440193da6edf1f5f7b18fe18acd70283fb5f2f8||open" value="0" id="fs_quantity_max_36008" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36008" />
-<input type="hidden" name="name||54b7dcaa5bb49fead5246416b38e7774294c80f60b8d54fd7fc570c9aca1ae90" id="fs_name_36008" value="0714 - Chicos de la Calle (Children of the Street)" />
-<input type="hidden" name="code||d72f82f4036a6e560842e972e1ecca6197ea83cc7b61ca6115b0efbb5e8cb352" id="fs_code_36008" value="WCPROJ0714" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||3c35be5e204344f57f50aeac1436e88af96d1b6af71ed01eb4cdd74b821d3254" id="WCPROJ0714_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36016" rel="36016">
 <input type="hidden" name="price||805a211e8a5191a438aa08dea6a06b2724746cca6329f9a8af85529adca73096" id="fs_price_36016" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36016" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36016" />
-<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0714-thumb_2.jpg" id="foxyshop_cart_product_image_36016" />
+<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/0714-foxy-thumb.jpg" id="foxyshop_cart_product_image_36016" />
 <input type="hidden" name="url||27ced4162d15f34667bd2ccb323af81993b6ebd54846f2a175e085f57d2a8489" value="https://crosscatholic.org/products/0714-chicos-de-la-calle-children-of-the-street-3/" id="fs_url_36016" />
 <input type="hidden" name="quantity_min||32752f57a931d5ab057e5251a1b391ae5c6afb317d4cfe40d7be5b82d289afd4||open" value="0" id="fs_quantity_min_36016" />
 <input type="hidden" name="quantity_max||3c0fc577c30fc5464471ac22f440193da6edf1f5f7b18fe18acd70283fb5f2f8||open" value="0" id="fs_quantity_max_36016" />
@@ -41,7 +23,7 @@ add_shortcode( 'donate_0714', function () {
 <input type="hidden" name="price||7650c6ed72a321c176ff73a2c53d6da33b7dbdf7557f6e5e0f1bea609adb588a" id="fs_price_36019" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36019" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36019" />
-<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0714-thumb_3.jpg" id="foxyshop_cart_product_image_36019" />
+<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/0714-foxy-thumb.jpg" id="foxyshop_cart_product_image_36019" />
 <input type="hidden" name="url||3afe672043836366df7000d6952f15d4ce6b5385b7e567206838ceb2b51b946f" value="https://crosscatholic.org/products/0714-chicos-de-la-calle-children-of-the-street-4/" id="fs_url_36019" />
 <input type="hidden" name="quantity_min||32752f57a931d5ab057e5251a1b391ae5c6afb317d4cfe40d7be5b82d289afd4||open" value="0" id="fs_quantity_min_36019" />
 <input type="hidden" name="quantity_max||3c0fc577c30fc5464471ac22f440193da6edf1f5f7b18fe18acd70283fb5f2f8||open" value="0" id="fs_quantity_max_36019" />
@@ -52,6 +34,24 @@ add_shortcode( 'donate_0714', function () {
 <input type="hidden" name="$100_donation||7961cc69ba42251516a7d3dd065b1caf07231ea1c00d3d0dff44fa90a720b7f6" id="WCPROJ0714_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36008" rel="36008">
+<input type="hidden" name="price||1df5c3a6cb548217d81478d023765ed44f48c5df697fea3deb68ef9f3647cba7" id="fs_price_36008" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36008" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36008" />
+<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/0714-foxy-thumb.jpg" id="foxyshop_cart_product_image_36008" />
+<input type="hidden" name="url||7764e9c08763b7fcf249554b655f193e438f0bded50134b2b46dabde3839883f" value="https://crosscatholic.org/products/0714-chicos-de-la-calle-children-of-the-street/" id="fs_url_36008" />
+<input type="hidden" name="quantity_min||32752f57a931d5ab057e5251a1b391ae5c6afb317d4cfe40d7be5b82d289afd4||open" value="0" id="fs_quantity_min_36008" />
+<input type="hidden" name="quantity_max||3c0fc577c30fc5464471ac22f440193da6edf1f5f7b18fe18acd70283fb5f2f8||open" value="0" id="fs_quantity_max_36008" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36008" />
+<input type="hidden" name="name||e4fda0ec4fcdc3bae096c984134283262dcdb5aaaf88d768167b364a828b7963" id="fs_name_36008" value="0714 - Chicos de la Calle (Children of the Street) $250 donation" />
+<input type="hidden" name="code||d72f82f4036a6e560842e972e1ecca6197ea83cc7b61ca6115b0efbb5e8cb352" id="fs_code_36008" value="WCPROJ0714" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||63d3db38e12c994c22af1bd618c66feb93181037b63c33efc664c1ad3ff3166b" id="WCPROJ0714_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+  
+
 <div class="or-text">or</div>
   
 <!-- OTHER BUTTON -->
@@ -60,7 +60,7 @@ add_shortcode( 'donate_0714', function () {
 <input type="hidden" name="price||a9058250aecf59d7f055c6a1ffb2c6385b34484a134742700a243669928c48db" id="fs_price_36011" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36011" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36011" />
-<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0714-thumb_1.jpg" id="foxyshop_cart_product_image_36011" />
+<input type="hidden" name="image||eaaf1716428ad07b7fbd96fac62256eb008e1e0f7a4bea3f91cf6cee1ccdab03||open" value="https://crosscatholic.org/wp-content/uploads/2024/02/0714-foxy-thumb.jpg" id="foxyshop_cart_product_image_36011" />
 <input type="hidden" name="url||d5afb7b93f84874836e48d33791ae71cb0fe609edabfccc2045e3fe93e6d9be5" value="https://crosscatholic.org/products/0714-chicos-de-la-calle-children-of-the-street-2/" id="fs_url_36011" />
 <input type="hidden" name="quantity_min||32752f57a931d5ab057e5251a1b391ae5c6afb317d4cfe40d7be5b82d289afd4||open" value="0" id="fs_quantity_min_36011" />
 <input type="hidden" name="quantity_max||3c0fc577c30fc5464471ac22f440193da6edf1f5f7b18fe18acd70283fb5f2f8||open" value="0" id="fs_quantity_max_36011" />
