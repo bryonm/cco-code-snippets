@@ -1,30 +1,12 @@
 add_shortcode( 'donate_1389', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37649" rel="37649">
-<input type="hidden" name="price||837cc75c21fef11a4a4d9a5c27bde1a0fa0f171b9eca1129dc19fe695a345abe" id="fs_price_37649" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37649" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37649" />
-<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37649" />
-<input type="hidden" name="url||378daeca120c0ce665a2d5c4a1e2bfd090c2151370ca58b428c211c799263505" value="https://crosscatholic.org/products/1389-el-carmelo-daycare-and-feeding-center/" id="fs_url_37649" />
-<input type="hidden" name="quantity_min||ed24ae678697433e5d27310c0dc216d8451b87606c7cb1d824bd5badcd236525||open" value="0" id="fs_quantity_min_37649" />
-<input type="hidden" name="quantity_max||dc35f88f58b08e33bf99cf4f8be6903c14dac28678d625fa5078d44f231606ac||open" value="0" id="fs_quantity_max_37649" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37649" />
-<input type="hidden" name="name||dee12e9c3b8736c1be4007202bd63692480d6b7ed6531d4285d579aad884bd77" id="fs_name_37649" value="1389 – El Carmelo Daycare and Feeding Center" />
-<input type="hidden" name="code||c00279dd4579374911cc7692de7f37f04e6dc10217a9c73aa2e9afc6aa8d03aa" id="fs_code_37649" value="WCPROJ1389" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||157459066a07e5ef3ed035cddc14c32714cdbf08ee504c12fca1dcab0d68896a" id="WCPROJ1389_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37656" rel="37656">
 <input type="hidden" name="price||e0d3673b3d58d1a19a35d2e6ed60fbb347670e41653c46fc8042dd01574c56c6" id="fs_price_37656" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37656" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37656" />
-<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37656" />
+<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37656" />
 <input type="hidden" name="url||84f1489ebfed0f858bfe363d7d33219f5429c13155dc254bd583b7e4d633f21e" value="https://crosscatholic.org/products/1389-el-carmelo-daycare-and-feeding-center-3/" id="fs_url_37656" />
 <input type="hidden" name="quantity_min||ed24ae678697433e5d27310c0dc216d8451b87606c7cb1d824bd5badcd236525||open" value="0" id="fs_quantity_min_37656" />
 <input type="hidden" name="quantity_max||dc35f88f58b08e33bf99cf4f8be6903c14dac28678d625fa5078d44f231606ac||open" value="0" id="fs_quantity_max_37656" />
@@ -41,7 +23,7 @@ add_shortcode( 'donate_1389', function () {
 <input type="hidden" name="price||df571d90e40ec975032c94e2dba00043f32cfe7781403a6922e3911265e84d30" id="fs_price_37659" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37659" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37659" />
-<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37659" />
+<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37659" />
 <input type="hidden" name="url||b629f7238eb21e53eab7d6cc182b952959343ed26a024530d703354dd1d4889c" value="https://crosscatholic.org/products/1389-el-carmelo-daycare-and-feeding-center-4/" id="fs_url_37659" />
 <input type="hidden" name="quantity_min||ed24ae678697433e5d27310c0dc216d8451b87606c7cb1d824bd5badcd236525||open" value="0" id="fs_quantity_min_37659" />
 <input type="hidden" name="quantity_max||dc35f88f58b08e33bf99cf4f8be6903c14dac28678d625fa5078d44f231606ac||open" value="0" id="fs_quantity_max_37659" />
@@ -52,6 +34,24 @@ add_shortcode( 'donate_1389', function () {
 <input type="hidden" name="$100_donation||4f32164c9aa996a6deeaf4238f2a5a1811866a5905f91e9a9f08cfc6e9770063" id="WCPROJ1389_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37649" rel="37649">
+<input type="hidden" name="price||4857818b24828a6c6d20aa5a98982249511f9c9495e21aed70f431032bd160fe" id="fs_price_37649" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37649" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37649" />
+<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37649" />
+<input type="hidden" name="url||378daeca120c0ce665a2d5c4a1e2bfd090c2151370ca58b428c211c799263505" value="https://crosscatholic.org/products/1389-el-carmelo-daycare-and-feeding-center/" id="fs_url_37649" />
+<input type="hidden" name="quantity_min||ed24ae678697433e5d27310c0dc216d8451b87606c7cb1d824bd5badcd236525||open" value="0" id="fs_quantity_min_37649" />
+<input type="hidden" name="quantity_max||dc35f88f58b08e33bf99cf4f8be6903c14dac28678d625fa5078d44f231606ac||open" value="0" id="fs_quantity_max_37649" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37649" />
+<input type="hidden" name="name||1ea4600ec4d0610e823915a037d4f1f481032a805a22c801a0dffe279cc29d30" id="fs_name_37649" value="1389 – El Carmelo Daycare and Feeding Center $250 donation" />
+<input type="hidden" name="code||c00279dd4579374911cc7692de7f37f04e6dc10217a9c73aa2e9afc6aa8d03aa" id="fs_code_37649" value="WCPROJ1389" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||30f8369064e6f08520bb110f284714a5b4ece9e8c719847eadd70564c6849ec0" id="WCPROJ1389_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+  
+
 <div class="or-text">or</div>
   
 <!-- OTHER BUTTON -->
@@ -60,7 +60,7 @@ add_shortcode( 'donate_1389', function () {
 <input type="hidden" name="price||492b53dbb8c0fc95512e771c32f39c7902d49e9fd0cdd9463ae1eb3973e14b46" id="fs_price_37652" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37652" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37652" />
-<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2022/06/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37652" />
+<input type="hidden" name="image||e12d81b215713dd01fca0369d4b5c7261a2eb445808853cc276e7db7b46ec4da||open" value="https://crosscatholic.org/wp-content/uploads/2023/08/1389-foxy-thumb.jpg" id="foxyshop_cart_product_image_37652" />
 <input type="hidden" name="url||ba685a3d3b467bf89952eeff073bc7d64c48c4a786b7a0cdf2a7d74eabe00eab" value="https://crosscatholic.org/products/1389-el-carmelo-daycare-and-feeding-center-2/" id="fs_url_37652" />
 <input type="hidden" name="quantity_min||ed24ae678697433e5d27310c0dc216d8451b87606c7cb1d824bd5badcd236525||open" value="0" id="fs_quantity_min_37652" />
 <input type="hidden" name="quantity_max||dc35f88f58b08e33bf99cf4f8be6903c14dac28678d625fa5078d44f231606ac||open" value="0" id="fs_quantity_max_37652" />
