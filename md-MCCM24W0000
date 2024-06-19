@@ -1,4 +1,4 @@
-add_shortcode( '', function () {
+add_shortcode( 'md-MCCM24W0000', function () {
 
 	$out = '<div class="donation_radio_btns">
 
