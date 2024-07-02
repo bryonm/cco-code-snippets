@@ -3,34 +3,34 @@ add_shortcode( 'sp-cr-WCS24C9007', function () {
 	$out = '<div class="donation_radio_btns">
 
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_238387" rel="238387">
-<input type="hidden" name="price||6b5dee12fcf200b4862caeda27b2dec3c5d5f73d31c00484563a13c68e35bb07" id="fs_price_238387" value="0.00" />
+<input type="hidden" name="price||c8a313d60743b4a9486989fcee1989e49b5884e0ec7230f959cb9d652185a178" id="fs_price_238387" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_238387" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_238387" />
-<input type="hidden" name="image||f314c2d0e1b61652011604349617dfef2996b0c702c3fb4437625050e9edc669||open" value="https://crosscatholic.org/wp-content/uploads/2023/10/LentParishioners-foxy-thumb.jpg" id="foxyshop_cart_product_image_238387" />
-<input type="hidden" name="url||b07c5f6e2ea58d7e743e1255c4db99aadbfcdb055cc80a9ab7c70200499573a3" value="https://crosscatholic.org/products/agua-pura-para-los-necesitados-donacion-9/" id="fs_url_238387" />
-<input type="hidden" name="quantity_min||1c50dff5ca51bae8f0d045aebd864ecac30dc40136a939e19c060a11f1069f1c||open" value="0" id="fs_quantity_min_238387" />
-<input type="hidden" name="quantity_max||2405ccf99967cdd75b5b35e4729d76ebd3c3853a9a7c7d046b9daf9ee21ec2aa||open" value="0" id="fs_quantity_max_238387" />
+<input type="hidden" name="image||68a8c5d879a384dd8d6bb3be573614343fb056c02a16c90258a1477fcc29b441||open" value="https://crosscatholic.org/wp-content/uploads/2023/10/LentParishioners-foxy-thumb.jpg" id="foxyshop_cart_product_image_238387" />
+<input type="hidden" name="url||82dedbbcbdd1607d86b731b0ba3cbfec6d68744902c620bfa298bd6252900cbc" value="https://crosscatholic.org/products/agua-pura-para-los-necesitados-donacion-9/" id="fs_url_238387" />
+<input type="hidden" name="quantity_min||70774a88c6a7f3cffe389670302da1fbe89ff4f4f0984129e3dc46ef9c0a48c8||open" value="0" id="fs_quantity_min_238387" />
+<input type="hidden" name="quantity_max||158df42c871a8529a262bc468fef2abb9d6a341898cf30f6c03ca7339678e10f||open" value="0" id="fs_quantity_max_238387" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_238387" />
-<input type="hidden" name="sub_frequency||34c63988609259064012f1cbdbf6a7f27596e8bfc331fdc19d06ec427e559994||open" id="fs_sub_frequency_238387" value="1m" />
-<input type="hidden" name="name||23545ab41c7d1886ed8eda532a19feb418042d14029e90082e9ac6515ad52b62" id="fs_name_238387" value="Agua Pura para los Necesitados donación" />
-<input type="hidden" name="code||81bbd8b92c522d2e876ca221bedde5f751c7dbf57f8906aa1c9840724044748d" id="fs_code_238387" value="WCS24C9007" />
+<input type="hidden" name="sub_frequency||8cb732ed93e8e03934d6efbff2bcb389307caddc384064faf304cf00d25ca9e9||open" id="fs_sub_frequency_238387" value="1m" />
+<input type="hidden" name="name||9d8169f55717a51fea9d6a633d0c5b03db33dd9bc516f547336325208b270751" id="fs_name_238387" value="Agua Pura para los Necesitados donación" />
+<input type="hidden" name="code||6262931821ed5e50bf4c732a7ea0077cb192ad55af5a8c419a202269375c37bf" id="fs_code_238387" value="WCS24C9041" />
 <div class="foxyshop_variations">
-<select name="Donation" id="WCS24C9007_1" class="variation-donation">
-<option value="$30{p:30}||15546ff2fdf14af0a508677eba185458e9e4a74df6559828335788cb04b6fa10" priceset="3000">$30</option>
-<option selected value="$60{p:60}||3689e512cebaec8e424baa365de3a500fbf82b00d0a1d44bfbe1a88803ae7674" priceset="6000">$60</option>
-<option value="$120{p:120}||063c8cab95a9f11ecbaa2a60395529fbbf5b6fd40ed5e9c02f71681a13f41875" priceset="12000">$120</option>
-<option value="$240{p:240}||b8d92ce37a7cb57ee7812b44b0df3db53fbc1ead3f1c8433d914aab249e0e712" priceset="24000">$240</option>
-<option value="Otro{dkey:custom-price}||d84cd688f08bf26c26bc5172349f7f1be3d684eb6f1fc34988c630178ca83504" displaykey="custom-price">Otro</option>
+<select name="Donation" id="WCS24C9041_1" class="variation-donation">
+<option value="$30{p:30}||b7b3f3e8d7d9f6ea5f18dca17fcf2cb3f6f75400393adbeb20c9aae321537b51" priceset="3000">$30</option>
+<option selected value="$60{p:60}||8f2ddde67d5269a05c79ab8d16087a4be05240908206f83fca1e7ccbfa1d7122" priceset="6000">$60</option>
+<option value="$120{p:120}||e9f219a58de8c6d780c36612323050a197269bb75423f224975faca6417cebbf" priceset="12000">$120</option>
+<option value="$240{p:240}||638a9cbce3a382e58cfcae45cdf92096711f7f7d5b93ca829f28295adbc1a2cb" priceset="24000">$240</option>
+<option value="Otro{dkey:custom-price}||527b6e84113e71bd2c9f9e3c0543d62761a2da5bc3a23c407ce0597659318ed9" displaykey="custom-price">Otro</option>
 </select>
 <div class="clr"></div>
-<label for="WCS24C9007_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
-<input type="text" name="price||63520827a6f5c521fe106e96f9a91902508a9694506b1e000029a05f715bac77||open" id="WCS24C9007_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<label for="WCS24C9041_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||7c2d8f3eade7a0f0b7149d7d0ce630db3eb380aae1424f9a25c3295226fb006c||open" id="WCS24C9041_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
 <div class="clr"></div>
 <div class="foxyshop_radio_wrapper">
-<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||96afb7594dfefc3bde459c8dd6af8a7ae94e05209a5887ace145345a96b321c5" id="WCS24C9007_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
-<label for="WCS24C9007_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
-<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+DMOT}||506b98ec3e6d497445e000af4106b2762fbc5b942e0e9f7847d48df7f72c9588" id="WCS24C9007_3_1" class="variation-choose-one" codeadd="DMOT" subfrequency="1m"></div>
-<label for="WCS24C9007_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||6909301d404d32ca6db4a2f5cfd070db0af7047643a2865c89385b07a1d6371b" id="WCS24C9041_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCS24C9041_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+MOT}||a280a5e29d8b88c6f1a7718862847198858f8c49a1bd05c2a6423e68b8820fa4" id="WCS24C9041_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCS24C9041_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
 <div class="clr"></div></div>
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
