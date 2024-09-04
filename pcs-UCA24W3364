@@ -1,0 +1,31 @@
+add_shortcode( 'pcs-UCA24W3364', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256058" rel="256058">
+<input type="hidden" name="price||f26952b3d10a83af21571ea94af8fc0dda943f299e669879b017772403cdacf4" id="fs_price_256058" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256058" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256058" />
+<input type="hidden" name="image||92f27ede599a440318935ec5a77ae64d91aee598c9e410b908cf5e2f88a2705d||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Advent-foxy-thumb.jpg" id="foxyshop_cart_product_image_256058" />
+<input type="hidden" name="url||dcfb27d2a439c54df995ae7f44e725aee00ec5f92b72d9f1ad5731456faae459" value="https://crosscatholic.org/products/donate-to-greatest-need-2/" id="fs_url_256058" />
+<input type="hidden" name="quantity_min||d70a6e79e1ec5f0d128644584594f2e6154793c10fbad2d1e21f67effa159b94||open" value="0" id="fs_quantity_min_256058" />
+<input type="hidden" name="quantity_max||bd9590f1a695406ad3f821a5e978360b220eeb8082829c9e97fe3cdf509d4518||open" value="0" id="fs_quantity_max_256058" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256058" />
+<input type="hidden" name="name||294df84829d1707c7f6f20fffac69e8630850a2e090e9a70dfecba580c0f4f32" id="fs_name_256058" value="Donate to Greatest Need" />
+<input type="hidden" name="code||0a947da331e910ecc0455c0fa1a50f4516e6230ee215a914f4584080cbc943ca" id="fs_code_256058" value="UCA24W3364" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCA24W3364_1" class="variation-donation">
+<option value="$26,282 Provides two homes for families in need{p:26282}||1a3b3057f7c62462ff80836590df0ebc85f88522027bafbcf1d3fba730d35d00" priceset="2628200">$26,282 Provides two homes for families in need</option>
+<option value="$13,141 Provides one home for a family in need{p:13141}||610de115ce37caa7d4045f8d08d5742623de4e8ceb9e336335ee2ecf2a29684f" priceset="1314100">$13,141 Provides one home for a family in need</option>
+<option selected value="$6,510 Provides 25 children with an education{p:6510}||6af01ea1cdbea4f22912b6a1e69149bd8b5120b8b50f3ba71855dff8e3ed927e" priceset="651000">$6,510 Provides 25 children with an education</option>
+<option value="$2,604 Provides 10 children with an education{p:2604}||5f3ca4cfe61b1f85295283da387aa3e368e122bd267d740c4595e96e726e13a4" priceset="260400">$2,604 Provides 10 children with an education</option>
+<option value="Other{dkey:custom-price}||9d2b0f3135fb93678466ff0a8223e46e6d4b78bf1697a5e0b581213fcea7ee77" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="UCA24WP3664_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||1d6f36b0ba297b666ac5f3c5acbcbc99920a4746dd327aadaa3770130efcbdac||open" id="UCA24W3364_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
