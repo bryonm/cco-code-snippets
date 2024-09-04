@@ -1,0 +1,39 @@
+add_shortcode( 'sp-cr-WCS24W0000LP4', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_259134" rel="259134">
+<input type="hidden" name="price||68b8c2085327e525624abc720a32f882bda7247c929d6d8515131047a3a2ec97" id="fs_price_259134" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_259134" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_259134" />
+<input type="hidden" name="image||9614545c1e52bd2c88b09db71f94968b0a0345373423a33d7f8438b15679348d||open" value="https://crosscatholic.org/wp-content/uploads/2024/05/lunch-distribution-foxy-thumb.jpg" id="foxyshop_cart_product_image_259134" />
+<input type="hidden" name="url||c9a29a8c6408e1306689eb236ed67949424a149536c72d132d33c7ea222398e4" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes/" id="fs_url_259134" />
+<input type="hidden" name="quantity_min||92ecbb8e7f93a394243ced8387676886833d5d3be7f5683050b1dade2823559e||open" value="0" id="fs_quantity_min_259134" />
+<input type="hidden" name="quantity_max||d1e887e9abca2a78b2bbf2287cdb25b0a0fad26312a9f79c931c8b81f5e65dc5||open" value="0" id="fs_quantity_max_259134" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_259134" />
+<input type="hidden" name="sub_frequency||1bcd505655bb54a909e9453797a9df667ca7a82e22da66b19e83547b00d9a684||open" id="fs_sub_frequency_259134" value="" />
+<input type="hidden" name="name||8cb7b83e8ad48609e7ab05b5fe7ad39f03d8f9b6d23179270e6392f22d930056" id="fs_name_259134" value="Dona para las Necesidades Más Urgentes" />
+<input type="hidden" name="code||9f6bb48e5408efd2d5157d3dc9490569e99c5d3d3f952f9ce121fe27e8a7129e" id="fs_code_259134" value="WCS24W0000LP4" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCS24W0000LP4_1" class="variation-donation">
+<option value="$49{p:49}||0477060f67fbe37d8ba011c89bf6e4f4b5e2efe9cb0a31fdc2a8ef5e73d4251c" priceset="4900">$49</option>
+<option value="$99{p:99}||b69648e7e6dff4cacb6faea76c792591eb904f6f5bc5c08d63e860ff42503932" priceset="9900">$99</option>
+<option value="$149{p:149}||d0798cae7a71ee1926b44ae2e9d71a41de2d0df5732dd1df34d9b9e978e85454" priceset="14900">$149</option>
+<option value="$249{p:249}||7b08dbfdabce3479317d580c90a29e5ce32dca963f6bc46a2860b212deb2cd7a" priceset="24900">$249</option>
+<option value="Otro{dkey:custom-price}||693df23cae68ce5d867c4bb5e3e98ecaf2881c132fe80f1d316e1692441add5a" displaykey="custom-price">Otro</option>
+</select>
+<div class="clr"></div>
+<label for="WCS24W0000LP4_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||324b971e92679a653f60236191e307adbd76b6abaa4c52aa7d2e0c28f362bcdd||open" id="WCS24W0000LP4_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||836247f6f2cbbfc95cec321eeb945ba4421bb24a3350b175364dc69250a7abaa" id="WCS24W0000LP4_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WCS24W0000LP4_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+MOT}||0dfcb478e479b94e705026e250796eae7e8f6c76173a99acf8c71c7fcdbf43b7" id="WCS24W0000LP4_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WCS24W0000LP4_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
