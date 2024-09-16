@@ -1,0 +1,73 @@
+add_shortcode( 'eb-WCCC24ACBLOG3664B8', function () {
+
+	$out = '<div class="flex-container">
+	<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261817" rel="261817">
+<input type="hidden" name="price||7c0d5afecd5d847f070b66a13d4a29b1337f15f1159484cc394d3646d947fae1" id="fs_price_261817" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261817" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261817" />
+<input type="hidden" name="image||a3f8c8343b91ebb56f327e839a948dfb83e56fac83854978645b66e25fe92e85||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Activity-Blog-Header-Build-House-foxy-thumb.jpg" id="foxyshop_cart_product_image_261817" />
+<input type="hidden" name="url||b428cf04261955011398f21706c9f17ccfddd606b57fb51bd48ce642845f4813" value="https://crosscatholic.org/products/donate-to-haiti-housing-50-gift/" id="fs_url_261817" />
+<input type="hidden" name="quantity_min||b22b5c3fa7cac8a7c15b3f538cdf255feef0afe56a3e0547542398683e08947b||open" value="0" id="fs_quantity_min_261817" />
+<input type="hidden" name="quantity_max||98501f7f6f0231712089e06fd877b291e3b98c6968de013f6a7824216396c5b8||open" value="0" id="fs_quantity_max_261817" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261817" />
+<input type="hidden" name="name||6b2b34eef3d91712a6e2fc84355de49a11c8c5c9fd4a1d6b53b830d92fb9e408" id="fs_name_261817" value="Donate to Haiti Housing $50 Gift" />
+<input type="hidden" name="code||6b153b8d4ee365c09ad92cc43379f96a72b8b6cc97a96c234465befd1f8f9043" id="fs_code_261817" value="WCCC24ACBLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||854b8b8c99e86a96431a2f194a65d89cdcf3a30018f5434de66e82edb3ea4c34" id="WCCC24ACBLOG3664B8_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261818" rel="261818">
+<input type="hidden" name="price||c8749109157b55d270d4e88690778ac82cd6426572db2f28bbaa25be18d5ab85" id="fs_price_261818" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261818" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261818" />
+<input type="hidden" name="image||a3f8c8343b91ebb56f327e839a948dfb83e56fac83854978645b66e25fe92e85||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Activity-Blog-Header-Build-House-foxy-thumb.jpg" id="foxyshop_cart_product_image_261818" />
+<input type="hidden" name="url||1196117ff215bf242fee42a395502df6c73240a518ade167e9b3311eb3372617" value="https://crosscatholic.org/products/donate-to-haiti-housing-100-gift/" id="fs_url_261818" />
+<input type="hidden" name="quantity_min||b22b5c3fa7cac8a7c15b3f538cdf255feef0afe56a3e0547542398683e08947b||open" value="0" id="fs_quantity_min_261818" />
+<input type="hidden" name="quantity_max||98501f7f6f0231712089e06fd877b291e3b98c6968de013f6a7824216396c5b8||open" value="0" id="fs_quantity_max_261818" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261818" />
+<input type="hidden" name="name||9f290b005afa0550ebd3eb24fe9cb85459d0142a7384886b7be83ca999a71906" id="fs_name_261818" value="Donate to Haiti Housing $100 Gift" />
+<input type="hidden" name="code||6b153b8d4ee365c09ad92cc43379f96a72b8b6cc97a96c234465befd1f8f9043" id="fs_code_261818" value="WCCC24ACBLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||83f583379b0967e5bab872df5b4fae84d2e258f0f5258b07815c83259ace5921" id="WCCC24ACBLOG3664B8_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261819" rel="261819">
+<input type="hidden" name="price||5e6aeab1c4b57ca6b62dac682431ef265526d45a62f3a0cc31a39d32aeda6d3f" id="fs_price_261819" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261819" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261819" />
+<input type="hidden" name="image||a3f8c8343b91ebb56f327e839a948dfb83e56fac83854978645b66e25fe92e85||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Activity-Blog-Header-Build-House-foxy-thumb.jpg" id="foxyshop_cart_product_image_261819" />
+<input type="hidden" name="url||875e448b61a1d5d870b4deddd1e0e42dcba728717e9862f577fd1bafd609c9da" value="https://crosscatholic.org/products/donate-to-haiti-housing-250-gift/" id="fs_url_261819" />
+<input type="hidden" name="quantity_min||b22b5c3fa7cac8a7c15b3f538cdf255feef0afe56a3e0547542398683e08947b||open" value="0" id="fs_quantity_min_261819" />
+<input type="hidden" name="quantity_max||98501f7f6f0231712089e06fd877b291e3b98c6968de013f6a7824216396c5b8||open" value="0" id="fs_quantity_max_261819" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261819" />
+<input type="hidden" name="name||35e008f774008a92941220e1e58586a0d2d25597b71d848b0c8fc8dee6f82a87" id="fs_name_261819" value="Donate to Haiti Housing $250 Gift" />
+<input type="hidden" name="code||6b153b8d4ee365c09ad92cc43379f96a72b8b6cc97a96c234465befd1f8f9043" id="fs_code_261819" value="WCCC24ACBLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||c4e969e64011e8937756dfb483fe4089de57c3b5d90ff58d68cec6aa241b99b7" id="WCCC24ACBLOG3664B8_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261820" rel="261820">
+<input type="hidden" name="price||e16827f9c56375be43b54daf19d507ca6841f1e13c2085ede861487e1eff4b88" id="fs_price_261820" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261820" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261820" />
+<input type="hidden" name="image||a3f8c8343b91ebb56f327e839a948dfb83e56fac83854978645b66e25fe92e85||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Activity-Blog-Header-Build-House-foxy-thumb.jpg" id="foxyshop_cart_product_image_261820" />
+<input type="hidden" name="url||65abd69bb3c35440b808aee80f31e6e778bf8e204e2f747819e8d5833cafaa72" value="https://crosscatholic.org/products/donate-to-haiti-housing/" id="fs_url_261820" />
+<input type="hidden" name="quantity_min||b22b5c3fa7cac8a7c15b3f538cdf255feef0afe56a3e0547542398683e08947b||open" value="0" id="fs_quantity_min_261820" />
+<input type="hidden" name="quantity_max||98501f7f6f0231712089e06fd877b291e3b98c6968de013f6a7824216396c5b8||open" value="0" id="fs_quantity_max_261820" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261820" />
+<input type="hidden" name="name||62cb7ff299fe50171e43f9e1367f283e7717318a6b59f05f7c067cc2e6d7896b" id="fs_name_261820" value="Donate to Haiti Housing" />
+<input type="hidden" name="code||6b153b8d4ee365c09ad92cc43379f96a72b8b6cc97a96c234465befd1f8f9043" id="fs_code_261820" value="WCCC24ACBLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="text" name="price||4d9bf95de0186a6abc894d0b3998345ff53f23a870e32b9f17f434f3b03f3df5||open" id="WCCC24ACBLOG3664B8_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
