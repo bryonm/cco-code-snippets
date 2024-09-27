@@ -1,0 +1,73 @@
+add_shortcode( 'eb-WCCC24BLOG3664B8', function () {
+
+	$out = '<div class="flex-container">
+	<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264931" rel="264931">
+<input type="hidden" name="price||7ddf74d9503ada966dda45848b9c6e8a27ad464ed0c52a02c03cd3bcff9d7c7d" id="fs_price_264931" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264931" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264931" />
+<input type="hidden" name="image||d88eccc628be8ac69706617f0c19fd841962c23b05b84d6a63bfc41d8d4e9ca3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Blog-3-Jean-Nicolas-foxy-thumb.jpg" id="foxyshop_cart_product_image_264931" />
+<input type="hidden" name="url||7f431330a59a5005156fb05260f2d7cd3986d64c16366d1441394af2feb6b583" value="https://crosscatholic.org/products/donate-to-build-safe-homes-in-haiti-50-gift/" id="fs_url_264931" />
+<input type="hidden" name="quantity_min||4db27453f253d1eb687e46916628c115f059883747cfb9beaffcc3f54e4d877d||open" value="0" id="fs_quantity_min_264931" />
+<input type="hidden" name="quantity_max||e1ef9ae674c29fb784a064ff1702fcce05af8c28405c135079a303621bb64f26||open" value="0" id="fs_quantity_max_264931" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264931" />
+<input type="hidden" name="name||598abde755674e72d2cf1db66f3f71f2cafb033200a4d92fb986d8d1cbc8dcde" id="fs_name_264931" value="Donate to Build Safe Homes in Haiti $50 Gift" />
+<input type="hidden" name="code||d0c95b30c8ba9bfd6b9402df777bfe6d9c91dd10f713bef5d69b606fb6e65bf7" id="fs_code_264931" value="WCCC24BLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||df3498a827be2491715e9a10ea78a78bcb7c065045d65dd0115c522b57519efa" id="WCCC24BLOG3664B8_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264932" rel="264932">
+<input type="hidden" name="price||6f3d248781f404c7cda18aa92b06692931808fcbd39f733617cb702d272c5555" id="fs_price_264932" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264932" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264932" />
+<input type="hidden" name="image||d88eccc628be8ac69706617f0c19fd841962c23b05b84d6a63bfc41d8d4e9ca3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Blog-3-Jean-Nicolas-foxy-thumb.jpg" id="foxyshop_cart_product_image_264932" />
+<input type="hidden" name="url||a48ce5592c45f827b76740e4375c8b0dbdd0a428e8ec60c8ae4335fc8543dfdf" value="https://crosscatholic.org/products/donate-to-build-safe-homes-in-haiti-100-gift/" id="fs_url_264932" />
+<input type="hidden" name="quantity_min||4db27453f253d1eb687e46916628c115f059883747cfb9beaffcc3f54e4d877d||open" value="0" id="fs_quantity_min_264932" />
+<input type="hidden" name="quantity_max||e1ef9ae674c29fb784a064ff1702fcce05af8c28405c135079a303621bb64f26||open" value="0" id="fs_quantity_max_264932" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264932" />
+<input type="hidden" name="name||5b7d4ac6c0135dac2e690ce3fbb953a01c29b055235594d6b4e4b5f27a05e2d5" id="fs_name_264932" value="Donate to Build Safe Homes in Haiti $100 Gift" />
+<input type="hidden" name="code||d0c95b30c8ba9bfd6b9402df777bfe6d9c91dd10f713bef5d69b606fb6e65bf7" id="fs_code_264932" value="WCCC24BLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||88f485e13c54d7fbd6e304935e97a425f2eceb16a7f6ce76b5718422da89c44d" id="WCCC24BLOG3664B8_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264933" rel="264933">
+<input type="hidden" name="price||e05fe38eacbc1e8beb43b62f1f244e46e5b625772172c277397a952e264c1b7e" id="fs_price_264933" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264933" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264933" />
+<input type="hidden" name="image||d88eccc628be8ac69706617f0c19fd841962c23b05b84d6a63bfc41d8d4e9ca3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Blog-3-Jean-Nicolas-foxy-thumb.jpg" id="foxyshop_cart_product_image_264933" />
+<input type="hidden" name="url||b1b070249087c0defba6e556bd4b43f8bf194434b086e7a3cf48a1db3e26d09e" value="https://crosscatholic.org/products/donate-to-build-safe-homes-in-haiti-250-gift/" id="fs_url_264933" />
+<input type="hidden" name="quantity_min||4db27453f253d1eb687e46916628c115f059883747cfb9beaffcc3f54e4d877d||open" value="0" id="fs_quantity_min_264933" />
+<input type="hidden" name="quantity_max||e1ef9ae674c29fb784a064ff1702fcce05af8c28405c135079a303621bb64f26||open" value="0" id="fs_quantity_max_264933" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264933" />
+<input type="hidden" name="name||c81d0608eb2eef93e15e14b763a0c0d9baf81bcd73a969fd9d0349c89d64608d" id="fs_name_264933" value="Donate to Build Safe Homes in Haiti $250 Gift" />
+<input type="hidden" name="code||d0c95b30c8ba9bfd6b9402df777bfe6d9c91dd10f713bef5d69b606fb6e65bf7" id="fs_code_264933" value="WCCC24BLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||9fc221faaed416c036637c8ee0bfec5c953ef895fcf008b93d4015df6bf28ff8" id="WCCC24BLOG3664B8_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264934" rel="264934">
+<input type="hidden" name="price||acbc96818bc33b6444dd83a1510ca26edb7a67520ce17f389d80fac703b61023" id="fs_price_264934" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264934" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264934" />
+<input type="hidden" name="image||d88eccc628be8ac69706617f0c19fd841962c23b05b84d6a63bfc41d8d4e9ca3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/CC-Blog-3-Jean-Nicolas-foxy-thumb.jpg" id="foxyshop_cart_product_image_264934" />
+<input type="hidden" name="url||e5fb80ac27a844c35463fcee8d9d423bc5da8121eb3e86aa9e66a53075b6a82b" value="https://crosscatholic.org/products/donate-to-build-safe-homes-in-haiti/" id="fs_url_264934" />
+<input type="hidden" name="quantity_min||4db27453f253d1eb687e46916628c115f059883747cfb9beaffcc3f54e4d877d||open" value="0" id="fs_quantity_min_264934" />
+<input type="hidden" name="quantity_max||e1ef9ae674c29fb784a064ff1702fcce05af8c28405c135079a303621bb64f26||open" value="0" id="fs_quantity_max_264934" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264934" />
+<input type="hidden" name="name||76c9e7f2b79f1f2316b45cbdc4b488c8895b71a9ad987294499a328c955a7b2d" id="fs_name_264934" value="Donate to Build Safe Homes in Haiti" />
+<input type="hidden" name="code||d0c95b30c8ba9bfd6b9402df777bfe6d9c91dd10f713bef5d69b606fb6e65bf7" id="fs_code_264934" value="WCCC24BLOG3664B8" />
+<div class="foxyshop_variations">
+<input type="text" name="price||cf1bba65bcb44aefac367fbd3c49bffd5c16dd70c419914123c4a70cfa4ffa0f||open" id="WCCC24BLOG3664B8_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
