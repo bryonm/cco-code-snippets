@@ -1,0 +1,31 @@
+add_shortcode( 'kb-MCCF24W3664', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266538" rel="266538">
+<input type="hidden" name="price||e73591b074cd1207e6901f24534c81ffe67c503bcad9177b4001828222da1eda" id="fs_price_266538" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266538" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266538" />
+<input type="hidden" name="image||fb231c069cc67c42a566c1c36f2016bb3e2be84e3c8b0528e94f9ca4325a4d2a||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Advent-foxy-thumb.jpg" id="foxyshop_cart_product_image_266538" />
+<input type="hidden" name="url||05510dc71708d1c35194250b86a859109ed529dd9c6ba2c172f982b030035ea1" value="https://crosscatholic.org/products/donate-to-needs-in-haiti-2/" id="fs_url_266538" />
+<input type="hidden" name="quantity_min||e70d0d7edeb9500af7c01c7e677f2d97f1cbabce7383ba2fe7c7647ec191a39d||open" value="0" id="fs_quantity_min_266538" />
+<input type="hidden" name="quantity_max||ab08ad0e0e025ae41d2d24675426eb114923ecd60933a3d0a585092662f46796||open" value="0" id="fs_quantity_max_266538" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266538" />
+<input type="hidden" name="name||b267e7f0bc5e0b299f73621d49f363cc74fb243f3bfc0aa9549c98c39456418a" id="fs_name_266538" value="Donate to Needs in Haiti" />
+<input type="hidden" name="code||f5505e3bef5db8f4af0805a5bc7dec50c95d3307a85668835ee76ee2664d42ed" id="fs_code_266538" value="KCCF24W3664LP" />
+<div class="foxyshop_variations">
+<select name="Donation" id="KCCF24W3664LP_1" class="variation-donation">
+<option value="$6,571 can help build a home for a family in need{p:6571}||93474e2e45d8d917fa7c761751a6b2bb9cf425779f5df487dc7782cd129df9cf" priceset="657100">$6,571 can help build a home for a family in need</option>
+<option value="$3,285 can help build a home for a family in need{p:3285}||971434d72fbccbb10970f7786854ffbc1e8619f8e4c27bcb9f74ef74a35f432c" priceset="328500">$3,285 can help build a home for a family in need</option>
+<option selected value="$1,562 provides 6 children with a Catholic education{p:1562}||8f085ffa183b83298f15f8d66f2559497721b40e8c4d25943acbf40890a51c84" priceset="156200">$1,562 provides 6 children with a Catholic education</option>
+<option value="$521 provides 2 children with a Catholic education{p:521}||20b2d9864b56108bdaa592e71c550dd1185878ed93d49c2eaa1db2e3c74354e7" priceset="52100">$521 provides 2 children with a Catholic education</option>
+<option value="Other{dkey:custom-price}||8472af639fa20e8d162a42499e670adf9d1cf3b1aaae8b877286b245952eff2a" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="KCCF24W3664LP_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||7abff11f150511cd6586fd0d7e165921f8b16957552c202d84d20b6ef2944125||open" id="KCCF24W3664LP_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
