@@ -1,0 +1,31 @@
+add_shortcode( 'sp-pcs-UCSA24W3664', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265885" rel="265885">
+<input type="hidden" name="price||e5645e622dc168a1586478066e3f9c286c1d6e3ed9fc96ff648c29bf3e72235c" id="fs_price_265885" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265885" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265885" />
+<input type="hidden" name="image||ea8c319563eb21e051864f548f9cdfb2e56234558dfba973a177a09d3ffb9497||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Advent-foxy-thumb.jpg" id="foxyshop_cart_product_image_265885" />
+<input type="hidden" name="url||b92765d42a4647f5637cd29056bf3dcfb59b7fb15f41184338ee2551e6327873" value="https://crosscatholic.org/products/done-para-las-necesidades-mas-urgentes/" id="fs_url_265885" />
+<input type="hidden" name="quantity_min||a8b4e9a42f5af68c7a92f7144c10217d0ecbbfb2893b2960fd917766e64140e1||open" value="0" id="fs_quantity_min_265885" />
+<input type="hidden" name="quantity_max||b322c4d49237ff81f4dd7011f3ff8178db9f1e5b64ac0a9ce1cf11c48740f6ed||open" value="0" id="fs_quantity_max_265885" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265885" />
+<input type="hidden" name="name||6f96b311dd0b30487ad6792a652609ef6efdde7d2c1b2e8df2e6930526e6775f" id="fs_name_265885" value="Done para las necesidades más urgentes" />
+<input type="hidden" name="code||bcdb28937f28599d3916fe84e18defc68790a3c83c479f3c8e9c4a131c408c62" id="fs_code_265885" value="UCSA24W3664" />
+<div class="foxyshop_variations">
+<select name="Donación" id="UCSA24W3664_1" class="variation-donation">
+<option value="$35{p:35}||ed07a379cad2c2c055423b47edf0d4fa073b8c124772587a0c539e286e281899" priceset="3500">$35</option>
+<option value="$50{p:50}||0721158753099f32d35bb9866836fe2d4c644ff5b1ee469d2e33918c7bb84836" priceset="5000">$50</option>
+<option value="$100{p:100}||01775d05f1eb8cdf71569d0ae86bac189dd1ce88efb9d6b86a91a13820626452" priceset="10000">$100</option>
+<option value="$200{p:200}||e8cdf1a24c91623ddcf7313d4126a136912a046e2bd0611b9945920309a83a6c" priceset="20000">$200</option>
+<option value="Otra cantidad{dkey:custom-price}||c198c51763885bd9b892c708df1a06d056b765ff4848a94b1d84bc28e761d2a9" displaykey="custom-price">Otra cantidad</option>
+</select>
+<div class="clr"></div>
+<label for="UCSA24W3664_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||8809f37ffca70ae1acaa48fc564ff12a9f7e8fc0db6475d1199e2a5d0d3caaef||open" id="UCSA24W3664_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
