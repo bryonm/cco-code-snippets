@@ -3,68 +3,67 @@ add_shortcode( 'donate_0101', function () {
 	$out = '<div class="flex-container">
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34936" rel="34936">
-<input type="hidden" name="price||e31303e89d79ebf076cf841120e3e260fe3c15138bccd3822f87cf6f950a76dc" id="fs_price_34936" value="50.00" />
+<input type="hidden" name="price||270a2d870f208778409cacf4c01b1f8ec121c836845ee321921d3fa7c608fc41" id="fs_price_34936" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34936" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34936" />
-<input type="hidden" name="image||62cd21c03e597729159df691278792a0f9b001f2a44bc05dc4990c9d104bdf28||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0101-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_34936" />
-<input type="hidden" name="url||0f7f3f8b8f914523a3d7ac157fe717ac257209018c83e13bd0f92159961edcb8" value="https://crosscatholic.org/products/0101-st-catherine-academy-2/" id="fs_url_34936" />
-<input type="hidden" name="quantity_min||d2a968d570df85636cdbfe57cd9b31aa16e58875c02413bce1ae6dc806a55491||open" value="0" id="fs_quantity_min_34936" />
-<input type="hidden" name="quantity_max||37e01e283eb03fce60a2dfae70998c1dbcd68e6786b4224c71496a54c929c61e||open" value="0" id="fs_quantity_max_34936" />
+<input type="hidden" name="image||f5a05c439ecf38285310c00ef0d380f1cbb0f2bf2bf4b4e8d796e8d5d3765fdf||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0101-Foxy.jpg" id="foxyshop_cart_product_image_34936" />
+<input type="hidden" name="url||1aa8abd7dd24be0789ba022ae50a6b7621d2ef62685e9500b50380d4055f72c2" value="https://crosscatholic.org/products/0101-st-catherine-academy-2/" id="fs_url_34936" />
+<input type="hidden" name="quantity_min||60946390b52f4d192e6d4bfd681d5688af65945f521484f551a654bc038c1acf||open" value="0" id="fs_quantity_min_34936" />
+<input type="hidden" name="quantity_max||8e6698144834570d90aef849a379d0bb784f39ba3fbea3a84c431c2ff1117466||open" value="0" id="fs_quantity_max_34936" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34936" />
-<input type="hidden" name="name||38d5018187e65145ed6dcbe70eab7ca41c5f962f6c34e78789a320d112d8a2af" id="fs_name_34936" value="0101 - St. Catherine Academy $50 Donation" />
-<input type="hidden" name="code||443e7053fda2bddd8eaf3e645a031c58ec73dbdd9a4562a2297f48131222995d" id="fs_code_34936" value="WCPROJ0101" />
+<input type="hidden" name="name||ae913010067eaf7f272f1eecdd7da0065d44d28b1a0c19d4169ca420a3d9fade" id="fs_name_34936" value="0101 - St. Catherine Academy $50 gift" />
+<input type="hidden" name="code||c6316edaeac00b51591f4594c12c3e9aff484dfff85d4d188eb32226edae6495" id="fs_code_34936" value="WCPJ0101EYG" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||318d4de8c2bb51c3f0f50eaa6a5468ead5ae0ffcd4792b903c5f8bba60ad6038" id="WCPROJ0101_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$50_donation||2a8bd5b5b2a756f58f670d804f2eae183a7d0b39670b3d8ef16ab63a24874dfb" id="WCPJ0101EYG_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
 <!-- $100 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34939" rel="34939">
-<input type="hidden" name="price||29da4fd0e7f8493c99cd0e5b434a8da03a5b7eb010890cb2c032ada015c3ebbd" id="fs_price_34939" value="100.00" />
+<input type="hidden" name="price||4e542406f5c7c78a042ff1cd3c7bca6d0f37cd17840f383ff06f1c396790f726" id="fs_price_34939" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34939" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34939" />
-<input type="hidden" name="image||62cd21c03e597729159df691278792a0f9b001f2a44bc05dc4990c9d104bdf28||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0101-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_34939" />
-<input type="hidden" name="url||627234c2b9c22896f8a9bd59787d45b900f17935f50e5d566b97256f0eb7b87f" value="https://crosscatholic.org/products/0101-st-catherine-academy-3/" id="fs_url_34939" />
-<input type="hidden" name="quantity_min||d2a968d570df85636cdbfe57cd9b31aa16e58875c02413bce1ae6dc806a55491||open" value="0" id="fs_quantity_min_34939" />
-<input type="hidden" name="quantity_max||37e01e283eb03fce60a2dfae70998c1dbcd68e6786b4224c71496a54c929c61e||open" value="0" id="fs_quantity_max_34939" />
+<input type="hidden" name="image||f5a05c439ecf38285310c00ef0d380f1cbb0f2bf2bf4b4e8d796e8d5d3765fdf||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0101-Foxy.jpg" id="foxyshop_cart_product_image_34939" />
+<input type="hidden" name="url||9c224fc91dce4e018ad0b79c0095dc0cb2b96561edd75c4cdff2d91ee3f9cc08" value="https://crosscatholic.org/products/0101-st-catherine-academy-3/" id="fs_url_34939" />
+<input type="hidden" name="quantity_min||60946390b52f4d192e6d4bfd681d5688af65945f521484f551a654bc038c1acf||open" value="0" id="fs_quantity_min_34939" />
+<input type="hidden" name="quantity_max||8e6698144834570d90aef849a379d0bb784f39ba3fbea3a84c431c2ff1117466||open" value="0" id="fs_quantity_max_34939" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34939" />
-<input type="hidden" name="name||f9d711a69f31e1f7ae45bf8a63c981048f193e56c8be0bc5a773afe7243b0d73" id="fs_name_34939" value="0101 - St. Catherine Academy $100 Donation" />
-<input type="hidden" name="code||443e7053fda2bddd8eaf3e645a031c58ec73dbdd9a4562a2297f48131222995d" id="fs_code_34939" value="WCPROJ0101" />
+<input type="hidden" name="name||d7284276bd7d6525d43c1671ece44297e6220520e4cb8d20fd5bb89017582c9a" id="fs_name_34939" value="0101 - St. Catherine Academy $100 gift" />
+<input type="hidden" name="code||c6316edaeac00b51591f4594c12c3e9aff484dfff85d4d188eb32226edae6495" id="fs_code_34939" value="WCPJ0101EYG" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||fddf6367f1da4f1e8afe8fc1f3a1167a7755a0aa0f3ea215bd9f599870cddf3d" id="WCPROJ0101_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$100_donation||4810d80d89b8401925b612680de5675e3143e9d234b0a7b39c7c6d0690c35cdf" id="WCPJ0101EYG_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
 <!-- $250 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34933" rel="34933">
-<input type="hidden" name="price||6bce28ee6e1937dbcb20e39e83834658bb90e7a16af54e9e8f5e0ed47a780210" id="fs_price_34933" value="250.00" />
+<input type="hidden" name="price||2194a0e962dd079a5e95ceefae38c346778c86493bdc010f865d32f310013d5b" id="fs_price_34933" value="250.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34933" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34933" />
-<input type="hidden" name="image||62cd21c03e597729159df691278792a0f9b001f2a44bc05dc4990c9d104bdf28||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0101-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_34933" />
-<input type="hidden" name="url||197e57b6c7cda9e6c325b7bfcc327cf990c70c2ad87bbdc1311192989d5414ff" value="https://crosscatholic.org/products/0101-st-catherine-academy/" id="fs_url_34933" />
-<input type="hidden" name="quantity_min||d2a968d570df85636cdbfe57cd9b31aa16e58875c02413bce1ae6dc806a55491||open" value="0" id="fs_quantity_min_34933" />
-<input type="hidden" name="quantity_max||37e01e283eb03fce60a2dfae70998c1dbcd68e6786b4224c71496a54c929c61e||open" value="0" id="fs_quantity_max_34933" />
+<input type="hidden" name="image||f5a05c439ecf38285310c00ef0d380f1cbb0f2bf2bf4b4e8d796e8d5d3765fdf||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0101-Foxy.jpg" id="foxyshop_cart_product_image_34933" />
+<input type="hidden" name="url||bcf29d2b073005edd71d05a590352637a25f2e2604f5bc3eb74780692b3e71f3" value="https://crosscatholic.org/products/0101-st-catherine-academy/" id="fs_url_34933" />
+<input type="hidden" name="quantity_min||60946390b52f4d192e6d4bfd681d5688af65945f521484f551a654bc038c1acf||open" value="0" id="fs_quantity_min_34933" />
+<input type="hidden" name="quantity_max||8e6698144834570d90aef849a379d0bb784f39ba3fbea3a84c431c2ff1117466||open" value="0" id="fs_quantity_max_34933" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34933" />
-<input type="hidden" name="name||d0a8df19f1f8c7e8dbf0bcec0be7979d8030a977883a0c9989c2d17674f40d9b" id="fs_name_34933" value="0101 - St. Catherine Academy $250 Donation" />
-<input type="hidden" name="code||443e7053fda2bddd8eaf3e645a031c58ec73dbdd9a4562a2297f48131222995d" id="fs_code_34933" value="WCPROJ0101" />
+<input type="hidden" name="name||32767c710abb2388173964567a8010d1cfbb726a33fbb9ede08a6747ba40ff16" id="fs_name_34933" value="0101 - St. Catherine Academy $250 gift" />
+<input type="hidden" name="code||c6316edaeac00b51591f4594c12c3e9aff484dfff85d4d188eb32226edae6495" id="fs_code_34933" value="WCPJ0101EYG" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||1d6ba7b909214e437b54e48b51828adb7f8a90825b64cc911e61762fb7a3d881" id="WCPROJ0101_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$250_donation||3097196613adf91ada50b88082b11d862e09a679b70e296475f6aea391bc3981" id="WCPJ0101EYG_1" value="" class="variation-250-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
-
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34942" rel="34942">
-<input type="hidden" name="price||2cb165642fb2cceab1338747a4908503756bec3229b8710860fba449a4a8c804" id="fs_price_34942" value="0.00" />
+<input type="hidden" name="price||8d8df1c85216bff4e81dbdf8d8ad18c93dafe7d43f68e01242553585f0b6189f" id="fs_price_34942" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34942" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34942" />
-<input type="hidden" name="image||62cd21c03e597729159df691278792a0f9b001f2a44bc05dc4990c9d104bdf28||open" value="https://crosscatholic.org/wp-content/uploads/2023/07/0101-foxy-thumb-24.jpg" id="foxyshop_cart_product_image_34942" />
-<input type="hidden" name="url||fa302a7125a0d3967af639f4ccbbed07297f7c06c45b88c86cedc2dca2dd35d5" value="https://crosscatholic.org/products/0101-st-catherine-academy-4/" id="fs_url_34942" />
-<input type="hidden" name="quantity_min||d2a968d570df85636cdbfe57cd9b31aa16e58875c02413bce1ae6dc806a55491||open" value="0" id="fs_quantity_min_34942" />
-<input type="hidden" name="quantity_max||37e01e283eb03fce60a2dfae70998c1dbcd68e6786b4224c71496a54c929c61e||open" value="0" id="fs_quantity_max_34942" />
+<input type="hidden" name="image||f5a05c439ecf38285310c00ef0d380f1cbb0f2bf2bf4b4e8d796e8d5d3765fdf||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0101-Foxy.jpg" id="foxyshop_cart_product_image_34942" />
+<input type="hidden" name="url||4158ddffe630742f8013560002fc3cc410c5e48e48d4c9806e362b401d2880fc" value="https://crosscatholic.org/products/0101-st-catherine-academy-4/" id="fs_url_34942" />
+<input type="hidden" name="quantity_min||60946390b52f4d192e6d4bfd681d5688af65945f521484f551a654bc038c1acf||open" value="0" id="fs_quantity_min_34942" />
+<input type="hidden" name="quantity_max||8e6698144834570d90aef849a379d0bb784f39ba3fbea3a84c431c2ff1117466||open" value="0" id="fs_quantity_max_34942" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34942" />
-<input type="hidden" name="name||1647f3a35a37d3497dbae623a026ea9c6c12249da621fd7836de28df00d0d5fb" id="fs_name_34942" value="0101 - St. Catherine Academy Donation" />
-<input type="hidden" name="code||443e7053fda2bddd8eaf3e645a031c58ec73dbdd9a4562a2297f48131222995d" id="fs_code_34942" value="WCPROJ0101" />
+<input type="hidden" name="name||f6105c6e16f6987cce253ce16216f1f0f7017f99d059a0855d3e4f58d3648f6d" id="fs_name_34942" value="0101 - St. Catherine Academy Donation" />
+<input type="hidden" name="code||c6316edaeac00b51591f4594c12c3e9aff484dfff85d4d188eb32226edae6495" id="fs_code_34942" value="WCPJ0101EYG" />
 <div class="foxyshop_variations">
-<input type="text" name="price||6050c8aa9259efbf678ff117b142931a984e01c5a3866544ee7fb0eeacebcfb8||open" id="WCPROJ0101_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
+<input type="text" name="price||4d82ff57e0c9e241d17da484c6538405d89f477c66a863707d545276262cdeeb||open" id="WCPJ0101EYG_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
