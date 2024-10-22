@@ -1,0 +1,73 @@
+add_shortcode( 'donate_0114', function () {
+
+	$out = '<div class="flex-container">
+<!-- $205 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256332" rel="256332">
+<input type="hidden" name="price||0807ecf2cb1f4abff349beee63abd82c6a9c018f7691afe36ce7ffcb0d9db935" id="fs_price_256332" value="205.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256332" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256332" />
+<input type="hidden" name="image||83d926fba424edd83694462e5967bd0c3a27fc0149b78fcc92f0361270f7039e||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0114-Foxy.jpg" id="foxyshop_cart_product_image_256332" />
+<input type="hidden" name="url||6e340841a1616c2072ffa0cfc24f12c9be642759b26e00b7556d409b29516176" value="https://crosscatholic.org/products/0114-kobonal-housing-3402-gift/" id="fs_url_256332" />
+<input type="hidden" name="quantity_min||eb3eccd5d43a322043e5f686377c22ea7bfaa254c21802b2d23bdfaac552fe43||open" value="0" id="fs_quantity_min_256332" />
+<input type="hidden" name="quantity_max||83319edc1975f8756f53a9b8e18185bd4df20dddc5753ef5153b41c626ff7102||open" value="0" id="fs_quantity_max_256332" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256332" />
+<input type="hidden" name="name||d9e169d06969c42a39185d077a0703b46284fe8c8969b74709e621f8b65394da" id="fs_name_256332" value="0114 - Kobonal Housing $205 gift" />
+<input type="hidden" name="code||f201d8e057c22dccd176ca3ddcf22a08d3f64343947011586cfe11cfe0b6c15c" id="fs_code_256332" value="WCPJ3664KHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$205_donation||b5cc37937804d8c1f80125ae042b115772468eec230479be6ff24a8e41fd22e6" id="WCPJ3664KHOU_1" value="" class="variation-205-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$205</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$205.00</span></div></div></form>
+<!-- $6,804 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256334" rel="256334">
+<input type="hidden" name="price||00b7101d6300cae473229f9c77cf4943d153cc6a6ddecb0754668148c67909d5" id="fs_price_256334" value="6804.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256334" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256334" />
+<input type="hidden" name="image||83d926fba424edd83694462e5967bd0c3a27fc0149b78fcc92f0361270f7039e||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0114-Foxy.jpg" id="foxyshop_cart_product_image_256334" />
+<input type="hidden" name="url||a1f388704c010121337b256a4bb85852e17a5c964eb56d8f78160e88a26fec29" value="https://crosscatholic.org/products/0114-kobonal-housing-6804-gift/" id="fs_url_256334" />
+<input type="hidden" name="quantity_min||eb3eccd5d43a322043e5f686377c22ea7bfaa254c21802b2d23bdfaac552fe43||open" value="0" id="fs_quantity_min_256334" />
+<input type="hidden" name="quantity_max||83319edc1975f8756f53a9b8e18185bd4df20dddc5753ef5153b41c626ff7102||open" value="0" id="fs_quantity_max_256334" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256334" />
+<input type="hidden" name="name||d152a93518c2ec150f174409c06b24747bf755d9b405e537a7bcd171052bfdd9" id="fs_name_256334" value="0114 - Kobonal Housing $6,804 gift" />
+<input type="hidden" name="code||f201d8e057c22dccd176ca3ddcf22a08d3f64343947011586cfe11cfe0b6c15c" id="fs_code_256334" value="WCPJ3664KHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$6804_donation||0ea578a6994cedd18dbf7e2210b2d61363d1a78cb5e07e7527adee01a8c6ea77" id="WCPJ3664KHOU_1" value="" class="variation-6804-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$6,804</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$6,804.00</span></div></div></form>
+<!-- $13,141 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256336" rel="256336">
+<input type="hidden" name="price||8a80a562ac791a8d3646aa038a3f4c10746ed6c13ec6feb46b3ce19fb3b8b511" id="fs_price_256336" value="13141.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256336" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256336" />
+<input type="hidden" name="image||83d926fba424edd83694462e5967bd0c3a27fc0149b78fcc92f0361270f7039e||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0114-Foxy.jpg" id="foxyshop_cart_product_image_256336" />
+<input type="hidden" name="url||9aaede0e32d574ec56ecdbe9173e6a348d66f04ca79905f79d997337a653801f" value="https://crosscatholic.org/products/0114-kobonal-housing-13608-gift/" id="fs_url_256336" />
+<input type="hidden" name="quantity_min||eb3eccd5d43a322043e5f686377c22ea7bfaa254c21802b2d23bdfaac552fe43||open" value="0" id="fs_quantity_min_256336" />
+<input type="hidden" name="quantity_max||83319edc1975f8756f53a9b8e18185bd4df20dddc5753ef5153b41c626ff7102||open" value="0" id="fs_quantity_max_256336" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256336" />
+<input type="hidden" name="name||b5b72335a27cc89db1ac1e0f63673503b67c9ee52741068ee2aff6540a8a7004" id="fs_name_256336" value="0114 - Kobonal Housing $13,141 gift" />
+<input type="hidden" name="code||f201d8e057c22dccd176ca3ddcf22a08d3f64343947011586cfe11cfe0b6c15c" id="fs_code_256336" value="WCPJ3664KHOU" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$13141_donation||65a904035151e151bd9c278448c12293a6cf1badb3efd3dfae12b707b2605c78" id="WCPJ3664KHOU_1" value="" class="variation-13141-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$13,141</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$13,141.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256338" rel="256338">
+<input type="hidden" name="price||d3b69e9d4915ee42b30156bc7670246583401c6c76fafd15467d67c7f45d5ba6" id="fs_price_256338" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256338" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256338" />
+<input type="hidden" name="image||83d926fba424edd83694462e5967bd0c3a27fc0149b78fcc92f0361270f7039e||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0114-Foxy.jpg" id="foxyshop_cart_product_image_256338" />
+<input type="hidden" name="url||b59cbf130eee10516f1733b741558478ebcd5c05d5bb02172626ab50978f8b58" value="https://crosscatholic.org/products/0114-kobonal-housing/" id="fs_url_256338" />
+<input type="hidden" name="quantity_min||eb3eccd5d43a322043e5f686377c22ea7bfaa254c21802b2d23bdfaac552fe43||open" value="0" id="fs_quantity_min_256338" />
+<input type="hidden" name="quantity_max||83319edc1975f8756f53a9b8e18185bd4df20dddc5753ef5153b41c626ff7102||open" value="0" id="fs_quantity_max_256338" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256338" />
+<input type="hidden" name="name||2667c118ead371bab7a1e8a33a842f562903df2a377e3e6648fb334f4bde0060" id="fs_name_256338" value="0114 - Kobonal Housing" />
+<input type="hidden" name="code||f201d8e057c22dccd176ca3ddcf22a08d3f64343947011586cfe11cfe0b6c15c" id="fs_code_256338" value="WCPJ3664KHOU" />
+<div class="foxyshop_variations">
+<input type="text" name="price||8e32ca1257f19fe4f448eaffae5c4b3e3c8b59edbbb5e0b64ea5525546dffda3||open" id="WCPJ3664KHOU_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
