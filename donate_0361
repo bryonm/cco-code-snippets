@@ -2,68 +2,68 @@ add_shortcode( 'donate_0361', function () {
 
 	$out = '<div class="flex-container">
 <!-- $50 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_55892" rel="55892">
-<input type="hidden" name="price||eb8cf75baa8a0bc1c03f14e4e5e4f6051bdb87db2ac5807661f9e5df2418fded" id="fs_price_55892" value="50.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_55892" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_55892" />
-<input type="hidden" name="image||fd6b21665e0201eb3d3c8bdcb19fe102538403b3d97451b66318a97fe193218e||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/0361-thumb_2.jpg" id="foxyshop_cart_product_image_55892" />
-<input type="hidden" name="url||9ae2e07c78ff8bc5bb2dd2c2fc510459d0a3ed9b6fd2b23e5ea730f87f679c7b" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-3/" id="fs_url_55892" />
-<input type="hidden" name="quantity_min||b6039136eb669d371821daacab44567ad20238b207a99579b46910beb5fcee48||open" value="0" id="fs_quantity_min_55892" />
-<input type="hidden" name="quantity_max||32fa5c0693d60b12408defd3cdffe4351b660ac71fe8ea66846176e0e2d0a156||open" value="0" id="fs_quantity_max_55892" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_55892" />
-<input type="hidden" name="name||5435d8c7d6bba761f943ff6e44f39734989eaa3dec53874578d57fc81981849b" id="fs_name_55892" value="0361 - CFSOP Jamaica Sisters Support" />
-<input type="hidden" name="code||b3d83b62b8056d7386c040f06c54e87a321a5c261294ed83228ce622bef3f676" id="fs_code_55892" value="WCPROJ0361" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_253325" rel="253325">
+<input type="hidden" name="price||ce72118ed4f0192a477bc611d6869a541a84fd93b309fdabf153f8c52609b862" id="fs_price_253325" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_253325" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_253325" />
+<input type="hidden" name="image||ab575aa92c0c18df07b1f47b6ad4914e711755b3693b24a67dd455d91a4a7989||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0361-Foxy.jpg" id="foxyshop_cart_product_image_253325" />
+<input type="hidden" name="url||69f8807441e6503e3cd13d7b4f0fb34c161dfebc6ec30f059e9dc282b650e431" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-50-gift/" id="fs_url_253325" />
+<input type="hidden" name="quantity_min||56897d60f5f9fc5c7a4b2d55a58d0444a3754dffd4dd48ce50f7f0a769dafb9a||open" value="0" id="fs_quantity_min_253325" />
+<input type="hidden" name="quantity_max||59da3b4333474b423908ee28f0aca56e8ddec049c64bb5ee7831d2eaeddfec00||open" value="0" id="fs_quantity_max_253325" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_253325" />
+<input type="hidden" name="name||a3ade25fa279638e245bcaf78c017651cab9f013da62ea6574d462227c09de75" id="fs_name_253325" value="0361 - CFSOP Jamaica Sisters Support $50 gift" />
+<input type="hidden" name="code||5ff0264aea50243fe560d44ae8550fffcfb28e47c8817ab79fa5e82ed541aad9" id="fs_code_253325" value="WCPJ0361HTHC" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||0b51983da564d7403ea49568a6bc0c865b4c3baabec9f588b013b3f4d622a02f" id="WCPROJ0361_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$50_donation||f257f1035a29b746b25dd5dd5c6e80126b0b51c3f57189ad1f2ae57a808a3247" id="WCPJ0361HTHC_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
 <!-- $100 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_55895" rel="55895">
-<input type="hidden" name="price||dc2d02ec4383abc0a779faeded09339b808d68d5382f955fce10142f4fa5d9a9" id="fs_price_55895" value="100.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_55895" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_55895" />
-<input type="hidden" name="image||fd6b21665e0201eb3d3c8bdcb19fe102538403b3d97451b66318a97fe193218e||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/0361-thumb_3.jpg" id="foxyshop_cart_product_image_55895" />
-<input type="hidden" name="url||b1d2898324e4540533372f5d9e411230a457cc1ec2a2b5047a69d7fad14e0ad9" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-4/" id="fs_url_55895" />
-<input type="hidden" name="quantity_min||b6039136eb669d371821daacab44567ad20238b207a99579b46910beb5fcee48||open" value="0" id="fs_quantity_min_55895" />
-<input type="hidden" name="quantity_max||32fa5c0693d60b12408defd3cdffe4351b660ac71fe8ea66846176e0e2d0a156||open" value="0" id="fs_quantity_max_55895" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_55895" />
-<input type="hidden" name="name||5435d8c7d6bba761f943ff6e44f39734989eaa3dec53874578d57fc81981849b" id="fs_name_55895" value="0361 - CFSOP Jamaica Sisters Support" />
-<input type="hidden" name="code||b3d83b62b8056d7386c040f06c54e87a321a5c261294ed83228ce622bef3f676" id="fs_code_55895" value="WCPROJ0361" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_253323" rel="253323">
+<input type="hidden" name="price||a3e6270f73b1360750d5417b94595703129e9559675551cfa0a02932ecfc23b8" id="fs_price_253323" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_253323" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_253323" />
+<input type="hidden" name="image||ab575aa92c0c18df07b1f47b6ad4914e711755b3693b24a67dd455d91a4a7989||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0361-Foxy.jpg" id="foxyshop_cart_product_image_253323" />
+<input type="hidden" name="url||bf94ca7c763742b040828ed928b254e77829a8ea0298f27a1d1acc7e97a1f119" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-100-gift/" id="fs_url_253323" />
+<input type="hidden" name="quantity_min||56897d60f5f9fc5c7a4b2d55a58d0444a3754dffd4dd48ce50f7f0a769dafb9a||open" value="0" id="fs_quantity_min_253323" />
+<input type="hidden" name="quantity_max||59da3b4333474b423908ee28f0aca56e8ddec049c64bb5ee7831d2eaeddfec00||open" value="0" id="fs_quantity_max_253323" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_253323" />
+<input type="hidden" name="name||53cc1366fae61be809df86ad2380be0c0977ed846b85941c364ed0a6e4c275b5" id="fs_name_253323" value="0361 - CFSOP Jamaica Sisters Support $100 gift" />
+<input type="hidden" name="code||5ff0264aea50243fe560d44ae8550fffcfb28e47c8817ab79fa5e82ed541aad9" id="fs_code_253323" value="WCPJ0361HTHC" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||21134e195d56dc6995a66f489efaca6952bc401e6bf6b9caa16ec10b9790e1a6" id="WCPROJ0361_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$100_donation||588336ac404a4f77c0acdd4b2d38768ddbd18f0e34b370f2197a06f8eb57a94f" id="WCPJ0361HTHC_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
 <!-- $250 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251388" rel="251388">
-<input type="hidden" name="price||fee49ddf021da21958e490ca69e7479255d0d405e738ccb1765c9ff53b473b0d" id="fs_price_251388" value="250.00" />
+<input type="hidden" name="price||3c1772249b0e80eb4a90a798ad06576140b9d10f7b606ac5f3a4560a8740b66c" id="fs_price_251388" value="250.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251388" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251388" />
-<input type="hidden" name="image||fd6b21665e0201eb3d3c8bdcb19fe102538403b3d97451b66318a97fe193218e||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/0361-thumb_1.jpg" id="foxyshop_cart_product_image_251388" />
-<input type="hidden" name="url||e072f36ab24dad12b137476775adf8947bd894f58a15aedff803071d03d16b2c" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-250-donation/" id="fs_url_251388" />
-<input type="hidden" name="quantity_min||b6039136eb669d371821daacab44567ad20238b207a99579b46910beb5fcee48||open" value="0" id="fs_quantity_min_251388" />
-<input type="hidden" name="quantity_max||32fa5c0693d60b12408defd3cdffe4351b660ac71fe8ea66846176e0e2d0a156||open" value="0" id="fs_quantity_max_251388" />
+<input type="hidden" name="image||ab575aa92c0c18df07b1f47b6ad4914e711755b3693b24a67dd455d91a4a7989||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0361-Foxy.jpg" id="foxyshop_cart_product_image_251388" />
+<input type="hidden" name="url||c08059354dd036663a797592e8ae2829e36e493cdcfde081777efa68a964eb2a" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-250-donation/" id="fs_url_251388" />
+<input type="hidden" name="quantity_min||56897d60f5f9fc5c7a4b2d55a58d0444a3754dffd4dd48ce50f7f0a769dafb9a||open" value="0" id="fs_quantity_min_251388" />
+<input type="hidden" name="quantity_max||59da3b4333474b423908ee28f0aca56e8ddec049c64bb5ee7831d2eaeddfec00||open" value="0" id="fs_quantity_max_251388" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251388" />
-<input type="hidden" name="name||0bd8bb23a728559d1f6be1f8bc5ffa3baebdd9b849f61522e69c33fe81db712a" id="fs_name_251388" value="0361 - CFSOP Jamaica Sisters Support $250 donation" />
-<input type="hidden" name="code||b3d83b62b8056d7386c040f06c54e87a321a5c261294ed83228ce622bef3f676" id="fs_code_251388" value="WCPROJ0361" />
+<input type="hidden" name="name||c4d453df5ba76351621e146a4dc9ab4b031d7bef3c30d47ce84a0990505cb9a4" id="fs_name_251388" value="0361 - CFSOP Jamaica Sisters Support $250 gift" />
+<input type="hidden" name="code||5ff0264aea50243fe560d44ae8550fffcfb28e47c8817ab79fa5e82ed541aad9" id="fs_code_251388" value="WCPJ0361HTHC" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||bc3136489c8d89db2e53e402e798c5836fb13dd3736ba8b96d3d5469b0903486" id="WCPROJ0361_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$250_donation||e4b16c65d743c6ed73d1d20d96965a93de4a390db2e69e1986ce57df5e6442a4" id="WCPJ0361HTHC_1" value="" class="variation-250-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_55887" rel="55887">
-<input type="hidden" name="price||5e3934771c9c6b3cfabdf2510cf4c5eaf07dd3755a7bbf9222cd80e056f3db78" id="fs_price_55887" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_55887" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_55887" />
-<input type="hidden" name="image||fd6b21665e0201eb3d3c8bdcb19fe102538403b3d97451b66318a97fe193218e||open" value="https://crosscatholic.org/wp-content/uploads/2021/02/0361-thumb_1.jpg" id="foxyshop_cart_product_image_55887" />
-<input type="hidden" name="url||6bc8c00b731e007e7898ed8ffd670d4aafdf8f5760c1df6d24505f0373891519" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support-2/" id="fs_url_55887" />
-<input type="hidden" name="quantity_min||b6039136eb669d371821daacab44567ad20238b207a99579b46910beb5fcee48||open" value="0" id="fs_quantity_min_55887" />
-<input type="hidden" name="quantity_max||32fa5c0693d60b12408defd3cdffe4351b660ac71fe8ea66846176e0e2d0a156||open" value="0" id="fs_quantity_max_55887" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_55887" />
-<input type="hidden" name="name||7f8dddf5ee5bb078d9696308472c6ae2ea0af960cb7acaaa1440f15901ce4dfd" id="fs_name_55887" value="0361 – CFSOP Jamaica Sisters Support" />
-<input type="hidden" name="code||b3d83b62b8056d7386c040f06c54e87a321a5c261294ed83228ce622bef3f676" id="fs_code_55887" value="WCPROJ0361" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_253327" rel="253327">
+<input type="hidden" name="price||3c1772249b0e80eb4a90a798ad06576140b9d10f7b606ac5f3a4560a8740b66c" id="fs_price_253327" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_253327" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_253327" />
+<input type="hidden" name="image||ab575aa92c0c18df07b1f47b6ad4914e711755b3693b24a67dd455d91a4a7989||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0361-Foxy.jpg" id="foxyshop_cart_product_image_253327" />
+<input type="hidden" name="url||03999890915c6134557005e6e7034660f42c443ac418dbb4082df86446a05635" value="https://crosscatholic.org/products/0361-cfsop-jamaica-sisters-support/" id="fs_url_253327" />
+<input type="hidden" name="quantity_min||56897d60f5f9fc5c7a4b2d55a58d0444a3754dffd4dd48ce50f7f0a769dafb9a||open" value="0" id="fs_quantity_min_253327" />
+<input type="hidden" name="quantity_max||59da3b4333474b423908ee28f0aca56e8ddec049c64bb5ee7831d2eaeddfec00||open" value="0" id="fs_quantity_max_253327" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_253327" />
+<input type="hidden" name="name||d0d5567a0855f0fa400758c73da09d5a2654f5f86fe78df83e3efae42d9fdb88" id="fs_name_253327" value="0361 - CFSOP Jamaica Sisters Support" />
+<input type="hidden" name="code||5ff0264aea50243fe560d44ae8550fffcfb28e47c8817ab79fa5e82ed541aad9" id="fs_code_253327" value="WCPJ0361HTHC" />
 <div class="foxyshop_variations">
-<input type="text" name="price||f3bd1568678dfddc7f572a200f6992d4d6b4f5b1be49a01441e17a1ad0c4b3a6||open" id="WCPROJ0361_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||4e647c39789c365bce4ee2bd1959356a35958366735fba09ca6c2a9fff04092e||open" id="WCPJ0361HTHC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
