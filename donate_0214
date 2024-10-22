@@ -1,73 +1,69 @@
 add_shortcode( 'donate_0214', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35225" rel="35225">
-<input type="hidden" name="price||0ae38627cd1c86dc4978773dd2159d5da43c1012baaef4cfd5c62246e9d3e682" id="fs_price_35225" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35225" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35225" />
-<input type="hidden" name="image||f5bd76cb066d01ad4bb0379de7ad3092b844b60f1f016f01ccf6fb0962c35a95||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0214-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_35225" />
-<input type="hidden" name="url||bdc3ef4ca4f3faa4ee93c8bd2b1c46ea3c27dcf35e3df013c36afaa1078d2c2a" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home/" id="fs_url_35225" />
-<input type="hidden" name="quantity_min||a61dd178a0da2cc5ce1d6042be6ab317707e503b6049e883a28ee0328559f8c2||open" value="0" id="fs_quantity_min_35225" />
-<input type="hidden" name="quantity_max||d1f60f26b2beac65e2bddb612bf254994aa1e21815a1b51d3e241f40f909f92d||open" value="0" id="fs_quantity_max_35225" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35225" />
-<input type="hidden" name="name||807ffafc03bea21dbacdb6f32158ffff7cc89cd4f31f4bbc74fade7951918452" id="fs_name_35225" value="0214 – Children’s Center (Friendship Home)" />
-<input type="hidden" name="code||b2171e69b4b59979a55b59ea26475734453d019e0183d27406206ff47b591f86" id="fs_code_35225" value="WCPROJ0214" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||eef3a07511222f7a3bc001f71fc9d40ea7c4e624802d9356edf027fa98fcb9f6" id="WCPROJ0214_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
-<!-- $50 BUTTON -->
+ <!-- $65 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35228" rel="35228">
-<input type="hidden" name="price||63e7594b135008207151a54029ba4835872db6894b2f5211d96dee4159be53d9" id="fs_price_35228" value="50.00" />
+<input type="hidden" name="price||a517c05b8deb3a1496d78f142a8ddf43689e2306a84c9f17ff89711217c05ce5" id="fs_price_35228" value="65.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35228" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35228" />
-<input type="hidden" name="image||f5bd76cb066d01ad4bb0379de7ad3092b844b60f1f016f01ccf6fb0962c35a95||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0214-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_35228" />
-<input type="hidden" name="url||14202ad090be307532f35386257c1f0836cb14ff8c3925277a005b6b4dfa5626" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home-2/" id="fs_url_35228" />
-<input type="hidden" name="quantity_min||a61dd178a0da2cc5ce1d6042be6ab317707e503b6049e883a28ee0328559f8c2||open" value="0" id="fs_quantity_min_35228" />
-<input type="hidden" name="quantity_max||d1f60f26b2beac65e2bddb612bf254994aa1e21815a1b51d3e241f40f909f92d||open" value="0" id="fs_quantity_max_35228" />
+<input type="hidden" name="image||0e9a997fc64e607b09e1800dc51a144303f8d2eb37d41e337102bc8e062ecadd||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0214-Foxy.jpg" id="foxyshop_cart_product_image_35228" />
+<input type="hidden" name="url||a49d726f365cc467c9c72304883d138dddac6e3d39c59192f2a6e225cc3bf076" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home-2/" id="fs_url_35228" />
+<input type="hidden" name="quantity_min||6d0084dfa0083ad3a139c624f9acea78f75c71aec1d62eecc7641a49ca8593aa||open" value="0" id="fs_quantity_min_35228" />
+<input type="hidden" name="quantity_max||af1bfef9640b0df68cd4ad14bc6f28010ed24edf95a5ccd839933b183857e50c||open" value="0" id="fs_quantity_max_35228" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35228" />
-<input type="hidden" name="name||807ffafc03bea21dbacdb6f32158ffff7cc89cd4f31f4bbc74fade7951918452" id="fs_name_35228" value="0214 – Children’s Center (Friendship Home)" />
-<input type="hidden" name="code||b2171e69b4b59979a55b59ea26475734453d019e0183d27406206ff47b591f86" id="fs_code_35228" value="WCPROJ0214" />
+<input type="hidden" name="name||c29d282480bb8fe9a1f3c16f6d3325a0f3856e833de3e92a92b598ab9f392cbe" id="fs_name_35228" value="0214 – Children’s Center (Friendship Home) $65 gift" />
+<input type="hidden" name="code||e6bf6fc41854148a463ba6b3e61809c7179cab38edcc9f2bc8da30ffe11e8729" id="fs_code_35228" value="WCPJ0214EVC" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||dd3093b30461dc87931d374090cbdf76a327fb6ae9550d9b56c228ff10c8824c" id="WCPROJ0214_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$65_donation||e6413cf9e9a726575902756a0484beb399c1d5c4cb49fc6a31042fb4c6e91936" id="WCPJ0214EVC_1" value="" class="variation-65-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
-<!-- $100 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$65</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$65.00</span></div></div></form>
+<!-- $196 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35231" rel="35231">
-<input type="hidden" name="price||d48a643dc8372a377a4783ae636acc14a4f77b7d3fcfbdaff8dcbb18b2fdedd3" id="fs_price_35231" value="100.00" />
+<input type="hidden" name="price||895ec22d8928795b6399adfdcc0fce150e05e7236fc803295cd69305aebd56b4" id="fs_price_35231" value="196.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35231" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35231" />
-<input type="hidden" name="image||f5bd76cb066d01ad4bb0379de7ad3092b844b60f1f016f01ccf6fb0962c35a95||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0214-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_35231" />
-<input type="hidden" name="url||93f25a372dcfb8b5d34e4f1c93b1dfac0cd30777b9a1c8e0f9d5482e7daad3cd" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home-3/" id="fs_url_35231" />
-<input type="hidden" name="quantity_min||a61dd178a0da2cc5ce1d6042be6ab317707e503b6049e883a28ee0328559f8c2||open" value="0" id="fs_quantity_min_35231" />
-<input type="hidden" name="quantity_max||d1f60f26b2beac65e2bddb612bf254994aa1e21815a1b51d3e241f40f909f92d||open" value="0" id="fs_quantity_max_35231" />
+<input type="hidden" name="image||0e9a997fc64e607b09e1800dc51a144303f8d2eb37d41e337102bc8e062ecadd||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0214-Foxy.jpg" id="foxyshop_cart_product_image_35231" />
+<input type="hidden" name="url||72eb769fe85a1b5ba8777fa6ff959906ed5bdfa4e9487a3851053f387b07edfc" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home-3/" id="fs_url_35231" />
+<input type="hidden" name="quantity_min||6d0084dfa0083ad3a139c624f9acea78f75c71aec1d62eecc7641a49ca8593aa||open" value="0" id="fs_quantity_min_35231" />
+<input type="hidden" name="quantity_max||af1bfef9640b0df68cd4ad14bc6f28010ed24edf95a5ccd839933b183857e50c||open" value="0" id="fs_quantity_max_35231" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35231" />
-<input type="hidden" name="name||807ffafc03bea21dbacdb6f32158ffff7cc89cd4f31f4bbc74fade7951918452" id="fs_name_35231" value="0214 – Children’s Center (Friendship Home)" />
-<input type="hidden" name="code||b2171e69b4b59979a55b59ea26475734453d019e0183d27406206ff47b591f86" id="fs_code_35231" value="WCPROJ0214" />
+<input type="hidden" name="name||e86d56cdba27a465a8d5c2de0aecf7d49d4cd9d73a2336a902a60ea5730be6d8" id="fs_name_35231" value="0214 – Children’s Center (Friendship Home) $196 gift" />
+<input type="hidden" name="code||e6bf6fc41854148a463ba6b3e61809c7179cab38edcc9f2bc8da30ffe11e8729" id="fs_code_35231" value="WCPJ0214EVC" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||a0daa0b477776aee4b957b5a1115683a9f6f5db106ac6bb8a56da707de2ee419" id="WCPROJ0214_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$196_donation||336f47dd05f20993e0ac9b96011dc104eb91b14ffeddaee31e28432474d8a353" id="WCPJ0214EVC_1" value="" class="variation-196-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$196</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$196.00</span></div></div></form>
+<!-- $785 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251335" rel="251335">
+<input type="hidden" name="price||f3a4dfc1964556e4affd3094b9a18f0b7f251c4f58a4132f91f318412cd7b4a4" id="fs_price_251335" value="785.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251335" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251335" />
+<input type="hidden" name="image||0e9a997fc64e607b09e1800dc51a144303f8d2eb37d41e337102bc8e062ecadd||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0214-Foxy.jpg" id="foxyshop_cart_product_image_251335" />
+<input type="hidden" name="url||e0dfb509a05f8d18860a3a945864cff2bc69129909879b6a49bcd70c9454cf51" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home-250-donation/" id="fs_url_251335" />
+<input type="hidden" name="quantity_min||6d0084dfa0083ad3a139c624f9acea78f75c71aec1d62eecc7641a49ca8593aa||open" value="0" id="fs_quantity_min_251335" />
+<input type="hidden" name="quantity_max||af1bfef9640b0df68cd4ad14bc6f28010ed24edf95a5ccd839933b183857e50c||open" value="0" id="fs_quantity_max_251335" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251335" />
+<input type="hidden" name="name||5cea56a803c6bcdf5130b80c51eae8567f851d8a24416069b20db21b78cd4f8f" id="fs_name_251335" value="0214 - Children’s Center (Friendship Home) $785 gift" />
+<input type="hidden" name="code||e6bf6fc41854148a463ba6b3e61809c7179cab38edcc9f2bc8da30ffe11e8729" id="fs_code_251335" value="WCPJ0214EVC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$785_donation||147320cfc6d93bea5932e9fed38fa138c2fa9e941e8b92bab4bad31571834215" id="WCPJ0214EVC_1" value="" class="variation-785-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$785</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$785.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35235" rel="35235">
-<input type="hidden" name="price||e28921169c34e5a2b1de5cc593551b544a337585515a800e5bbcd57b9b6df76f" id="fs_price_35235" value="0.00" />
+<input type="hidden" name="price||dff0c2681b14fdc4a5f2d14addada47c9ac7a3f36ac612214133fa95ff62f945" id="fs_price_35235" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35235" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35235" />
-<input type="hidden" name="image||f5bd76cb066d01ad4bb0379de7ad3092b844b60f1f016f01ccf6fb0962c35a95||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0214-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_35235" />
-<input type="hidden" name="url||616945626394ee2959f0bc5af17663ff99b2b6557e0be5f3d06829b8cb71c7ff" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home-4/" id="fs_url_35235" />
-<input type="hidden" name="quantity_min||a61dd178a0da2cc5ce1d6042be6ab317707e503b6049e883a28ee0328559f8c2||open" value="0" id="fs_quantity_min_35235" />
-<input type="hidden" name="quantity_max||d1f60f26b2beac65e2bddb612bf254994aa1e21815a1b51d3e241f40f909f92d||open" value="0" id="fs_quantity_max_35235" />
+<input type="hidden" name="image||0e9a997fc64e607b09e1800dc51a144303f8d2eb37d41e337102bc8e062ecadd||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0214-Foxy.jpg" id="foxyshop_cart_product_image_35235" />
+<input type="hidden" name="url||bc519ae4a243ce6018156d76599015c1b0726b715e6ae9e4915743bc10de5b62" value="https://crosscatholic.org/products/0214-childrens-center-friendship-home-4/" id="fs_url_35235" />
+<input type="hidden" name="quantity_min||6d0084dfa0083ad3a139c624f9acea78f75c71aec1d62eecc7641a49ca8593aa||open" value="0" id="fs_quantity_min_35235" />
+<input type="hidden" name="quantity_max||af1bfef9640b0df68cd4ad14bc6f28010ed24edf95a5ccd839933b183857e50c||open" value="0" id="fs_quantity_max_35235" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35235" />
-<input type="hidden" name="name||807ffafc03bea21dbacdb6f32158ffff7cc89cd4f31f4bbc74fade7951918452" id="fs_name_35235" value="0214 – Children’s Center (Friendship Home)" />
-<input type="hidden" name="code||b2171e69b4b59979a55b59ea26475734453d019e0183d27406206ff47b591f86" id="fs_code_35235" value="WCPROJ0214" />
+<input type="hidden" name="name||7011764b901a587fe907cf2712cd51bf888fffbee98b02990e4e441d91e72f5e" id="fs_name_35235" value="0214 – Children’s Center (Friendship Home)" />
+<input type="hidden" name="code||e6bf6fc41854148a463ba6b3e61809c7179cab38edcc9f2bc8da30ffe11e8729" id="fs_code_35235" value="WCPJ0214EVC" />
 <div class="foxyshop_variations">
-<input type="text" name="price||c1bd641cc2e6b132fa4d0d93cabe5708d2232c8976fcca8676c2c25e8a664db0||open" id="WCPROJ0214_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||1ff64a7461f4221952a9644203dc762a8ddd8081f01e740e1e0a917ffe2459c8||open" id="WCPJ0214EVC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
