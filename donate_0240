@@ -3,67 +3,67 @@ add_shortcode( 'donate_0240', function () {
 	$out = '<div class="flex-container">
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35249" rel="35249">
-<input type="hidden" name="price||edd7b20603f293cd5c76c5d82df3829c54ae28acff07b00863d814afc4926d53" id="fs_price_35249" value="50.00" />
+<input type="hidden" name="price||34ccf9247a491c18c0826dff89c8713dc0356c0b84a4628e2a7ec65e8bcf4e75" id="fs_price_35249" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35249" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35249" />
-<input type="hidden" name="image||3a97dfa89ad41e8300c80023a47db610bf3c5da8194edd169b8e35b17329ee8a||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0240-foxy-thumb-23-b_3.jpg" id="foxyshop_cart_product_image_35249" />
-<input type="hidden" name="url||306cce162fc2fbaf411d5b45a4080dc479f4e271d848082bc508a8ddd39abb8c" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program-2/" id="fs_url_35249" />
-<input type="hidden" name="quantity_min||21af3c6486f33911a2f99bfdb272e5a22245dfc3a318c944d67d597c9ba42288||open" value="0" id="fs_quantity_min_35249" />
-<input type="hidden" name="quantity_max||75737be2ca382513a525d8d1b721bc71a732ac8b72a508082844df153f7178a4||open" value="0" id="fs_quantity_max_35249" />
+<input type="hidden" name="image||78c0d1d490b6369683098f84ca6c9f75fe0089cc67b6bb246bb2aca9b6807e66||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0240-Foxy.jpg" id="foxyshop_cart_product_image_35249" />
+<input type="hidden" name="url||265ad35efb51dad3ba62018cd386023157abab70550329b32f630abead9eb138" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program-2/" id="fs_url_35249" />
+<input type="hidden" name="quantity_min||87abd04b73b86ffe98437331d114c9b587b1e22e7ebacad7fc2f9d0ed8218dbc||open" value="0" id="fs_quantity_min_35249" />
+<input type="hidden" name="quantity_max||5ddb24082dcbe2ec4fdbb69b4a868b1daa95809c030a29499a919180b464bde0||open" value="0" id="fs_quantity_max_35249" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35249" />
-<input type="hidden" name="name||339f3f358846bec495816bbcff2c75850699209a4a9f21e845720180d3a77b86" id="fs_name_35249" value="0240 - Haitian Education and Leadership Program - $50 donation" />
-<input type="hidden" name="code||e33efddafacb49ad3c401438682d68ffd06348b34f63a7770a8f4ef892b094a2" id="fs_code_35249" value="WCPROJ0240" />
+<input type="hidden" name="name||f526ec208e1a15b3422bbc4334dd006fae3bf3bba821fc7e104354c082037e51" id="fs_name_35249" value="0240 - Haitian Education and Leadership Program $50 gift" />
+<input type="hidden" name="code||ed3ce2046a0e97754bd921c4af1441313e5bbc7f97cb25081009b63598a10129" id="fs_code_35249" value="WCPJ3664ELP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||76a8f7c4543fa84ea4c7b85f698d0fa8cb84364dee0f78ddba98190847f5de27" id="WCPROJ0240_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$50_donation||689ad4b52bb1dd20f77fc9e52d653a5345e5049593212dca8303c584afb61171" id="WCPJ3664ELP_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
 <!-- $100 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35252" rel="35252">
-<input type="hidden" name="price||09ca2d522e4a748c44f0cda64502488f5553e00e8fd1bda5a5add92b2ae9b3c0" id="fs_price_35252" value="100.00" />
+<input type="hidden" name="price||766770d766c5330568ab6978863df78afb25dd87405249a1fb30d7c4e7682c10" id="fs_price_35252" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35252" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35252" />
-<input type="hidden" name="image||3a97dfa89ad41e8300c80023a47db610bf3c5da8194edd169b8e35b17329ee8a||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0240-foxy-thumb-23-b_1.jpg" id="foxyshop_cart_product_image_35252" />
-<input type="hidden" name="url||dd76993dcca052bf57c34abd2f81571cb1e522e7ce150f44a6d8d507668c6240" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program-3/" id="fs_url_35252" />
-<input type="hidden" name="quantity_min||21af3c6486f33911a2f99bfdb272e5a22245dfc3a318c944d67d597c9ba42288||open" value="0" id="fs_quantity_min_35252" />
-<input type="hidden" name="quantity_max||75737be2ca382513a525d8d1b721bc71a732ac8b72a508082844df153f7178a4||open" value="0" id="fs_quantity_max_35252" />
+<input type="hidden" name="image||78c0d1d490b6369683098f84ca6c9f75fe0089cc67b6bb246bb2aca9b6807e66||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0240-Foxy.jpg" id="foxyshop_cart_product_image_35252" />
+<input type="hidden" name="url||d352f90002f2403e277d413f06c1962589ddbf10f7779ed5504ef83b8c5e1253" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program-3/" id="fs_url_35252" />
+<input type="hidden" name="quantity_min||87abd04b73b86ffe98437331d114c9b587b1e22e7ebacad7fc2f9d0ed8218dbc||open" value="0" id="fs_quantity_min_35252" />
+<input type="hidden" name="quantity_max||5ddb24082dcbe2ec4fdbb69b4a868b1daa95809c030a29499a919180b464bde0||open" value="0" id="fs_quantity_max_35252" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35252" />
-<input type="hidden" name="name||7f46623572e1a6ca1ad314c3003e62fcf497ea989f9d3ec95642b7bea012795b" id="fs_name_35252" value="0240 - Haitian Education and Leadership Program - $100 donation" />
-<input type="hidden" name="code||e33efddafacb49ad3c401438682d68ffd06348b34f63a7770a8f4ef892b094a2" id="fs_code_35252" value="WCPROJ0240" />
+<input type="hidden" name="name||217a6f5a6d41a385eb15df98d4e9e789c4a765949def73f4fdd6e37033207e0f" id="fs_name_35252" value="0240 - Haitian Education and Leadership Program $100 gift" />
+<input type="hidden" name="code||ed3ce2046a0e97754bd921c4af1441313e5bbc7f97cb25081009b63598a10129" id="fs_code_35252" value="WCPJ3664ELP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||a63972e244217d24f178f060d71813e147a78dc450852dea0b26ed43d0e6d2f0" id="WCPROJ0240_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$100_donation||055d0c1c21a4c0b98cb22def47f65b995017ce2f925b42c6e5da5fcb54303887" id="WCPJ3664ELP_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
 <!-- $250 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35246" rel="35246">
-<input type="hidden" name="price||362b33eafa8275f2c978c3e902f4484169aff65e413eef295d3779d663b792df" id="fs_price_35246" value="250.00" />
+<input type="hidden" name="price||672528f78b967f1572faf5b92f102671ed2318a74c13f4195909a431d16cbea0" id="fs_price_35246" value="250.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35246" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35246" />
-<input type="hidden" name="image||3a97dfa89ad41e8300c80023a47db610bf3c5da8194edd169b8e35b17329ee8a||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0240-foxy-thumb-23-b.jpg" id="foxyshop_cart_product_image_35246" />
-<input type="hidden" name="url||31e0b981425e52a7fc90e430f258b4117d573401954721fc9550ff094ca15308" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program/" id="fs_url_35246" />
-<input type="hidden" name="quantity_min||21af3c6486f33911a2f99bfdb272e5a22245dfc3a318c944d67d597c9ba42288||open" value="0" id="fs_quantity_min_35246" />
-<input type="hidden" name="quantity_max||75737be2ca382513a525d8d1b721bc71a732ac8b72a508082844df153f7178a4||open" value="0" id="fs_quantity_max_35246" />
+<input type="hidden" name="image||78c0d1d490b6369683098f84ca6c9f75fe0089cc67b6bb246bb2aca9b6807e66||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0240-Foxy.jpg" id="foxyshop_cart_product_image_35246" />
+<input type="hidden" name="url||a71570e48f986c1d4aa781a4c47eaaa83bc3ef8dd24f55b0eaef586200fcd4fe" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program/" id="fs_url_35246" />
+<input type="hidden" name="quantity_min||87abd04b73b86ffe98437331d114c9b587b1e22e7ebacad7fc2f9d0ed8218dbc||open" value="0" id="fs_quantity_min_35246" />
+<input type="hidden" name="quantity_max||5ddb24082dcbe2ec4fdbb69b4a868b1daa95809c030a29499a919180b464bde0||open" value="0" id="fs_quantity_max_35246" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35246" />
-<input type="hidden" name="name||237b8f1a62ee9fbc6187840c242b4a871ba6a46307284ddfe7b23e47bddd9021" id="fs_name_35246" value="0240 - Haitian Education and Leadership Program $250 donation" />
-<input type="hidden" name="code||e33efddafacb49ad3c401438682d68ffd06348b34f63a7770a8f4ef892b094a2" id="fs_code_35246" value="WCPROJ0240" />
+<input type="hidden" name="name||2f4c6b32c1e5aac5fad17e139a4ef3192705ffc6d963a5167f8e1e82a657691a" id="fs_name_35246" value="0240 - Haitian Education and Leadership Program $250 gift" />
+<input type="hidden" name="code||ed3ce2046a0e97754bd921c4af1441313e5bbc7f97cb25081009b63598a10129" id="fs_code_35246" value="WCPJ3664ELP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||a8d67607ae59223b8d0642ba6ae6f1054c798afcbbf95da53fb7ccb10f445f5c" id="WCPROJ0240_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$250_donation||8c9ea5700a7f5ffb4c5ec3c2cd25e079329a570fb9089cb2bba409bf6b19ef53" id="WCPJ3664ELP_1" value="" class="variation-250-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35255" rel="35255">
-<input type="hidden" name="price||576833962f9a0d73c997f91844dcaf0f614ff39445bff806cda8ab5a8895181f" id="fs_price_35255" value="0.00" />
+<input type="hidden" name="price||39edb3c76078f0cdb23998925426c2d6a170cfffb4c3084812dfd92c03620877" id="fs_price_35255" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35255" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35255" />
-<input type="hidden" name="image||3a97dfa89ad41e8300c80023a47db610bf3c5da8194edd169b8e35b17329ee8a||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0240-foxy-thumb-23-b_2.jpg" id="foxyshop_cart_product_image_35255" />
-<input type="hidden" name="url||867e3f25027c2d2b6208a5b798b7caa9d6c94c887460bd10d420b1ad60bc5b65" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program-4/" id="fs_url_35255" />
-<input type="hidden" name="quantity_min||21af3c6486f33911a2f99bfdb272e5a22245dfc3a318c944d67d597c9ba42288||open" value="0" id="fs_quantity_min_35255" />
-<input type="hidden" name="quantity_max||75737be2ca382513a525d8d1b721bc71a732ac8b72a508082844df153f7178a4||open" value="0" id="fs_quantity_max_35255" />
+<input type="hidden" name="image||78c0d1d490b6369683098f84ca6c9f75fe0089cc67b6bb246bb2aca9b6807e66||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0240-Foxy.jpg" id="foxyshop_cart_product_image_35255" />
+<input type="hidden" name="url||51f0d3f4d829ec260443c5f31a3207495f1af3970143a0e9122dcf02664dd318" value="https://crosscatholic.org/products/0240-haitian-education-and-leadership-program-4/" id="fs_url_35255" />
+<input type="hidden" name="quantity_min||87abd04b73b86ffe98437331d114c9b587b1e22e7ebacad7fc2f9d0ed8218dbc||open" value="0" id="fs_quantity_min_35255" />
+<input type="hidden" name="quantity_max||5ddb24082dcbe2ec4fdbb69b4a868b1daa95809c030a29499a919180b464bde0||open" value="0" id="fs_quantity_max_35255" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35255" />
-<input type="hidden" name="name||1abc88d0a9a0031ec8f62863fee7b3085868936f7cfa4acffd2aedb0e7744f62" id="fs_name_35255" value="0240 - Haitian Education and Leadership Program" />
-<input type="hidden" name="code||e33efddafacb49ad3c401438682d68ffd06348b34f63a7770a8f4ef892b094a2" id="fs_code_35255" value="WCPROJ0240" />
+<input type="hidden" name="name||1a8452415d020f7b38233dbd12b7aa94ee887c8b79af156b9198dd4013594c7c" id="fs_name_35255" value="0240 - Haitian Education and Leadership Program" />
+<input type="hidden" name="code||ed3ce2046a0e97754bd921c4af1441313e5bbc7f97cb25081009b63598a10129" id="fs_code_35255" value="WCPJ3664ELP" />
 <div class="foxyshop_variations">
-<input type="text" name="price||10528ddf20a25e55e9bf070834fb413fe92d9ecdba446f2099a51672a93f9646||open" id="WCPROJ0240_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||604c95706a854aec1500e41f14b0020400952dde4f996f6fc9bb1a17156420cf||open" id="WCPJ3664ELP_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
