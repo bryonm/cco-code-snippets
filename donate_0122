@@ -1,70 +1,69 @@
 add_shortcode( 'donate_0122', function () {
 
 	$out = '<div class="flex-container">
-
-<!-- $25 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_33933" rel="33933">
-<input type="hidden" name="price||eeea44106b3022b45cfdaf8e3eb796c054cf29e999de84088fad8d52eb8f70c2" id="fs_price_33933" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_33933" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_33933" />
-<input type="hidden" name="image||cbe52493228082633ecece16c4f17e348984fed6b7cc57c058b47d656e175d80||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0122-foxy-thumb.jpg" id="foxyshop_cart_product_image_33933" />
-<input type="hidden" name="url||219b370fd2866cd2acaacc796fcf3fd66a1070d8cf7ea934562e32711286a25c" value="https://crosscatholic.org/products/0122-brother-beausang-catholic-school/" id="fs_url_33933" />
-<input type="hidden" name="quantity_min||129b4c721beec9eeaa5de7712f9d572652e226bd23e32004192eaa1ef226f780||open" value="0" id="fs_quantity_min_33933" />
-<input type="hidden" name="quantity_max||c7b67b2bb61cdb8e985dfb42d9ac978196397e4622f927e149c44ef74f2f5a57||open" value="0" id="fs_quantity_max_33933" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_33933" />
-<input type="hidden" name="name||a2c7427cdefcd3138baa94fdf13f6bf52336f927e26e492b90544c89b535abd7" id="fs_name_33933" value="0122 - Edmund Rice Catholic Education Centre - $25 donation" />
-<input type="hidden" name="code||7b486da8c50b82b9d07d88154c7d1a1998cb435502bd3cb774fc7ddb835d3a21" id="fs_code_33933" value="WCPROJ0122" />
+<!-- $66 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255475" rel="255475">
+<input type="hidden" name="price||74b7dda544f0f58c083e0acf044e91f35328a4ffcad7d62d0615dc89f0293aae" id="fs_price_255475" value="66.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255475" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255475" />
+<input type="hidden" name="image||b5336599ee75d624d4ba828fd69a04d2b13657ac37832d3ca3c373d3a407a2f5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0122-Foxy.jpg" id="foxyshop_cart_product_image_255475" />
+<input type="hidden" name="url||ec3ad0f7c776c64a1de106a78e5903df566492cd42eb1f354e2e89d9ac906366" value="https://crosscatholic.org/products/0122-edmund-rice-catholic-education-66-gift/" id="fs_url_255475" />
+<input type="hidden" name="quantity_min||1e350129158e4b9047d1f976ffc2ba2f693a9500d3a7c9a65a41e709740facdb||open" value="0" id="fs_quantity_min_255475" />
+<input type="hidden" name="quantity_max||5834ae33136a89ff0faadfbfea086965acd77bdf7efba9c24442eca2db01c4cf||open" value="0" id="fs_quantity_max_255475" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255475" />
+<input type="hidden" name="name||44c3e4d134b00fc0a324aae02da54f3c1a9bff74892b0839fba41ebd3feb60ec" id="fs_name_255475" value="0122 - Edmund Rice Catholic Education $66 gift" />
+<input type="hidden" name="code||3f145b23ad3e55bcb71910ffb65efc3e99afaab91eb76ef05d09f2d5bb4d9dcd" id="fs_code_255475" value="WCPJ0122ERCS" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||d6f8d82631731dfe8e5a67d4f03d0ae3a1a7162750ada174cd5874e2536e51fd" id="WCPROJ0122_1" value="" class="variation-25-donation" />
+<input type="hidden" name="$66_donation||c3097573753d8954acb7f9553aeeba8c839fa8df83bcd4644812bf0f91ff2c75" id="WCPJ0122ERCS_1" value="" class="variation-66-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-<!-- $50 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34057" rel="34057">
-<input type="hidden" name="price||32428e1bf56a96e214a764788cdbdd3ab4398f6f7c6594ba9456dc3f62ed3cb3" id="fs_price_34057" value="50.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34057" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34057" />
-<input type="hidden" name="image||cbe52493228082633ecece16c4f17e348984fed6b7cc57c058b47d656e175d80||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0122-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_34057" />
-<input type="hidden" name="url||464f8d21cb17768ca0cb2dab08362b8d58c8a789432454cd6c108ab8bfe687ac" value="https://crosscatholic.org/products/0122-brother-beausang-catholic-school-2/" id="fs_url_34057" />
-<input type="hidden" name="quantity_min||129b4c721beec9eeaa5de7712f9d572652e226bd23e32004192eaa1ef226f780||open" value="0" id="fs_quantity_min_34057" />
-<input type="hidden" name="quantity_max||c7b67b2bb61cdb8e985dfb42d9ac978196397e4622f927e149c44ef74f2f5a57||open" value="0" id="fs_quantity_max_34057" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34057" />
-<input type="hidden" name="name||bc060a55df80e5456839fee625af599c5fdc6bf650c083c7feac80e7aea824f9" id="fs_name_34057" value="0122 - Edmund Rice Catholic Education Centre - $50 donation" />
-<input type="hidden" name="code||7b486da8c50b82b9d07d88154c7d1a1998cb435502bd3cb774fc7ddb835d3a21" id="fs_code_34057" value="WCPROJ0122" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$66</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$66.00</span></div></div></form>
+<!-- $132 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255477" rel="255477">
+<input type="hidden" name="price||a907d4dfd0df6d457e96a61b302fdadbe01f86f1ca96fbf0a3317c3beb03984e" id="fs_price_255477" value="132.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255477" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255477" />
+<input type="hidden" name="image||b5336599ee75d624d4ba828fd69a04d2b13657ac37832d3ca3c373d3a407a2f5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0122-Foxy.jpg" id="foxyshop_cart_product_image_255477" />
+<input type="hidden" name="url||fea01d368e09b0b69febab1ed254a5cb5d53ea434955f064730eb90a3c6a7d9c" value="https://crosscatholic.org/products/0122-edmund-rice-catholic-education-132-gift/" id="fs_url_255477" />
+<input type="hidden" name="quantity_min||1e350129158e4b9047d1f976ffc2ba2f693a9500d3a7c9a65a41e709740facdb||open" value="0" id="fs_quantity_min_255477" />
+<input type="hidden" name="quantity_max||5834ae33136a89ff0faadfbfea086965acd77bdf7efba9c24442eca2db01c4cf||open" value="0" id="fs_quantity_max_255477" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255477" />
+<input type="hidden" name="name||53f001b4a51daa7fbc27169f05da0ccd1a5ad8d317c4d68070568c48b1293e76" id="fs_name_255477" value="0122 - Edmund Rice Catholic Education $132 gift" />
+<input type="hidden" name="code||3f145b23ad3e55bcb71910ffb65efc3e99afaab91eb76ef05d09f2d5bb4d9dcd" id="fs_code_255477" value="WCPJ0122ERCS" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||f89c58bec3df5f38f9fba150291f821899bac71e912699b3732dfb07261089fd" id="WCPROJ0122_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$132_donation||da94bf576f7861e2c70a12c45ad7f9b93f1a29fce8c7a85e206018a70a093d2f" id="WCPJ0122ERCS_1" value="" class="variation-132-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-<!-- $100 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34060" rel="34060">
-<input type="hidden" name="price||1483a07496c0428e19fd07f2359c777ee4ede29314aba9f89ef7caf3d6a8e16d" id="fs_price_34060" value="100.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34060" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34060" />
-<input type="hidden" name="image||cbe52493228082633ecece16c4f17e348984fed6b7cc57c058b47d656e175d80||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0122-foxy-thumb-2.jpg" id="foxyshop_cart_product_image_34060" />
-<input type="hidden" name="url||1d6d498cb7285035ecd5fddde2511f9351ecf5b006a0a3e317e08230b124bc7a" value="https://crosscatholic.org/products/0122-brother-beausang-catholic-school-3/" id="fs_url_34060" />
-<input type="hidden" name="quantity_min||129b4c721beec9eeaa5de7712f9d572652e226bd23e32004192eaa1ef226f780||open" value="0" id="fs_quantity_min_34060" />
-<input type="hidden" name="quantity_max||c7b67b2bb61cdb8e985dfb42d9ac978196397e4622f927e149c44ef74f2f5a57||open" value="0" id="fs_quantity_max_34060" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34060" />
-<input type="hidden" name="name||275d10ee7b9b784134771c8d2abe6febb8e840dfd90ae9289cace63c66727e61" id="fs_name_34060" value="0122 - Edmund Rice Catholic Education Centre - $100 donation" />
-<input type="hidden" name="code||7b486da8c50b82b9d07d88154c7d1a1998cb435502bd3cb774fc7ddb835d3a21" id="fs_code_34060" value="WCPROJ0122" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$132</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$132.00</span></div></div></form>
+<!-- $264 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255479" rel="255479">
+<input type="hidden" name="price||20c79c668d7e1d603ab327b89f11b5110a16ea58dad48e1d6a5b1fea40d14f76" id="fs_price_255479" value="264.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255479" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255479" />
+<input type="hidden" name="image||b5336599ee75d624d4ba828fd69a04d2b13657ac37832d3ca3c373d3a407a2f5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0122-Foxy.jpg" id="foxyshop_cart_product_image_255479" />
+<input type="hidden" name="url||1fd8a7ce3eb931447a540c7f9577656f6d77290c2461e991187e1ff91110c2fd" value="https://crosscatholic.org/products/0122-edmund-rice-catholic-education-264-gift/" id="fs_url_255479" />
+<input type="hidden" name="quantity_min||1e350129158e4b9047d1f976ffc2ba2f693a9500d3a7c9a65a41e709740facdb||open" value="0" id="fs_quantity_min_255479" />
+<input type="hidden" name="quantity_max||5834ae33136a89ff0faadfbfea086965acd77bdf7efba9c24442eca2db01c4cf||open" value="0" id="fs_quantity_max_255479" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255479" />
+<input type="hidden" name="name||5c0614e43a5b6cb24d9cab40377b6667d017b789785ae4123b4f757accbfa3c1" id="fs_name_255479" value="0122 - Edmund Rice Catholic Education $264 gift" />
+<input type="hidden" name="code||3f145b23ad3e55bcb71910ffb65efc3e99afaab91eb76ef05d09f2d5bb4d9dcd" id="fs_code_255479" value="WCPJ0122ERCS" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||f10052aec1dbfcb60a8ef48f80ffa8a3959868a43783dda721a5e7cb32ab3c71" id="WCPROJ0122_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$264_donation||8911b361ff52fa2bf633363945b5d0c47d0ae083efadb37b080c7f4ea8a8d8c4" id="WCPJ0122ERCS_1" value="" class="variation-264-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$264</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$264.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_34063" rel="34063">
-<input type="hidden" name="price||22c61da5aedad8191f06dd306998b59b522a88d3a15ac4290aa146b6541c94b3" id="fs_price_34063" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_34063" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_34063" />
-<input type="hidden" name="image||cbe52493228082633ecece16c4f17e348984fed6b7cc57c058b47d656e175d80||open" value="https://crosscatholic.org/wp-content/uploads/2023/02/0122-foxy-thumb-3.jpg" id="foxyshop_cart_product_image_34063" />
-<input type="hidden" name="url||9fbd822bb09bdcbf542a8c3a9d2dab2dbe5f31c77288517eb5ea038c47d91487" value="https://crosscatholic.org/products/0122-brother-beausang-catholic-school-4/" id="fs_url_34063" />
-<input type="hidden" name="quantity_min||129b4c721beec9eeaa5de7712f9d572652e226bd23e32004192eaa1ef226f780||open" value="0" id="fs_quantity_min_34063" />
-<input type="hidden" name="quantity_max||c7b67b2bb61cdb8e985dfb42d9ac978196397e4622f927e149c44ef74f2f5a57||open" value="0" id="fs_quantity_max_34063" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_34063" />
-<input type="hidden" name="name||e5889a6b2e5007700df554640acefbd439d2acdf9c86aeffaf58706022af2e3d" id="fs_name_34063" value="0122 - Edmund Rice Catholic Education Centre" />
-<input type="hidden" name="code||7b486da8c50b82b9d07d88154c7d1a1998cb435502bd3cb774fc7ddb835d3a21" id="fs_code_34063" value="WCPROJ0122" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255481" rel="255481">
+<input type="hidden" name="price||ba52f8a38f2809092c17e983e804d337462524c60bb23b7ca7c8948e2de70fda" id="fs_price_255481" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255481" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255481" />
+<input type="hidden" name="image||b5336599ee75d624d4ba828fd69a04d2b13657ac37832d3ca3c373d3a407a2f5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0122-Foxy.jpg" id="foxyshop_cart_product_image_255481" />
+<input type="hidden" name="url||066af96de14e6575ebf893d681cda4956cc0875bacf53ffecfe4a4e278398ba0" value="https://crosscatholic.org/products/0122-edmund-rice-catholic-education/" id="fs_url_255481" />
+<input type="hidden" name="quantity_min||1e350129158e4b9047d1f976ffc2ba2f693a9500d3a7c9a65a41e709740facdb||open" value="0" id="fs_quantity_min_255481" />
+<input type="hidden" name="quantity_max||5834ae33136a89ff0faadfbfea086965acd77bdf7efba9c24442eca2db01c4cf||open" value="0" id="fs_quantity_max_255481" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255481" />
+<input type="hidden" name="name||27456d766e46d1d36a47b62d08892e26b645805a1d438a5016cb99ee2c6ad36a" id="fs_name_255481" value="0122 - Edmund Rice Catholic Education" />
+<input type="hidden" name="code||3f145b23ad3e55bcb71910ffb65efc3e99afaab91eb76ef05d09f2d5bb4d9dcd" id="fs_code_255481" value="WCPJ0122ERCS" />
 <div class="foxyshop_variations">
-<input type="text" name="price||72123be8cf1fd596f76ce7410d19f8f5f471878cbc72a248ba1177dda698bad3||open" id="WCPROJ0122_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||95f244eac93aa844c0189b1d8c06dfda3cfcfe35fb4cfb48b93efb400c6f0987||open" id="WCPJ0122ERCS_1" value="" class="variation-price foxyshop_required" required required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
