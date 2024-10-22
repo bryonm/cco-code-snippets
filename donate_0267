@@ -3,67 +3,67 @@ add_shortcode( 'donate_0267', function () {
 	$out = '<div class="flex-container">
 <!-- $50 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35270" rel="35270">
-<input type="hidden" name="price||c6c7deab63aa4b4bc45ba05dc1f1a68f4e87626ad656a14f692c3da814d2aca2" id="fs_price_35270" value="50.00" />
+<input type="hidden" name="price||2ae83acd4d88ef56acfd307bd809e4bf63ae619a5e30ddc3948b8600ac1f5ad4" id="fs_price_35270" value="50.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35270" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35270" />
-<input type="hidden" name="image||d254db4da5d27310c943c420c7139c8a708002692557fa15998484f43cd5aca8||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0267-foxy-thumb.jpg" id="foxyshop_cart_product_image_35270" />
-<input type="hidden" name="url||883bde23fa94b871306bc6c40a25d43b00f7b0b4b684c31267c26338d92890b7" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children-2/" id="fs_url_35270" />
-<input type="hidden" name="quantity_min||f32d5b619c8023f741fa4dbe96b8d8bc34605917f3f2a1b494c5238dd5a29ab4||open" value="0" id="fs_quantity_min_35270" />
-<input type="hidden" name="quantity_max||a926d9986cebd96978ddc237169f1b65d6729f0261bfbd43adb0e6491df4e526||open" value="0" id="fs_quantity_max_35270" />
+<input type="hidden" name="image||04596a366ce14be96431a4f9fe854fe38dc684b13adf57888c63687bc651f913||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0267-Foxy.jpg" id="foxyshop_cart_product_image_35270" />
+<input type="hidden" name="url||ba2d4b7203a178e95579ebda795163fd924d9e5feb3cecd03f72415fb4cd392b" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children-2/" id="fs_url_35270" />
+<input type="hidden" name="quantity_min||bbb4bf53a4792c14eb2006cbbb9fa83fa77f6279fc71c48efc0c3f861ccf5d48||open" value="0" id="fs_quantity_min_35270" />
+<input type="hidden" name="quantity_max||e557b67b4c947ff9a59f5de6fc3c0107793723a087fd80fb63745f016475ce04||open" value="0" id="fs_quantity_max_35270" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35270" />
-<input type="hidden" name="name||aea1b7f41d39494a3cac643c7cf9264fe3c2dcab28ec1b838f270c773258790a" id="fs_name_35270" value="0267 – Scholarships for Poor Children" />
-<input type="hidden" name="code||5428e98881ad6af5574e1452c3516f6850da241d2b386e55d3843e98fa8507fa" id="fs_code_35270" value="WCPROJ0267" />
+<input type="hidden" name="name||3fa31c8cc9718d9bed362e6df32fcdecb6224982fe9e5f85715d9d7447286c8f" id="fs_name_35270" value="0267 – Scholarships for Poor Children $50 gift" />
+<input type="hidden" name="code||fd1b8ba8dc4667f84c2b526f9514a7635bb524d434a6363d6ca694c4fc845b0f" id="fs_code_35270" value="WCPJ0267CSS" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||9310746651ab4885f4b3a8e01c5446062f9a31f392db7ad4e3465468bbe55c1c" id="WCPROJ0267_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$50_donation||2d50ef992a95fe7e2638198e03dfcdd36d2da7686f2b156d1dc4eddb72a47860" id="WCPJ0267CSS_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
 <!-- $100 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35273" rel="35273">
-<input type="hidden" name="price||8150071aeb2c6500624eaf240319d83fb2f5f7ce2107a3737a5a302b2fb1bcd1" id="fs_price_35273" value="100.00" />
+<input type="hidden" name="price||1a8b60a9751e477c30f69eff90555b0d3b065410b0ddd3c4b67be1e4ef27c5c4" id="fs_price_35273" value="100.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35273" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35273" />
-<input type="hidden" name="image||d254db4da5d27310c943c420c7139c8a708002692557fa15998484f43cd5aca8||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0267-foxy-thumb.jpg" id="foxyshop_cart_product_image_35273" />
-<input type="hidden" name="url||7b738d7b6db05dfef16ed26262c974a8644960a183a1ef77ccab519078f1fa10" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children-3/" id="fs_url_35273" />
-<input type="hidden" name="quantity_min||f32d5b619c8023f741fa4dbe96b8d8bc34605917f3f2a1b494c5238dd5a29ab4||open" value="0" id="fs_quantity_min_35273" />
-<input type="hidden" name="quantity_max||a926d9986cebd96978ddc237169f1b65d6729f0261bfbd43adb0e6491df4e526||open" value="0" id="fs_quantity_max_35273" />
+<input type="hidden" name="image||04596a366ce14be96431a4f9fe854fe38dc684b13adf57888c63687bc651f913||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0267-Foxy.jpg" id="foxyshop_cart_product_image_35273" />
+<input type="hidden" name="url||1deb857c2df1df6d380ef02fff6da723851f6b9b02040f754189c9f79ed60fc3" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children-3/" id="fs_url_35273" />
+<input type="hidden" name="quantity_min||bbb4bf53a4792c14eb2006cbbb9fa83fa77f6279fc71c48efc0c3f861ccf5d48||open" value="0" id="fs_quantity_min_35273" />
+<input type="hidden" name="quantity_max||e557b67b4c947ff9a59f5de6fc3c0107793723a087fd80fb63745f016475ce04||open" value="0" id="fs_quantity_max_35273" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35273" />
-<input type="hidden" name="name||aea1b7f41d39494a3cac643c7cf9264fe3c2dcab28ec1b838f270c773258790a" id="fs_name_35273" value="0267 – Scholarships for Poor Children" />
-<input type="hidden" name="code||5428e98881ad6af5574e1452c3516f6850da241d2b386e55d3843e98fa8507fa" id="fs_code_35273" value="WCPROJ0267" />
+<input type="hidden" name="name||1defcb1982be2c997f9bd29cbf7b735dcb2f95292a87c5e25b657d53e4cd4052" id="fs_name_35273" value="0267 – Scholarships for Poor Children" />
+<input type="hidden" name="code||fd1b8ba8dc4667f84c2b526f9514a7635bb524d434a6363d6ca694c4fc845b0f" id="fs_code_35273" value="WCPJ0267CSS" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||aa3711e91bb8f2bde416232f68c0622a320bbecceae578e707dfbabc1b54169e" id="WCPROJ0267_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$100_donation||8adce6a24849b3be687c5bd96bb5cf63bc40c8f42b9c4c3251bc212234bab3f4" id="WCPJ0267CSS_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
 <!-- $250 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35267" rel="35267">
-<input type="hidden" name="price||863f9fdfd58caf89ef660ec9ddd3274e8bdd3a9f0743a210e29e8a16ceeb1e6a" id="fs_price_35267" value="250.00" />
+<input type="hidden" name="price||26658c9a522cb96a2d395da3a8f961650aeb12a34df985640ec252ee6ef229d5" id="fs_price_35267" value="250.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35267" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35267" />
-<input type="hidden" name="image||d254db4da5d27310c943c420c7139c8a708002692557fa15998484f43cd5aca8||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0267-foxy-thumb.jpg" id="foxyshop_cart_product_image_35267" />
-<input type="hidden" name="url||19869a83544a5c7328cdf7be58afa6992e2dab964502634b3b099cd33d2e6294" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children/" id="fs_url_35267" />
-<input type="hidden" name="quantity_min||f32d5b619c8023f741fa4dbe96b8d8bc34605917f3f2a1b494c5238dd5a29ab4||open" value="0" id="fs_quantity_min_35267" />
-<input type="hidden" name="quantity_max||a926d9986cebd96978ddc237169f1b65d6729f0261bfbd43adb0e6491df4e526||open" value="0" id="fs_quantity_max_35267" />
+<input type="hidden" name="image||04596a366ce14be96431a4f9fe854fe38dc684b13adf57888c63687bc651f913||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0267-Foxy.jpg" id="foxyshop_cart_product_image_35267" />
+<input type="hidden" name="url||aefc2e447df7d9cf9b997e28daab01422c1e9667ab95405df4209d5c87fd5fc9" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children/" id="fs_url_35267" />
+<input type="hidden" name="quantity_min||bbb4bf53a4792c14eb2006cbbb9fa83fa77f6279fc71c48efc0c3f861ccf5d48||open" value="0" id="fs_quantity_min_35267" />
+<input type="hidden" name="quantity_max||e557b67b4c947ff9a59f5de6fc3c0107793723a087fd80fb63745f016475ce04||open" value="0" id="fs_quantity_max_35267" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35267" />
-<input type="hidden" name="name||c5400b112dc8309db9fe90245569730af5e63bc6ad83200d37e2bc4accf6823e" id="fs_name_35267" value="0267 - Scholarships for Poor Children $25 donation" />
-<input type="hidden" name="code||5428e98881ad6af5574e1452c3516f6850da241d2b386e55d3843e98fa8507fa" id="fs_code_35267" value="WCPROJ0267" />
+<input type="hidden" name="name||fe8a3d70116382513fd737697b37ff597bc2478ca2e5defcf62e69656b0087f5" id="fs_name_35267" value="0267 - Scholarships for Poor Children $250 gift" />
+<input type="hidden" name="code||fd1b8ba8dc4667f84c2b526f9514a7635bb524d434a6363d6ca694c4fc845b0f" id="fs_code_35267" value="WCPJ0267CSS" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||f330e761393c04b356a9d8e310eccd9911314757ef2b684289e851123d793056" id="WCPROJ0267_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$250_donation||2ea1c12b16d051208d18616f984c56ba91b83f7fcc6f84706e056533ee414ebd" id="WCPJ0267CSS_1" value="" class="variation-250-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35278" rel="35278">
-<input type="hidden" name="price||98bfbc078b114f40d06fcecaeefe9a82a17643b22013af5764f43e3c5104ee6b" id="fs_price_35278" value="0.00" />
+<input type="hidden" name="price||405fc9ae6198cc5e7111327561cef58a18ba3d91bf1917db90d6e561dcf0ad70" id="fs_price_35278" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35278" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35278" />
-<input type="hidden" name="image||d254db4da5d27310c943c420c7139c8a708002692557fa15998484f43cd5aca8||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/0267-foxy-thumb.jpg" id="foxyshop_cart_product_image_35278" />
-<input type="hidden" name="url||e96edc5237a4f7789836aafc2c4a6cad4d1442eb1506cbeed14c8445208570b6" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children-4/" id="fs_url_35278" />
-<input type="hidden" name="quantity_min||f32d5b619c8023f741fa4dbe96b8d8bc34605917f3f2a1b494c5238dd5a29ab4||open" value="0" id="fs_quantity_min_35278" />
-<input type="hidden" name="quantity_max||a926d9986cebd96978ddc237169f1b65d6729f0261bfbd43adb0e6491df4e526||open" value="0" id="fs_quantity_max_35278" />
+<input type="hidden" name="image||04596a366ce14be96431a4f9fe854fe38dc684b13adf57888c63687bc651f913||open" value="https://crosscatholic.org/wp-content/uploads/2020/07/Project-img-0267-Foxy.jpg" id="foxyshop_cart_product_image_35278" />
+<input type="hidden" name="url||99918a3dddc77fd46a7fec3be6b5727b0a876869bc48ba44f8879e7abb64988e" value="https://crosscatholic.org/products/0267-scholarships-for-poor-children-4/" id="fs_url_35278" />
+<input type="hidden" name="quantity_min||bbb4bf53a4792c14eb2006cbbb9fa83fa77f6279fc71c48efc0c3f861ccf5d48||open" value="0" id="fs_quantity_min_35278" />
+<input type="hidden" name="quantity_max||e557b67b4c947ff9a59f5de6fc3c0107793723a087fd80fb63745f016475ce04||open" value="0" id="fs_quantity_max_35278" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35278" />
-<input type="hidden" name="name||aea1b7f41d39494a3cac643c7cf9264fe3c2dcab28ec1b838f270c773258790a" id="fs_name_35278" value="0267 – Scholarships for Poor Children" />
-<input type="hidden" name="code||5428e98881ad6af5574e1452c3516f6850da241d2b386e55d3843e98fa8507fa" id="fs_code_35278" value="WCPROJ0267" />
+<input type="hidden" name="name||1defcb1982be2c997f9bd29cbf7b735dcb2f95292a87c5e25b657d53e4cd4052" id="fs_name_35278" value="0267 – Scholarships for Poor Children" />
+<input type="hidden" name="code||fd1b8ba8dc4667f84c2b526f9514a7635bb524d434a6363d6ca694c4fc845b0f" id="fs_code_35278" value="WCPJ0267CSS" />
 <div class="foxyshop_variations">
-<input type="text" name="price||5401511b690b710388ab5536480726508763257d5fe638e69a96e1cf8875b55a||open" id="WCPROJ0267_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||77b1234a5d108e845b9651013b650cf065d6eaddc07fa39ae796be4145724fbb||open" id="WCPJ0267CSS_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
