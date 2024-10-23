@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3436', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266282" rel="266282">
+<input type="hidden" name="price||545c8604e9f343259526441b09de441946a5a6390159c6acb96387912641825d" id="fs_price_266282" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266282" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266282" />
+<input type="hidden" name="image||dbab1977aeffd3d0561a976cc034a5e8380d3910bdd5d2188c35a246ded82547||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3436-Equipment-Medical-Supplies-Foxy.jpg" id="foxyshop_cart_product_image_266282" />
+<input type="hidden" name="url||e07f93b8464e05299bc6bf02385ab79e3b03bdce591bebddcce74a06654d8999" value="https://crosscatholic.org/products/3436-diocese-of-karonga-50-gift/" id="fs_url_266282" />
+<input type="hidden" name="quantity_min||5528f5a2705044522f45abc918db42ffcaec3d72c28ab99cfc0caf7e57c51615||open" value="0" id="fs_quantity_min_266282" />
+<input type="hidden" name="quantity_max||2aa118176c97c33263abdb9b41a513e2f7e018989cf7f01d6b238e805ba0352e||open" value="0" id="fs_quantity_max_266282" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266282" />
+<input type="hidden" name="name||cf64f211dfb548029602dcd0cb5d23e66f0b548f341a37763061acc0d2c5c909" id="fs_name_266282" value="3436 - Diocese of Karonga $50 gift" />
+<input type="hidden" name="code||240ddd6b3532421423c80dd05a54a9f988d9ac66e5b7dac8f7e5d28d5c6e4b96" id="fs_code_266282" value="WCPJ3670HEMS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||fd43f44a94ea663f3a4981b6dbc93402df88be7637a6d5ecad136b3f81ae499e" id="WCPJ3670HEMS_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266283" rel="266283">
+<input type="hidden" name="price||370a4e27335d07a8dca8b5690d72004489890c06ba963489aa2a32f10baa4c5f" id="fs_price_266283" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266283" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266283" />
+<input type="hidden" name="image||dbab1977aeffd3d0561a976cc034a5e8380d3910bdd5d2188c35a246ded82547||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3436-Equipment-Medical-Supplies-Foxy.jpg" id="foxyshop_cart_product_image_266283" />
+<input type="hidden" name="url||e362f0bf7e0c7ea71c95103b41bc377f50c2d899134cc8fb1c563b359589f470" value="https://crosscatholic.org/products/3436-diocese-of-karonga-100-gift/" id="fs_url_266283" />
+<input type="hidden" name="quantity_min||5528f5a2705044522f45abc918db42ffcaec3d72c28ab99cfc0caf7e57c51615||open" value="0" id="fs_quantity_min_266283" />
+<input type="hidden" name="quantity_max||2aa118176c97c33263abdb9b41a513e2f7e018989cf7f01d6b238e805ba0352e||open" value="0" id="fs_quantity_max_266283" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266283" />
+<input type="hidden" name="name||afdda70c457758bc831aa9bb7b9e4f1866b0d786d673d52935e86de238a331fb" id="fs_name_266283" value="3436 - Diocese of Karonga $100 gift" />
+<input type="hidden" name="code||240ddd6b3532421423c80dd05a54a9f988d9ac66e5b7dac8f7e5d28d5c6e4b96" id="fs_code_266283" value="WCPJ3670HEMS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||9f6d0bdaebc0f6628a781313d4a82afaf93b8ff486b3c34f541575f0c77e4569" id="WCPJ3670HEMS_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266284" rel="266284">
+<input type="hidden" name="price||46bd9edfa9bb7609a7987f6c4d9ba16420f7fe44ce9cbad7ec60ccb9e03c11ce" id="fs_price_266284" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266284" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266284" />
+<input type="hidden" name="image||dbab1977aeffd3d0561a976cc034a5e8380d3910bdd5d2188c35a246ded82547||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3436-Equipment-Medical-Supplies-Foxy.jpg" id="foxyshop_cart_product_image_266284" />
+<input type="hidden" name="url||f2b80d9a0a9e1cfc45087220fd8805fcbffdf324f99839cc602837900fbfafda" value="https://crosscatholic.org/products/3436-diocese-of-karonga-250-gift/" id="fs_url_266284" />
+<input type="hidden" name="quantity_min||5528f5a2705044522f45abc918db42ffcaec3d72c28ab99cfc0caf7e57c51615||open" value="0" id="fs_quantity_min_266284" />
+<input type="hidden" name="quantity_max||2aa118176c97c33263abdb9b41a513e2f7e018989cf7f01d6b238e805ba0352e||open" value="0" id="fs_quantity_max_266284" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266284" />
+<input type="hidden" name="name||204e3f5d811bcd7f5aaa0413dd923fb2bc410f117acb945d42ab0d7d194b0acf" id="fs_name_266284" value="3436 - Diocese of Karonga $250 gift" />
+<input type="hidden" name="code||240ddd6b3532421423c80dd05a54a9f988d9ac66e5b7dac8f7e5d28d5c6e4b96" id="fs_code_266284" value="WCPJ3670HEMS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||083d6b3c32375e9ad8745f90bd474541ba87fd2e0189f19b2980103f78bc4ca0" id="WCPJ3670HEMS_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266285" rel="266285">
+<input type="hidden" name="price||7e937ce90884b09a949903f3bf3e4e3bf102b8958e48cac9e0e521a419b33de0" id="fs_price_266285" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266285" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266285" />
+<input type="hidden" name="image||dbab1977aeffd3d0561a976cc034a5e8380d3910bdd5d2188c35a246ded82547||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3436-Equipment-Medical-Supplies-Foxy.jpg" id="foxyshop_cart_product_image_266285" />
+<input type="hidden" name="url||c5069d62fe8fcc0212e43942b4056e8bf7c5b3311092a644f7c2e72ac21d7488" value="https://crosscatholic.org/products/3436-diocese-of-karonga-2/" id="fs_url_266285" />
+<input type="hidden" name="quantity_min||5528f5a2705044522f45abc918db42ffcaec3d72c28ab99cfc0caf7e57c51615||open" value="0" id="fs_quantity_min_266285" />
+<input type="hidden" name="quantity_max||2aa118176c97c33263abdb9b41a513e2f7e018989cf7f01d6b238e805ba0352e||open" value="0" id="fs_quantity_max_266285" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266285" />
+<input type="hidden" name="name||c47e18d0022ade76d30213598ed26a2a5a2521d0c8bd2a2be0258102f42a207c" id="fs_name_266285" value="3436 - Diocese of Karonga" />
+<input type="hidden" name="code||240ddd6b3532421423c80dd05a54a9f988d9ac66e5b7dac8f7e5d28d5c6e4b96" id="fs_code_266285" value="WCPJ3670HEMS" />
+<div class="foxyshop_variations">
+<input type="text" name="price||4fa9213829f49da4f48d9aa7cbaffd0394c44df2a80dd0919896399d64eb8ae0||open" id="WCPJ3670HEMS_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
