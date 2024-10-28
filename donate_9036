@@ -1,0 +1,73 @@
+add_shortcode( 'donate_9036', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265755" rel="265755">
+<input type="hidden" name="price||e6de4ef4c155986bbfa1ac56bf29f2758f679eef451e2aa9d1e27a87339b489e" id="fs_price_265755" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265755" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265755" />
+<input type="hidden" name="image||483ffc379d84c6f838a9d49c563fab847a4d8c6fc13a1f23ca59f9058c807bd3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-9036-Foxy.jpg" id="foxyshop_cart_product_image_265755" />
+<input type="hidden" name="url||f0e21b75c0c99116b4b0e1e8b827369cc814bacc46500081e4425a1f46f16d7a" value="https://crosscatholic.org/products/9036-general-agriculture-animal-husbandry-50-gift/" id="fs_url_265755" />
+<input type="hidden" name="quantity_min||165eeefe920865e5438cf57d3e800b4b88fca00f9f431e17cfc44fd37746d822||open" value="0" id="fs_quantity_min_265755" />
+<input type="hidden" name="quantity_max||377aa2a56e5eb450d4844d067e4996a5e517b98d26e3aa97ecc7ed5176300d66||open" value="0" id="fs_quantity_max_265755" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265755" />
+<input type="hidden" name="name||456c11e14919811630e02ea5bec9d8f566bb96604c08953e19e1dbd963c5be29" id="fs_name_265755" value="9036 - General Agriculture &amp; Animal Husbandry $50 gift" />
+<input type="hidden" name="code||37d9c4db5ef3df5b40a572a37a866c88f01382b5e75e67ce46b84520fee40089" id="fs_code_265755" value="WCPJ9036GAAH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||9abd10fd5e4dea903515dc1d1aa809fca86137555e3a7258c523516b6c639559" id="WCPJ9036GAAH_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265756" rel="265756">
+<input type="hidden" name="price||a8daa66150d73b7fa3b01066628e4c9f3e8f20f67de14e7a54172a3aaf17a019" id="fs_price_265756" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265756" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265756" />
+<input type="hidden" name="image||483ffc379d84c6f838a9d49c563fab847a4d8c6fc13a1f23ca59f9058c807bd3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-9036-Foxy.jpg" id="foxyshop_cart_product_image_265756" />
+<input type="hidden" name="url||37bd1e9eb6bcba14b4713a15f4b1db59c7690512aa3ee002fe74cfa64149d117" value="https://crosscatholic.org/products/9036-general-agriculture-animal-husbandry-100-gift/" id="fs_url_265756" />
+<input type="hidden" name="quantity_min||165eeefe920865e5438cf57d3e800b4b88fca00f9f431e17cfc44fd37746d822||open" value="0" id="fs_quantity_min_265756" />
+<input type="hidden" name="quantity_max||377aa2a56e5eb450d4844d067e4996a5e517b98d26e3aa97ecc7ed5176300d66||open" value="0" id="fs_quantity_max_265756" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265756" />
+<input type="hidden" name="name||10bb93ab189d28e3a7faa52d710a101a147ada548c7ffb8c0780e5c84075907b" id="fs_name_265756" value="9036 - General Agriculture &amp; Animal Husbandry $100 gift" />
+<input type="hidden" name="code||37d9c4db5ef3df5b40a572a37a866c88f01382b5e75e67ce46b84520fee40089" id="fs_code_265756" value="WCPJ9036GAAH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||8b178ff0059364c47ad43e0607e240d9a12e869d5d49f0a0f0f7ffea358bc30d" id="WCPJ9036GAAH_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265757" rel="265757">
+<input type="hidden" name="price||7a4228751c9eb865b84024dccb214c69b2a2bc8c73af58903ba91550652b7c3e" id="fs_price_265757" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265757" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265757" />
+<input type="hidden" name="image||483ffc379d84c6f838a9d49c563fab847a4d8c6fc13a1f23ca59f9058c807bd3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-9036-Foxy.jpg" id="foxyshop_cart_product_image_265757" />
+<input type="hidden" name="url||f18d38b4126d6240d675c37803276984d6fa02e29507a5333ab1a6d739940551" value="https://crosscatholic.org/products/9036-general-agriculture-animal-husbandry-250-gift/" id="fs_url_265757" />
+<input type="hidden" name="quantity_min||165eeefe920865e5438cf57d3e800b4b88fca00f9f431e17cfc44fd37746d822||open" value="0" id="fs_quantity_min_265757" />
+<input type="hidden" name="quantity_max||377aa2a56e5eb450d4844d067e4996a5e517b98d26e3aa97ecc7ed5176300d66||open" value="0" id="fs_quantity_max_265757" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265757" />
+<input type="hidden" name="name||9b0f7d73a0ab67210698cefc6e0d3998a5e7bd0198bd6b9cef442be6776ddae1" id="fs_name_265757" value="9036 - General Agriculture &amp; Animal Husbandry $250 gift" />
+<input type="hidden" name="code||37d9c4db5ef3df5b40a572a37a866c88f01382b5e75e67ce46b84520fee40089" id="fs_code_265757" value="WCPJ9036GAAH" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||c7d8d76fc97a643910ff90cc21426e25992467be0b1017c452f21c0863e5514b" id="WCPJ9036GAAH_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265758" rel="265758">
+<input type="hidden" name="price||8b73581abefd0958d9cd0ef8b6e7d174a67c8a5d6bde573914dd3d9b3f03b6f9" id="fs_price_265758" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265758" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265758" />
+<input type="hidden" name="image||483ffc379d84c6f838a9d49c563fab847a4d8c6fc13a1f23ca59f9058c807bd3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-9036-Foxy.jpg" id="foxyshop_cart_product_image_265758" />
+<input type="hidden" name="url||4a0c587088f70826c6f09ec59c009eb51c3678ebc1e6ce3f02fbf41c892198a1" value="https://crosscatholic.org/products/9036-general-agriculture-animal-husbandry/" id="fs_url_265758" />
+<input type="hidden" name="quantity_min||165eeefe920865e5438cf57d3e800b4b88fca00f9f431e17cfc44fd37746d822||open" value="0" id="fs_quantity_min_265758" />
+<input type="hidden" name="quantity_max||377aa2a56e5eb450d4844d067e4996a5e517b98d26e3aa97ecc7ed5176300d66||open" value="0" id="fs_quantity_max_265758" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265758" />
+<input type="hidden" name="name||46ee2070dfbe43564b2214829977e6939f73a73fd0cce828fcedb56bcdef702f" id="fs_name_265758" value="9036 - General Agriculture &amp; Animal Husbandry" />
+<input type="hidden" name="code||37d9c4db5ef3df5b40a572a37a866c88f01382b5e75e67ce46b84520fee40089" id="fs_code_265758" value="WCPJ9036GAAH" />
+<div class="foxyshop_variations">
+<input type="text" name="price||34b4b7c5e4abeed2277da4115bae16d84067e7e6ca885688832c5b8d5d9de94b||open" id="WCPJ9036GAAH_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
