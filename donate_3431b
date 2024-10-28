@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3431b', function () {
+
+	$out = '<div class="flex-container">
+<!-- $40 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_267078" rel="267078">
+<input type="hidden" name="price||ccff5679b4ed2f354862a15e5754b7b4e8a842e1159fc17e156db6fca469cfb9" id="fs_price_267078" value="40.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_267078" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_267078" />
+<input type="hidden" name="image||98d6ed5423d2342bbb744311b93dd495cc05563b99467ce3756960d6f2d4446e||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3431-Foxy.jpg" id="foxyshop_cart_product_image_267078" />
+<input type="hidden" name="url||803b9fb873595f7f30cfb943948b3c6b22908e60daf290e522193dcf3832a5c0" value="https://crosscatholic.org/products/3431-daughters-of-the-redeemer-40-gift/" id="fs_url_267078" />
+<input type="hidden" name="quantity_min||f93823674529c4060b5ab51b7a1dcecc158bda5ca52fe7bf4f7977e7dca9035f||open" value="0" id="fs_quantity_min_267078" />
+<input type="hidden" name="quantity_max||383b5ef0be50867604337eaa2385759a848ee99e597867317b2c4267827052c6||open" value="0" id="fs_quantity_max_267078" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_267078" />
+<input type="hidden" name="name||6bebd607bfac520b9a2e281d459c979040c92487bef968f9c7dc017a2a9a481a" id="fs_name_267078" value="3431 - Daughters of the Redeemer $40 gift" />
+<input type="hidden" name="code||efb25c003761e5a08646459e3e5a5c8f8d80324ce5ef391e2cabd5161f52e9af" id="fs_code_267078" value="WCPJ3498ADM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$40_donation||8413e87150c79326ca3428d4b3294f4d7d54edc91109ffa834b422f9758f6581" id="WCPJ3498ADM_1" value="" class="variation-40-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$40</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$40.00</span></div></div></form>
+<!-- $80 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_267079" rel="267079">
+<input type="hidden" name="price||1af5560d446385fe877b0d073a9c1170e10e548ce2690616823e4b10fca9697e" id="fs_price_267079" value="80.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_267079" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_267079" />
+<input type="hidden" name="image||98d6ed5423d2342bbb744311b93dd495cc05563b99467ce3756960d6f2d4446e||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3431-Foxy.jpg" id="foxyshop_cart_product_image_267079" />
+<input type="hidden" name="url||a01657b54d28cc2756841c49038fb54a95f7b850a480008c5793a1d44c756aa1" value="https://crosscatholic.org/products/3431-daughters-of-the-redeemer-80-gift/" id="fs_url_267079" />
+<input type="hidden" name="quantity_min||f93823674529c4060b5ab51b7a1dcecc158bda5ca52fe7bf4f7977e7dca9035f||open" value="0" id="fs_quantity_min_267079" />
+<input type="hidden" name="quantity_max||383b5ef0be50867604337eaa2385759a848ee99e597867317b2c4267827052c6||open" value="0" id="fs_quantity_max_267079" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_267079" />
+<input type="hidden" name="name||c53298e6004bb6c2a27112193474a20b927208c6f2e04cba44bcb7ecf2ac7ae1" id="fs_name_267079" value="3431 - Daughters of the Redeemer $80 gift" />
+<input type="hidden" name="code||efb25c003761e5a08646459e3e5a5c8f8d80324ce5ef391e2cabd5161f52e9af" id="fs_code_267079" value="WCPJ3498ADM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$80_donation||554316f36369f337794af58a59384ae3aa250291baa59f6318d4dbd6aaebfc76" id="WCPJ3498ADM_1" value="" class="variation-80-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$80</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$80.00</span></div></div></form>
+<!-- $120 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_267080" rel="267080">
+<input type="hidden" name="price||e6498d98c06353f12724bcafdcba3763b48174490220ffcbf2c4f7c756e627e2" id="fs_price_267080" value="120.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_267080" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_267080" />
+<input type="hidden" name="image||98d6ed5423d2342bbb744311b93dd495cc05563b99467ce3756960d6f2d4446e||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3431-Foxy.jpg" id="foxyshop_cart_product_image_267080" />
+<input type="hidden" name="url||1ae8cf6bf6377ed07735dac82b86df52bb99e6e27feaa388105ee8f32912b223" value="https://crosscatholic.org/products/3431-daughters-of-the-redeemer-120-gift/" id="fs_url_267080" />
+<input type="hidden" name="quantity_min||f93823674529c4060b5ab51b7a1dcecc158bda5ca52fe7bf4f7977e7dca9035f||open" value="0" id="fs_quantity_min_267080" />
+<input type="hidden" name="quantity_max||383b5ef0be50867604337eaa2385759a848ee99e597867317b2c4267827052c6||open" value="0" id="fs_quantity_max_267080" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_267080" />
+<input type="hidden" name="name||5430298a3761eaca3bf3b83e5e48083e93e1b48ad31dcffc5f9da3976547a952" id="fs_name_267080" value="3431 - Daughters of the Redeemer $120 gift" />
+<input type="hidden" name="code||efb25c003761e5a08646459e3e5a5c8f8d80324ce5ef391e2cabd5161f52e9af" id="fs_code_267080" value="WCPJ3498ADM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$120_donation||1002e4a73a5efde75c18cd77ca83214b89c51f26b541f4ea6dc52c129b6a0a53" id="WCPJ3498ADM_1" value="" class="variation-120-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$120</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$120.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_267081" rel="267081">
+<input type="hidden" name="price||eca9e819152d9db4ccde72daf4840b57937963cb2307ceaed553bfc8f5138be6" id="fs_price_267081" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_267081" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_267081" />
+<input type="hidden" name="image||98d6ed5423d2342bbb744311b93dd495cc05563b99467ce3756960d6f2d4446e||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3431-Foxy.jpg" id="foxyshop_cart_product_image_267081" />
+<input type="hidden" name="url||be70cbae8cae86b6f6a95d9b1ccec9d3efe0c469a398aa9289b5f99c673e8449" value="https://crosscatholic.org/products/3431-daughters-of-the-redeemer-2/" id="fs_url_267081" />
+<input type="hidden" name="quantity_min||f93823674529c4060b5ab51b7a1dcecc158bda5ca52fe7bf4f7977e7dca9035f||open" value="0" id="fs_quantity_min_267081" />
+<input type="hidden" name="quantity_max||383b5ef0be50867604337eaa2385759a848ee99e597867317b2c4267827052c6||open" value="0" id="fs_quantity_max_267081" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_267081" />
+<input type="hidden" name="name||88f4603db2b69306381b3c484d7b6ab2e7ab6a3705657c7fd6aa284da7b815d4" id="fs_name_267081" value="3431 - Daughters of the Redeemer" />
+<input type="hidden" name="code||efb25c003761e5a08646459e3e5a5c8f8d80324ce5ef391e2cabd5161f52e9af" id="fs_code_267081" value="WCPJ3498ADM" />
+<div class="foxyshop_variations">
+<input type="text" name="price||4fc826014aa1db3c8d9c4d6e2f280acd63fde0e49a8efca136bf04d915af7afc||open" id="WCPJ3498ADM_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
