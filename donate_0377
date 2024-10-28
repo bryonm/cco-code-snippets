@@ -1,72 +1,69 @@
 add_shortcode( 'donate_0377', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
+<!-- $42 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148018" rel="148018">
-<input type="hidden" name="price||ae85fa4c3d825edcbc0ca493134bafcfde8102201c077aeffbfdbc9f4d28fb2b" id="fs_price_148018" value="25.00" />
+<input type="hidden" name="price||d9e03e3339e673f864ec3b1235b58c51c42d2a19e4bd6a73645f34c91cbf649a" id="fs_price_148018" value="42.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148018" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148018" />
-<input type="hidden" name="image||09507bb63b4b5a0da4b33c97255e4edf262ce6d0fb25f282ab98d8e008163a91||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0377-foxy-thumb.jpg" id="foxyshop_cart_product_image_148018" />
-<input type="hidden" name="url||2bde903823d8d5280e1d8495117e4a4975bc62a0dfa5f7acd6b1f613bad1c51e" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana-25-donation/" id="fs_url_148018" />
-<input type="hidden" name="quantity_min||a104e5608ecc95270394cdf83241c3aa0ef39564b6a3ab2255c2f537a35fcb4d||open" value="0" id="fs_quantity_min_148018" />
-<input type="hidden" name="quantity_max||fdd0d01332296af6639e24ac7d3069f172fde57809d060a60abf3af9b13ad5c4||open" value="0" id="fs_quantity_max_148018" />
+<input type="hidden" name="image||43357a92c59558b03bd6ce870be666d25f52673c8033e95dc7464eaea2ae483e||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0377-Foxy.jpg" id="foxyshop_cart_product_image_148018" />
+<input type="hidden" name="url||9d988cad62a04b81ef23140b33acac415c3e77d24e03214dc50b0d3a7f45066b" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana-25-donation/" id="fs_url_148018" />
+<input type="hidden" name="quantity_min||ac1160d06550abc83e970adaeeb03b6cccd580ddc5b9e94d729c4ac89a4d3092||open" value="0" id="fs_quantity_min_148018" />
+<input type="hidden" name="quantity_max||ec22f91bee9ef1b2b431652f02b3a0207ad7906110cbb22c274b13061f137c2d||open" value="0" id="fs_quantity_max_148018" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148018" />
-<input type="hidden" name="name||f16677c55f482912592e59e3b1c0a6cfc7949325d0271650b9094faa0162e302" id="fs_name_148018" value="0377 - Hamper Distribution Guyana - $25 donation" />
-<input type="hidden" name="code||1e576e99e06f28636be6708122948dbce99e15462611980982abf1e6573d1371" id="fs_code_148018" value="WCPROJ0377" />
+<input type="hidden" name="name||5fe14491a1e7e2e13938a66479d121beceee127bffc6410ed1066eaabe3f239e" id="fs_name_148018" value="0377 - Hamper Distribution Guyana $42 gift" />
+<input type="hidden" name="code||7e4239e4047de4c63369966bf700976e6e4d7745157435fef8cb5e0a4bd8aef1" id="fs_code_148018" value="WCPJ0377HDP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||68ba9bdb596b224ecb91545e3e7525752a99ea2eeaacdac0e6a7e5de446841ac" id="WCPROJ0377_1" value="" class="variation-25-donation" />
+<input type="hidden" name="$42_donation||c61b1046a98841b7d5bf3b643fa0a3ab12f7d87fdfd888611cd6fc778193a5a1" id="WCPJ0377HDP_1" value="" class="variation-42-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
-<!-- $50 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$42</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$42.00</span></div></div></form>
+<!-- $252 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148031" rel="148031">
-<input type="hidden" name="price||65332401b62143617e46f52f2cfdbcd66e24908d0248a045bf765e91f4d4a1b1" id="fs_price_148031" value="50.00" />
+<input type="hidden" name="price||e25e6c14615257c7e11b7b18d7e77e920d680bb56cbc4f98ea01262c22e31c8d" id="fs_price_148031" value="252.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148031" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148031" />
-<input type="hidden" name="image||09507bb63b4b5a0da4b33c97255e4edf262ce6d0fb25f282ab98d8e008163a91||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0377-foxy-thumb.jpg" id="foxyshop_cart_product_image_148031" />
-<input type="hidden" name="url||78d55db5e2c6394a5d1fff4164c127bd6e002cdb2e9333ad1c53b8778aa691cd" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana-50-donation/" id="fs_url_148031" />
-<input type="hidden" name="quantity_min||a104e5608ecc95270394cdf83241c3aa0ef39564b6a3ab2255c2f537a35fcb4d||open" value="0" id="fs_quantity_min_148031" />
-<input type="hidden" name="quantity_max||fdd0d01332296af6639e24ac7d3069f172fde57809d060a60abf3af9b13ad5c4||open" value="0" id="fs_quantity_max_148031" />
+<input type="hidden" name="image||43357a92c59558b03bd6ce870be666d25f52673c8033e95dc7464eaea2ae483e||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0377-Foxy.jpg" id="foxyshop_cart_product_image_148031" />
+<input type="hidden" name="url||a07ded94c3f87fdbc8fd3bc756520f7573a0bf362d13636a11c5c025b6e39da0" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana-50-donation/" id="fs_url_148031" />
+<input type="hidden" name="quantity_min||ac1160d06550abc83e970adaeeb03b6cccd580ddc5b9e94d729c4ac89a4d3092||open" value="0" id="fs_quantity_min_148031" />
+<input type="hidden" name="quantity_max||ec22f91bee9ef1b2b431652f02b3a0207ad7906110cbb22c274b13061f137c2d||open" value="0" id="fs_quantity_max_148031" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148031" />
-<input type="hidden" name="name||daa0c6ab5bffe031e16cb3975e97a91b8f5fc2a294002c1f2f493c4af99ed301" id="fs_name_148031" value="0377 - Hamper Distribution Guyana - $50 donation" />
-<input type="hidden" name="code||1e576e99e06f28636be6708122948dbce99e15462611980982abf1e6573d1371" id="fs_code_148031" value="WCPROJ0377" />
+<input type="hidden" name="name||22476b6981520911888f599b659704c363650a7823134b8e87a72199c79869f2" id="fs_name_148031" value="0377 - Hamper Distribution Guyana $252 gift" />
+<input type="hidden" name="code||7e4239e4047de4c63369966bf700976e6e4d7745157435fef8cb5e0a4bd8aef1" id="fs_code_148031" value="WCPJ0377HDP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||491a7077d02dbb0d7d9652178194d855ffac4bed3f554b118a50a367f9b875b8" id="WCPROJ0377_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$252_donation||25b7a15d8924d36549c367583409b66b01ba3542fdb4c90f0a546cd42b87cf94" id="WCPJ0377HDP_1" value="" class="variation-252-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
-<!-- $100 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$252</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$252.00</span></div></div></form>
+<!-- $505 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148034" rel="148034">
-<input type="hidden" name="price||2aa5860f79e79ce30dfc5c0ced047b69460542ef07d2b23f50bd66552794f3fd" id="fs_price_148034" value="100.00" />
+<input type="hidden" name="price||f5464248b164dd1a6ceaf3729251c239c2b3c6323a4e359fe96e7c5e31070644" id="fs_price_148034" value="505.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148034" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148034" />
-<input type="hidden" name="image||09507bb63b4b5a0da4b33c97255e4edf262ce6d0fb25f282ab98d8e008163a91||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0377-foxy-thumb.jpg" id="foxyshop_cart_product_image_148034" />
-<input type="hidden" name="url||0647bf93ad2593551f95976967197fb78a13812cffda2f2b482362d0a0ea5c04" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana-100-donation/" id="fs_url_148034" />
-<input type="hidden" name="quantity_min||a104e5608ecc95270394cdf83241c3aa0ef39564b6a3ab2255c2f537a35fcb4d||open" value="0" id="fs_quantity_min_148034" />
-<input type="hidden" name="quantity_max||fdd0d01332296af6639e24ac7d3069f172fde57809d060a60abf3af9b13ad5c4||open" value="0" id="fs_quantity_max_148034" />
+<input type="hidden" name="image||43357a92c59558b03bd6ce870be666d25f52673c8033e95dc7464eaea2ae483e||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0377-Foxy.jpg" id="foxyshop_cart_product_image_148034" />
+<input type="hidden" name="url||02cfedccb1e8d7b0b9ec4258321a716018bd40b287920011c7ed2966ac5bfb71" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana-100-donation/" id="fs_url_148034" />
+<input type="hidden" name="quantity_min||ac1160d06550abc83e970adaeeb03b6cccd580ddc5b9e94d729c4ac89a4d3092||open" value="0" id="fs_quantity_min_148034" />
+<input type="hidden" name="quantity_max||ec22f91bee9ef1b2b431652f02b3a0207ad7906110cbb22c274b13061f137c2d||open" value="0" id="fs_quantity_max_148034" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148034" />
-<input type="hidden" name="name||87be8108486bc6ba74be0836b3b2bbe891c39d0ed1cd42c1dfec5db99abc22cf" id="fs_name_148034" value="0377 - Hamper Distribution Guyana - $100 donation" />
-<input type="hidden" name="code||1e576e99e06f28636be6708122948dbce99e15462611980982abf1e6573d1371" id="fs_code_148034" value="WCPROJ0377" />
+<input type="hidden" name="name||eb1fb236561f6eb4f5a2d95c1b74d0bc259d0a9b3bb331c2e4f2e6c80de82131" id="fs_name_148034" value="0377 - Hamper Distribution Guyana $505 gift" />
+<input type="hidden" name="code||7e4239e4047de4c63369966bf700976e6e4d7745157435fef8cb5e0a4bd8aef1" id="fs_code_148034" value="WCPJ0377HDP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||7502146ea41149d0e25e2886a0b515295fed68e6812951ef23c257fc77191390" id="WCPROJ0377_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$505_donation||b1891c40bdc225438f41d264ee49bd08ccc716d1e0ac71b3f21bb265e9b3dd51" id="WCPJ0377HDP_1" value="" class="variation-505-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$505</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$505.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_148021" rel="148021">
-<input type="hidden" name="price||f27041a42c97e3ec9650abb9fc72ada8e03b92c12bad206239d4ba3373adedf9" id="fs_price_148021" value="0.00" />
+<input type="hidden" name="price||95bebb04e7247579be2f4d0de1c7ca97fbcb42ae45091d75ef9171ab808b85d9" id="fs_price_148021" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_148021" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_148021" />
-<input type="hidden" name="image||09507bb63b4b5a0da4b33c97255e4edf262ce6d0fb25f282ab98d8e008163a91||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/0377-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_148021" />
-<input type="hidden" name="url||e57fc4ad7a8d09ccfb5bb06a4632f39a41ff721b5d61517b1939fff262ed4cf1" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana/" id="fs_url_148021" />
-<input type="hidden" name="quantity_min||a104e5608ecc95270394cdf83241c3aa0ef39564b6a3ab2255c2f537a35fcb4d||open" value="0" id="fs_quantity_min_148021" />
-<input type="hidden" name="quantity_max||fdd0d01332296af6639e24ac7d3069f172fde57809d060a60abf3af9b13ad5c4||open" value="0" id="fs_quantity_max_148021" />
+<input type="hidden" name="image||43357a92c59558b03bd6ce870be666d25f52673c8033e95dc7464eaea2ae483e||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0377-Foxy.jpg" id="foxyshop_cart_product_image_148021" />
+<input type="hidden" name="url||5e8c2faf8631a3870b8cddd285bd47d2afad1531107ee0274ed407d4e5152de9" value="https://crosscatholic.org/products/0377-hamper-distribution-guyana/" id="fs_url_148021" />
+<input type="hidden" name="quantity_min||ac1160d06550abc83e970adaeeb03b6cccd580ddc5b9e94d729c4ac89a4d3092||open" value="0" id="fs_quantity_min_148021" />
+<input type="hidden" name="quantity_max||ec22f91bee9ef1b2b431652f02b3a0207ad7906110cbb22c274b13061f137c2d||open" value="0" id="fs_quantity_max_148021" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_148021" />
-<input type="hidden" name="name||3df73805d8509b987030d26560a359be73db4661c87235f3f0af4c15937279ee" id="fs_name_148021" value="0377 - Hamper Distribution Guyana" />
-<input type="hidden" name="code||1e576e99e06f28636be6708122948dbce99e15462611980982abf1e6573d1371" id="fs_code_148021" value="WCPROJ0377" />
+<input type="hidden" name="name||a76ae7c908efd2f489d4ae187894383f363e584ce37b1f9d7f119d740a1023fa" id="fs_name_148021" value="0377 - Hamper Distribution Guyana" />
+<input type="hidden" name="code||7e4239e4047de4c63369966bf700976e6e4d7745157435fef8cb5e0a4bd8aef1" id="fs_code_148021" value="WCPJ0377HDP" />
 <div class="foxyshop_variations">
-<input type="text" name="price||98b4a2b6fedd449a27b626e0653e22381fa9af8104f5248034de34f4f241b9ea||open" id="WCPROJ0377_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||d814f12766e9c72843df6ace003be99b3792164c5bd13d0c4348f82701ccbd3d||open" id="WCPJ0377HDP_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
