@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3612', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264193" rel="264193">
+<input type="hidden" name="price||5b5cff59a591e176a76dbb2c821bf0e0ed7ee523a84da9dc82ac838dc9b21a88" id="fs_price_264193" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264193" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264193" />
+<input type="hidden" name="image||fb0697349d61b4aa812952efbcc5a0e09d8b7d030d561a23e06388d4c9df86f3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3612-Foxy.jpg" id="foxyshop_cart_product_image_264193" />
+<input type="hidden" name="url||9902792ec5e18996347f3173d02b20b4ebad3ecd8c80c6e461164e4e6177e56e" value="https://crosscatholic.org/products/3612-challenge-ministries-swaziland-50-gift/" id="fs_url_264193" />
+<input type="hidden" name="quantity_min||a527f403366748c8b79eb72da81625f56d6e47c141efe49f06408eb5202e3bc4||open" value="0" id="fs_quantity_min_264193" />
+<input type="hidden" name="quantity_max||2e6698238d5dc7fc924a45b25e55a1965943d0bc0f38ecb4761664b7173d9771||open" value="0" id="fs_quantity_max_264193" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264193" />
+<input type="hidden" name="name||543e2f93f348444ff704688c8f7129ebc7490e3c1a2b941c928a98c5c7682a78" id="fs_name_264193" value="3612 - Challenge Ministries Swaziland $50 gift" />
+<input type="hidden" name="code||a899c5c28a06a10a5699c8548db6bd0d1d936d62783ac3ba7b7bcb8e8c599fa4" id="fs_code_264193" value="WCPJ3669SHMP" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||b37e991c2436a3e1d40d3dfdc90ff09aeb148ec11c97aaf176d8207dea1e1ac3" id="WCPJ3669SHMP_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264194" rel="264194">
+<input type="hidden" name="price||36d5aa612229301cfe00ddd66e5ed5cec5a4336c87cf5055db4718552d168e27" id="fs_price_264194" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264194" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264194" />
+<input type="hidden" name="image||fb0697349d61b4aa812952efbcc5a0e09d8b7d030d561a23e06388d4c9df86f3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3612-Foxy.jpg" id="foxyshop_cart_product_image_264194" />
+<input type="hidden" name="url||252570400c97b12f1a25b18a9a8b9613ba7ed97d6054a0c55298cfdda41ac938" value="https://crosscatholic.org/products/3612-challenge-ministries-swaziland-100-gift/" id="fs_url_264194" />
+<input type="hidden" name="quantity_min||a527f403366748c8b79eb72da81625f56d6e47c141efe49f06408eb5202e3bc4||open" value="0" id="fs_quantity_min_264194" />
+<input type="hidden" name="quantity_max||2e6698238d5dc7fc924a45b25e55a1965943d0bc0f38ecb4761664b7173d9771||open" value="0" id="fs_quantity_max_264194" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264194" />
+<input type="hidden" name="name||fc10257cbb729de7adc5b31f028db7e2fd879555679d2536e0eb4fc9a4cc018f" id="fs_name_264194" value="3612 - Challenge Ministries Swaziland $100 gift" />
+<input type="hidden" name="code||a899c5c28a06a10a5699c8548db6bd0d1d936d62783ac3ba7b7bcb8e8c599fa4" id="fs_code_264194" value="WCPJ3669SHMP" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||a4665967964ab32acc9e7f6e7ae11e56f690408ebe3a6a63fd09340e2ef63559" id="WCPJ3669SHMP_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264195" rel="264195">
+<input type="hidden" name="price||4aba44e955e71ec161cdd1a2798036bd39d168fb972621e2010016e90e42fc11" id="fs_price_264195" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264195" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264195" />
+<input type="hidden" name="image||fb0697349d61b4aa812952efbcc5a0e09d8b7d030d561a23e06388d4c9df86f3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3612-Foxy.jpg" id="foxyshop_cart_product_image_264195" />
+<input type="hidden" name="url||e904a91bc1ebe14c088580fc67e02401ba3ea08f01b8ae9ebd09952523960782" value="https://crosscatholic.org/products/3612-challenge-ministries-swaziland-250-gift/" id="fs_url_264195" />
+<input type="hidden" name="quantity_min||a527f403366748c8b79eb72da81625f56d6e47c141efe49f06408eb5202e3bc4||open" value="0" id="fs_quantity_min_264195" />
+<input type="hidden" name="quantity_max||2e6698238d5dc7fc924a45b25e55a1965943d0bc0f38ecb4761664b7173d9771||open" value="0" id="fs_quantity_max_264195" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264195" />
+<input type="hidden" name="name||d65026b9a67941cff0786526c79e1054297af6bccc017e690376a44205c55c50" id="fs_name_264195" value="3612 - Challenge Ministries Swaziland $250 gift" />
+<input type="hidden" name="code||a899c5c28a06a10a5699c8548db6bd0d1d936d62783ac3ba7b7bcb8e8c599fa4" id="fs_code_264195" value="WCPJ3669SHMP" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||c9c24d3dca49b4e2af92cabfb4ae1adea1619daf5244645780dd80bd9c2c7f6c" id="WCPJ3669SHMP_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_264196" rel="264196">
+<input type="hidden" name="price||ad28b2096a536c5d0491f0558e1810489c02e42f9bd5cea8c8c7d78965bd6b67" id="fs_price_264196" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_264196" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_264196" />
+<input type="hidden" name="image||fb0697349d61b4aa812952efbcc5a0e09d8b7d030d561a23e06388d4c9df86f3||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3612-Foxy.jpg" id="foxyshop_cart_product_image_264196" />
+<input type="hidden" name="url||2ef71e21188e51dd8af405dbaadd39441b139cf1e029b62ec674c4f6c34bf361" value="https://crosscatholic.org/products/3612-challenge-ministries-swaziland/" id="fs_url_264196" />
+<input type="hidden" name="quantity_min||a527f403366748c8b79eb72da81625f56d6e47c141efe49f06408eb5202e3bc4||open" value="0" id="fs_quantity_min_264196" />
+<input type="hidden" name="quantity_max||2e6698238d5dc7fc924a45b25e55a1965943d0bc0f38ecb4761664b7173d9771||open" value="0" id="fs_quantity_max_264196" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_264196" />
+<input type="hidden" name="name||a450e8e9ece943ff6caa54554582e240934dcb1458ef3eb26b6082eb4b89e686" id="fs_name_264196" value="3612 - Challenge Ministries Swaziland" />
+<input type="hidden" name="code||a899c5c28a06a10a5699c8548db6bd0d1d936d62783ac3ba7b7bcb8e8c599fa4" id="fs_code_264196" value="WCPJ3669SHMP" />
+<div class="foxyshop_variations">
+<input type="text" name="price||ec154e2fb19d3b0b74af79393cb60fc39db9c17e08ba6b9042b61fbb7598b158||open" id="WCPJ3669SHMP_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
