@@ -1,70 +1,69 @@
 add_shortcode( 'donate_1440', function () {
 
 	$out = '<div class="flex-container">
-<!-- $50 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_77797" rel="77797">
-<input type="hidden" name="price||692678a86041f6d632868f09e7c1135ff0da010dd7ea6c7da5bf307436e36576" id="fs_price_77797" value="50.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_77797" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_77797" />
-<input type="hidden" name="image||8b9be87b27a449e1dfaa42432113e62fe7677a4ab5e16215e6cfcdd6e7d13843||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1440-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_77797" />
-<input type="hidden" name="url||d3c6c4276ec0feaded546b80626393db804bb3b8e4682cc9098a322beb5c2ec4" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood-50-gift/" id="fs_url_77797" />
-<input type="hidden" name="quantity_min||16cd5ca39f685f67461c85f217fa5e3131a00384ec2c690723c472360c75d53c||open" value="0" id="fs_quantity_min_77797" />
-<input type="hidden" name="quantity_max||c7b5f5362420a6b8604768cea240395d1f3d8b39530ad0e675c8871efb4d40c0||open" value="0" id="fs_quantity_max_77797" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_77797" />
-<input type="hidden" name="name||b4b5a9d8de7ef88d715f0402681af9152bc52912c9f3bc21a8560e4f20eae95b" id="fs_name_77797" value="1440-Fundación Hospital El Buen Samaritano (Vitafood) $50 Gift" />
-<input type="hidden" name="code||8fa6e7c36811575d105daee9d7c36e5c0efa1e6243390c95438a48d80cd250d8" id="fs_code_77797" value="WCPROJ1440" />
+<!-- $70 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_253918" rel="253918">
+<input type="hidden" name="price||612c77fd18b72540c0ce076d196c6a242cdeca5b615bd010eaed2c65b5e09935" id="fs_price_253918" value="70.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_253918" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_253918" />
+<input type="hidden" name="image||ebf6ac7f67d54a900060730219c42511d0572c93236f892562588940f487d0e5||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1440-Foxy-1.jpg" id="foxyshop_cart_product_image_253918" />
+<input type="hidden" name="url||b3d97665d8f37dc7de878a20fc8f2db97f01d8452fc63883c7a8d4e1bd6c2d32" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood-50-gift/" id="fs_url_253918" />
+<input type="hidden" name="quantity_min||32673e035989f6240bfb6d187d6d5725b1fa55509d7fecde48abe33c91e37535||open" value="0" id="fs_quantity_min_253918" />
+<input type="hidden" name="quantity_max||be811e27380d081bff810ad9b7d4ae25d063ab16259ec365140c44b8a5a66967||open" value="0" id="fs_quantity_max_253918" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_253918" />
+<input type="hidden" name="name||32a15b7a91b1be56aa55e40114b6821b734ea81bc781993598b425824f7ececb" id="fs_name_253918" value="1440-Fundación Hospital El Buen Samaritano $70 gift" />
+<input type="hidden" name="code||b1b923404f50f2d90d29cb850beed387ab5b8d05727e5d97812f9096f34b75df" id="fs_code_253918" value="WCPJ3671HMP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||2f9701024c5789c871dc1408eb94bd217fb64a3b365ad82e54dcbbcb867c1662" id="WCPROJ1440_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$70_donation||4f257071bbd03e59ac486eb554c59f922dfd35800a770aafaeecc7e92e8067a7" id="WCPJ3671HMP_1" value="" class="variation-70-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-<!-- $100 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_77800" rel="77800">
-<input type="hidden" name="price||c76f26ea72bd357526649295b5382549ff3e8a4b8cd9f33b2d4cb7997e6b33af" id="fs_price_77800" value="100.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_77800" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_77800" />
-<input type="hidden" name="image||8b9be87b27a449e1dfaa42432113e62fe7677a4ab5e16215e6cfcdd6e7d13843||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1440-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_77800" />
-<input type="hidden" name="url||4822fc4f6f82a7cc66fe3fdab4801957d650ee5856d3a00cd182c644315eb11f" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood-100-gift/" id="fs_url_77800" />
-<input type="hidden" name="quantity_min||16cd5ca39f685f67461c85f217fa5e3131a00384ec2c690723c472360c75d53c||open" value="0" id="fs_quantity_min_77800" />
-<input type="hidden" name="quantity_max||c7b5f5362420a6b8604768cea240395d1f3d8b39530ad0e675c8871efb4d40c0||open" value="0" id="fs_quantity_max_77800" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_77800" />
-<input type="hidden" name="name||bb7388d14c5601735f72e3c4af0b4e788fd53cbe578f6a44ee52d02928b11696" id="fs_name_77800" value="1440-Fundación Hospital El Buen Samaritano (Vitafood) $100 Gift" />
-<input type="hidden" name="code||8fa6e7c36811575d105daee9d7c36e5c0efa1e6243390c95438a48d80cd250d8" id="fs_code_77800" value="WCPROJ1440" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$70</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$70.00</span></div></div></form>
+<!-- $140 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_253920" rel="253920">
+<input type="hidden" name="price||102502ad987e8c9d18f578bd8fc395f4b9637f7b8a7f527075ec09bd34745652" id="fs_price_253920" value="140.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_253920" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_253920" />
+<input type="hidden" name="image||ebf6ac7f67d54a900060730219c42511d0572c93236f892562588940f487d0e5||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1440-Foxy-1.jpg" id="foxyshop_cart_product_image_253920" />
+<input type="hidden" name="url||cf28d7001d8fbca882cf8156a2f3a770b443afaba1af62f2d5f50efdb36294f6" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood-100-gift/" id="fs_url_253920" />
+<input type="hidden" name="quantity_min||32673e035989f6240bfb6d187d6d5725b1fa55509d7fecde48abe33c91e37535||open" value="0" id="fs_quantity_min_253920" />
+<input type="hidden" name="quantity_max||be811e27380d081bff810ad9b7d4ae25d063ab16259ec365140c44b8a5a66967||open" value="0" id="fs_quantity_max_253920" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_253920" />
+<input type="hidden" name="name||ed9153b07419cf14c78e9bc6a5df6c8425a5e6a86be3ec2b828d674ea2c799c2" id="fs_name_253920" value="1440-Fundación Hospital El Buen Samaritano $140 gift" />
+<input type="hidden" name="code||b1b923404f50f2d90d29cb850beed387ab5b8d05727e5d97812f9096f34b75df" id="fs_code_253920" value="WCPJ3671HMP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||7714c041fce2e81f5146a5aefd2e972bf490832eb22a62bcd73d4aad6928bb84" id="WCPROJ1440_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$140_donation||0270c3b69f6e3b72cfeff8a746a9e49f00f476f63ab29bc0980deabc963356a9" id="WCPJ3671HMP_1" value="" class="variation-140-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
-<!-- $250 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$140</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$140.00</span></div></div></form>
+<!-- $210 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251694" rel="251694">
-<input type="hidden" name="price||8617e235f46e947da1a9b5bb05cd5798986deb8beeb6e55ac3a2c7575479451e" id="fs_price_251694" value="250.00" />
+<input type="hidden" name="price||d766b5ae028f87a10bffb9d67ae575abcdad0ae7f759d406f793dc2dfbb5ee3b" id="fs_price_251694" value="210.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251694" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251694" />
-<input type="hidden" name="image||8b9be87b27a449e1dfaa42432113e62fe7677a4ab5e16215e6cfcdd6e7d13843||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1440-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_251694" />
-<input type="hidden" name="url||bc2e7dd7580c351e4ceead174dc7f339afcc79dab442bf53be47d47d749df1ac" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood-250-donation/" id="fs_url_251694" />
-<input type="hidden" name="quantity_min||16cd5ca39f685f67461c85f217fa5e3131a00384ec2c690723c472360c75d53c||open" value="0" id="fs_quantity_min_251694" />
-<input type="hidden" name="quantity_max||c7b5f5362420a6b8604768cea240395d1f3d8b39530ad0e675c8871efb4d40c0||open" value="0" id="fs_quantity_max_251694" />
+<input type="hidden" name="image||ebf6ac7f67d54a900060730219c42511d0572c93236f892562588940f487d0e5||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1440-Foxy-1.jpg" id="foxyshop_cart_product_image_251694" />
+<input type="hidden" name="url||f25f9b4508ad089157a7a66bdfd3ea12ddf5e25d3aaabb5c8397044e0ca4df66" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood-250-donation/" id="fs_url_251694" />
+<input type="hidden" name="quantity_min||32673e035989f6240bfb6d187d6d5725b1fa55509d7fecde48abe33c91e37535||open" value="0" id="fs_quantity_min_251694" />
+<input type="hidden" name="quantity_max||be811e27380d081bff810ad9b7d4ae25d063ab16259ec365140c44b8a5a66967||open" value="0" id="fs_quantity_max_251694" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251694" />
-<input type="hidden" name="name||bd8122367e61c9aeaf1bdf77b710fb33cbf73b6c07bf7aecb99b39838417bfc5" id="fs_name_251694" value="1440-Fundación Hospital El Buen Samaritano (Vitafood) $250 Donation" />
-<input type="hidden" name="code||8fa6e7c36811575d105daee9d7c36e5c0efa1e6243390c95438a48d80cd250d8" id="fs_code_251694" value="WCPROJ1440" />
+<input type="hidden" name="name||fc46f93f9dca7196003e6e8523c50493c06036e76b12352a32606c9345c8d729" id="fs_name_251694" value="1440-Fundación Hospital El Buen Samaritano $210 gift" />
+<input type="hidden" name="code||b1b923404f50f2d90d29cb850beed387ab5b8d05727e5d97812f9096f34b75df" id="fs_code_251694" value="WCPJ3671HMP" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||cd3d61d06403938a11f86a56823c11a4e365742a89c94deb2744842f7b735fda" id="WCPROJ1440_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$210_donation||89e060471da04f5a01ef4c72264c14bba04d784f89c50ab51d21a874fc80928b" id="WCPJ3671HMP_1" value="" class="variation-210-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
-
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$210</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$210.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_77790" rel="77790">
-<input type="hidden" name="price||a3089f2f18a17ec1e40f8c4f6480709fd3370e626699c41c66cdc046db78baa5" id="fs_price_77790" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_77790" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_77790" />
-<input type="hidden" name="image||8b9be87b27a449e1dfaa42432113e62fe7677a4ab5e16215e6cfcdd6e7d13843||open" value="https://crosscatholic.org/wp-content/uploads/2021/06/1440-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_77790" />
-<input type="hidden" name="url||33e716402a7a782ebd98107d4748e5a8cfd6e5080e1aaed387f03fcf4df34386" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood/" id="fs_url_77790" />
-<input type="hidden" name="quantity_min||16cd5ca39f685f67461c85f217fa5e3131a00384ec2c690723c472360c75d53c||open" value="0" id="fs_quantity_min_77790" />
-<input type="hidden" name="quantity_max||c7b5f5362420a6b8604768cea240395d1f3d8b39530ad0e675c8871efb4d40c0||open" value="0" id="fs_quantity_max_77790" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_77790" />
-<input type="hidden" name="name||a4c2b8ffeab4c61b2e46b549b32a36788958504e9ad2af4dc3bdd3f2b2acfdfd" id="fs_name_77790" value="1440-Fundación Hospital El Buen Samaritano (Vitafood)" />
-<input type="hidden" name="code||8fa6e7c36811575d105daee9d7c36e5c0efa1e6243390c95438a48d80cd250d8" id="fs_code_77790" value="WCPROJ1440" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_253922" rel="253922">
+<input type="hidden" name="price||e8b2c19e3083a3fa99848ffd3c20b6e9d8a33a2fff94633f65353c1da172b985" id="fs_price_253922" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_253922" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_253922" />
+<input type="hidden" name="image||ebf6ac7f67d54a900060730219c42511d0572c93236f892562588940f487d0e5||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1440-Foxy-1.jpg" id="foxyshop_cart_product_image_253922" />
+<input type="hidden" name="url||0a7218bac0981dbd4cb67fbeac3581352f0e6217716baa5d8ebe7d7270b91980" value="https://crosscatholic.org/products/1440-fundacion-hospital-el-buen-samaritano-vitafood/" id="fs_url_253922" />
+<input type="hidden" name="quantity_min||32673e035989f6240bfb6d187d6d5725b1fa55509d7fecde48abe33c91e37535||open" value="0" id="fs_quantity_min_253922" />
+<input type="hidden" name="quantity_max||be811e27380d081bff810ad9b7d4ae25d063ab16259ec365140c44b8a5a66967||open" value="0" id="fs_quantity_max_253922" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_253922" />
+<input type="hidden" name="name||b67ef382b5777f36935f818501f7a9a7f6aa200c727653e94518914974bc9fa3" id="fs_name_253922" value="1440-Fundación Hospital El Buen Samaritano" />
+<input type="hidden" name="code||b1b923404f50f2d90d29cb850beed387ab5b8d05727e5d97812f9096f34b75df" id="fs_code_253922" value="WCPJ3671HMP" />
 <div class="foxyshop_variations">
-<input type="text" name="price||afca59fbbe9f9f15f2636e6259021cf01c713bc84b36ec11fffb9074d61a0fec||open" id="WCPROJ1440_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||5fc69a8ee25b8b7eec6444b0728b410161036d5e94dc2a1bfafb8545118e882b||open" id="WCPJ3671HMP_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
