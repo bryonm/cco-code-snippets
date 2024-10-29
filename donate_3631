@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3631', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266345" rel="266345">
+<input type="hidden" name="price||2ebff60a1e17ba5cd966ce70cb19c30d38d672c8952744c364d755a80d805cf4" id="fs_price_266345" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266345" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266345" />
+<input type="hidden" name="image||705b487868b4131d2099f69a4ebf074fc8b5b57630028185aeee318840f943f2||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3631-kindergarten-Foxy.jpg" id="foxyshop_cart_product_image_266345" />
+<input type="hidden" name="url||9158156cb581395690af4be5364c1c51455f92c8d701f99a57819e5833f4b753" value="https://crosscatholic.org/products/3631-sabuli-kindergarten-construction-50-gift/" id="fs_url_266345" />
+<input type="hidden" name="quantity_min||9a484eda2044a902495d497bf4c71454f1a9c7df03cff734ba583d5dd01df5f3||open" value="0" id="fs_quantity_min_266345" />
+<input type="hidden" name="quantity_max||7ff01cb7b21aee1d44365389a94ad3c2b3c0d3b725f95181b492c93c61a4d165||open" value="0" id="fs_quantity_max_266345" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266345" />
+<input type="hidden" name="name||a2d2b725d7de86e8745dbb0626381ee360e5336146c3bd9fbd04268020436551" id="fs_name_266345" value="3631 - Sabuli Kindergarten Construction $50 gift" />
+<input type="hidden" name="code||b26eba4aa563133e66b90a0054946c1b0ed81b88ba1183d81065c80cc3f7b57b" id="fs_code_266345" value="WCPJ3542SKC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||d502358ef135c10e45a3fcd276bd240914cc566feaf105625435143b8b48b011" id="WCPJ3542SKC_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266346" rel="266346">
+<input type="hidden" name="price||a9177f5b52440d8676b78f0ef40bc70edc476c26ccecdc504fc9ffc9475ca8f8" id="fs_price_266346" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266346" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266346" />
+<input type="hidden" name="image||705b487868b4131d2099f69a4ebf074fc8b5b57630028185aeee318840f943f2||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3631-kindergarten-Foxy.jpg" id="foxyshop_cart_product_image_266346" />
+<input type="hidden" name="url||6c209508e5949ececc2c482839d02e7b20468886691ccf1920dc09757c36346d" value="https://crosscatholic.org/products/3631-sabuli-kindergarten-construction-100-gift/" id="fs_url_266346" />
+<input type="hidden" name="quantity_min||9a484eda2044a902495d497bf4c71454f1a9c7df03cff734ba583d5dd01df5f3||open" value="0" id="fs_quantity_min_266346" />
+<input type="hidden" name="quantity_max||7ff01cb7b21aee1d44365389a94ad3c2b3c0d3b725f95181b492c93c61a4d165||open" value="0" id="fs_quantity_max_266346" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266346" />
+<input type="hidden" name="name||a0c928c9805332eaf0b0e0362ddc9df29ad88d0b363df171798b2b1b85a2d188" id="fs_name_266346" value="3631 - Sabuli Kindergarten Construction $100 gift" />
+<input type="hidden" name="code||b26eba4aa563133e66b90a0054946c1b0ed81b88ba1183d81065c80cc3f7b57b" id="fs_code_266346" value="WCPJ3542SKC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||c3076c3c6733aee95f212cebd6b4198ce94311a16ebfeb0e18c72b625a08eeb1" id="WCPJ3542SKC_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266347" rel="266347">
+<input type="hidden" name="price||05465a63a7613bd1f8f226d0449b4ad8f356b3a27c9c570ac60ccef0c10e1ff5" id="fs_price_266347" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266347" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266347" />
+<input type="hidden" name="image||705b487868b4131d2099f69a4ebf074fc8b5b57630028185aeee318840f943f2||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3631-kindergarten-Foxy.jpg" id="foxyshop_cart_product_image_266347" />
+<input type="hidden" name="url||6280986826bb169dbe5bc983e3aef47894ae2982443041b9ec843098bed78ed6" value="https://crosscatholic.org/products/3631-sabuli-kindergarten-construction-250-gift/" id="fs_url_266347" />
+<input type="hidden" name="quantity_min||9a484eda2044a902495d497bf4c71454f1a9c7df03cff734ba583d5dd01df5f3||open" value="0" id="fs_quantity_min_266347" />
+<input type="hidden" name="quantity_max||7ff01cb7b21aee1d44365389a94ad3c2b3c0d3b725f95181b492c93c61a4d165||open" value="0" id="fs_quantity_max_266347" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266347" />
+<input type="hidden" name="name||d6dcff18ff7383cd9b84977e45aa4534fbe4d5af0ca1ef584bbaf201038cb337" id="fs_name_266347" value="3631 - Sabuli Kindergarten Construction $250 gift" />
+<input type="hidden" name="code||b26eba4aa563133e66b90a0054946c1b0ed81b88ba1183d81065c80cc3f7b57b" id="fs_code_266347" value="WCPJ3542SKC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||cf31c79e0faa642b0e2e2a5668ae7fd0f26f241056deecbc248e0aa1ca8ea34a" id="WCPJ3542SKC_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266348" rel="266348">
+<input type="hidden" name="price||8709e75a198daee35602d3ef267b027520a1be49857029debfcfce09ee086d98" id="fs_price_266348" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266348" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266348" />
+<input type="hidden" name="image||705b487868b4131d2099f69a4ebf074fc8b5b57630028185aeee318840f943f2||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3631-kindergarten-Foxy.jpg" id="foxyshop_cart_product_image_266348" />
+<input type="hidden" name="url||45bf2395d5599c3257e7b695c655cd52cda2f15271e3dec7fa05922b0fc2af00" value="https://crosscatholic.org/products/3631-sabuli-kindergarten-construction/" id="fs_url_266348" />
+<input type="hidden" name="quantity_min||9a484eda2044a902495d497bf4c71454f1a9c7df03cff734ba583d5dd01df5f3||open" value="0" id="fs_quantity_min_266348" />
+<input type="hidden" name="quantity_max||7ff01cb7b21aee1d44365389a94ad3c2b3c0d3b725f95181b492c93c61a4d165||open" value="0" id="fs_quantity_max_266348" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266348" />
+<input type="hidden" name="name||a5b62f63856e42c7fdc3505aaf96a1bcb7466210eb23d438df963b03a29021a0" id="fs_name_266348" value="3631 - Sabuli Kindergarten Construction" />
+<input type="hidden" name="code||b26eba4aa563133e66b90a0054946c1b0ed81b88ba1183d81065c80cc3f7b57b" id="fs_code_266348" value="WCPJ3542SKC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||817bd635c6a91162b97cff76c95738aa6516e75a595e2c1947fcc7fcae8a33a6||open" id="WCPJ3542SKC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
