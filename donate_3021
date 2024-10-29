@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3021', function () {
+
+	$out = '<div class="flex-container">
+<!-- $53 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266482" rel="266482">
+<input type="hidden" name="price||342525882dd503505e0fcb01465ce86724b575e882579332ee48a60f9089848a" id="fs_price_266482" value="53.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266482" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266482" />
+<input type="hidden" name="image||8040a91ae049e9a5ec25a19d60bf35dc2afc6784a196c50e1d29277d43e2bc0a||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3021-Foxy.jpg" id="foxyshop_cart_product_image_266482" />
+<input type="hidden" name="url||17c52845af7419c792d435193517cefc1aa125ee0afca259feb5da3e89d8b29b" value="https://crosscatholic.org/products/3021-acm-income-generation-initiative-53-gift-2/" id="fs_url_266482" />
+<input type="hidden" name="quantity_min||85a99a7e639c4337cc05cdb4e4e4e1adb2008a5eb98562c22e439e129ce80880||open" value="0" id="fs_quantity_min_266482" />
+<input type="hidden" name="quantity_max||4a107256a63e21bdd3245d570ccac14e6821034cc2eba07c5cc800781b6f5761||open" value="0" id="fs_quantity_max_266482" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266482" />
+<input type="hidden" name="name||041e96010f64c8860ffbb05ae6c92bb7cc59bf5f46adce8934beac50ae3b1fe4" id="fs_name_266482" value="3021 - ACM Income Generation Initiative $53 Gift" />
+<input type="hidden" name="code||a5d7980090b5d18854870827cb988f57294ee5d55cef4b4fd8817183b7276d7b" id="fs_code_266482" value="WCPJ3021WIG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$53_donation||c4467017ecd57e1856681910bbbd0c75b321b1e0856ad3c56c5b07540b9a69bd" id="WCPJ3021WIG_1" value="" class="variation-53-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$53</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$53.00</span></div></div></form>
+<!-- $106 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266483" rel="266483">
+<input type="hidden" name="price||97637881caad414683bdae1445e93fd5152cca7b9726100e4e6bd4301437773d" id="fs_price_266483" value="106.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266483" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266483" />
+<input type="hidden" name="image||8040a91ae049e9a5ec25a19d60bf35dc2afc6784a196c50e1d29277d43e2bc0a||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3021-Foxy.jpg" id="foxyshop_cart_product_image_266483" />
+<input type="hidden" name="url||53403fb1305e11ee2651573b19127ccb2ebe9184fa27a95c131dec0f13709504" value="https://crosscatholic.org/products/3021-acm-income-generation-initiative-106-gift-2/" id="fs_url_266483" />
+<input type="hidden" name="quantity_min||85a99a7e639c4337cc05cdb4e4e4e1adb2008a5eb98562c22e439e129ce80880||open" value="0" id="fs_quantity_min_266483" />
+<input type="hidden" name="quantity_max||4a107256a63e21bdd3245d570ccac14e6821034cc2eba07c5cc800781b6f5761||open" value="0" id="fs_quantity_max_266483" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266483" />
+<input type="hidden" name="name||be048c54e0abb33c1e77fc020dd441ccfa68bbc722ae50435d03c6722f7794c6" id="fs_name_266483" value="3021 - ACM Income Generation Initiative $106 Gift" />
+<input type="hidden" name="code||a5d7980090b5d18854870827cb988f57294ee5d55cef4b4fd8817183b7276d7b" id="fs_code_266483" value="WCPJ3021WIG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$106_donation||86f353d266cf6154ce7602c825902df3c4b8b4f8cd02986ca769157587eeb674" id="WCPJ3021WIG_1" value="" class="variation-106-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$106</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$106.00</span></div></div></form>
+<!-- $212 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266484" rel="266484">
+<input type="hidden" name="price||1bc5d51822a5f567eba29b2bcbbcfaf52336c50887f636f59c35fea43e07c6a7" id="fs_price_266484" value="212.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266484" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266484" />
+<input type="hidden" name="image||8040a91ae049e9a5ec25a19d60bf35dc2afc6784a196c50e1d29277d43e2bc0a||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3021-Foxy.jpg" id="foxyshop_cart_product_image_266484" />
+<input type="hidden" name="url||1a6956403de81127efd62b56a3f3e6850c81d1b43babc4ae07790c3e3d1a414b" value="https://crosscatholic.org/products/3021-acm-income-generation-initiative-212-gift-2/" id="fs_url_266484" />
+<input type="hidden" name="quantity_min||85a99a7e639c4337cc05cdb4e4e4e1adb2008a5eb98562c22e439e129ce80880||open" value="0" id="fs_quantity_min_266484" />
+<input type="hidden" name="quantity_max||4a107256a63e21bdd3245d570ccac14e6821034cc2eba07c5cc800781b6f5761||open" value="0" id="fs_quantity_max_266484" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266484" />
+<input type="hidden" name="name||1bcf6b40c5a9e13587ee979cd50c29cfeb897b032ddfe2cffc2a08c736faedf0" id="fs_name_266484" value="3021 - ACM Income Generation Initiative $212 Gift" />
+<input type="hidden" name="code||a5d7980090b5d18854870827cb988f57294ee5d55cef4b4fd8817183b7276d7b" id="fs_code_266484" value="WCPJ3021WIG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$212_donation||a702a07f3eea7801b1a59e0899fbb385588dcb03980a1d9a6600dec3865dfe6d" id="WCPJ3021WIG_1" value="" class="variation-212-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$212</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$212.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266485" rel="266485">
+<input type="hidden" name="price||922a2426c250b7d907ee02065f7205dd9c9ab11b732923e66eb13432cc001574" id="fs_price_266485" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266485" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266485" />
+<input type="hidden" name="image||8040a91ae049e9a5ec25a19d60bf35dc2afc6784a196c50e1d29277d43e2bc0a||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-3021-Foxy.jpg" id="foxyshop_cart_product_image_266485" />
+<input type="hidden" name="url||7e2683581ea52a0f51c6161b9c22ae0853ca939ccd497e4a4038b24bbe840f88" value="https://crosscatholic.org/products/3021-acm-income-generation-initiative-2/" id="fs_url_266485" />
+<input type="hidden" name="quantity_min||85a99a7e639c4337cc05cdb4e4e4e1adb2008a5eb98562c22e439e129ce80880||open" value="0" id="fs_quantity_min_266485" />
+<input type="hidden" name="quantity_max||4a107256a63e21bdd3245d570ccac14e6821034cc2eba07c5cc800781b6f5761||open" value="0" id="fs_quantity_max_266485" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266485" />
+<input type="hidden" name="name||164a6b0e1677afb849f1d63d4fd53228d9b10521a62836bd55cf8f3ad9f73e60" id="fs_name_266485" value="3021 - ACM Income Generation Initiative" />
+<input type="hidden" name="code||a5d7980090b5d18854870827cb988f57294ee5d55cef4b4fd8817183b7276d7b" id="fs_code_266485" value="WCPJ3021WIG" />
+<div class="foxyshop_variations">
+<input type="text" name="price||2ac0000d64acb089128da8b1bd250e8dd593caf8fc42fa208558c5be14d16c72||open" id="WCPJ3021WIG_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
