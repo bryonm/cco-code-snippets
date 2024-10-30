@@ -1,0 +1,73 @@
+add_shortcode( 'eb-WCL25ALP9041B3', function () {
+
+	$out = '<div class="flex-container">
+	<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268036" rel="268036">
+<input type="hidden" name="price||eaa76068bdcd3a55716527a48addfb941911b7d4a5b89cd7429bc0630ecee7e1" id="fs_price_268036" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268036" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268036" />
+<input type="hidden" name="image||7b69a75694b680694feba440c926205533841239f222a0c26eb4fc2077855055||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_268036" />
+<input type="hidden" name="url||19c81d8c21b4860030e38a557dc0172aa0377a65dad21093935a7a48ec424186" value="https://crosscatholic.org/products/donate-to-water-and-health-needs-50-gift/" id="fs_url_268036" />
+<input type="hidden" name="quantity_min||39df22d7137d4c829f899b939949ecac5b9bf2c365071e5c48872a77f371bf74||open" value="0" id="fs_quantity_min_268036" />
+<input type="hidden" name="quantity_max||38d5feef3cc794427dfcda40eae4b5a8c2426253d4245eef13cbd0494d462a4c||open" value="0" id="fs_quantity_max_268036" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268036" />
+<input type="hidden" name="name||c4059a1c68d3de26103e993da02ba7e8ff5dba074f09b8dd62a99ef2cbd0a463" id="fs_name_268036" value="Donate to Water and Health Needs $50 Gift" />
+<input type="hidden" name="code||a89a9e09f039232614915e9cb7695c333b0a31b58a19bfeacd241ed53be4d8d9" id="fs_code_268036" value="WCL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||f623168c9796555008acf10b67baee61c25c54a5564a1ab0eaa200e5e1a7ce4e" id="WCL25ALP9041B3_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268037" rel="268037">
+<input type="hidden" name="price||91b4eb92a5678ecbf709dce19d26f1f63651fb68d22a2ffd27885122f391f771" id="fs_price_268037" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268037" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268037" />
+<input type="hidden" name="image||7b69a75694b680694feba440c926205533841239f222a0c26eb4fc2077855055||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_268037" />
+<input type="hidden" name="url||f161b20a60ca8fdc4997229252d66d627a3315465100d6816c2b7be0d7668bab" value="https://crosscatholic.org/products/donate-to-water-and-health-needs-100-gift/" id="fs_url_268037" />
+<input type="hidden" name="quantity_min||39df22d7137d4c829f899b939949ecac5b9bf2c365071e5c48872a77f371bf74||open" value="0" id="fs_quantity_min_268037" />
+<input type="hidden" name="quantity_max||38d5feef3cc794427dfcda40eae4b5a8c2426253d4245eef13cbd0494d462a4c||open" value="0" id="fs_quantity_max_268037" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268037" />
+<input type="hidden" name="name||28a0d2c43cca0024685a30426daf11b423bb22ecedf2fcdb36bf4483de8afae6" id="fs_name_268037" value="Donate to Water and Health Needs $100 Gift" />
+<input type="hidden" name="code||a89a9e09f039232614915e9cb7695c333b0a31b58a19bfeacd241ed53be4d8d9" id="fs_code_268037" value="WCL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||9698f0250480047898be490b233a2883ccdd43b43ea4a852e7b1f7b771c664e3" id="WCL25ALP9041B3_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268038" rel="268038">
+<input type="hidden" name="price||7b36de58009c5561d79a8bf0c78a095e073bd514141368c12a3693d60689724f" id="fs_price_268038" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268038" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268038" />
+<input type="hidden" name="image||7b69a75694b680694feba440c926205533841239f222a0c26eb4fc2077855055||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_268038" />
+<input type="hidden" name="url||ae246a092014bfdd58e1c3b6fcb4ab766eae98b270992676ce84a12318b69656" value="https://crosscatholic.org/products/donate-to-water-and-health-needs-250-gift/" id="fs_url_268038" />
+<input type="hidden" name="quantity_min||39df22d7137d4c829f899b939949ecac5b9bf2c365071e5c48872a77f371bf74||open" value="0" id="fs_quantity_min_268038" />
+<input type="hidden" name="quantity_max||38d5feef3cc794427dfcda40eae4b5a8c2426253d4245eef13cbd0494d462a4c||open" value="0" id="fs_quantity_max_268038" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268038" />
+<input type="hidden" name="name||45e46d86114608df04078c5530a7b814a7d77f567ce542f34f002f7e9ed756b9" id="fs_name_268038" value="Donate to Water and Health Needs $250 Gift" />
+<input type="hidden" name="code||a89a9e09f039232614915e9cb7695c333b0a31b58a19bfeacd241ed53be4d8d9" id="fs_code_268038" value="WCL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||d9ec6d10b400df74e070c98dfbfd2c3c434499e67efcbeda3c7f22b42de2a921" id="WCL25ALP9041B3_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268039" rel="268039">
+<input type="hidden" name="price||26ce614edc26ab8d66285c6b66eafe9220c7472f6e9d86638f89a53df607a23b" id="fs_price_268039" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268039" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268039" />
+<input type="hidden" name="image||7b69a75694b680694feba440c926205533841239f222a0c26eb4fc2077855055||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_268039" />
+<input type="hidden" name="url||0ed710957be9da8b9365fc12e40b1e1536e1797906aa811c6ed3f0eda207dbf0" value="https://crosscatholic.org/products/donate-to-water-and-health-needs/" id="fs_url_268039" />
+<input type="hidden" name="quantity_min||39df22d7137d4c829f899b939949ecac5b9bf2c365071e5c48872a77f371bf74||open" value="0" id="fs_quantity_min_268039" />
+<input type="hidden" name="quantity_max||38d5feef3cc794427dfcda40eae4b5a8c2426253d4245eef13cbd0494d462a4c||open" value="0" id="fs_quantity_max_268039" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268039" />
+<input type="hidden" name="name||bf10a7546b41e1b94083cd62a04f14a86bb0fb0af84b18faa29528e3fda049f3" id="fs_name_268039" value="Donate to Water and Health Needs" />
+<input type="hidden" name="code||a89a9e09f039232614915e9cb7695c333b0a31b58a19bfeacd241ed53be4d8d9" id="fs_code_268039" value="WCL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="text" name="price||58d452d3c1735283209bd8076da397edbc6f97b6c8aaae45ba735108dfef8a35||open" id="WCL25ALP9041B3_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
