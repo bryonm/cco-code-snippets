@@ -1,0 +1,73 @@
+add_shortcode( 'eb-WCL25ALP9021B1', function () {
+
+	$out = '<div class="flex-container">
+	<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268022" rel="268022">
+<input type="hidden" name="price||e04843a5aece75c8d072335f4451299dee43e30ae48cf54c878092b20b9573fc" id="fs_price_268022" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268022" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268022" />
+<input type="hidden" name="image||ff390856095c57d7a65dc7074d434622de9591ff9bee9a259efe8a374d34b733||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/meet-free-recipe-foxy-thumb.jpg" id="foxyshop_cart_product_image_268022" />
+<input type="hidden" name="url||525d5069f844e4955c104596ee7a71bb82729cccb87e39a4289a82dfa42a1fd5" value="https://crosscatholic.org/products/donate-to-provide-nutritious-food-50-gift/" id="fs_url_268022" />
+<input type="hidden" name="quantity_min||60fe41e63fe1e7c8d8e66eb28f4090bc1b5fa0c642c4f9fbe3fd62002682453b||open" value="0" id="fs_quantity_min_268022" />
+<input type="hidden" name="quantity_max||d62371cf4e7a1ea48b890ec41eb9f93bf599cc673d7a06a6d19f64a3ef7aeeb8||open" value="0" id="fs_quantity_max_268022" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268022" />
+<input type="hidden" name="name||32119b843ba8588d4f137bf2ed6074ccc4a9aeedae12d479d11da31a7cbad651" id="fs_name_268022" value="Donate to Provide Nutritious Food $50 Gift" />
+<input type="hidden" name="code||5d4d534f06b14f840c6a913c397ec0c9377003101dc21856febcb80152797f5b" id="fs_code_268022" value="WCL25ALP9021B1" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||3cbd3484f9e8c0c88e7ae7727d6b930c948fd5cc89576933e3c1c839a597e171" id="WCL25ALP9021B1_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268023" rel="268023">
+<input type="hidden" name="price||bf09731cae07f31f9f60e3dc5fcd5fc2671b79a7375a1aa5ffe66614df258502" id="fs_price_268023" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268023" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268023" />
+<input type="hidden" name="image||ff390856095c57d7a65dc7074d434622de9591ff9bee9a259efe8a374d34b733||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/meet-free-recipe-foxy-thumb.jpg" id="foxyshop_cart_product_image_268023" />
+<input type="hidden" name="url||f9776706ad3bfb1e58dfb0349373b8be047c04c897db2a14d3e30a782ee24016" value="https://crosscatholic.org/products/donate-to-provide-nutritious-food-100-gift/" id="fs_url_268023" />
+<input type="hidden" name="quantity_min||60fe41e63fe1e7c8d8e66eb28f4090bc1b5fa0c642c4f9fbe3fd62002682453b||open" value="0" id="fs_quantity_min_268023" />
+<input type="hidden" name="quantity_max||d62371cf4e7a1ea48b890ec41eb9f93bf599cc673d7a06a6d19f64a3ef7aeeb8||open" value="0" id="fs_quantity_max_268023" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268023" />
+<input type="hidden" name="name||d7f47976786777a3ab4fcc166a73e7872c344662d85aaa9ee045a64e96851f6a" id="fs_name_268023" value="Donate to Provide Nutritious Food $100 Gift" />
+<input type="hidden" name="code||5d4d534f06b14f840c6a913c397ec0c9377003101dc21856febcb80152797f5b" id="fs_code_268023" value="WCL25ALP9021B1" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||251cb405631bb75c107ee583851856c1417f725bb74ffaeab8d506c23d530df7" id="WCL25ALP9021B1_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268024" rel="268024">
+<input type="hidden" name="price||bb10a21e6136ee80a64a688542a0b20587a0d5b83c71ad001c354978e1525baa" id="fs_price_268024" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268024" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268024" />
+<input type="hidden" name="image||ff390856095c57d7a65dc7074d434622de9591ff9bee9a259efe8a374d34b733||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/meet-free-recipe-foxy-thumb.jpg" id="foxyshop_cart_product_image_268024" />
+<input type="hidden" name="url||d70e001d1d9d43d1512d35eb9872b4ded65556578da0a4b91e3dffbcba01b30e" value="https://crosscatholic.org/products/donate-to-provide-nutritious-food-250-gift/" id="fs_url_268024" />
+<input type="hidden" name="quantity_min||60fe41e63fe1e7c8d8e66eb28f4090bc1b5fa0c642c4f9fbe3fd62002682453b||open" value="0" id="fs_quantity_min_268024" />
+<input type="hidden" name="quantity_max||d62371cf4e7a1ea48b890ec41eb9f93bf599cc673d7a06a6d19f64a3ef7aeeb8||open" value="0" id="fs_quantity_max_268024" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268024" />
+<input type="hidden" name="name||6d2bdedfa3bc5c2cf606e7a596865e84794f6749ad6e31c926af6c9b79fcbbf0" id="fs_name_268024" value="Donate to Provide Nutritious Food $250 Gift" />
+<input type="hidden" name="code||5d4d534f06b14f840c6a913c397ec0c9377003101dc21856febcb80152797f5b" id="fs_code_268024" value="WCL25ALP9021B1" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||afcf41dfeda4400e3bc6fed66158678888470cfdbb9c2c09a3ac48a16cba8272" id="WCL25ALP9021B1_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268025" rel="268025">
+<input type="hidden" name="price||1a43bc5f636df85b5003037e25ab6424a84b590c8b681eb4d457394e703e1af9" id="fs_price_268025" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268025" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268025" />
+<input type="hidden" name="image||ff390856095c57d7a65dc7074d434622de9591ff9bee9a259efe8a374d34b733||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/meet-free-recipe-foxy-thumb.jpg" id="foxyshop_cart_product_image_268025" />
+<input type="hidden" name="url||51666687db2381e6ebc1289ece28ca198bafaaa4890929e68379b470d4b1ee94" value="https://crosscatholic.org/products/donate-to-provide-nutritious-food-3/" id="fs_url_268025" />
+<input type="hidden" name="quantity_min||60fe41e63fe1e7c8d8e66eb28f4090bc1b5fa0c642c4f9fbe3fd62002682453b||open" value="0" id="fs_quantity_min_268025" />
+<input type="hidden" name="quantity_max||d62371cf4e7a1ea48b890ec41eb9f93bf599cc673d7a06a6d19f64a3ef7aeeb8||open" value="0" id="fs_quantity_max_268025" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268025" />
+<input type="hidden" name="name||66a5ef721a3d2b5ba0561058c974c3b29e632ac329a705edf817372629a19a65" id="fs_name_268025" value="Donate to Provide Nutritious Food" />
+<input type="hidden" name="code||5d4d534f06b14f840c6a913c397ec0c9377003101dc21856febcb80152797f5b" id="fs_code_268025" value="WCL25ALP9021B1" />
+<div class="foxyshop_variations">
+<input type="text" name="price||c171032ce38c9778d211722a7dcaf7cd9281e1eb123871ef3e2959c8bceae42f||open" id="WCL25ALP9021B1_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
