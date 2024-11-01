@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3562', function () {
+
+	$out = '<div class="flex-container">
+<!-- $2,809 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266094" rel="266094">
+<input type="hidden" name="price||1200932d6308c8fef55839a38c33a811dcca5fdeb6a00522165d9da5531e67e0" id="fs_price_266094" value="2809.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266094" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266094" />
+<input type="hidden" name="image||c5bf2cbded3ed1951aac67ade7db337351952156c4966dc41be651a9c4819fa9||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3562-Foxy.jpg" id="foxyshop_cart_product_image_266094" />
+<input type="hidden" name="url||50602267ce671b4cbda70ce3aa6c7c979ec2b830e4214dd3b6a069c250ebe1a1" value="https://crosscatholic.org/products/3562-caritas-diocese-of-solola-chimaltenango-housing-2809-gift/" id="fs_url_266094" />
+<input type="hidden" name="quantity_min||cb57bbce867d7e55b6021c52acca823287954915f63ca95464be75d0e14fa440||open" value="0" id="fs_quantity_min_266094" />
+<input type="hidden" name="quantity_max||980ed2c99cdee4d88250301d3216295a70fb17117414513c14458fc5ee97f168||open" value="0" id="fs_quantity_max_266094" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266094" />
+<input type="hidden" name="name||fa7f64d64141b23d440b187357b3b5b1ad9d462558a8f2ff0e7643422a72721f" id="fs_name_266094" value="3562 - Caritas Diocese of Solola Chimaltenango Housing $2,809 gift" />
+<input type="hidden" name="code||1cb74304ae758b7a69e8103607f489107a5d2ee3f928df0aaf18b6ad135849aa" id="fs_code_266094" value="WCPJ3665CSHS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$2809_donation||ee5554d4784c527cae484c8287ba077730dcd27ab40745222577da76541ed47f" id="WCPJ3665CSHS_1" value="" class="variation-2809-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$2,809</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$2,809.00</span></div></div></form>
+<!-- $5,618 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266095" rel="266095">
+<input type="hidden" name="price||f494d25525bb5e7656759fc4ff2d2114041804b581980407e0717686860b7fe8" id="fs_price_266095" value="5618.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266095" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266095" />
+<input type="hidden" name="image||c5bf2cbded3ed1951aac67ade7db337351952156c4966dc41be651a9c4819fa9||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3562-Foxy.jpg" id="foxyshop_cart_product_image_266095" />
+<input type="hidden" name="url||1f7044d991ae4317bfadce4c3422de9f353f57c80311f8763024fd5724531fff" value="https://crosscatholic.org/products/3562-caritas-diocese-of-solola-chimaltenango-housing-5618-gift/" id="fs_url_266095" />
+<input type="hidden" name="quantity_min||cb57bbce867d7e55b6021c52acca823287954915f63ca95464be75d0e14fa440||open" value="0" id="fs_quantity_min_266095" />
+<input type="hidden" name="quantity_max||980ed2c99cdee4d88250301d3216295a70fb17117414513c14458fc5ee97f168||open" value="0" id="fs_quantity_max_266095" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266095" />
+<input type="hidden" name="name||ee97067b810390bc33bc20338654e303285e5e251798d3d250fa493c2e227ed4" id="fs_name_266095" value="3562 - Caritas Diocese of Solola Chimaltenango Housing $5,618 gift" />
+<input type="hidden" name="code||1cb74304ae758b7a69e8103607f489107a5d2ee3f928df0aaf18b6ad135849aa" id="fs_code_266095" value="WCPJ3665CSHS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$5618_donation||acce1d859a699e03e1ec822f1902ef48d5493efde8a0e47e40afa9c801a56bce" id="WCPJ3665CSHS_1" value="" class="variation-5618-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$5,618</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$5,618.00</span></div></div></form>
+<!-- $11,236 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266096" rel="266096">
+<input type="hidden" name="price||ce6325f8d3abb8c9c8733df0f1164602c6d0bf2080a64c3bd2e93c17506db809" id="fs_price_266096" value="11236.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266096" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266096" />
+<input type="hidden" name="image||c5bf2cbded3ed1951aac67ade7db337351952156c4966dc41be651a9c4819fa9||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3562-Foxy.jpg" id="foxyshop_cart_product_image_266096" />
+<input type="hidden" name="url||2001e6453e9b0de5d44973e28179094b4b4323a71c81e60e977120c539d32548" value="https://crosscatholic.org/products/3562-caritas-diocese-of-solola-chimaltenango-housing-11236-gift/" id="fs_url_266096" />
+<input type="hidden" name="quantity_min||cb57bbce867d7e55b6021c52acca823287954915f63ca95464be75d0e14fa440||open" value="0" id="fs_quantity_min_266096" />
+<input type="hidden" name="quantity_max||980ed2c99cdee4d88250301d3216295a70fb17117414513c14458fc5ee97f168||open" value="0" id="fs_quantity_max_266096" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266096" />
+<input type="hidden" name="name||2d6c1e686ee6e70504071a91c6e8997bfab88fecf5f7952967d8ae8e60adc4d6" id="fs_name_266096" value="3562 - Caritas Diocese of Solola Chimaltenango Housing $11,236 gift" />
+<input type="hidden" name="code||1cb74304ae758b7a69e8103607f489107a5d2ee3f928df0aaf18b6ad135849aa" id="fs_code_266096" value="WCPJ3665CSHS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$11236_donation||859d7f82c3f4a09b37046122ab6ab7ff09869430395fd941e7bf9d361ec4842c" id="WCPJ3665CSHS_1" value="" class="variation-11236-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$11,236</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$11,236.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_266097" rel="266097">
+<input type="hidden" name="price||19204e8aa52b2008d007e19fd9f8f3c42982841aa32b94053a1cc1d537c8fc14" id="fs_price_266097" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_266097" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_266097" />
+<input type="hidden" name="image||c5bf2cbded3ed1951aac67ade7db337351952156c4966dc41be651a9c4819fa9||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3562-Foxy.jpg" id="foxyshop_cart_product_image_266097" />
+<input type="hidden" name="url||b48e3a2cd246f63384a3846d23a46929545c5bf230310312afe26dd2cd110c33" value="https://crosscatholic.org/products/3562-caritas-diocese-of-solola-chimaltenango-housing/" id="fs_url_266097" />
+<input type="hidden" name="quantity_min||cb57bbce867d7e55b6021c52acca823287954915f63ca95464be75d0e14fa440||open" value="0" id="fs_quantity_min_266097" />
+<input type="hidden" name="quantity_max||980ed2c99cdee4d88250301d3216295a70fb17117414513c14458fc5ee97f168||open" value="0" id="fs_quantity_max_266097" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_266097" />
+<input type="hidden" name="name||63a2e9c715b2c568b5bd99aed8233611c7ca431e551b4eb0edeeb73cba1b1fa3" id="fs_name_266097" value="3562 - Caritas Diocese of Solola Chimaltenango Housing" />
+<input type="hidden" name="code||1cb74304ae758b7a69e8103607f489107a5d2ee3f928df0aaf18b6ad135849aa" id="fs_code_266097" value="WCPJ3665CSHS" />
+<div class="foxyshop_variations">
+<input type="text" name="price||ea9f3c3c0114201f6b3b6389d9f741a490e5066b5e51db3c3352f89ac47c8a0d||open" id="WCPJ3665CSHS_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
