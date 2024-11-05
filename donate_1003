@@ -2,73 +2,68 @@ add_shortcode( 'donate_1003', function () {
 
 	$out = '<div class="flex-container">
 <!-- $50 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52769" rel="52769">
-<input type="hidden" name="price||7bf2bb60b9bee6aadcefc81737568872c734255e3b883c4b0b2b495ba90c849e" id="fs_price_52769" value="50.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52769" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52769" />
-<input type="hidden" name="image||4c375e4bc48788137c1e73bdab436f7e5b545cb604500b0c14b2e8a8d803d5a0||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/1003-foxy-thumb.jpg" id="foxyshop_cart_product_image_52769" />
-<input type="hidden" name="url||d76b1e23417a81ecdff9fa171bf913717deafe28f0fae605d7fceb80edbce6d0" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing-3/" id="fs_url_52769" />
-<input type="hidden" name="quantity_min||f5d08d14b06dc9a65fed6599844e20fd894439c4887e291fd7d6668e000cb34c||open" value="0" id="fs_quantity_min_52769" />
-<input type="hidden" name="quantity_max||086425effc66105c851860bbd609ac05116574348edaad560101f5bbeb84153a||open" value="0" id="fs_quantity_max_52769" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52769" />
-<input type="hidden" name="name||06d071d03be58419ff4bd9d41077d1b9131e43f02bf18db61a8e8589a03177cd" id="fs_name_52769" value="1003 - Diocese of St. George’s Housing" />
-<input type="hidden" name="code||e0cab84c897ac78287b3cf2c1f9fb48e33bd3d8ab8ed9019d7d236088effc47c" id="fs_code_52769" value="WCPROJ1003" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_254662" rel="254662">
+<input type="hidden" name="price||ea85922dc0022a6d24d251876de60a497a042e8914997b8464b0cb1d8e94d642" id="fs_price_254662" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_254662" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_254662" />
+<input type="hidden" name="image||e036bec0927cc2a1470d5556acbceccaecedb72ae28a19b2ee6b1bac2b5f7fdb||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1003-Foxy.jpg" id="foxyshop_cart_product_image_254662" />
+<input type="hidden" name="url||2be116c87bd86eb5f1b5b11fc092aa4b6dd6dd071ae1af979817e1f753cf8691" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing-50-gift/" id="fs_url_254662" />
+<input type="hidden" name="quantity_min||267078d5bf41a7f856d0c8839027c2be538a27a5c0d723abb43b4501ff1d117e||open" value="0" id="fs_quantity_min_254662" />
+<input type="hidden" name="quantity_max||aadfc2818d6cd8d77464151de6521c54a2b2067cfc9d298c4c7e72a3371e94ef||open" value="0" id="fs_quantity_max_254662" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_254662" />
+<input type="hidden" name="name||b0c55192652e69f418407a1a6d4bcf051b1d73c07de7cd64cb1d5cc7d9d5c031" id="fs_name_254662" value="1003 - Diocese of St. George’s Housing $50 gift" />
+<input type="hidden" name="code||5e27c104442860754841cbd378fd156d5868d1408f82ff215519875c9a216014" id="fs_code_254662" value="WCPJ1003SHG" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||8f8bafa52418c38974dc89c5f97a51e32d403b3438cd31d95f95cc0aaa155174" id="WCPROJ1003_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$50_donation||2e1482eb7ef7abdf4e55a56543b9248a4832e47b1730304ab5d7580675e41bd3" id="WCPJ1003SHG_1" value="" class="variation-50-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
 <!-- $100 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52772" rel="52772">
-<input type="hidden" name="price||96eba31b9b125223f45bae0eb1fa3bf094706ede5a206fa91899e4b31fc443a2" id="fs_price_52772" value="100.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52772" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52772" />
-<input type="hidden" name="image||4c375e4bc48788137c1e73bdab436f7e5b545cb604500b0c14b2e8a8d803d5a0||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/1003-foxy-thumb.jpg" id="foxyshop_cart_product_image_52772" />
-<input type="hidden" name="url||50aafaf3ef03dfd11196d2896ab705f9ba096b638fbae04df4ae99be3229d6fd" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing-4/" id="fs_url_52772" />
-<input type="hidden" name="quantity_min||f5d08d14b06dc9a65fed6599844e20fd894439c4887e291fd7d6668e000cb34c||open" value="0" id="fs_quantity_min_52772" />
-<input type="hidden" name="quantity_max||086425effc66105c851860bbd609ac05116574348edaad560101f5bbeb84153a||open" value="0" id="fs_quantity_max_52772" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52772" />
-<input type="hidden" name="name||06d071d03be58419ff4bd9d41077d1b9131e43f02bf18db61a8e8589a03177cd" id="fs_name_52772" value="1003 - Diocese of St. George’s Housing" />
-<input type="hidden" name="code||e0cab84c897ac78287b3cf2c1f9fb48e33bd3d8ab8ed9019d7d236088effc47c" id="fs_code_52772" value="WCPROJ1003" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_254664" rel="254664">
+<input type="hidden" name="price||d41e89a650f43f1bba929bbbd40589bd8d96a6a4f60b0dd77651d974e95fd7dc" id="fs_price_254664" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_254664" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_254664" />
+<input type="hidden" name="image||e036bec0927cc2a1470d5556acbceccaecedb72ae28a19b2ee6b1bac2b5f7fdb||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1003-Foxy.jpg" id="foxyshop_cart_product_image_254664" />
+<input type="hidden" name="url||d2f3da868f7e5886d2dba37558f475cc5a4c09157059a9363acdf431fa0c4b88" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing-100-gift/" id="fs_url_254664" />
+<input type="hidden" name="quantity_min||267078d5bf41a7f856d0c8839027c2be538a27a5c0d723abb43b4501ff1d117e||open" value="0" id="fs_quantity_min_254664" />
+<input type="hidden" name="quantity_max||aadfc2818d6cd8d77464151de6521c54a2b2067cfc9d298c4c7e72a3371e94ef||open" value="0" id="fs_quantity_max_254664" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_254664" />
+<input type="hidden" name="name||6bf003e81a7b3f53b0a11b5d965646afd9c66ed6328757547a8b27e0e8d5a762" id="fs_name_254664" value="1003 - Diocese of St. George’s Housing $100 gift" />
+<input type="hidden" name="code||5e27c104442860754841cbd378fd156d5868d1408f82ff215519875c9a216014" id="fs_code_254664" value="WCPJ1003SHG" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||26cd79d7da8234d3d0e9d1cf7ca4a5723f9a8391d4682d8613c38134156f725f" id="WCPROJ1003_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$100_donation||339730e7247a478f6928e38f062e034da89fb5ce7b11105123767dde48a6013e" id="WCPJ1003SHG_1" value="" class="variation-100-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
 <!-- $250 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_251625" rel="251625">
-<input type="hidden" name="price||5d810d624299208dac33ab8007dbbc4258300b0b8ea78cc71fefd2196879c8c7" id="fs_price_251625" value="250.00" />
+<input type="hidden" name="price||6bce225daf4d5935882e532a299a32bd60238ddc4b6e4dc9ac8d9a7cfc43b625" id="fs_price_251625" value="250.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_251625" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_251625" />
-<input type="hidden" name="image||4c375e4bc48788137c1e73bdab436f7e5b545cb604500b0c14b2e8a8d803d5a0||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/1003-foxy-thumb.jpg" id="foxyshop_cart_product_image_251625" />
-<input type="hidden" name="url||7da23e7b9d0c1e6581697a9941bd88bb6cb542f8ae8b0a1627b1db98e59c932a" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing-250-donation/" id="fs_url_251625" />
-<input type="hidden" name="quantity_min||f5d08d14b06dc9a65fed6599844e20fd894439c4887e291fd7d6668e000cb34c||open" value="0" id="fs_quantity_min_251625" />
-<input type="hidden" name="quantity_max||086425effc66105c851860bbd609ac05116574348edaad560101f5bbeb84153a||open" value="0" id="fs_quantity_max_251625" />
+<input type="hidden" name="image||e036bec0927cc2a1470d5556acbceccaecedb72ae28a19b2ee6b1bac2b5f7fdb||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1003-Foxy.jpg" id="foxyshop_cart_product_image_251625" />
+<input type="hidden" name="url||15618210bb2034570662fe89ec8c75e5e8fec1ac38ac6102f61ad80f8574c16e" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing-250-donation/" id="fs_url_251625" />
+<input type="hidden" name="quantity_min||267078d5bf41a7f856d0c8839027c2be538a27a5c0d723abb43b4501ff1d117e||open" value="0" id="fs_quantity_min_251625" />
+<input type="hidden" name="quantity_max||aadfc2818d6cd8d77464151de6521c54a2b2067cfc9d298c4c7e72a3371e94ef||open" value="0" id="fs_quantity_max_251625" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_251625" />
-<input type="hidden" name="name||c9ee91f1a72545a87bc31cc8c6dd6907af1e5e7014bf20dfe448e3fe1c544935" id="fs_name_251625" value="1003 - Diocese of St. George’s Housing $250 donation" />
-<input type="hidden" name="code||e0cab84c897ac78287b3cf2c1f9fb48e33bd3d8ab8ed9019d7d236088effc47c" id="fs_code_251625" value="WCPROJ1003" />
+<input type="hidden" name="name||8ee1bf82f0adde2a3977434985bcf15fcee7ea331b83f6d43a82f710c7a17c14" id="fs_name_251625" value="1003 - Diocese of St. George’s Housing $250 gift" />
+<input type="hidden" name="code||5e27c104442860754841cbd378fd156d5868d1408f82ff215519875c9a216014" id="fs_code_251625" value="WCPJ1003SHG" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||d2b165b05da36b17b7f9bb0b155cbe7ce5a710539f0a2d9f1648b877ae5ea2a2" id="WCPROJ1003_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$250_donation||806f1d79a38b25fc39e9681d15c17fc47efdfe51ceb51a12443306f22d03d7bb" id="WCPJ1003SHG_1" value="" class="variation-250-donation" />
 </div>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
-  
-
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_52760" rel="52760">
-<input type="hidden" name="price||db4d4c0e891925f24674ae743c8dc161a5649d9315f6c8cf9855fa7eb1408413" id="fs_price_52760" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_52760" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_52760" />
-<input type="hidden" name="image||4c375e4bc48788137c1e73bdab436f7e5b545cb604500b0c14b2e8a8d803d5a0||open" value="https://crosscatholic.org/wp-content/uploads/2021/01/1003-foxy-thumb.jpg" id="foxyshop_cart_product_image_52760" />
-<input type="hidden" name="url||40352a86b4a374c549a65cfe0c9b5f3827083dcc7feb1cb1268961894eb30d45" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing-2/" id="fs_url_52760" />
-<input type="hidden" name="quantity_min||f5d08d14b06dc9a65fed6599844e20fd894439c4887e291fd7d6668e000cb34c||open" value="0" id="fs_quantity_min_52760" />
-<input type="hidden" name="quantity_max||086425effc66105c851860bbd609ac05116574348edaad560101f5bbeb84153a||open" value="0" id="fs_quantity_max_52760" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_52760" />
-<input type="hidden" name="name||06d071d03be58419ff4bd9d41077d1b9131e43f02bf18db61a8e8589a03177cd" id="fs_name_52760" value="1003 - Diocese of St. George’s Housing" />
-<input type="hidden" name="code||e0cab84c897ac78287b3cf2c1f9fb48e33bd3d8ab8ed9019d7d236088effc47c" id="fs_code_52760" value="WCPROJ1003" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_254666" rel="254666">
+<input type="hidden" name="price||6ee852f0e0dc53ffeac83630210e4fb05fc1f53923626a465218e1500bd651b7" id="fs_price_254666" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_254666" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_254666" />
+<input type="hidden" name="image||e036bec0927cc2a1470d5556acbceccaecedb72ae28a19b2ee6b1bac2b5f7fdb||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1003-Foxy.jpg" id="foxyshop_cart_product_image_254666" />
+<input type="hidden" name="url||218f18b5cbecd2c960983b5aa9035be4f3c9cf8cadd0b4afbc0132c96e917176" value="https://crosscatholic.org/products/1003-diocese-of-st-georges-housing/" id="fs_url_254666" />
+<input type="hidden" name="quantity_min||267078d5bf41a7f856d0c8839027c2be538a27a5c0d723abb43b4501ff1d117e||open" value="0" id="fs_quantity_min_254666" />
+<input type="hidden" name="quantity_max||aadfc2818d6cd8d77464151de6521c54a2b2067cfc9d298c4c7e72a3371e94ef||open" value="0" id="fs_quantity_max_254666" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_254666" />
+<input type="hidden" name="name||ea8e34079165b97aee6895ac1d16592893be8bce6ac6234c4bf3a3f262d4c68d" id="fs_name_254666" value="1003 - Diocese of St. George’s Housing" />
+<input type="hidden" name="code||5e27c104442860754841cbd378fd156d5868d1408f82ff215519875c9a216014" id="fs_code_254666" value="WCPJ1003SHG" />
 <div class="foxyshop_variations">
-<input type="text" name="price||7e15e98f0aa70bcd664eec463bf14555f6ba7f682b56d5d39db6881e0880f028||open" id="WCPROJ1003_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||25329f107e0093fa9ee0dba537938d1d6771ab9224d638abf58a302ad3f999c8||open" id="WCPJ1003SHG_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
