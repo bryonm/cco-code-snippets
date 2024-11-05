@@ -1,70 +1,69 @@
 add_shortcode( 'donate_0709', function () {
 
 	$out = '<div class="flex-container">
-<!-- $50 BUTTON -->
+<!-- $392 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35994" rel="35994">
-<input type="hidden" name="price||c044d22c41f0d829327f6a06cb7f6fcdfec340b77b21924af2345a0a7b4eac8a" id="fs_price_35994" value="50.00" />
+<input type="hidden" name="price||fb4d9f541602f23fec40904cbea50f83caec1b17ba4aea912951da236e5d615b" id="fs_price_35994" value="392.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35994" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35994" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35994" />
-<input type="hidden" name="url||a3d05f57ccd2d68d8723183c9e86dcd1665c838b7c4ed2b444a6a27069a606dd" value="https://crosscatholic.org/products/0709-working-boys-center-3/" id="fs_url_35994" />
-<input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35994" />
-<input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35994" />
+<input type="hidden" name="image||2e1f48b0b46632249bdcd00cb58327b1ae71c66071a1b47fda595b777d363050||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0709-Foxy.jpg" id="foxyshop_cart_product_image_35994" />
+<input type="hidden" name="url||cd4dafc6f312a208289565c048843146a370c4f4708b5092938da8bf958083cf" value="https://crosscatholic.org/products/0709-working-boys-center-3/" id="fs_url_35994" />
+<input type="hidden" name="quantity_min||3ad931a6aab6698276638a0248fe45248a96773d46e7eb12f0fc1abe3fe4d9dc||open" value="0" id="fs_quantity_min_35994" />
+<input type="hidden" name="quantity_max||54acb3573e5e885d4ce7f594574e6d320efc1b4f77061a2d497cdb09118f2b15||open" value="0" id="fs_quantity_max_35994" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35994" />
-<input type="hidden" name="name||f89c1f994022e53bbbcf2eb25214ccbefbf94b2fcd622cf1f1873f9cb93457a9" id="fs_name_35994" value="0709 - Working Boys Center" />
-<input type="hidden" name="code||144653e3818a28cbbad55c812bc57e466e1f5b79e67f7da7737cc573b81273ba" id="fs_code_35994" value="WCPROJ0709" />
+<input type="hidden" name="name||9c16f47e093d6d0c1806ecd5c7fc03a03eb828470783ce78e1e69d8d66979350" id="fs_name_35994" value="0709 - Food &amp; Shelter for Families in Quito - $392 gift" />
+<input type="hidden" name="code||7cb477f190a5baadf8636b935e040a97930d09651a3cab481f8b130f9054393f" id="fs_code_35994" value="WCPJ0709FSFQ" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||85f7ad75f7eb6cf8aafa12a2b1086233507c79a29a040bf06d82f5c321d5c382" id="WCPROJ0709_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$392_donation||0f939e7ed45ae608f7f11db5916d1821793d02aeb7d1d3b7fcd05f81187e9ddb" id="WCPJ0709FSFQ_1" value="" class="variation-392-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-<!-- $100 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$392</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$392.00</span></div></div></form>
+<!-- $784 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35997" rel="35997">
-<input type="hidden" name="price||190e21e2cb4a9c0710d8fd76c13fea982baddc97fc2c840f418ce865ddbb984a" id="fs_price_35997" value="100.00" />
+<input type="hidden" name="price||31898a23b3b25fba685607bfec49268f9afd940abe4111a1b1fd26fa6a8a0c6c" id="fs_price_35997" value="784.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35997" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35997" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35997" />
-<input type="hidden" name="url||ff686c4df8633d137769870016fb3997a7d6ddde9efc8751748152b8f04dff5c" value="https://crosscatholic.org/products/0709-working-boys-center-4/" id="fs_url_35997" />
-<input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35997" />
-<input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35997" />
+<input type="hidden" name="image||2e1f48b0b46632249bdcd00cb58327b1ae71c66071a1b47fda595b777d363050||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0709-Foxy.jpg" id="foxyshop_cart_product_image_35997" />
+<input type="hidden" name="url||e709fe45aa508d616349fb8ec1d40b188c4073013b19cdc814cb6ea458fca7fd" value="https://crosscatholic.org/products/0709-working-boys-center-4/" id="fs_url_35997" />
+<input type="hidden" name="quantity_min||3ad931a6aab6698276638a0248fe45248a96773d46e7eb12f0fc1abe3fe4d9dc||open" value="0" id="fs_quantity_min_35997" />
+<input type="hidden" name="quantity_max||54acb3573e5e885d4ce7f594574e6d320efc1b4f77061a2d497cdb09118f2b15||open" value="0" id="fs_quantity_max_35997" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35997" />
-<input type="hidden" name="name||f89c1f994022e53bbbcf2eb25214ccbefbf94b2fcd622cf1f1873f9cb93457a9" id="fs_name_35997" value="0709 - Working Boys Center" />
-<input type="hidden" name="code||144653e3818a28cbbad55c812bc57e466e1f5b79e67f7da7737cc573b81273ba" id="fs_code_35997" value="WCPROJ0709" />
+<input type="hidden" name="name||bd368bb9359ac43caabc106836c23edd87db89c24cbcf86a531164aadf5cadd2" id="fs_name_35997" value="0709 - Food &amp; Shelter for Families in Quito - $784 donation" />
+<input type="hidden" name="code||7cb477f190a5baadf8636b935e040a97930d09651a3cab481f8b130f9054393f" id="fs_code_35997" value="WCPJ0709FSFQ" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||7bde0c2010f97f96d5789efc692741eb7fe4c122707da578d7ebacbf4bdc1525" id="WCPROJ0709_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$784_donation||92930317caa9a58dabd9109a26567bde65577d06a45770c0ef35743ea006d74e" id="WCPJ0709FSFQ_1" value="" class="variation-784-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
-<!-- $250 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$784</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$784.00</span></div></div></form>
+<!-- $1,569 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35986" rel="35986">
-<input type="hidden" name="price||23f000191e3516e6b5e1611d059a205276307b0273de567e575e66ff152d1b59" id="fs_price_35986" value="250.00" />
+<input type="hidden" name="price||3de094f66e877acaa590cf3a262b152e9cd5ac9aecfda6fc5e0bfe9f3151c007" id="fs_price_35986" value="1569.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35986" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35986" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35986" />
-<input type="hidden" name="url||2db5782724b85c37148d170f10a71153f1c568152251e1b8bfc1bada560ec171" value="https://crosscatholic.org/products/0709-working-boys-center/" id="fs_url_35986" />
-<input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35986" />
-<input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35986" />
+<input type="hidden" name="image||2e1f48b0b46632249bdcd00cb58327b1ae71c66071a1b47fda595b777d363050||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0709-Foxy.jpg" id="foxyshop_cart_product_image_35986" />
+<input type="hidden" name="url||cae5d23af8cbb9ce2270082dc746b85de9e9c48a5c9b0e90cfbfc1911e719ce6" value="https://crosscatholic.org/products/0709-working-boys-center/" id="fs_url_35986" />
+<input type="hidden" name="quantity_min||3ad931a6aab6698276638a0248fe45248a96773d46e7eb12f0fc1abe3fe4d9dc||open" value="0" id="fs_quantity_min_35986" />
+<input type="hidden" name="quantity_max||54acb3573e5e885d4ce7f594574e6d320efc1b4f77061a2d497cdb09118f2b15||open" value="0" id="fs_quantity_max_35986" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35986" />
-<input type="hidden" name="name||e23ccc79f96073fa825789d22e983272b2341289142d28894a19a586760d0fc0" id="fs_name_35986" value="0709 - Working Boys Center $250 donation" />
-<input type="hidden" name="code||144653e3818a28cbbad55c812bc57e466e1f5b79e67f7da7737cc573b81273ba" id="fs_code_35986" value="WCPROJ0709" />
+<input type="hidden" name="name||7d52ab122d016734cad9cccb23f02233639f1eb21893a350a7e0517bac9c0a98" id="fs_name_35986" value="0709 - Food &amp; Shelter for Families in Quito - $1,569 donation" />
+<input type="hidden" name="code||7cb477f190a5baadf8636b935e040a97930d09651a3cab481f8b130f9054393f" id="fs_code_35986" value="WCPJ0709FSFQ" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||c2f863321e93e8c51baefe2ed8f0264485d9cdaded5323d450d845dce6884e1a" id="WCPROJ0709_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$1569_donation||1bed14288f4c62393f94c5b26ad5f684ccc5ae1d8e75858ed4afcbd9abebadaa" id="WCPJ0709FSFQ_1" value="" class="variation-1569-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form> 
-
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,569</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,569.00</span></div></div></form> 
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35989" rel="35989">
-<input type="hidden" name="price||339a070b3d2455c3f5b6aac0ce28877c649b997469488a2beb69551906adca00" id="fs_price_35989" value="0.00" />
+<input type="hidden" name="price||5a20e91bcdb10c88cf2e250223cb987fe08598a872307a1ed126ec5c171887f3" id="fs_price_35989" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35989" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35989" />
-<input type="hidden" name="image||c59a5ad4ff4d6f9f924ad0aef7c148b39b1b749db726538699107da2e22cb5dc||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0709-foxy-thumb-24b.jpg" id="foxyshop_cart_product_image_35989" />
-<input type="hidden" name="url||7d56dd37b884a930fbdbcc7aed1c847c33bd7ad52555d4f070f3d68c37a43ee9" value="https://crosscatholic.org/products/0709-working-boys-center-2/" id="fs_url_35989" />
-<input type="hidden" name="quantity_min||bbe03b709f4bf250d34d9d28b442607f9ab1f23fe3911d6987ed4439167eea32||open" value="0" id="fs_quantity_min_35989" />
-<input type="hidden" name="quantity_max||4d0bca23a96b3836952cb07a9842aa86e25d59581aa5640fa5a60fcbd5b13d9c||open" value="0" id="fs_quantity_max_35989" />
+<input type="hidden" name="image||2e1f48b0b46632249bdcd00cb58327b1ae71c66071a1b47fda595b777d363050||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0709-Foxy.jpg" id="foxyshop_cart_product_image_35989" />
+<input type="hidden" name="url||028aa16cacbf9f16fac45b75634023c2609bb5e5b219f6d6b97d86ad75fba0e5" value="https://crosscatholic.org/products/0709-working-boys-center-2/" id="fs_url_35989" />
+<input type="hidden" name="quantity_min||3ad931a6aab6698276638a0248fe45248a96773d46e7eb12f0fc1abe3fe4d9dc||open" value="0" id="fs_quantity_min_35989" />
+<input type="hidden" name="quantity_max||54acb3573e5e885d4ce7f594574e6d320efc1b4f77061a2d497cdb09118f2b15||open" value="0" id="fs_quantity_max_35989" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35989" />
-<input type="hidden" name="name||f89c1f994022e53bbbcf2eb25214ccbefbf94b2fcd622cf1f1873f9cb93457a9" id="fs_name_35989" value="0709 - Working Boys Center" />
-<input type="hidden" name="code||144653e3818a28cbbad55c812bc57e466e1f5b79e67f7da7737cc573b81273ba" id="fs_code_35989" value="WCPROJ0709" />
+<input type="hidden" name="name||aa46d1f1fb6f495ed0779f31807410ba72671ee210a9677d174d620297bbac48" id="fs_name_35989" value="0709 - Food &amp; Shelter for Families in Quito" />
+<input type="hidden" name="code||7cb477f190a5baadf8636b935e040a97930d09651a3cab481f8b130f9054393f" id="fs_code_35989" value="WCPJ0709FSFQ" />
 <div class="foxyshop_variations">
-<input type="text" name="price||9cb85d431141c1a1cb6dfd14f554ea540bf289efa2b82033076c18780a17eef7||open" id="WCPROJ0709_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||4e65d4f936de9c4186dfba31f34328f6015bb700af1260cc09a9deee36744313||open" id="WCPJ0709FSFQ_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
