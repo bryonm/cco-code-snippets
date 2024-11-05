@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1058', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260683" rel="260683">
+<input type="hidden" name="price||c89af40395413540adce50c270e9890675f328581a1785da6cd7afd620a7f0b9" id="fs_price_260683" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260683" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260683" />
+<input type="hidden" name="image||0590487befc7e0761c75145577b5c8fb21c3b970cd5a4980b929ee15c0b0aedc||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-3664-Foxy.jpg" id="foxyshop_cart_product_image_260683" />
+<input type="hidden" name="url||feb081c9e4641428de9bdd838a14ef7b2a722d9e2d2376942517ad08e95c85c5" value="https://crosscatholic.org/products/1058-3579-kobonal-education-kobonal-school-expansion-50-gift/" id="fs_url_260683" />
+<input type="hidden" name="quantity_min||d758554306790ed429109ad9f75cf465f973dee928ebf7c92216bd859ff003b6||open" value="0" id="fs_quantity_min_260683" />
+<input type="hidden" name="quantity_max||0688caabe51ab86743c2ba032141db92fc8d2d0e3be908a1eea052aa578cb6a9||open" value="0" id="fs_quantity_max_260683" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260683" />
+<input type="hidden" name="name||50112b4624481a41a7bca15830eac681280c58ab4f84f28f0020b84c08331d96" id="fs_name_260683" value="1058 &amp; 3579 - Kobonal Education &amp; Kobonal School Expansion $50 gift" />
+<input type="hidden" name="code||a53bdbeb81ec1106fa23f6f5f3d3d303a703e813770b10eb030efaa8e3eb4ef1" id="fs_code_260683" value="WCPJ3664CSRV" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||568af747639a3296bbcf7980275c175c1ed96632258e6f2816459159742ab439" id="WCPJ3664CSRV_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260684" rel="260684">
+<input type="hidden" name="price||8ed5c336cea7df675d5168c6e9fb04e1c67b71b3ee2a8ac9ada38650675261eb" id="fs_price_260684" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260684" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260684" />
+<input type="hidden" name="image||0590487befc7e0761c75145577b5c8fb21c3b970cd5a4980b929ee15c0b0aedc||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-3664-Foxy.jpg" id="foxyshop_cart_product_image_260684" />
+<input type="hidden" name="url||1a7e44709d37fe565f18350c5a2f5bf5e7aa75a2fffdd838a9ceff3355de6dee" value="https://crosscatholic.org/products/1058-3579-kobonal-education-kobonal-school-expansion-100-gift/" id="fs_url_260684" />
+<input type="hidden" name="quantity_min||d758554306790ed429109ad9f75cf465f973dee928ebf7c92216bd859ff003b6||open" value="0" id="fs_quantity_min_260684" />
+<input type="hidden" name="quantity_max||0688caabe51ab86743c2ba032141db92fc8d2d0e3be908a1eea052aa578cb6a9||open" value="0" id="fs_quantity_max_260684" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260684" />
+<input type="hidden" name="name||f22f2b1364667db11b40e6d17180f78756401b1d0abd14befdd66cc531a11f02" id="fs_name_260684" value="1058 &amp; 3579 - Kobonal Education &amp; Kobonal School Expansion $100 gift" />
+<input type="hidden" name="code||a53bdbeb81ec1106fa23f6f5f3d3d303a703e813770b10eb030efaa8e3eb4ef1" id="fs_code_260684" value="WCPJ3664CSRV" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||458e645e43f5f0ab20e4798c592abe2ed85c912aa3da9b313798899b375e6c64" id="WCPJ3664CSRV_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260685" rel="260685">
+<input type="hidden" name="price||68a2c4cf79d61b7c66942cec30a6108ff12b8295c21f467fe2a9c384ba6184ae" id="fs_price_260685" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260685" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260685" />
+<input type="hidden" name="image||0590487befc7e0761c75145577b5c8fb21c3b970cd5a4980b929ee15c0b0aedc||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-3664-Foxy.jpg" id="foxyshop_cart_product_image_260685" />
+<input type="hidden" name="url||01b37166c239c8e2a5eb3c975fd0c1ef1dbcc9c7e2f763c09cc330d6e60ff356" value="https://crosscatholic.org/products/1058-3579-kobonal-education-kobonal-school-expansion-250-gift/" id="fs_url_260685" />
+<input type="hidden" name="quantity_min||d758554306790ed429109ad9f75cf465f973dee928ebf7c92216bd859ff003b6||open" value="0" id="fs_quantity_min_260685" />
+<input type="hidden" name="quantity_max||0688caabe51ab86743c2ba032141db92fc8d2d0e3be908a1eea052aa578cb6a9||open" value="0" id="fs_quantity_max_260685" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260685" />
+<input type="hidden" name="name||af604f3f5a439c63e90c01eecd4dd546d7eb08e6677b4c69b9a081601ba7ff98" id="fs_name_260685" value="1058 &amp; 3579 - Kobonal Education &amp; Kobonal School Expansion $250 gift" />
+<input type="hidden" name="code||a53bdbeb81ec1106fa23f6f5f3d3d303a703e813770b10eb030efaa8e3eb4ef1" id="fs_code_260685" value="WCPJ3664CSRV" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||9f17866a02c90fa3ed1e0a96d1776ef487169a52a5cf5d30def162eb7b83420a" id="WCPJ3664CSRV_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260686" rel="260686">
+<input type="hidden" name="price||f496a840448d8109d051a14a6087d18e4a8183b7779a236788d67f2dd7d1ff97" id="fs_price_260686" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260686" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260686" />
+<input type="hidden" name="image||0590487befc7e0761c75145577b5c8fb21c3b970cd5a4980b929ee15c0b0aedc||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-3664-Foxy.jpg" id="foxyshop_cart_product_image_260686" />
+<input type="hidden" name="url||8074a30a4ce00e4ab6a36b168f4151910c904e5400bdc66bd90b9b57124186cb" value="https://crosscatholic.org/products/1058-3579-kobonal-education-kobonal-school-expansion/" id="fs_url_260686" />
+<input type="hidden" name="quantity_min||d758554306790ed429109ad9f75cf465f973dee928ebf7c92216bd859ff003b6||open" value="0" id="fs_quantity_min_260686" />
+<input type="hidden" name="quantity_max||0688caabe51ab86743c2ba032141db92fc8d2d0e3be908a1eea052aa578cb6a9||open" value="0" id="fs_quantity_max_260686" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260686" />
+<input type="hidden" name="name||78baa6a4510cf7ff143a0aa08fd4173336943196128516341720ef65b26bea35" id="fs_name_260686" value="1058 &amp; 3579 - Kobonal Education &amp; Kobonal School Expansion" />
+<input type="hidden" name="code||a53bdbeb81ec1106fa23f6f5f3d3d303a703e813770b10eb030efaa8e3eb4ef1" id="fs_code_260686" value="WCPJ3664CSRV" />
+<div class="foxyshop_variations">
+<input type="text" name="price||d84ba908a0d6b63d5c61072d221df05a8a3e1fc9a9ec4226ecbebab2719baea9||open" id="WCPJ3664CSRV_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
