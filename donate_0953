@@ -1,74 +1,69 @@
 add_shortcode( 'donate_0953', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36091" rel="36091">
-<input type="hidden" name="price||cb29cbb42f45c35187324fd35dadee50eb5b542580c3419346cce12cb9f8e77e" id="fs_price_36091" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36091" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36091" />
-<input type="hidden" name="image||dab23f304d04265aa02a60aacf497fa4d07d734b6ab9e9a1899f85cfde6239e2||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0953-thumb.jpg" id="foxyshop_cart_product_image_36091" />
-<input type="hidden" name="url||eca19f0f02e4b0454a6909daf03fc1fdee49fdb4339c54af39f9ef7f1189c2b7" value="https://crosscatholic.org/products/0953-fundacion-una-mano-amiga/" id="fs_url_36091" />
-<input type="hidden" name="quantity_min||6cce23c12c320a482b72e4cc93c421871f5c1184d74eccde71cb6e0adfbf80b7||open" value="0" id="fs_quantity_min_36091" />
-<input type="hidden" name="quantity_max||40f37073c24dcb72b0bc6594ed94ff0ecffa56fb47450b00d13fd62043c1d69b||open" value="0" id="fs_quantity_max_36091" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36091" />
-<input type="hidden" name="name||763240120e2c21054e17ab4118747ef67ac04e41f81f86a4716dfb7b5c448509" id="fs_name_36091" value="0953 - Fundacion Una Mano Amiga" />
-<input type="hidden" name="code||afab774aef8619894b3495fca00e5447d0ce32fdcfbf9d5b49c68dec78cc3e4a" id="fs_code_36091" value="WCPROJ0953" />
+<!-- $70 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_259745" rel="259745">
+<input type="hidden" name="price||87175847f560a58b3168a024755f998781ecd5ffd9b395b7db8d5a365a06dc1f" id="fs_price_259745" value="70.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_259745" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_259745" />
+<input type="hidden" name="image||4fc541e964fd925823072910716042c0c24e49d647c94fca88061d2e32a320c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-0953-Foxy-1.jpg" id="foxyshop_cart_product_image_259745" />
+<input type="hidden" name="url||9350949dafe6f1831edf0392b536d5afc38644b2c3c60404cff987702da8b4cd" value="https://crosscatholic.org/products/0953-friendly-hands-foundation-vitafood-73-gift/" id="fs_url_259745" />
+<input type="hidden" name="quantity_min||55155d6cfaf7ae137969292f08f55dbc9db1c4bdf6770039ebd45c8d71673fcd||open" value="0" id="fs_quantity_min_259745" />
+<input type="hidden" name="quantity_max||08bfee5a33a1e9f13e9b57b98ebde326f1f2d56940c2afe510576830297d102e||open" value="0" id="fs_quantity_max_259745" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_259745" />
+<input type="hidden" name="name||7173eb322ade6123d12d7ea1fd304f2028af14b332629ee175de032b043d84b6" id="fs_name_259745" value="0953 - Friendly Hands Foundation Vitafood $70 gift" />
+<input type="hidden" name="code||736267bb1b17d7134979b3c3a5ddd0fb0e85c53cf27b285be4ed73d1658b308a" id="fs_code_259745" value="WCPJ0953HM" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||1045ae0f24328d0c61f8a472aa85e466e9659e9e14de942ed57e421e8f8e56b1" id="WCPROJ0953_1" value="" class="variation-25-donation" />
+<input type="hidden" name="$70_donation||cb0362db254c1eacc873b0315488bb56a98db2b48d4485bf54bac5601c304999" id="WCPJ0953HM_1" value="" class="variation-70-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
-<!-- $50 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36097" rel="36097">
-<input type="hidden" name="price||7f385719f583da86d14145abd8ca7a71dcb044f8ee6c135416b2fa94962d0a29" id="fs_price_36097" value="50.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36097" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36097" />
-<input type="hidden" name="image||dab23f304d04265aa02a60aacf497fa4d07d734b6ab9e9a1899f85cfde6239e2||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0953-thumb_2.jpg" id="foxyshop_cart_product_image_36097" />
-<input type="hidden" name="url||59f09345bb78fcceac3b61ff5eb2c3ac66456ce1a145d85dc1e0ad5b9d1a6a42" value="https://crosscatholic.org/products/0953-fundacion-una-mano-amiga-3/" id="fs_url_36097" />
-<input type="hidden" name="quantity_min||6cce23c12c320a482b72e4cc93c421871f5c1184d74eccde71cb6e0adfbf80b7||open" value="0" id="fs_quantity_min_36097" />
-<input type="hidden" name="quantity_max||40f37073c24dcb72b0bc6594ed94ff0ecffa56fb47450b00d13fd62043c1d69b||open" value="0" id="fs_quantity_max_36097" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36097" />
-<input type="hidden" name="name||763240120e2c21054e17ab4118747ef67ac04e41f81f86a4716dfb7b5c448509" id="fs_name_36097" value="0953 - Fundacion Una Mano Amiga" />
-<input type="hidden" name="code||afab774aef8619894b3495fca00e5447d0ce32fdcfbf9d5b49c68dec78cc3e4a" id="fs_code_36097" value="WCPROJ0953" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$70</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$70.00</span></div></div></form>
+<!-- $140 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_259746" rel="259746">
+<input type="hidden" name="price||bea94eef5fb1303e3af739dee85a96b32aa35f9dc4eb1d406b96f9f3156c0b7e" id="fs_price_259746" value="140.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_259746" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_259746" />
+<input type="hidden" name="image||4fc541e964fd925823072910716042c0c24e49d647c94fca88061d2e32a320c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-0953-Foxy-1.jpg" id="foxyshop_cart_product_image_259746" />
+<input type="hidden" name="url||09e5cafaf94ff058bf991e1fef890c0580fd6629d7ce7ce8e55a5876175f0c6e" value="https://crosscatholic.org/products/0953-friendly-hands-foundation-vitafood-146-gift/" id="fs_url_259746" />
+<input type="hidden" name="quantity_min||55155d6cfaf7ae137969292f08f55dbc9db1c4bdf6770039ebd45c8d71673fcd||open" value="0" id="fs_quantity_min_259746" />
+<input type="hidden" name="quantity_max||08bfee5a33a1e9f13e9b57b98ebde326f1f2d56940c2afe510576830297d102e||open" value="0" id="fs_quantity_max_259746" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_259746" />
+<input type="hidden" name="name||022b5309912d4a4ca134b7695ad811e47038304e26d11502485734121e915356" id="fs_name_259746" value="0953 - Friendly Hands Foundation Vitafood $140 gift" />
+<input type="hidden" name="code||736267bb1b17d7134979b3c3a5ddd0fb0e85c53cf27b285be4ed73d1658b308a" id="fs_code_259746" value="WCPJ0953HM" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||6851d9dfee0b06733b9ebe98e562e030e19a6544d05892eb20ba89f2b4456dcf" id="WCPROJ0953_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$140_donation||63ae13b36a47e8016d8abe292e3a928300c50ec69d369e07afc09d2d84d4ea03" id="WCPJ0953HM_1" value="" class="variation-140-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
-<!-- $100 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36100" rel="36100">
-<input type="hidden" name="price||acd2f9f0a581c350414f215c31289b33a1b1fd832b7c730207103e2a2743b45a" id="fs_price_36100" value="100.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36100" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36100" />
-<input type="hidden" name="image||dab23f304d04265aa02a60aacf497fa4d07d734b6ab9e9a1899f85cfde6239e2||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0953-thumb_3.jpg" id="foxyshop_cart_product_image_36100" />
-<input type="hidden" name="url||b75c306efcb2d3e3c0ba5366795458a3fbefcb6a46099039647dbf8850410108" value="https://crosscatholic.org/products/0953-fundacion-una-mano-amiga-4/" id="fs_url_36100" />
-<input type="hidden" name="quantity_min||6cce23c12c320a482b72e4cc93c421871f5c1184d74eccde71cb6e0adfbf80b7||open" value="0" id="fs_quantity_min_36100" />
-<input type="hidden" name="quantity_max||40f37073c24dcb72b0bc6594ed94ff0ecffa56fb47450b00d13fd62043c1d69b||open" value="0" id="fs_quantity_max_36100" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36100" />
-<input type="hidden" name="name||763240120e2c21054e17ab4118747ef67ac04e41f81f86a4716dfb7b5c448509" id="fs_name_36100" value="0953 - Fundacion Una Mano Amiga" />
-<input type="hidden" name="code||afab774aef8619894b3495fca00e5447d0ce32fdcfbf9d5b49c68dec78cc3e4a" id="fs_code_36100" value="WCPROJ0953" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$140</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$140.00</span></div></div></form>
+<!-- $210 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_259747" rel="259747">
+<input type="hidden" name="price||97b4743462d787c0c6fac836ee6ffb0508b7826dce8750a6fd5a5f9a7e58d839" id="fs_price_259747" value="210.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_259747" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_259747" />
+<input type="hidden" name="image||4fc541e964fd925823072910716042c0c24e49d647c94fca88061d2e32a320c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-0953-Foxy-1.jpg" id="foxyshop_cart_product_image_259747" />
+<input type="hidden" name="url||39bc63d97c1b56da1c1a86117f0b51a222724885418628b3ec056e0a910db6df" value="https://crosscatholic.org/products/0953-friendly-hands-foundation-vitafood-219-gift/" id="fs_url_259747" />
+<input type="hidden" name="quantity_min||55155d6cfaf7ae137969292f08f55dbc9db1c4bdf6770039ebd45c8d71673fcd||open" value="0" id="fs_quantity_min_259747" />
+<input type="hidden" name="quantity_max||08bfee5a33a1e9f13e9b57b98ebde326f1f2d56940c2afe510576830297d102e||open" value="0" id="fs_quantity_max_259747" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_259747" />
+<input type="hidden" name="name||f6d4266fa5c73fef17b30fd565961340382a778bd940022dbb6afc8e05e509ec" id="fs_name_259747" value="0953 - Friendly Hands Foundation Vitafood $210 gift" />
+<input type="hidden" name="code||736267bb1b17d7134979b3c3a5ddd0fb0e85c53cf27b285be4ed73d1658b308a" id="fs_code_259747" value="WCPJ0953HM" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||4dcaaa7722572dacbf2716a500e72ad44a3fffb60ec0999352e75aaba5d4fdfc" id="WCPROJ0953_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$210_donation||b7cb6413e32be1613a9f630b1b07b837ea608aa89216ec73caf013ce6fcfc139" id="WCPJ0953HM_1" value="" class="variation-210-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$210</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$210.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36094" rel="36094">
-<input type="hidden" name="price||d568ef703e32cc60fb9f5c971f2b0756a5f9c36a3c30b832caf34bbc0901cab7" id="fs_price_36094" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36094" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36094" />
-<input type="hidden" name="image||dab23f304d04265aa02a60aacf497fa4d07d734b6ab9e9a1899f85cfde6239e2||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0953-thumb_1.jpg" id="foxyshop_cart_product_image_36094" />
-<input type="hidden" name="url||b92a288b8057f3fdb08db34dbdd4fd600d033ffaccf905dbda9ef2805f449f8d" value="https://crosscatholic.org/products/0953-fundacion-una-mano-amiga-2/" id="fs_url_36094" />
-<input type="hidden" name="quantity_min||6cce23c12c320a482b72e4cc93c421871f5c1184d74eccde71cb6e0adfbf80b7||open" value="0" id="fs_quantity_min_36094" />
-<input type="hidden" name="quantity_max||40f37073c24dcb72b0bc6594ed94ff0ecffa56fb47450b00d13fd62043c1d69b||open" value="0" id="fs_quantity_max_36094" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36094" />
-<input type="hidden" name="name||763240120e2c21054e17ab4118747ef67ac04e41f81f86a4716dfb7b5c448509" id="fs_name_36094" value="0953 - Fundacion Una Mano Amiga" />
-<input type="hidden" name="code||afab774aef8619894b3495fca00e5447d0ce32fdcfbf9d5b49c68dec78cc3e4a" id="fs_code_36094" value="WCPROJ0953" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_259748" rel="259748">
+<input type="hidden" name="price||9d8ce8da9a080818b491da48fa47a55bb13535b9f755241c2b4e2de7cb4ba04e" id="fs_price_259748" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_259748" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_259748" />
+<input type="hidden" name="image||4fc541e964fd925823072910716042c0c24e49d647c94fca88061d2e32a320c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-0953-Foxy-1.jpg" id="foxyshop_cart_product_image_259748" />
+<input type="hidden" name="url||930cea5b30adb298f0d38367eaff60c3475e06c78995203dbe7b53751efc26e4" value="https://crosscatholic.org/products/0953-friendly-hands-foundation-vitafood/" id="fs_url_259748" />
+<input type="hidden" name="quantity_min||55155d6cfaf7ae137969292f08f55dbc9db1c4bdf6770039ebd45c8d71673fcd||open" value="0" id="fs_quantity_min_259748" />
+<input type="hidden" name="quantity_max||08bfee5a33a1e9f13e9b57b98ebde326f1f2d56940c2afe510576830297d102e||open" value="0" id="fs_quantity_max_259748" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_259748" />
+<input type="hidden" name="name||b1ad2cf427070225e3a505f574f766ec418d8cde9edfd667da4cc562bc819e2a" id="fs_name_259748" value="0953 - Friendly Hands Foundation Vitafood" />
+<input type="hidden" name="code||736267bb1b17d7134979b3c3a5ddd0fb0e85c53cf27b285be4ed73d1658b308a" id="fs_code_259748" value="WCPJ0953HM" />
 <div class="foxyshop_variations">
-<input type="text" name="price||2bc8fc71d202f26ebc3602b7622df11b974c990d1986be11d5e8c39b20ad6a1b||open" id="WCPROJ0953_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||e1b31364ea859b96827dffffeb1827d96fd27aa5f99f19289545703b572dcf14||open" id="WCPJ0953HM_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
