@@ -1,69 +1,69 @@
 add_shortcode( 'donate_0472', function () {
 
 	$out = '<div class="flex-container">
-<!-- $50 BUTTON -->
+<!-- $41 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35452" rel="35452">
-<input type="hidden" name="price||2b9f6c434f4539adf0c95139a592433be051b181ef42d7e202ce8726f1a38f75" id="fs_price_35452" value="50.00" />
+<input type="hidden" name="price||9932338a9be1f05165adb18af32088580b1ffbec5e72523e905745f99e0ea246" id="fs_price_35452" value="41.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35452" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35452" />
-<input type="hidden" name="image||4d4e4caebf8c56451b4ed65e7e5a2930cf34839024bd6b74fabbb8dea7972c43||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0472-thumb_1.jpg" id="foxyshop_cart_product_image_35452" />
-<input type="hidden" name="url||5a3afa45adb090433eabbf56a7c06a6b0c6dad97da312ae3a96166065830a16c" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged-2/" id="fs_url_35452" />
-<input type="hidden" name="quantity_min||7aa14ac5e91e92221fff7f73176f68d5dbdb8605713d8fece7eadfbfad8a8a63||open" value="0" id="fs_quantity_min_35452" />
-<input type="hidden" name="quantity_max||e8c0d3bf1db9213b4c1da916d985e93e989010d1217f69d9523caa715782d353||open" value="0" id="fs_quantity_max_35452" />
+<input type="hidden" name="image||b6272aefca4cbbf9be2b7f7a5a4e6189344bb3a5d54ca70fea145469e7bf4962||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0472-Foxy.jpg" id="foxyshop_cart_product_image_35452" />
+<input type="hidden" name="url||ce7689576ff7e6558d07d675130ed6d2fd5593d1316f7bdf179dc417800fd2e7" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged-2/" id="fs_url_35452" />
+<input type="hidden" name="quantity_min||deb7a902845713ad2bbe0a61f485afc55990930a33f8b937ce93ae4a78df33da||open" value="0" id="fs_quantity_min_35452" />
+<input type="hidden" name="quantity_max||9fa80fb7ed3fcf47b27760c9193e0eac7e64a9ff5af0132d11824bdfcb0aa41c||open" value="0" id="fs_quantity_max_35452" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35452" />
-<input type="hidden" name="name||e6be754b553f793409817999ee1cbbbecf69bfa57416c0a0faa94dff12d406ce" id="fs_name_35452" value="0472 - HOPE Food for the Aged" />
-<input type="hidden" name="code||4b93b187a2448d8e38df5cc6dc644d05cc01340259c7ccd508a83cb310e30f36" id="fs_code_35452" value="WCPROJ0472" />
+<input type="hidden" name="name||3a42fdae437eb67d2d16570e3d36a788684fe79f0eefdb46b9a1fc0837941e2a" id="fs_name_35452" value="0472 - HOPE Food for the Aged $41 gift" />
+<input type="hidden" name="code||b8220bee132d747faed5ab0698549ae6da7a85904e304bb95a992415fb532fe8" id="fs_code_35452" value="WCPJ0472FE" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||9069d5ba704b6ef5d991d24c7cad0fd685fc16268fd81cadd941e82fef741bad" id="WCPROJ0472_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$41_donation||a13208c78dfb56c9dadb0625f424235875eae30f82d67c1123eaabffc43c90b3" id="WCPJ0472FE_1" value="" class="variation-41-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-<!-- $100 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$41</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$41.00</span></div></div></form>
+<!-- $82 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35455" rel="35455">
-<input type="hidden" name="price||28fd2b4fc072c30d2bfc28c6c28afac0400beca6d47eb68f3fb9bb9247fda015" id="fs_price_35455" value="100.00" />
+<input type="hidden" name="price||c049897af12f885d5ea03cef4b15ad316da832ce91b249c473276e75ecaa9b63" id="fs_price_35455" value="82.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35455" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35455" />
-<input type="hidden" name="image||4d4e4caebf8c56451b4ed65e7e5a2930cf34839024bd6b74fabbb8dea7972c43||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0472-thumb_2.jpg" id="foxyshop_cart_product_image_35455" />
-<input type="hidden" name="url||ab2a7755fdb02d0dfc65f1eacf84a1bcb5bd93b3056b35dbf273adcaa041a7b9" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged-3/" id="fs_url_35455" />
-<input type="hidden" name="quantity_min||7aa14ac5e91e92221fff7f73176f68d5dbdb8605713d8fece7eadfbfad8a8a63||open" value="0" id="fs_quantity_min_35455" />
-<input type="hidden" name="quantity_max||e8c0d3bf1db9213b4c1da916d985e93e989010d1217f69d9523caa715782d353||open" value="0" id="fs_quantity_max_35455" />
+<input type="hidden" name="image||b6272aefca4cbbf9be2b7f7a5a4e6189344bb3a5d54ca70fea145469e7bf4962||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0472-Foxy.jpg" id="foxyshop_cart_product_image_35455" />
+<input type="hidden" name="url||49d056324319bebd718b58c4e9a3d9db8120c2aff896d5a646ff6247f0be180c" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged-3/" id="fs_url_35455" />
+<input type="hidden" name="quantity_min||deb7a902845713ad2bbe0a61f485afc55990930a33f8b937ce93ae4a78df33da||open" value="0" id="fs_quantity_min_35455" />
+<input type="hidden" name="quantity_max||9fa80fb7ed3fcf47b27760c9193e0eac7e64a9ff5af0132d11824bdfcb0aa41c||open" value="0" id="fs_quantity_max_35455" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35455" />
-<input type="hidden" name="name||e6be754b553f793409817999ee1cbbbecf69bfa57416c0a0faa94dff12d406ce" id="fs_name_35455" value="0472 - HOPE Food for the Aged" />
-<input type="hidden" name="code||4b93b187a2448d8e38df5cc6dc644d05cc01340259c7ccd508a83cb310e30f36" id="fs_code_35455" value="WCPROJ0472" />
+<input type="hidden" name="name||702dd934fc09192b6f6e9b96e1c7b34c70c6f8111bff10fff0a94e4b7c0d52fb" id="fs_name_35455" value="0472 - HOPE Food for the Aged $82 gift" />
+<input type="hidden" name="code||b8220bee132d747faed5ab0698549ae6da7a85904e304bb95a992415fb532fe8" id="fs_code_35455" value="WCPJ0472FE" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||cc4dd53cbc7b5f85d8185caae047f0bf674dc96db033d49d0aa0ca47b97a5669" id="WCPROJ0472_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$82_donation||d6a64b9ce902800554bd4b183b299e896d281d9fdcf403f4db3991c60b8232b6" id="WCPJ0472FE_1" value="" class="variation-82-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
-<!-- $250 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$82</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$82.00</span></div></div></form>
+<!-- $493 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35449" rel="35449">
-<input type="hidden" name="price||8e39adef8050eb11b5559303dc61dbbf468f8652f9a3ae7cb2aadddd6f685fce" id="fs_price_35449" value="250.00" />
+<input type="hidden" name="price||66e67df02f813cb7fb9eee7f163d59ccec80a18dd251c3c185d32d7dc574a318" id="fs_price_35449" value="493.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35449" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35449" />
-<input type="hidden" name="image||4d4e4caebf8c56451b4ed65e7e5a2930cf34839024bd6b74fabbb8dea7972c43||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0472-thumb_3.jpg" id="foxyshop_cart_product_image_35449" />
-<input type="hidden" name="url||31071c97e77aa5590f25966e5145282e49f99c9669a7272e32833addd5c7c745" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged/" id="fs_url_35449" />
-<input type="hidden" name="quantity_min||7aa14ac5e91e92221fff7f73176f68d5dbdb8605713d8fece7eadfbfad8a8a63||open" value="0" id="fs_quantity_min_35449" />
-<input type="hidden" name="quantity_max||e8c0d3bf1db9213b4c1da916d985e93e989010d1217f69d9523caa715782d353||open" value="0" id="fs_quantity_max_35449" />
+<input type="hidden" name="image||b6272aefca4cbbf9be2b7f7a5a4e6189344bb3a5d54ca70fea145469e7bf4962||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0472-Foxy.jpg" id="foxyshop_cart_product_image_35449" />
+<input type="hidden" name="url||b6d1c043cd1a32738d9e57ace8372cfa0a97bea1585450781121f15771c2354c" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged/" id="fs_url_35449" />
+<input type="hidden" name="quantity_min||deb7a902845713ad2bbe0a61f485afc55990930a33f8b937ce93ae4a78df33da||open" value="0" id="fs_quantity_min_35449" />
+<input type="hidden" name="quantity_max||9fa80fb7ed3fcf47b27760c9193e0eac7e64a9ff5af0132d11824bdfcb0aa41c||open" value="0" id="fs_quantity_max_35449" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35449" />
-<input type="hidden" name="name||8959b3b3c46dafc3424204c6fb471cb7d232fb6fcffcc6643b8a278e37e16ba0" id="fs_name_35449" value="0472 - HOPE Food for the Aged $250 donation" />
-<input type="hidden" name="code||4b93b187a2448d8e38df5cc6dc644d05cc01340259c7ccd508a83cb310e30f36" id="fs_code_35449" value="WCPROJ0472" />
+<input type="hidden" name="name||bef9fc39f343278c7c513f093f1402a4a028c5dde8b62cf62c371153b2cf9692" id="fs_name_35449" value="0472 - HOPE Food for the Aged $493 gift" />
+<input type="hidden" name="code||b8220bee132d747faed5ab0698549ae6da7a85904e304bb95a992415fb532fe8" id="fs_code_35449" value="WCPJ0472FE" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||250f9d9c84d0a19ea0da9cb49f7444a40164f05ec74808edb1bd84bc7e39ca36" id="WCPROJ0472_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$493_donation||27cbea5a31308579179577721a6f4e59212d9d30b66858b320036d02081b9fdd" id="WCPJ0472FE_1" value="" class="variation-493-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$493</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$493.00</span></div></div></form>
 <div class="or-text">or</div>
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_35458" rel="35458">
-<input type="hidden" name="price||e7e935cf9dc854bdaa6056ffb2fb147a579eb3624befbaaad6c5b4927fe20365" id="fs_price_35458" value="0.00" />
+<input type="hidden" name="price||6cedc733aa664a33ea6d28add283a319377ab1306c1c05812601fee9333d0cd5" id="fs_price_35458" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_35458" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_35458" />
-<input type="hidden" name="image||4d4e4caebf8c56451b4ed65e7e5a2930cf34839024bd6b74fabbb8dea7972c43||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/0472-thumb_3.jpg" id="foxyshop_cart_product_image_35458" />
-<input type="hidden" name="url||120ea777df0a520339ea76e1d7f2e04b3845d4136d2f5b231d7ec6342066b3a2" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged-4/" id="fs_url_35458" />
-<input type="hidden" name="quantity_min||7aa14ac5e91e92221fff7f73176f68d5dbdb8605713d8fece7eadfbfad8a8a63||open" value="0" id="fs_quantity_min_35458" />
-<input type="hidden" name="quantity_max||e8c0d3bf1db9213b4c1da916d985e93e989010d1217f69d9523caa715782d353||open" value="0" id="fs_quantity_max_35458" />
+<input type="hidden" name="image||b6272aefca4cbbf9be2b7f7a5a4e6189344bb3a5d54ca70fea145469e7bf4962||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-0472-Foxy.jpg" id="foxyshop_cart_product_image_35458" />
+<input type="hidden" name="url||540bc2a1b6b497b6363820e4fb1c4b3a1fd06484d83f463f80bb59787aca4be3" value="https://crosscatholic.org/products/0472-hope-food-for-the-aged-4/" id="fs_url_35458" />
+<input type="hidden" name="quantity_min||deb7a902845713ad2bbe0a61f485afc55990930a33f8b937ce93ae4a78df33da||open" value="0" id="fs_quantity_min_35458" />
+<input type="hidden" name="quantity_max||9fa80fb7ed3fcf47b27760c9193e0eac7e64a9ff5af0132d11824bdfcb0aa41c||open" value="0" id="fs_quantity_max_35458" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_35458" />
-<input type="hidden" name="name||e6be754b553f793409817999ee1cbbbecf69bfa57416c0a0faa94dff12d406ce" id="fs_name_35458" value="0472 - HOPE Food for the Aged" />
-<input type="hidden" name="code||4b93b187a2448d8e38df5cc6dc644d05cc01340259c7ccd508a83cb310e30f36" id="fs_code_35458" value="WCPROJ0472" />
+<input type="hidden" name="name||f4d3f71ebf8b9b4fd81d84947f99fe288e7e72c93764db797e23ca1d5a87f257" id="fs_name_35458" value="0472 - HOPE Food for the Aged" />
+<input type="hidden" name="code||b8220bee132d747faed5ab0698549ae6da7a85904e304bb95a992415fb532fe8" id="fs_code_35458" value="WCPJ0472FE" />
 <div class="foxyshop_variations">
-<input type="text" name="price||2567571169dfda57b33197ea1beaba81b2fb9b9d86d755d4191b5dcf14c4f33c||open" id="WCPROJ0472_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||332b5faeaefedcc4c61ae47fddbc607cf54df1728812ff0db63063da37249a5e||open" id="WCPJ0472FE_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
