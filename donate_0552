@@ -1,0 +1,73 @@
+add_shortcode( 'donate_0552', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255555" rel="255555">
+<input type="hidden" name="price||3d68df65d2d1124387ecf31a0e0a09d7de57e7ca0088e0a778ad6352a8f8bdb4" id="fs_price_255555" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255555" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255555" />
+<input type="hidden" name="image||8802cbf77c43fc15fc4c8ef0b5d4b5025d9bcbd71f7df49bc97807175b21836f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0552-Foxy-1.jpg" id="foxyshop_cart_product_image_255555" />
+<input type="hidden" name="url||e26ad79eeb9e8702af741587bb299c9ad9892243b0479121d0b60e53113c4fcb" value="https://crosscatholic.org/products/0552-st-vincent-de-paul-home-for-children-50-gift/" id="fs_url_255555" />
+<input type="hidden" name="quantity_min||34576361d01d6ebabf7d6d18d89cd1e309349c57c098c1b00a3fda88d9379917||open" value="0" id="fs_quantity_min_255555" />
+<input type="hidden" name="quantity_max||0b499aa00ba9fc5730eb42d7177a248275ecbff4aeedfeb7f45f8b056bf6bb9b||open" value="0" id="fs_quantity_max_255555" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255555" />
+<input type="hidden" name="name||30aa3d04d04df4c8741748c7cc1b3f77897f0a159e7e45229d23a599e8d0ce23" id="fs_name_255555" value="0552 - St. Vincent de Paul Home for Children $50 gift" />
+<input type="hidden" name="code||719d6ef0e43c2e05b6d021efa43d34cbca9cf86e06ccca0b0eb8daec0ccf279a" id="fs_code_255555" value="WCPJ3669SVPC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||4b04211304bd729abfc8d6956bc0fff10d7e8db5f7ceb11163803f4a1b5ca711" id="WCPJ3669SVPC_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255557" rel="255557">
+<input type="hidden" name="price||eeae83e1eb77dec23f617ece70e5385c0ea6975b8e1ed7cdafb8b797eb469118" id="fs_price_255557" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255557" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255557" />
+<input type="hidden" name="image||8802cbf77c43fc15fc4c8ef0b5d4b5025d9bcbd71f7df49bc97807175b21836f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0552-Foxy-1.jpg" id="foxyshop_cart_product_image_255557" />
+<input type="hidden" name="url||e996cd95ddb1721247f666056e3687f90917c7e5bf148e8a0575705f2b683c3d" value="https://crosscatholic.org/products/0552-st-vincent-de-paul-home-for-children-100-gift/" id="fs_url_255557" />
+<input type="hidden" name="quantity_min||34576361d01d6ebabf7d6d18d89cd1e309349c57c098c1b00a3fda88d9379917||open" value="0" id="fs_quantity_min_255557" />
+<input type="hidden" name="quantity_max||0b499aa00ba9fc5730eb42d7177a248275ecbff4aeedfeb7f45f8b056bf6bb9b||open" value="0" id="fs_quantity_max_255557" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255557" />
+<input type="hidden" name="name||3c468f967e3d3589f800fd885061525ca017149445b3ed3fadb475241f9713f3" id="fs_name_255557" value="0552 - St. Vincent de Paul Home for Children $100 gift" />
+<input type="hidden" name="code||719d6ef0e43c2e05b6d021efa43d34cbca9cf86e06ccca0b0eb8daec0ccf279a" id="fs_code_255557" value="WCPJ3669SVPC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||284585cb0f9ec090bb33f3fae3007d7392ddf988ace3d3fc52bcf38b7e83a08a" id="WCPJ3669SVPC_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255559" rel="255559">
+<input type="hidden" name="price||0f6465b0cc1a17a73b57930ae939ca6a3d56808fc15ff40eb3204fd57738bc6e" id="fs_price_255559" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255559" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255559" />
+<input type="hidden" name="image||8802cbf77c43fc15fc4c8ef0b5d4b5025d9bcbd71f7df49bc97807175b21836f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0552-Foxy-1.jpg" id="foxyshop_cart_product_image_255559" />
+<input type="hidden" name="url||ab2da92bfe88d63e7d58e4a37728f4b046c8a235b676884fd4269244017ea73e" value="https://crosscatholic.org/products/0552-st-vincent-de-paul-home-for-children-250-gift/" id="fs_url_255559" />
+<input type="hidden" name="quantity_min||34576361d01d6ebabf7d6d18d89cd1e309349c57c098c1b00a3fda88d9379917||open" value="0" id="fs_quantity_min_255559" />
+<input type="hidden" name="quantity_max||0b499aa00ba9fc5730eb42d7177a248275ecbff4aeedfeb7f45f8b056bf6bb9b||open" value="0" id="fs_quantity_max_255559" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255559" />
+<input type="hidden" name="name||6ffea66471937a824ac996966a9dc05ea5618587363ea15d53256fdb4477ff31" id="fs_name_255559" value="0552 - St. Vincent de Paul Home for Children $250 gift" />
+<input type="hidden" name="code||719d6ef0e43c2e05b6d021efa43d34cbca9cf86e06ccca0b0eb8daec0ccf279a" id="fs_code_255559" value="WCPJ3669SVPC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||8ef0bc704b3b9f52becb8c78a4fe16f401bd7511627cfe1e4760e314b6bbc8f4" id="WCPJ3669SVPC_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255561" rel="255561">
+<input type="hidden" name="price||1120e5e00b1aa07b53408c512b8140dc37e30d2fc492da560bb028f1e8e9a1cd" id="fs_price_255561" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255561" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255561" />
+<input type="hidden" name="image||8802cbf77c43fc15fc4c8ef0b5d4b5025d9bcbd71f7df49bc97807175b21836f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0552-Foxy-1.jpg" id="foxyshop_cart_product_image_255561" />
+<input type="hidden" name="url||2a5bb0cee66f457568c1531d20653b0d6b80e42ccb8fe451ecdf66eab3731fb6" value="https://crosscatholic.org/products/0552-st-vincent-de-paul-home-for-children/" id="fs_url_255561" />
+<input type="hidden" name="quantity_min||34576361d01d6ebabf7d6d18d89cd1e309349c57c098c1b00a3fda88d9379917||open" value="0" id="fs_quantity_min_255561" />
+<input type="hidden" name="quantity_max||0b499aa00ba9fc5730eb42d7177a248275ecbff4aeedfeb7f45f8b056bf6bb9b||open" value="0" id="fs_quantity_max_255561" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255561" />
+<input type="hidden" name="name||b709456fe237eac23cc263f098912a52269da08ea7f2eac711a64180e547d806" id="fs_name_255561" value="0552 - St. Vincent de Paul Home for Children" />
+<input type="hidden" name="code||719d6ef0e43c2e05b6d021efa43d34cbca9cf86e06ccca0b0eb8daec0ccf279a" id="fs_code_255561" value="WCPJ3669SVPC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||81ccb0ba3bfb0b0b84cb54fa815f29f655fb9d27a06cf30322d3b0639409a2c5||open" id="WCPJ3669SVPC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
