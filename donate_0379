@@ -1,0 +1,73 @@
+add_shortcode( 'donate_0379', function () {
+
+	$out = '<div class="flex-container">
+<!-- $39 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255332" rel="255332">
+<input type="hidden" name="price||cb265a9d896db3044622e62871911161ab001a83a45e00d936274bf534ffdb22" id="fs_price_255332" value="39.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255332" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255332" />
+<input type="hidden" name="image||512f093318ea3844673e3db3ae1d6ece69625111d91e8ff6ffb36d5171580954||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0379-Foxy.jpg" id="foxyshop_cart_product_image_255332" />
+<input type="hidden" name="url||1d05c41906057204d1e8c526ac2cff115f308668056cf23d7c77ddcf067fadd8" value="https://crosscatholic.org/products/0379-healthy-meals-for-students-39-gift/" id="fs_url_255332" />
+<input type="hidden" name="quantity_min||3cc42257a2c00f0b9d7dce7b95898b46add626fe33be2516f1da0d87440f523e||open" value="0" id="fs_quantity_min_255332" />
+<input type="hidden" name="quantity_max||4d3e3a42b74d8f45746d5e3ebed0f6e6c9af3af0b316292eb4e4dd88b1887c7b||open" value="0" id="fs_quantity_max_255332" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255332" />
+<input type="hidden" name="name||9e0f16623ada46e53440188d7a4b03477ee4bc12d3771f5c20c9d4b04dd1e5b1" id="fs_name_255332" value="0379 - Healthy Meals for Students $39 gift" />
+<input type="hidden" name="code||804d0282aea705f3bc514da5d6e7cce44a8ecf237489e8a8650aacc570e4b6e6" id="fs_code_255332" value="WCPJ0379HMS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$39_donation||4eca79c03f7f26023fce54e5fe0b832300f4074b4a1b9bfd152e4eeadcdb3476" id="WCPJ0379HMS_1" value="" class="variation-39-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$39</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$39.00</span></div></div></form>
+<!-- $232 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255334" rel="255334">
+<input type="hidden" name="price||b5fedf74ebccd27ce138b891c1b2fccebda6913bef75f7d2a27fc831ef5cca53" id="fs_price_255334" value="232.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255334" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255334" />
+<input type="hidden" name="image||512f093318ea3844673e3db3ae1d6ece69625111d91e8ff6ffb36d5171580954||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0379-Foxy.jpg" id="foxyshop_cart_product_image_255334" />
+<input type="hidden" name="url||3fcfa0e72a41d88652863f46e84846e7e65ae13fb8cc260104da368c16626006" value="https://crosscatholic.org/products/0379-healthy-meals-for-students-232-gift/" id="fs_url_255334" />
+<input type="hidden" name="quantity_min||3cc42257a2c00f0b9d7dce7b95898b46add626fe33be2516f1da0d87440f523e||open" value="0" id="fs_quantity_min_255334" />
+<input type="hidden" name="quantity_max||4d3e3a42b74d8f45746d5e3ebed0f6e6c9af3af0b316292eb4e4dd88b1887c7b||open" value="0" id="fs_quantity_max_255334" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255334" />
+<input type="hidden" name="name||d5f7b26409c477623305a1af50823177389bec0114af9d6cfe3f8f66b37bb3a6" id="fs_name_255334" value="0379 - Healthy Meals for Students $232 gift" />
+<input type="hidden" name="code||804d0282aea705f3bc514da5d6e7cce44a8ecf237489e8a8650aacc570e4b6e6" id="fs_code_255334" value="WCPJ0379HMS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$232_donation||d26495e7cf18a1455677899c80b99b1b4ff5763cfa53f820d4dbcd8a2edbdfc2" id="WCPJ0379HMS_1" value="" class="variation-232-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$232</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$232.00</span></div></div></form>
+<!-- $465 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255336" rel="255336">
+<input type="hidden" name="price||c315c2426f35d1900d19d1b88bd155793f899685a35ea6eb17758f4bd094d288" id="fs_price_255336" value="465.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255336" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255336" />
+<input type="hidden" name="image||512f093318ea3844673e3db3ae1d6ece69625111d91e8ff6ffb36d5171580954||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0379-Foxy.jpg" id="foxyshop_cart_product_image_255336" />
+<input type="hidden" name="url||f6e19aaf8a0e8bbffb7d8c47690a5dadaa9144037817260d158d69048725c679" value="https://crosscatholic.org/products/0379-healthy-meals-for-students-465-gift/" id="fs_url_255336" />
+<input type="hidden" name="quantity_min||3cc42257a2c00f0b9d7dce7b95898b46add626fe33be2516f1da0d87440f523e||open" value="0" id="fs_quantity_min_255336" />
+<input type="hidden" name="quantity_max||4d3e3a42b74d8f45746d5e3ebed0f6e6c9af3af0b316292eb4e4dd88b1887c7b||open" value="0" id="fs_quantity_max_255336" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255336" />
+<input type="hidden" name="name||b93f5839d204f668b4ba873af477c3dbc0738282e296e56588784c71e5343545" id="fs_name_255336" value="0379 - Healthy Meals for Students $465 gift" />
+<input type="hidden" name="code||804d0282aea705f3bc514da5d6e7cce44a8ecf237489e8a8650aacc570e4b6e6" id="fs_code_255336" value="WCPJ0379HMS" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$465_donation||f2d29849b183afa61a32e8630b22f188100c9ea2cd5a29d968a3f4e7ec808101" id="WCPJ0379HMS_1" value="" class="variation-465-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$465</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$465.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255338" rel="255338">
+<input type="hidden" name="price||1a61f77dd99c462479ccf0f41a9958f63a4c1c09c7e232795629c2be77e6995e" id="fs_price_255338" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255338" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255338" />
+<input type="hidden" name="image||512f093318ea3844673e3db3ae1d6ece69625111d91e8ff6ffb36d5171580954||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-0379-Foxy.jpg" id="foxyshop_cart_product_image_255338" />
+<input type="hidden" name="url||c1bb57caffa000c7f67bc795f802604fad32457226a35534b5280b1fff51bb99" value="https://crosscatholic.org/products/0379-healthy-meals-for-students/" id="fs_url_255338" />
+<input type="hidden" name="quantity_min||3cc42257a2c00f0b9d7dce7b95898b46add626fe33be2516f1da0d87440f523e||open" value="0" id="fs_quantity_min_255338" />
+<input type="hidden" name="quantity_max||4d3e3a42b74d8f45746d5e3ebed0f6e6c9af3af0b316292eb4e4dd88b1887c7b||open" value="0" id="fs_quantity_max_255338" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255338" />
+<input type="hidden" name="name||49f28fd9f0549d12ec2e461cc38b45b1292de731847651f220a57c52306b38a3" id="fs_name_255338" value="0379 - Healthy Meals for Students" />
+<input type="hidden" name="code||804d0282aea705f3bc514da5d6e7cce44a8ecf237489e8a8650aacc570e4b6e6" id="fs_code_255338" value="WCPJ0379HMS" />
+<div class="foxyshop_variations">
+<input type="text" name="price||67d2f9ac04e0ed414ff7fa1062b0088e8b9bcea4963129756467230dce683ebd||open" id="WCPJ0379HMS_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
