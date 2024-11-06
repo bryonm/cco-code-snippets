@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1080', function () {
+
+	$out = '<div class="flex-container">
+<!-- $152 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_79003" rel="79003">
+<input type="hidden" name="price||574ac3c4b2346d0d8e57a4990d757abd27d88280052c223c91f586e8786e85c0" id="fs_price_79003" value="152.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_79003" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_79003" />
+<input type="hidden" name="image||7fc93d57acb58583f00775f4af5a3db64ef20415535d874fc2de631f51a55d3f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1080-Foxy.jpg" id="foxyshop_cart_product_image_79003" />
+<input type="hidden" name="url||2511e5b5e16f2954c18004b9ea16729f267a43d37cb0c5d5cad27d4a2cdef9e3" value="https://crosscatholic.org/products/1080-tlahuac-home-for-girls-25-gift/" id="fs_url_79003" />
+<input type="hidden" name="quantity_min||75366ed8127c2d580bc3925dbf6d901432a90d6e30a00bee95e30a509ebc50aa||open" value="0" id="fs_quantity_min_79003" />
+<input type="hidden" name="quantity_max||09bb08b5f07424c2a6d1af5a1b35729e27cc5eec1fdd3e4a2b0d828d7ef0eb82||open" value="0" id="fs_quantity_max_79003" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_79003" />
+<input type="hidden" name="name||6e95c342c9a1e9cb02a7898fdd1b8f788b99876e89df70d63485bc4db97474ec" id="fs_name_79003" value="1080 - Tláhuac Home for Girls $152 Gift" />
+<input type="hidden" name="code||7b4f2c31f4ceb3d491753375ff15639878a20bc2ffe9bf665a305b5950578fd2" id="fs_code_79003" value="WCPJ3669FSYG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$152_donation||69a81691efda1018a84a2ddb4f8c9dd597379b74fde0108c320f182bac163a2b" id="WCPJ3669FSYG_1" value="" class="variation-152-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$152</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$152.00</span></div></div></form>
+<!-- $305 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_79014" rel="79014">
+<input type="hidden" name="price||567f068647eb1774e01c8ac6b840c2188cc28de5b058274582a7b37635d94df5" id="fs_price_79014" value="305.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_79014" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_79014" />
+<input type="hidden" name="image||7fc93d57acb58583f00775f4af5a3db64ef20415535d874fc2de631f51a55d3f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1080-Foxy.jpg" id="foxyshop_cart_product_image_79014" />
+<input type="hidden" name="url||8bbeeab876a7a1e84ad534bd47ed9e94007f5ddb5dde0239067c93fac59e1142" value="https://crosscatholic.org/products/1080-tlahuac-home-for-girls-50-gift/" id="fs_url_79014" />
+<input type="hidden" name="quantity_min||75366ed8127c2d580bc3925dbf6d901432a90d6e30a00bee95e30a509ebc50aa||open" value="0" id="fs_quantity_min_79014" />
+<input type="hidden" name="quantity_max||09bb08b5f07424c2a6d1af5a1b35729e27cc5eec1fdd3e4a2b0d828d7ef0eb82||open" value="0" id="fs_quantity_max_79014" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_79014" />
+<input type="hidden" name="name||db7a7aa60368c8778fae1df959f14cea8366183e2b1e8f0fb41d9a0f49b0893a" id="fs_name_79014" value="1080 - Tláhuac Home for Girls $305 Gift" />
+<input type="hidden" name="code||7b4f2c31f4ceb3d491753375ff15639878a20bc2ffe9bf665a305b5950578fd2" id="fs_code_79014" value="WCPJ3669FSYG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$305_donation||87ac1f95f3ab5b8af48e27b566d1d2c199aac84a35949ca14595099063328b5a" id="WCPJ3669FSYG_1" value="" class="variation-305-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$305</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$305.00</span></div></div></form>
+<!-- $610 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_79020" rel="79020">
+<input type="hidden" name="price||a3f422cbfdc79926f6bb589db217f2209284937ef18a3f5c579f40b0e96ca76e" id="fs_price_79020" value="610.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_79020" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_79020" />
+<input type="hidden" name="image||7fc93d57acb58583f00775f4af5a3db64ef20415535d874fc2de631f51a55d3f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1080-Foxy.jpg" id="foxyshop_cart_product_image_79020" />
+<input type="hidden" name="url||36a5246fbd5c40167338eff2775b703e02d1298a16d496bc4ef2464fc080c9c6" value="https://crosscatholic.org/products/1080-tlahuac-home-for-girls-100-gift/" id="fs_url_79020" />
+<input type="hidden" name="quantity_min||75366ed8127c2d580bc3925dbf6d901432a90d6e30a00bee95e30a509ebc50aa||open" value="0" id="fs_quantity_min_79020" />
+<input type="hidden" name="quantity_max||09bb08b5f07424c2a6d1af5a1b35729e27cc5eec1fdd3e4a2b0d828d7ef0eb82||open" value="0" id="fs_quantity_max_79020" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_79020" />
+<input type="hidden" name="name||1f791ea5ba4e1abaec1bb50a4eae28256c2e1ff4bc92446bacc14925861286cf" id="fs_name_79020" value="1080 - Tláhuac Home for Girls $610 Gift" />
+<input type="hidden" name="code||7b4f2c31f4ceb3d491753375ff15639878a20bc2ffe9bf665a305b5950578fd2" id="fs_code_79020" value="WCPJ3669FSYG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$610_donation||f8fd90aa0bfc5f9e142777b5b597f5ebf2a233d60b550b9e59d58b7629e0749b" id="WCPJ3669FSYG_1" value="" class="variation-610-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$610</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$610.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_253699" rel="253699">
+<input type="hidden" name="price||7d401474bbfa93786acb14286862d021c76a4a4e019f331f66b47d5b4a578d1a" id="fs_price_253699" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_253699" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_253699" />
+<input type="hidden" name="image||7fc93d57acb58583f00775f4af5a3db64ef20415535d874fc2de631f51a55d3f||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1080-Foxy.jpg" id="foxyshop_cart_product_image_253699" />
+<input type="hidden" name="url||3e5c77abfba44023a0eaa58580cc808df3679562579a107d02028cff2b1755c8" value="https://crosscatholic.org/products/1080-tlahuac-home-for-girls/" id="fs_url_253699" />
+<input type="hidden" name="quantity_min||75366ed8127c2d580bc3925dbf6d901432a90d6e30a00bee95e30a509ebc50aa||open" value="0" id="fs_quantity_min_253699" />
+<input type="hidden" name="quantity_max||09bb08b5f07424c2a6d1af5a1b35729e27cc5eec1fdd3e4a2b0d828d7ef0eb82||open" value="0" id="fs_quantity_max_253699" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_253699" />
+<input type="hidden" name="name||710519f9d151b4a00e9469783a0937656cb28bed0cea297fc6fa05068a6be460" id="fs_name_253699" value="1080 - Tláhuac Home for Girls" />
+<input type="hidden" name="code||7b4f2c31f4ceb3d491753375ff15639878a20bc2ffe9bf665a305b5950578fd2" id="fs_code_253699" value="WCPJ3669FSYG" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9a187b310e74bc78094059b1b6e5b1e6ca7ad9bae67266fb12494853c2c975de||open" id="WCPJ3669FSYG_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
