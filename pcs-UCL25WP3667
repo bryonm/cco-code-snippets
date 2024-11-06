@@ -1,0 +1,32 @@
+add_shortcode( 'pcs-UCL25WP3667', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268218" rel="268218">
+<input type="hidden" name="price||b371dc9ad4dc03f5b9a2834873ac3f12e23f8b2e36acec756e2353b8a64805d8" id="fs_price_268218" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268218" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268218" />
+<input type="hidden" name="image||068708af91e7a8103aec1392a76d66a67ae68abb371596c6b288fecb08f7c63f||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/water-for-life-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_268218" />
+<input type="hidden" name="url||0593e15b8cd33d926ed14459fc90ef90f3a63f096eb748cca9c5f5d3b552a9a9" value="https://crosscatholic.org/products/giving-water-to-those-in-need-14/" id="fs_url_268218" />
+<input type="hidden" name="quantity_min||705cf1637571cb388843ed044e9d2b76176012702e2461a4c404994bb16c152f||open" value="0" id="fs_quantity_min_268218" />
+<input type="hidden" name="quantity_max||6c566ef0ccf6f8a89e255756a3c7e02ccc6aca90adae47f5d1aa8649134943c1||open" value="0" id="fs_quantity_max_268218" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268218" />
+<input type="hidden" name="name||853eb2a87af53b48394f2267f226c8fa8cf9d864e730aae494d2c1cdec277579" id="fs_name_268218" value="Giving Water to Those in Need" />
+<input type="hidden" name="code||27ee6c06b935416ccb8384006f4e75886b91c2e7bf759644b09f3c6011a72243" id="fs_code_268218" value="UCL25WP3667" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCL25WP3667_1" class="variation-donation">
+<option value="$42 blesses two people with water{p:42}||1857ff055cc17d7e06e741be3ae2bed1b0da6f9c2cb157b62d4539fdfe3ae837" priceset="4200">$42 blesses two people with water</option>
+<option value="$63 blesses three people with water{p:63}||7c27d691c3c2fefad419e1f002f7ad263a8f417bea568dc1275fa377f382ea89" priceset="6300">$63 blesses three people with water</option>
+<option value="$105 blesses five people with water{p:105}||6cb446f50a20aa80d4fc34a5163ad3f883c1839fc1168b82ea2a99d9e5531b3b" priceset="10500">$105 blesses five people with water</option>
+<option value="$147 blesses seven people with water{p:147}||c643329277a4ab9aaa0c2c45d49b597fa1285e507027c20b85f1dd0586951fef" priceset="14700">$147 blesses seven people with water</option>
+<option value="Other{dkey:custom-price}||54bcc96d4e60c6e847319668fdb003f70fde0de5a1eca04fca6473303a04a1ad" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="UCL25WP3667_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||568888d2308df1e5dff6918b5c4e0b1069d219eb9c6479f919417784d8e07b63||open" id="UCL25WP3667_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></form>
+</div>';
+
+	return $out;
+} );
