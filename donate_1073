@@ -1,74 +1,69 @@
 add_shortcode( 'donate_1073', function () {
 
 	$out = '<div class="flex-container">
-<!-- $50 BUTTON -->
+<!-- $70 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36802" rel="36802">
-<input type="hidden" name="price||537479796ae732c1bed740e67ba402d72ff95fa29b8e0093212dd376cafb15dd" id="fs_price_36802" value="50.00" />
+<input type="hidden" name="price||9f102ad3550cde93676b11e4cba561880826bae32cc115b7c57e64f0c5f2f949" id="fs_price_36802" value="70.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36802" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36802" />
-<input type="hidden" name="image||e27846664fb9d694dda893bd40b256d51294c33ee754662fe06f85c5f6a8bcf9||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1073-thumb_2.jpg" id="foxyshop_cart_product_image_36802" />
-<input type="hidden" name="url||576bca2b2c9508c65e903bc90f871992c53e5edf0b306da9f2b871a8364ac7f2" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno-3/" id="fs_url_36802" />
-<input type="hidden" name="quantity_min||9392688a0b825eee95a7fc22090a5bbb2d2584674a726a62c8f978b84cbe00a3||open" value="0" id="fs_quantity_min_36802" />
-<input type="hidden" name="quantity_max||755a34f1694ae57c8a1222edca8bdfe3bc6460a8d2495fc6127c498ad7f0d27b||open" value="0" id="fs_quantity_max_36802" />
+<input type="hidden" name="image||89fb319b1e2afb3b45ebf96824e9449dc9b8b24c99b1c3c434091130afd5247d||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1073-Foxy.jpg" id="foxyshop_cart_product_image_36802" />
+<input type="hidden" name="url||d3357e8c5ac09f5cadf65f581c960f2a241bd08b0a85736570316604a95f57bd" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno-3/" id="fs_url_36802" />
+<input type="hidden" name="quantity_min||b600a3e2131e6eb6a006647ddea888832500b98fef2f658a0426f14e2c1efb15||open" value="0" id="fs_quantity_min_36802" />
+<input type="hidden" name="quantity_max||a232cc836db3a8862b7a04900a850995bad72fdd0e7c83f7b0246b3d1822d863||open" value="0" id="fs_quantity_max_36802" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36802" />
-<input type="hidden" name="name||a5f1b18cd18bbc6c14e2cad7f21b97bcffe59013f9b52044e0d7ec7d45e1978c" id="fs_name_36802" value="1073 – Fundacion Ciento por Uno" />
-<input type="hidden" name="code||398043c8ccc8e7fce439fdbf50688b7307fe3bd62bf9147ed4d78dd53127661f" id="fs_code_36802" value="WCPROJ1073" />
+<input type="hidden" name="name||d95cc0bed1ca5799742351065cdcd71a182de8f3ba19b705fba990fa65c99071" id="fs_name_36802" value="1073 – Fundacion Ciento por Uno $70 gift" />
+<input type="hidden" name="code||eba708e633ce5bfc69d982b7667b2779aed2eef14792ce38ac2e353e063de543" id="fs_code_36802" value="WCPJ1073HMF" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||dcd325967dc48b2250564b9773b68c6de9ff521cd545540c28584b06dc68f72f" id="WCPROJ1073_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$70_donation||6fedea743c1e6e379409b3a06b24b6904cd6a851de00d32cc14b23a34cf5727a" id="WCPJ1073HMF_1" value="" class="variation-70-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
-<!-- $100 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$70</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$70.00</span></div></div></form>
+<!-- $140 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36805" rel="36805">
-<input type="hidden" name="price||a0c188f8e1729fcba5a201eea4191dac2f00a7eab47504264a4d969839b17fe0" id="fs_price_36805" value="100.00" />
+<input type="hidden" name="price||306ac6b16228cdfdb7e487af0688e15f69271e9dd3c366f8858e05c2ae7ef5cb" id="fs_price_36805" value="140.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36805" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36805" />
-<input type="hidden" name="image||e27846664fb9d694dda893bd40b256d51294c33ee754662fe06f85c5f6a8bcf9||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1073-thumb_3.jpg" id="foxyshop_cart_product_image_36805" />
-<input type="hidden" name="url||815d307efbf8c90983791e87351c319d92e4cec42f93b1082b9bb7b8b8a1ae98" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno-4/" id="fs_url_36805" />
-<input type="hidden" name="quantity_min||9392688a0b825eee95a7fc22090a5bbb2d2584674a726a62c8f978b84cbe00a3||open" value="0" id="fs_quantity_min_36805" />
-<input type="hidden" name="quantity_max||755a34f1694ae57c8a1222edca8bdfe3bc6460a8d2495fc6127c498ad7f0d27b||open" value="0" id="fs_quantity_max_36805" />
+<input type="hidden" name="image||89fb319b1e2afb3b45ebf96824e9449dc9b8b24c99b1c3c434091130afd5247d||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1073-Foxy.jpg" id="foxyshop_cart_product_image_36805" />
+<input type="hidden" name="url||7f4d3fc326c99106fa04c94b1f5e7106505b34e3b0f6a58407733640f7b46eed" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno-4/" id="fs_url_36805" />
+<input type="hidden" name="quantity_min||b600a3e2131e6eb6a006647ddea888832500b98fef2f658a0426f14e2c1efb15||open" value="0" id="fs_quantity_min_36805" />
+<input type="hidden" name="quantity_max||a232cc836db3a8862b7a04900a850995bad72fdd0e7c83f7b0246b3d1822d863||open" value="0" id="fs_quantity_max_36805" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36805" />
-<input type="hidden" name="name||a5f1b18cd18bbc6c14e2cad7f21b97bcffe59013f9b52044e0d7ec7d45e1978c" id="fs_name_36805" value="1073 – Fundacion Ciento por Uno" />
-<input type="hidden" name="code||398043c8ccc8e7fce439fdbf50688b7307fe3bd62bf9147ed4d78dd53127661f" id="fs_code_36805" value="WCPROJ1073" />
+<input type="hidden" name="name||724081ecc9be4526e3d8ca461b7fcdb2d517e9d8426f39e9871111dc27abfbf9" id="fs_name_36805" value="1073 – Fundacion Ciento por Uno $140 gift" />
+<input type="hidden" name="code||eba708e633ce5bfc69d982b7667b2779aed2eef14792ce38ac2e353e063de543" id="fs_code_36805" value="WCPJ1073HMF" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||f061b318d8798dd5fcbdae1553b4a70c11187b8173dd4f4723d49194f2b24bdf" id="WCPROJ1073_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$140_donation||16e417cea23f5232a0d592716aa7417d88156d94e057e17e83ffcdd0180ddbca" id="WCPJ1073HMF_1" value="" class="variation-140-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
-<!-- $250 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$140</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$140.00</span></div></div></form>
+<!-- $210 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36796" rel="36796">
-<input type="hidden" name="price||66f7668a2b1355761f835ffe6de2d49834c78ab09a5b096cc345ee71ee4e60dd" id="fs_price_36796" value="250.00" />
+<input type="hidden" name="price||1ca774e9321972579392ac31e0fb2d00581296e23f9a4e5242af27646da9a293" id="fs_price_36796" value="210.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36796" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36796" />
-<input type="hidden" name="image||e27846664fb9d694dda893bd40b256d51294c33ee754662fe06f85c5f6a8bcf9||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1073-thumb_1.jpg" id="foxyshop_cart_product_image_36796" />
-<input type="hidden" name="url||ff212d2eb59c6d631cdcb39c624f2dac6d1d26bd24076ab745f6774a419c1739" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno/" id="fs_url_36796" />
-<input type="hidden" name="quantity_min||9392688a0b825eee95a7fc22090a5bbb2d2584674a726a62c8f978b84cbe00a3||open" value="0" id="fs_quantity_min_36796" />
-<input type="hidden" name="quantity_max||755a34f1694ae57c8a1222edca8bdfe3bc6460a8d2495fc6127c498ad7f0d27b||open" value="0" id="fs_quantity_max_36796" />
+<input type="hidden" name="image||89fb319b1e2afb3b45ebf96824e9449dc9b8b24c99b1c3c434091130afd5247d||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1073-Foxy.jpg" id="foxyshop_cart_product_image_36796" />
+<input type="hidden" name="url||30d857e17c9bd455680c43bd5fa6989264563ee12c014949648e51ca6ae7a71e" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno/" id="fs_url_36796" />
+<input type="hidden" name="quantity_min||b600a3e2131e6eb6a006647ddea888832500b98fef2f658a0426f14e2c1efb15||open" value="0" id="fs_quantity_min_36796" />
+<input type="hidden" name="quantity_max||a232cc836db3a8862b7a04900a850995bad72fdd0e7c83f7b0246b3d1822d863||open" value="0" id="fs_quantity_max_36796" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36796" />
-<input type="hidden" name="name||0c146da2380f067dbfccfe1dd80c2cef95d5e67c12fbf6aa8f27e325e1bdbe5c" id="fs_name_36796" value="1073 – Fundacion Ciento por Uno $250 donation" />
-<input type="hidden" name="code||398043c8ccc8e7fce439fdbf50688b7307fe3bd62bf9147ed4d78dd53127661f" id="fs_code_36796" value="WCPROJ1073" />
+<input type="hidden" name="name||798f2e706af5df5157c020ee32536745e8c82bd645f46d1f3862a6e7dfeec26b" id="fs_name_36796" value="1073 – Fundacion Ciento por Uno $210 gift" />
+<input type="hidden" name="code||eba708e633ce5bfc69d982b7667b2779aed2eef14792ce38ac2e353e063de543" id="fs_code_36796" value="WCPJ1073HMF" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$250_donation||5c609be746547940106167505dfc6462bca45fd383aca8ba7ccc23c59e3becda" id="WCPROJ1073_1" value="" class="variation-250-donation" />
+<input type="hidden" name="$210_donation||10182bbb8cbcdf3c57ccf5a9044a17fb00856f0309bb523a6c0abd449fe889e3" id="WCPJ1073HMF_1" value="" class="variation-210-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
-  
-
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$210</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$210.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
-
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_36799" rel="36799">
-<input type="hidden" name="price||c7b438566f855f9948e0b627eb73fd2ab4c0d27a88ec4c4e751f476ea991f343" id="fs_price_36799" value="0.00" />
+<input type="hidden" name="price||ab9c5ceb2be3654b80d15fa436966a3600d48ef8c666075cef22df564d7df20f" id="fs_price_36799" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_36799" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_36799" />
-<input type="hidden" name="image||e27846664fb9d694dda893bd40b256d51294c33ee754662fe06f85c5f6a8bcf9||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1073-thumb_1.jpg" id="foxyshop_cart_product_image_36799" />
-<input type="hidden" name="url||c042b9d5b3e0cd75d055a82cb885089bc0463a5d1ea1d287d3753ece1a929d44" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno-2/" id="fs_url_36799" />
-<input type="hidden" name="quantity_min||9392688a0b825eee95a7fc22090a5bbb2d2584674a726a62c8f978b84cbe00a3||open" value="0" id="fs_quantity_min_36799" />
-<input type="hidden" name="quantity_max||755a34f1694ae57c8a1222edca8bdfe3bc6460a8d2495fc6127c498ad7f0d27b||open" value="0" id="fs_quantity_max_36799" />
+<input type="hidden" name="image||89fb319b1e2afb3b45ebf96824e9449dc9b8b24c99b1c3c434091130afd5247d||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/Project-img-1073-Foxy.jpg" id="foxyshop_cart_product_image_36799" />
+<input type="hidden" name="url||8d7d734278963c16b89ff9486c7f26811169915e950210e7236f1c3a5e32d49c" value="https://crosscatholic.org/products/1073-fundacion-ciento-por-uno-2/" id="fs_url_36799" />
+<input type="hidden" name="quantity_min||b600a3e2131e6eb6a006647ddea888832500b98fef2f658a0426f14e2c1efb15||open" value="0" id="fs_quantity_min_36799" />
+<input type="hidden" name="quantity_max||a232cc836db3a8862b7a04900a850995bad72fdd0e7c83f7b0246b3d1822d863||open" value="0" id="fs_quantity_max_36799" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_36799" />
-<input type="hidden" name="name||a5f1b18cd18bbc6c14e2cad7f21b97bcffe59013f9b52044e0d7ec7d45e1978c" id="fs_name_36799" value="1073 – Fundacion Ciento por Uno" />
-<input type="hidden" name="code||398043c8ccc8e7fce439fdbf50688b7307fe3bd62bf9147ed4d78dd53127661f" id="fs_code_36799" value="WCPROJ1073" />
+<input type="hidden" name="name||860841a8a9fa078503c51a83ab3f9e9f45d0e7b672f319141389cf4b99586918" id="fs_name_36799" value="1073 – Fundacion Ciento por Uno" />
+<input type="hidden" name="code||eba708e633ce5bfc69d982b7667b2779aed2eef14792ce38ac2e353e063de543" id="fs_code_36799" value="WCPJ1073HMF" />
 <div class="foxyshop_variations">
-<input type="text" name="price||ac491761ceaed3b8c60045a5a06993795da2f0ac7ac062c85bfb02679c1918b8||open" id="WCPROJ1073_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||0dd3bb15fa9629ec9e2a637ae329c2a80505e811b514bc3da408395ce00759e2||open" id="WCPJ1073HMF_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
