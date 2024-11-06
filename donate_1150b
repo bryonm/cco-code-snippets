@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1150b', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260920" rel="260920">
+<input type="hidden" name="price||4b5ae0ed55135fc5ad8703848caf66d706f8f42f286793c5868bc3f6b549b518" id="fs_price_260920" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260920" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260920" />
+<input type="hidden" name="image||b8888e2ef50f6e59a0c5f7c1facab0f028b5c51e4b29aab9dbbe4948139a7453||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1150-Foxy.jpg" id="foxyshop_cart_product_image_260920" />
+<input type="hidden" name="url||4421a36e5173a1eb5827c3249ea8ced008ddb1c5f91a357ecbc35be420fca39d" value="https://crosscatholic.org/products/1150-friendly-hands-foundation-roofing-materials-50-gift-2/" id="fs_url_260920" />
+<input type="hidden" name="quantity_min||bbfea61b5a160b73d1d7b65583b37c4a7536bf4d2f9373fcb0677fd1265ace62||open" value="0" id="fs_quantity_min_260920" />
+<input type="hidden" name="quantity_max||3f23e26b5186d82b42c4833f56694899ab59cc7a84c7d53878e9fa4cf9103504||open" value="0" id="fs_quantity_max_260920" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260920" />
+<input type="hidden" name="name||4efa6c6bc42a69fab66a245f73418b824daba4c0ef8a4819a20dae3070ec8866" id="fs_name_260920" value="1150 - Friendly Hands Foundation Roofing Materials $50 Gift" />
+<input type="hidden" name="code||8d26cf8f842f4b4165f00320f738ad4847b94c904e538d312a8b20f9a2d8d584" id="fs_code_260920" value="WCPJ3665RMF" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||fc5166d3d9122bfb542ae7344e04d7c40c86f4aab9be418a135699055cf5324c" id="WCPJ3665RMF_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260921" rel="260921">
+<input type="hidden" name="price||5bec2cd70c6c6c717aa967215a9774985e7dec215f536952ddcc9ff4fe89194b" id="fs_price_260921" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260921" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260921" />
+<input type="hidden" name="image||b8888e2ef50f6e59a0c5f7c1facab0f028b5c51e4b29aab9dbbe4948139a7453||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1150-Foxy.jpg" id="foxyshop_cart_product_image_260921" />
+<input type="hidden" name="url||221568cf77f718ee55b56da5628f181b611d64c7d058e0d84b639a8a3a519de6" value="https://crosscatholic.org/products/1150-friendly-hands-foundation-roofing-materials-100-gift-2/" id="fs_url_260921" />
+<input type="hidden" name="quantity_min||bbfea61b5a160b73d1d7b65583b37c4a7536bf4d2f9373fcb0677fd1265ace62||open" value="0" id="fs_quantity_min_260921" />
+<input type="hidden" name="quantity_max||3f23e26b5186d82b42c4833f56694899ab59cc7a84c7d53878e9fa4cf9103504||open" value="0" id="fs_quantity_max_260921" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260921" />
+<input type="hidden" name="name||91f3888013572b197f4ffc95976e32181fdfd2f5b64026515d0734d3dec5947a" id="fs_name_260921" value="1150 - Friendly Hands Foundation Roofing Materials $100 Gift" />
+<input type="hidden" name="code||8d26cf8f842f4b4165f00320f738ad4847b94c904e538d312a8b20f9a2d8d584" id="fs_code_260921" value="WCPJ3665RMF" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||388f06f1676590d6ba0a3a11c231292ae84bd9cb3f45c8d1d8ff6863c8282306" id="WCPJ3665RMF_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260922" rel="260922">
+<input type="hidden" name="price||0bad5df3ca0ca98cc3fefacb9b343f15162478c18e4dd0242cfa675fc42506ec" id="fs_price_260922" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260922" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260922" />
+<input type="hidden" name="image||b8888e2ef50f6e59a0c5f7c1facab0f028b5c51e4b29aab9dbbe4948139a7453||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1150-Foxy.jpg" id="foxyshop_cart_product_image_260922" />
+<input type="hidden" name="url||3373f87ccc51f3d7da490204b884ba90d8de995e8ef1aa5d641d6de56d143d5c" value="https://crosscatholic.org/products/1150-friendly-hands-foundation-roofing-materials-250-gift-2/" id="fs_url_260922" />
+<input type="hidden" name="quantity_min||bbfea61b5a160b73d1d7b65583b37c4a7536bf4d2f9373fcb0677fd1265ace62||open" value="0" id="fs_quantity_min_260922" />
+<input type="hidden" name="quantity_max||3f23e26b5186d82b42c4833f56694899ab59cc7a84c7d53878e9fa4cf9103504||open" value="0" id="fs_quantity_max_260922" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260922" />
+<input type="hidden" name="name||40d59aaa001e71d4350eae431dcc461f5c3a7695311f8e63774f9c7b49429cd9" id="fs_name_260922" value="1150 - Friendly Hands Foundation Roofing Materials $250 Gift" />
+<input type="hidden" name="code||8d26cf8f842f4b4165f00320f738ad4847b94c904e538d312a8b20f9a2d8d584" id="fs_code_260922" value="WCPJ3665RMF" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||e1db857e9a4fdbf406d6b995e276c7f0e68ab47cf8cd40566f34e0f6f625bdaf" id="WCPJ3665RMF_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260923" rel="260923">
+<input type="hidden" name="price||0f20cd8bdb3cabeda13e0c9cc3558482544523cd0921279482ab32d446c8f670" id="fs_price_260923" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260923" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260923" />
+<input type="hidden" name="image||b8888e2ef50f6e59a0c5f7c1facab0f028b5c51e4b29aab9dbbe4948139a7453||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1150-Foxy.jpg" id="foxyshop_cart_product_image_260923" />
+<input type="hidden" name="url||ef793f2ebe95653e4f83dca74cb7c34df1fc4c12877fff8540ce19bb41577659" value="https://crosscatholic.org/products/1150-friendly-hands-foundation-roofing-materials-2/" id="fs_url_260923" />
+<input type="hidden" name="quantity_min||bbfea61b5a160b73d1d7b65583b37c4a7536bf4d2f9373fcb0677fd1265ace62||open" value="0" id="fs_quantity_min_260923" />
+<input type="hidden" name="quantity_max||3f23e26b5186d82b42c4833f56694899ab59cc7a84c7d53878e9fa4cf9103504||open" value="0" id="fs_quantity_max_260923" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260923" />
+<input type="hidden" name="name||96d16ff3f2629a0c85bef0c773372b4c05da842b5ee349712ed67ca74a9555f8" id="fs_name_260923" value="1150 - Friendly Hands Foundation Roofing Materials" />
+<input type="hidden" name="code||8d26cf8f842f4b4165f00320f738ad4847b94c904e538d312a8b20f9a2d8d584" id="fs_code_260923" value="WCPJ3665RMF" />
+<div class="foxyshop_variations">
+<input type="text" name="price||de9b0556687ff10c4d240590e35567ff29ad05a9cd1a1b5c4f67145a41c01633||open" id="WCPJ3665RMF_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
