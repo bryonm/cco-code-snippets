@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1071', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260857" rel="260857">
+<input type="hidden" name="price||cf8d7f3baca8fcbdb0aee3f564943a6b97900bb4da67b10e64b183b818d2e6ec" id="fs_price_260857" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260857" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260857" />
+<input type="hidden" name="image||1d042d1c5da3352cff917d74c10d71b65aef45a533d3997cc956e04da3f60e69||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1071-Medicines-Foxy.jpg" id="foxyshop_cart_product_image_260857" />
+<input type="hidden" name="url||7fbd78222b59f7d19a368e8d2a46650d13140e3c9daf37bc39b26884ced27f3a" value="https://crosscatholic.org/products/1071-medical-supplies-medicines-50-gift/" id="fs_url_260857" />
+<input type="hidden" name="quantity_min||4ab591333d0736486d2fd3f3568cb56591ff7cab0e7c085e2828596d3894410d||open" value="0" id="fs_quantity_min_260857" />
+<input type="hidden" name="quantity_max||669d7db3ca65f350312cbbaaf12f8d051b8b4d68a756da4fecaa331413ba2fcd||open" value="0" id="fs_quantity_max_260857" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260857" />
+<input type="hidden" name="name||09f9994758c3d04a8ca3e21ea81eba8dfe12a0f349f9548174459f1a2d81cc0c" id="fs_name_260857" value="1071 - Medical Supplies &amp; Medicines $50 Gift" />
+<input type="hidden" name="code||eba2e744613aa1e2ccf4fbc880be6f920bfd53d028e0da0fc547a2405998989c" id="fs_code_260857" value="WCPJ1071MSM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||28de36cca11ba154d57175b224ebc560d79a5c52084f30b5cdcc58e5f631098a" id="WCPJ1071MSM_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260858" rel="260858">
+<input type="hidden" name="price||f75e507bf53658dc08f8a122dfe70dc3195de90a2adc8d9d9bd040662109b933" id="fs_price_260858" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260858" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260858" />
+<input type="hidden" name="image||1d042d1c5da3352cff917d74c10d71b65aef45a533d3997cc956e04da3f60e69||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1071-Medicines-Foxy.jpg" id="foxyshop_cart_product_image_260858" />
+<input type="hidden" name="url||a065d85ca3ff7c3db37f5c2b0e93c363f8c920a577774fd33f2b6103e29b970e" value="https://crosscatholic.org/products/1071-medical-supplies-medicines-100-gift/" id="fs_url_260858" />
+<input type="hidden" name="quantity_min||4ab591333d0736486d2fd3f3568cb56591ff7cab0e7c085e2828596d3894410d||open" value="0" id="fs_quantity_min_260858" />
+<input type="hidden" name="quantity_max||669d7db3ca65f350312cbbaaf12f8d051b8b4d68a756da4fecaa331413ba2fcd||open" value="0" id="fs_quantity_max_260858" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260858" />
+<input type="hidden" name="name||fd38ccfb40e4826e73393d59078040e5dfe0d8b26cc7910ba1139dcca8ee9c9e" id="fs_name_260858" value="1071 - Medical Supplies &amp; Medicines $100 Gift" />
+<input type="hidden" name="code||eba2e744613aa1e2ccf4fbc880be6f920bfd53d028e0da0fc547a2405998989c" id="fs_code_260858" value="WCPJ1071MSM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||abbc876f55d0773771dba88118a758bc4c2b37cb950cc9ce02e094ad25399051" id="WCPJ1071MSM_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260859" rel="260859">
+<input type="hidden" name="price||ba85cda6ca600fd6cb56ca544ae9c069b662491d5222b368c58cd79bc3669893" id="fs_price_260859" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260859" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260859" />
+<input type="hidden" name="image||1d042d1c5da3352cff917d74c10d71b65aef45a533d3997cc956e04da3f60e69||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1071-Medicines-Foxy.jpg" id="foxyshop_cart_product_image_260859" />
+<input type="hidden" name="url||ca54d0114f2a4c22e28c5b483931906d73e1ee5609368524bb36fc1f6a9a4bd9" value="https://crosscatholic.org/products/1071-medical-supplies-medicines-250-gift/" id="fs_url_260859" />
+<input type="hidden" name="quantity_min||4ab591333d0736486d2fd3f3568cb56591ff7cab0e7c085e2828596d3894410d||open" value="0" id="fs_quantity_min_260859" />
+<input type="hidden" name="quantity_max||669d7db3ca65f350312cbbaaf12f8d051b8b4d68a756da4fecaa331413ba2fcd||open" value="0" id="fs_quantity_max_260859" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260859" />
+<input type="hidden" name="name||ddf09cce149372b351fccb81d7b4ccbfd206b65764212a38de1f65ada8aacc35" id="fs_name_260859" value="1071 - Medical Supplies &amp; Medicines $250 Gift" />
+<input type="hidden" name="code||eba2e744613aa1e2ccf4fbc880be6f920bfd53d028e0da0fc547a2405998989c" id="fs_code_260859" value="WCPJ1071MSM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||a4c49db18f346a73d494db33f99ab664720365f4b5fc018127c0c18e9a44437d" id="WCPJ1071MSM_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_260860" rel="260860">
+<input type="hidden" name="price||f9294687986898abb9f7743f8740489faff106f0218f20e090e299a14d45b527" id="fs_price_260860" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_260860" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_260860" />
+<input type="hidden" name="image||1d042d1c5da3352cff917d74c10d71b65aef45a533d3997cc956e04da3f60e69||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Project-img-1071-Medicines-Foxy.jpg" id="foxyshop_cart_product_image_260860" />
+<input type="hidden" name="url||080bf895e0fe646e1b07ef1b324b93d1b512b7faaf5d2ce6c3a97e417d7b653e" value="https://crosscatholic.org/products/1071-medical-supplies-medicines/" id="fs_url_260860" />
+<input type="hidden" name="quantity_min||4ab591333d0736486d2fd3f3568cb56591ff7cab0e7c085e2828596d3894410d||open" value="0" id="fs_quantity_min_260860" />
+<input type="hidden" name="quantity_max||669d7db3ca65f350312cbbaaf12f8d051b8b4d68a756da4fecaa331413ba2fcd||open" value="0" id="fs_quantity_max_260860" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_260860" />
+<input type="hidden" name="name||c355eb7cff1be4fe99dfa7db0d87b6028e1bd7034dda1eff075f70aa4d8bd02c" id="fs_name_260860" value="1071 - Medical Supplies &amp; Medicines" />
+<input type="hidden" name="code||eba2e744613aa1e2ccf4fbc880be6f920bfd53d028e0da0fc547a2405998989c" id="fs_code_260860" value="WCPJ1071MSM" />
+<div class="foxyshop_variations">
+<input type="text" name="price||9e35c43e3f97212be205e253f3bf9bc1ddfbef5e436d7ac7011d4fa24a9c6fd3||open" id="WCPJ1071MSM_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
