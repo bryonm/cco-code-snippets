@@ -1,0 +1,73 @@
+add_shortcode( 'donate_9039b', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268955" rel="268955">
+<input type="hidden" name="price||8901f15504cbd1eaea1aee3f72b4bce4687d88bc1bb12fba8c7a8d264cc0736c" id="fs_price_268955" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268955" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268955" />
+<input type="hidden" name="image||8fd325983a463f62502a04aba08eb267712f1013402c66a6717e68f472ab6cf6||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/Project-img-9039-Foxy.jpg" id="foxyshop_cart_product_image_268955" />
+<input type="hidden" name="url||17b56a7db9a4dda2d84c7ccf63637fd73f74f736ccc8357c850681b70d2a21b3" value="https://crosscatholic.org/products/diocese-of-suchi-santa-rosa-spiritual-formation-50-gift/" id="fs_url_268955" />
+<input type="hidden" name="quantity_min||3f035135ce980fe83a17250d939ab15962382e1f5f017663e32cd4a74524e7f4||open" value="0" id="fs_quantity_min_268955" />
+<input type="hidden" name="quantity_max||02ce5f09a8fa2ccaa2ca9808f1ded121d701c6a2bc5e8455bff5215dcaa6dc43||open" value="0" id="fs_quantity_max_268955" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268955" />
+<input type="hidden" name="name||2e9fe5d7b01603078857bca59a16f12cd37e0c0dc3c0f9582c8bad0fb5632840" id="fs_name_268955" value="Diocese of Suchi/Santa Rosa (Spiritual Formation) $50 Gift" />
+<input type="hidden" name="code||997193f91fec82f0b9168f86f620994e822b0b1dd94ea2b79f9edaa6ba4f2a7a" id="fs_code_268955" value="WCPJ9039BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||fab29bea9b0085b6633bc62ad1caab449efb91d1150764685f29938edad94b31" id="WCPJ9039BIBL_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268956" rel="268956">
+<input type="hidden" name="price||3bf97507b020ce8f7c5f5f426a01b069f89bcd08ad80c0f3d109546328dde693" id="fs_price_268956" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268956" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268956" />
+<input type="hidden" name="image||8fd325983a463f62502a04aba08eb267712f1013402c66a6717e68f472ab6cf6||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/Project-img-9039-Foxy.jpg" id="foxyshop_cart_product_image_268956" />
+<input type="hidden" name="url||8e66743858460aedcce042d4837ea7e7f699ae9c342fe06c56b40e8b4afc98e7" value="https://crosscatholic.org/products/diocese-of-suchi-santa-rosa-spiritual-formation-100-gift/" id="fs_url_268956" />
+<input type="hidden" name="quantity_min||3f035135ce980fe83a17250d939ab15962382e1f5f017663e32cd4a74524e7f4||open" value="0" id="fs_quantity_min_268956" />
+<input type="hidden" name="quantity_max||02ce5f09a8fa2ccaa2ca9808f1ded121d701c6a2bc5e8455bff5215dcaa6dc43||open" value="0" id="fs_quantity_max_268956" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268956" />
+<input type="hidden" name="name||cee4a492b8aaf0126b3bd28c1f07b35c60649332870ee0b1494de18cf79f24bd" id="fs_name_268956" value="Diocese of Suchi/Santa Rosa (Spiritual Formation) $100 Gift" />
+<input type="hidden" name="code||997193f91fec82f0b9168f86f620994e822b0b1dd94ea2b79f9edaa6ba4f2a7a" id="fs_code_268956" value="WCPJ9039BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||357bd5b7cae41bfae6063e2f9af9e7d07cf135de71c4237e99fec2c5002d1529" id="WCPJ9039BIBL_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268957" rel="268957">
+<input type="hidden" name="price||90ee8f7dd2bb30595c9a947b45ce5b8c49c351277cd3c5647daa90da3e000b7e" id="fs_price_268957" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268957" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268957" />
+<input type="hidden" name="image||8fd325983a463f62502a04aba08eb267712f1013402c66a6717e68f472ab6cf6||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/Project-img-9039-Foxy.jpg" id="foxyshop_cart_product_image_268957" />
+<input type="hidden" name="url||72a4b4cd2fa447fa57d96d350f07cd5d62cae652ad418d98bbbe572e7e14a7f6" value="https://crosscatholic.org/products/diocese-of-suchi-santa-rosa-spiritual-formation-250-gift/" id="fs_url_268957" />
+<input type="hidden" name="quantity_min||3f035135ce980fe83a17250d939ab15962382e1f5f017663e32cd4a74524e7f4||open" value="0" id="fs_quantity_min_268957" />
+<input type="hidden" name="quantity_max||02ce5f09a8fa2ccaa2ca9808f1ded121d701c6a2bc5e8455bff5215dcaa6dc43||open" value="0" id="fs_quantity_max_268957" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268957" />
+<input type="hidden" name="name||cdab9fa70ea3e62840d4c92d2d7a0c4a358780683820846d9f52b27f6755b1fd" id="fs_name_268957" value="Diocese of Suchi/Santa Rosa (Spiritual Formation) $250 Gift" />
+<input type="hidden" name="code||997193f91fec82f0b9168f86f620994e822b0b1dd94ea2b79f9edaa6ba4f2a7a" id="fs_code_268957" value="WCPJ9039BIBL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||b4f64c7462f19347b62a0203508933bc377d7d483ed086780cbb8593788faea9" id="WCPJ9039BIBL_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_268958" rel="268958">
+<input type="hidden" name="price||52dc478aa32f8248e48e8a75e47f8f821b7f07ae0f7551e66e1b357125a60843" id="fs_price_268958" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_268958" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_268958" />
+<input type="hidden" name="image||8fd325983a463f62502a04aba08eb267712f1013402c66a6717e68f472ab6cf6||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/Project-img-9039-Foxy.jpg" id="foxyshop_cart_product_image_268958" />
+<input type="hidden" name="url||b0dcd1ee128f96763a6a68864730ebfcf281624fd4c07708771e906722c8fd15" value="https://crosscatholic.org/products/diocese-of-suchi-santa-rosa-spiritual-formation/" id="fs_url_268958" />
+<input type="hidden" name="quantity_min||3f035135ce980fe83a17250d939ab15962382e1f5f017663e32cd4a74524e7f4||open" value="0" id="fs_quantity_min_268958" />
+<input type="hidden" name="quantity_max||02ce5f09a8fa2ccaa2ca9808f1ded121d701c6a2bc5e8455bff5215dcaa6dc43||open" value="0" id="fs_quantity_max_268958" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_268958" />
+<input type="hidden" name="name||dd181766fac8ee1b29a0914d0e1e5fcc77153e7ccb1db07016da2671f81e1b60" id="fs_name_268958" value="Diocese of Suchi/Santa Rosa (Spiritual Formation)" />
+<input type="hidden" name="code||997193f91fec82f0b9168f86f620994e822b0b1dd94ea2b79f9edaa6ba4f2a7a" id="fs_code_268958" value="WCPJ9039BIBL" />
+<div class="foxyshop_variations">
+<input type="text" name="price||8280979505e4b367f1d93b145530650a98c459b3f5ae620ee7a240a201aa0933||open" id="WCPJ9039BIBL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
