@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1178', function () {
+
+	$out = '<div class="flex-container">
+<!-- $228 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256373" rel="256373">
+<input type="hidden" name="price||f65c29947036574f15ea4a5ee2a8d18e6c93da04c9558a58e5b9d71cba30eff1" id="fs_price_256373" value="228.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256373" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256373" />
+<input type="hidden" name="image||503df1fe1a7e9471e582080f140c790bcb0cfbda649ddce61c93efc639f36c00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1178-Foxy-2.jpg" id="foxyshop_cart_product_image_256373" />
+<input type="hidden" name="url||31932ce3af35d734558bc575f60fa555e50836bece227ef447df1f76038a0501" value="https://crosscatholic.org/products/1178-santa-maria-del-mexicano-228-gift-2/" id="fs_url_256373" />
+<input type="hidden" name="quantity_min||7cf47ce063a7d51144b526b4d8d4b7a1a237abd61a4cf186ad851f0e1dd3ea17||open" value="0" id="fs_quantity_min_256373" />
+<input type="hidden" name="quantity_max||5908a13fefb3c34e42d92c5b0b463c76548d064a4c8853342e6f48a9a74c5842||open" value="0" id="fs_quantity_max_256373" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256373" />
+<input type="hidden" name="name||e7a57d3cabeeb57e3a319f30682034bfcfcb8aa596e7a0ca9ed5f5e19626ac12" id="fs_name_256373" value="1178 - Santa Maria del Mexicano $228 gift" />
+<input type="hidden" name="code||91fd9cc4d82821d29b0a8158109e70e5672347233814a470cd31342bee20d4c9" id="fs_code_256373" value="WCPJ3669SMM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$228_donation||196b1ce2cd5935b762d8f062065c8e329f9eab1b1fa78d1f920a9adb975c3dce" id="WCPJ3669SMM_1" value="" class="variation-228-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$228</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$228.00</span></div></div></form>
+<!-- $456 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256375" rel="256375">
+<input type="hidden" name="price||b8b8216da0c8b1b9135c20535fc949a86a5e7b3468955c5169f56278270e48ee" id="fs_price_256375" value="456.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256375" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256375" />
+<input type="hidden" name="image||503df1fe1a7e9471e582080f140c790bcb0cfbda649ddce61c93efc639f36c00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1178-Foxy-2.jpg" id="foxyshop_cart_product_image_256375" />
+<input type="hidden" name="url||099b830df6803e0356a6d91bb946a8009f88ea371f7672dbf323de3a23757d02" value="https://crosscatholic.org/products/1178-santa-maria-del-mexicano-456-gift-2/" id="fs_url_256375" />
+<input type="hidden" name="quantity_min||7cf47ce063a7d51144b526b4d8d4b7a1a237abd61a4cf186ad851f0e1dd3ea17||open" value="0" id="fs_quantity_min_256375" />
+<input type="hidden" name="quantity_max||5908a13fefb3c34e42d92c5b0b463c76548d064a4c8853342e6f48a9a74c5842||open" value="0" id="fs_quantity_max_256375" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256375" />
+<input type="hidden" name="name||e6fa901be239bb7766d2c2859953daf7f3f2ed2e92b197f0c7371309a965c921" id="fs_name_256375" value="1178 - Santa Maria del Mexicano $456 gift" />
+<input type="hidden" name="code||91fd9cc4d82821d29b0a8158109e70e5672347233814a470cd31342bee20d4c9" id="fs_code_256375" value="WCPJ3669SMM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$456_donation||6569ec85cafb34d94ee8fa8a6427cbd50cd9e8e7c527f5f0029bbebc43a5b517" id="WCPJ3669SMM_1" value="" class="variation-456-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$456</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$456.00</span></div></div></form>
+<!-- $912 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256377" rel="256377">
+<input type="hidden" name="price||54e03b156537bd0187fde66cc2d8ef425ccd0433d16d1272ee5e7c81b1900589" id="fs_price_256377" value="912.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256377" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256377" />
+<input type="hidden" name="image||503df1fe1a7e9471e582080f140c790bcb0cfbda649ddce61c93efc639f36c00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1178-Foxy-2.jpg" id="foxyshop_cart_product_image_256377" />
+<input type="hidden" name="url||d20d9b1b6ea58c3d14514b49f552b9551d2427c5d35dc58c258370664fbb2154" value="https://crosscatholic.org/products/1178-santa-maria-del-mexicano-912-gift-2/" id="fs_url_256377" />
+<input type="hidden" name="quantity_min||7cf47ce063a7d51144b526b4d8d4b7a1a237abd61a4cf186ad851f0e1dd3ea17||open" value="0" id="fs_quantity_min_256377" />
+<input type="hidden" name="quantity_max||5908a13fefb3c34e42d92c5b0b463c76548d064a4c8853342e6f48a9a74c5842||open" value="0" id="fs_quantity_max_256377" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256377" />
+<input type="hidden" name="name||6e166bb08e35df29334dfeaa8f6b6821024aaa21e50c26b93b59a12e6bb5df67" id="fs_name_256377" value="1178 - Santa Maria del Mexicano $912 gift" />
+<input type="hidden" name="code||91fd9cc4d82821d29b0a8158109e70e5672347233814a470cd31342bee20d4c9" id="fs_code_256377" value="WCPJ3669SMM" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$912_donation||066c7a8078d7c1fe5e67284361bd3ab1934aab917714a66dbe96521a2d1cf2d2" id="WCPJ3669SMM_1" value="" class="variation-912-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$912</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$912.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256379" rel="256379">
+<input type="hidden" name="price||b9169d7329b8822702e6df8c403f2a726462ba60002bcb19f5240a6056c8fd7e" id="fs_price_256379" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256379" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256379" />
+<input type="hidden" name="image||503df1fe1a7e9471e582080f140c790bcb0cfbda649ddce61c93efc639f36c00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1178-Foxy-2.jpg" id="foxyshop_cart_product_image_256379" />
+<input type="hidden" name="url||e28758532ec92ea937ecd8d8d9d63e96500b4a6a43581abee6af684ddedfa136" value="https://crosscatholic.org/products/1178-santa-maria-del-mexicano-2/" id="fs_url_256379" />
+<input type="hidden" name="quantity_min||7cf47ce063a7d51144b526b4d8d4b7a1a237abd61a4cf186ad851f0e1dd3ea17||open" value="0" id="fs_quantity_min_256379" />
+<input type="hidden" name="quantity_max||5908a13fefb3c34e42d92c5b0b463c76548d064a4c8853342e6f48a9a74c5842||open" value="0" id="fs_quantity_max_256379" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256379" />
+<input type="hidden" name="name||cfe6a79b305d5f7675293d87692afe10d4095b717c5e1f635d74fe50fbcd4f71" id="fs_name_256379" value="1178 - Santa Maria del Mexicano" />
+<input type="hidden" name="code||91fd9cc4d82821d29b0a8158109e70e5672347233814a470cd31342bee20d4c9" id="fs_code_256379" value="WCPJ3669SMM" />
+<div class="foxyshop_variations">
+<input type="text" name="price||0fdaebb9eedbf562e416ebea8f76ec5f02486f645d31c3beff046ad5e1625f2c||open" id="WCPJ3669SMM_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
