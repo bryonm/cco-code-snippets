@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1161', function () {
+
+	$out = '<div class="flex-container">
+<!-- $68 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255722" rel="255722">
+<input type="hidden" name="price||4eac74552799d1e2d8154480b55d3a5cedbfa25d353d01d7c6cb7bfa3b7b2b3b" id="fs_price_255722" value="68.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255722" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255722" />
+<input type="hidden" name="image||373d67276487821139ef6e0fd32e5eb011c2936059af9ada1bdac6d4800d5400||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1161-Foxy-1.jpg" id="foxyshop_cart_product_image_255722" />
+<input type="hidden" name="url||0dc46fbe5c98ad04f4dfedaac155f392bb3bc0ec4ea508a3f53360584ce93d1c" value="https://crosscatholic.org/products/1161-cco-dios-con-nosotras-68-gift/" id="fs_url_255722" />
+<input type="hidden" name="quantity_min||a2c38db8c1554c7793e7593ac9663bba796e0fe6249f5f84f4fddeefab43c057||open" value="0" id="fs_quantity_min_255722" />
+<input type="hidden" name="quantity_max||ce27663a55a697c36248df6dae3625e449cae6af087cafb2160929ba60d982c7||open" value="0" id="fs_quantity_max_255722" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255722" />
+<input type="hidden" name="name||926b4a071b6439b3882621b548e6d2d76ec77aadf843a7bfebb2ea00901dc22f" id="fs_name_255722" value="1161 - CCO Dios con Nosotras $68 gift" />
+<input type="hidden" name="code||4235e477d14ec0988b34b45086f74ae65b954a2aa58ac5e4183646c5d653e9b1" id="fs_code_255722" value="WCPJ1161SSVW" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$68_donation||e45431fc0bcceda84994f39f356120b569401277415ddfcc397e0eef79b960b3" id="WCPJ1161SSVW_1" value="" class="variation-68-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$68</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$68.00</span></div></div></form>
+<!-- $136 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255724" rel="255724">
+<input type="hidden" name="price||d2e36e77817655a9395ae7ff4d60c815a4a037cad42ceb718b89d7ceec5b87c8" id="fs_price_255724" value="136.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255724" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255724" />
+<input type="hidden" name="image||373d67276487821139ef6e0fd32e5eb011c2936059af9ada1bdac6d4800d5400||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1161-Foxy-1.jpg" id="foxyshop_cart_product_image_255724" />
+<input type="hidden" name="url||80ce1e6eb04fa0515834c1e736a6860814b01859039e6a43cf72b2e2c253496e" value="https://crosscatholic.org/products/1161-cco-dios-con-nosotras-136-gift/" id="fs_url_255724" />
+<input type="hidden" name="quantity_min||a2c38db8c1554c7793e7593ac9663bba796e0fe6249f5f84f4fddeefab43c057||open" value="0" id="fs_quantity_min_255724" />
+<input type="hidden" name="quantity_max||ce27663a55a697c36248df6dae3625e449cae6af087cafb2160929ba60d982c7||open" value="0" id="fs_quantity_max_255724" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255724" />
+<input type="hidden" name="name||9b2f08a1db575aba46a9bbd8074e2411d8beab14c465add0368f04da8a0e1fea" id="fs_name_255724" value="1161 - CCO Dios con Nosotras $136 gift" />
+<input type="hidden" name="code||4235e477d14ec0988b34b45086f74ae65b954a2aa58ac5e4183646c5d653e9b1" id="fs_code_255724" value="WCPJ1161SSVW" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$136_donation||7dc4bc4b765bc1700bd0899f12fbe5ca375fc68464d9fbe231ae26b9da498c6c" id="WCPJ1161SSVW_1" value="" class="variation-136-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$136</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$136.00</span></div></div></form>
+<!-- $272 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255726" rel="255726">
+<input type="hidden" name="price||1cb1e3f590bfd6b9e7148afaee896120df32b0d28e00251950526d88d78a5be4" id="fs_price_255726" value="272.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255726" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255726" />
+<input type="hidden" name="image||373d67276487821139ef6e0fd32e5eb011c2936059af9ada1bdac6d4800d5400||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1161-Foxy-1.jpg" id="foxyshop_cart_product_image_255726" />
+<input type="hidden" name="url||7076c02619202ada207b2637fbb5773657d39a6dbf62a100599682ef6fca2840" value="https://crosscatholic.org/products/1161-cco-dios-con-nosotras-272-gift/" id="fs_url_255726" />
+<input type="hidden" name="quantity_min||a2c38db8c1554c7793e7593ac9663bba796e0fe6249f5f84f4fddeefab43c057||open" value="0" id="fs_quantity_min_255726" />
+<input type="hidden" name="quantity_max||ce27663a55a697c36248df6dae3625e449cae6af087cafb2160929ba60d982c7||open" value="0" id="fs_quantity_max_255726" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255726" />
+<input type="hidden" name="name||e8548ab7b59f33d95ad1ee4977b36781309d5a09146c597caf47323f7913383e" id="fs_name_255726" value="1161 - CCO Dios con Nosotras $272 gift" />
+<input type="hidden" name="code||4235e477d14ec0988b34b45086f74ae65b954a2aa58ac5e4183646c5d653e9b1" id="fs_code_255726" value="WCPJ1161SSVW" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$272_donation||6760b21b42fa93d796e4dbff9be897409331cb82fdcae2bc59be31f204a38dbe" id="WCPJ1161SSVW_1" value="" class="variation-272-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$272</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$272.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255728" rel="255728">
+<input type="hidden" name="price||024aa79ed074bf7f9adf443ef4926e49a79dd79b609dd75be39ffcf942d32ac8" id="fs_price_255728" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255728" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255728" />
+<input type="hidden" name="image||373d67276487821139ef6e0fd32e5eb011c2936059af9ada1bdac6d4800d5400||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1161-Foxy-1.jpg" id="foxyshop_cart_product_image_255728" />
+<input type="hidden" name="url||9a70a8ccdbc2e8c53568c8e6fa6999f91df6b96e1cfb776e5aaf88acb487f636" value="https://crosscatholic.org/products/1161-cco-dios-con-nosotras/" id="fs_url_255728" />
+<input type="hidden" name="quantity_min||a2c38db8c1554c7793e7593ac9663bba796e0fe6249f5f84f4fddeefab43c057||open" value="0" id="fs_quantity_min_255728" />
+<input type="hidden" name="quantity_max||ce27663a55a697c36248df6dae3625e449cae6af087cafb2160929ba60d982c7||open" value="0" id="fs_quantity_max_255728" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255728" />
+<input type="hidden" name="name||318e165fc96d956a5f2184bf4c84647f5bd3bb0889accae748b7b29284ca8cdb" id="fs_name_255728" value="1161 - CCO Dios con Nosotras" />
+<input type="hidden" name="code||4235e477d14ec0988b34b45086f74ae65b954a2aa58ac5e4183646c5d653e9b1" id="fs_code_255728" value="WCPJ1161SSVW" />
+<div class="foxyshop_variations">
+<input type="text" name="price||8aafac78090846387873fc5750bcd629659478a1a080711b0946f75a22e3e1f3||open" id="WCPJ1161SSVW_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
