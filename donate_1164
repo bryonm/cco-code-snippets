@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1164', function () {
+
+	$out = '<div class="flex-container">
+<!-- $135 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255433" rel="255433">
+<input type="hidden" name="price||9d05fcd615df6e2c62c3719ad612a298b719c26fa0ec5a9d9de10740a55a646f" id="fs_price_255433" value="135.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255433" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255433" />
+<input type="hidden" name="image||0ab06a3e681aaf909f198a5d069e840135a43b50a771b45d282d6d17443175c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1164-Foxy-2.jpg" id="foxyshop_cart_product_image_255433" />
+<input type="hidden" name="url||6a8b57af537446eee305fb17748498ee77dac50ffaf3673e9154c99d416adb3d" value="https://crosscatholic.org/products/1164-acm-girls-rescue-135-gift/" id="fs_url_255433" />
+<input type="hidden" name="quantity_min||67b17dc1370ab2e3bc1015a8b9a082490dc1e81023d9fda3505e2235a47b20a7||open" value="0" id="fs_quantity_min_255433" />
+<input type="hidden" name="quantity_max||d25dc4ff28e9177904d78c1bc149375d58c805dbea256c26e6e9bf7d8bd6ff17||open" value="0" id="fs_quantity_max_255433" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255433" />
+<input type="hidden" name="name||ec15e8859d116e6bea0f89f70a78868aa646318c38f319fff35af234e449e284" id="fs_name_255433" value="1164 - ACM Girls Rescue $135 gift" />
+<input type="hidden" name="code||57c698a6f404028b0d544847ad6c91922f186a06f70efece001d4cb7a35da8d9" id="fs_code_255433" value="WCPJ3669ACMG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$135_donation||f90f7dbd2726925817f30effdc6b4a236f84b324a9f5eb7149cf4c44a7f70400" id="WCPJ3669ACMG_1" value="" class="variation-135-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$135</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$135.00</span></div></div></form>
+<!-- $677 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255435" rel="255435">
+<input type="hidden" name="price||d824a1bc35895bfa7a56299589c0dab9b8ffc7310902eb9a487bacdfbfb43337" id="fs_price_255435" value="677.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255435" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255435" />
+<input type="hidden" name="image||0ab06a3e681aaf909f198a5d069e840135a43b50a771b45d282d6d17443175c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1164-Foxy-2.jpg" id="foxyshop_cart_product_image_255435" />
+<input type="hidden" name="url||58a4082f7be5f949f84866e247d4da26453f28932d7e95eb9c74db661dafb0a0" value="https://crosscatholic.org/products/1164-acm-girls-rescue-677-gift/" id="fs_url_255435" />
+<input type="hidden" name="quantity_min||67b17dc1370ab2e3bc1015a8b9a082490dc1e81023d9fda3505e2235a47b20a7||open" value="0" id="fs_quantity_min_255435" />
+<input type="hidden" name="quantity_max||d25dc4ff28e9177904d78c1bc149375d58c805dbea256c26e6e9bf7d8bd6ff17||open" value="0" id="fs_quantity_max_255435" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255435" />
+<input type="hidden" name="name||6b2acff15eb0731309450e9b75b72f4d8331cf28b7fb75a0d0c84453935c27ae" id="fs_name_255435" value="1164 - ACM Girls Rescue $677 gift" />
+<input type="hidden" name="code||57c698a6f404028b0d544847ad6c91922f186a06f70efece001d4cb7a35da8d9" id="fs_code_255435" value="WCPJ3669ACMG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$677_donation||07282464299c3c3e0d17f270ec30d5831fd90c73325dc402a33030a4cb7f7c77" id="WCPJ3669ACMG_1" value="" class="variation-677-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$677</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$677.00</span></div></div></form>
+<!-- $1,355 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255437" rel="255437">
+<input type="hidden" name="price||a2054578623b3cfbddfdaf675f8f7616686c659214fe0e59b81ff2fcad22d07c" id="fs_price_255437" value="1355.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255437" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255437" />
+<input type="hidden" name="image||0ab06a3e681aaf909f198a5d069e840135a43b50a771b45d282d6d17443175c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1164-Foxy-2.jpg" id="foxyshop_cart_product_image_255437" />
+<input type="hidden" name="url||ab5e005f13f32bd45b09d0e73bf96637d250dcbcf6afb53758626423af453727" value="https://crosscatholic.org/products/1164-acm-girls-rescue-1355-gift/" id="fs_url_255437" />
+<input type="hidden" name="quantity_min||67b17dc1370ab2e3bc1015a8b9a082490dc1e81023d9fda3505e2235a47b20a7||open" value="0" id="fs_quantity_min_255437" />
+<input type="hidden" name="quantity_max||d25dc4ff28e9177904d78c1bc149375d58c805dbea256c26e6e9bf7d8bd6ff17||open" value="0" id="fs_quantity_max_255437" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255437" />
+<input type="hidden" name="name||71f3a898c530900bb4aa8e4b9379937bab18a326691cf8e5675ce872c027a9d4" id="fs_name_255437" value="1164 - ACM Girls Rescue $1,355 gift" />
+<input type="hidden" name="code||57c698a6f404028b0d544847ad6c91922f186a06f70efece001d4cb7a35da8d9" id="fs_code_255437" value="WCPJ3669ACMG" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$1355_donation||e3ece90c912d639b0e49f6923e84197fe1e98186634db0d62dd18a62e9fc98b7" id="WCPJ3669ACMG_1" value="" class="variation-1355-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,355</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,355.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255442" rel="255442">
+<input type="hidden" name="price||04a1dc54080348341d91f57e05faba9e751913510d55579a71440584de3c8b97" id="fs_price_255442" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255442" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255442" />
+<input type="hidden" name="image||0ab06a3e681aaf909f198a5d069e840135a43b50a771b45d282d6d17443175c5||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1164-Foxy-2.jpg" id="foxyshop_cart_product_image_255442" />
+<input type="hidden" name="url||15baa49125d3b980c267f39da5740effd70df50fa8ae749e9e8ee890ee877436" value="https://crosscatholic.org/products/1164-acm-girls-rescue/" id="fs_url_255442" />
+<input type="hidden" name="quantity_min||67b17dc1370ab2e3bc1015a8b9a082490dc1e81023d9fda3505e2235a47b20a7||open" value="0" id="fs_quantity_min_255442" />
+<input type="hidden" name="quantity_max||d25dc4ff28e9177904d78c1bc149375d58c805dbea256c26e6e9bf7d8bd6ff17||open" value="0" id="fs_quantity_max_255442" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255442" />
+<input type="hidden" name="name||c97cfe646d0e974548d0320ebe228a74458da3912c9840000519aa7f77bcd99d" id="fs_name_255442" value="1164 - ACM Girls Rescue" />
+<input type="hidden" name="code||57c698a6f404028b0d544847ad6c91922f186a06f70efece001d4cb7a35da8d9" id="fs_code_255442" value="WCPJ3669ACMG" />
+<div class="foxyshop_variations">
+<input type="text" name="price||d92d7edc34e694895479e32d0b93ca7bf71c588e73debb39c3297f2b6cd0857a||open" id="WCPJ3669ACMG_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
