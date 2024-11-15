@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1180', function () {
+
+	$out = '<div class="flex-container">
+<!-- $62 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256742" rel="256742">
+<input type="hidden" name="price||97e616ac39a66ea54d683716e5129ce7768fdd05080419308438cde3a7f8c3ee" id="fs_price_256742" value="62.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256742" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256742" />
+<input type="hidden" name="image||76e13d0bad9af06f4ecff2653bf5aa9563da85268c96b8c08d7ce6c9e0781ba7||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/1180_Santa_Rosa_Scholarships-Foxy.jpg" id="foxyshop_cart_product_image_256742" />
+<input type="hidden" name="url||6c5ec41162e60eb088e928cd44fbd2f50e77bbffbf69b1b883e04e0be952a15c" value="https://crosscatholic.org/products/1180-santa-rosa-children-scholarship-62-gift/" id="fs_url_256742" />
+<input type="hidden" name="quantity_min||9b75709baf75ff921e94e6132d80451a995ab9525017f88ae76ae6de5cddecd2||open" value="0" id="fs_quantity_min_256742" />
+<input type="hidden" name="quantity_max||09959fec88072383fcc1b4a6af715a122b2e63a6d08a8ba7d4471f00c60a6bba||open" value="0" id="fs_quantity_max_256742" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256742" />
+<input type="hidden" name="name||b8c8bafeeb442a94dc751ae908397a6195412988f89ed2051e0c7f3d08e46e58" id="fs_name_256742" value="1180 - Santa Rosa Children Scholarship $62 gift" />
+<input type="hidden" name="code||c87028e3fb9c5c3154c2dc42d3e0fc75e08eebf70088a6b570c5d46ede692285" id="fs_code_256742" value="WCPJ3372CES" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$62_donation||7311ae16fea181a70f575747af7043ba8fdcd7a8f75882d0ca2dfbfcb52935c8" id="WCPJ3372CES_1" value="" class="variation-62-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$62</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$62.00</span></div></div></form>
+<!-- $123 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256744" rel="256744">
+<input type="hidden" name="price||1ae4112a25c739513b4032c0fa70e979f454632e60c70edfb1cffba9d2b0531a" id="fs_price_256744" value="123.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256744" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256744" />
+<input type="hidden" name="image||76e13d0bad9af06f4ecff2653bf5aa9563da85268c96b8c08d7ce6c9e0781ba7||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/1180_Santa_Rosa_Scholarships-Foxy.jpg" id="foxyshop_cart_product_image_256744" />
+<input type="hidden" name="url||07cb0f2e762d39ca41cd198a13d44c11eb9a71675efff37841182ddff80bcfab" value="https://crosscatholic.org/products/1180-santa-rosa-children-scholarship-123-gift/" id="fs_url_256744" />
+<input type="hidden" name="quantity_min||9b75709baf75ff921e94e6132d80451a995ab9525017f88ae76ae6de5cddecd2||open" value="0" id="fs_quantity_min_256744" />
+<input type="hidden" name="quantity_max||09959fec88072383fcc1b4a6af715a122b2e63a6d08a8ba7d4471f00c60a6bba||open" value="0" id="fs_quantity_max_256744" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256744" />
+<input type="hidden" name="name||058ab3a1be0f42e6b0629c5615d7a007d632a0b94e25255e9e713233ae29a269" id="fs_name_256744" value="1180 - Santa Rosa Children Scholarship $123 gift" />
+<input type="hidden" name="code||c87028e3fb9c5c3154c2dc42d3e0fc75e08eebf70088a6b570c5d46ede692285" id="fs_code_256744" value="WCPJ3372CES" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$123_donation||02b182ef98481046607bccb8268b0cd749131df3546238c475486f97f55c214c" id="WCPJ3372CES_1" value="" class="variation-123-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$123</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$123.00</span></div></div></form>
+<!-- $246 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256746" rel="256746">
+<input type="hidden" name="price||129718a6bedcf1774025131e54f319aaffc207465e0ca99b2abda4902692964f" id="fs_price_256746" value="246.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256746" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256746" />
+<input type="hidden" name="image||76e13d0bad9af06f4ecff2653bf5aa9563da85268c96b8c08d7ce6c9e0781ba7||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/1180_Santa_Rosa_Scholarships-Foxy.jpg" id="foxyshop_cart_product_image_256746" />
+<input type="hidden" name="url||013dbfa5e403b462eb277072c1bf3dbb8e50e8ba59f6336c6e6dbe1dbc742e8e" value="https://crosscatholic.org/products/1180-santa-rosa-children-scholarship-246-gift/" id="fs_url_256746" />
+<input type="hidden" name="quantity_min||9b75709baf75ff921e94e6132d80451a995ab9525017f88ae76ae6de5cddecd2||open" value="0" id="fs_quantity_min_256746" />
+<input type="hidden" name="quantity_max||09959fec88072383fcc1b4a6af715a122b2e63a6d08a8ba7d4471f00c60a6bba||open" value="0" id="fs_quantity_max_256746" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256746" />
+<input type="hidden" name="name||9d88a6ff79d352461f642a9b54d74937889345989cef44748edf6d66d3740a93" id="fs_name_256746" value="1180 - Santa Rosa Children Scholarship $246 gift" />
+<input type="hidden" name="code||c87028e3fb9c5c3154c2dc42d3e0fc75e08eebf70088a6b570c5d46ede692285" id="fs_code_256746" value="WCPJ3372CES" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$246_donation||5c3803f26af88a8e1077e08e8f0f766c1e5a9a9b62d8c11be9ff42cb7ec1d22c" id="WCPJ3372CES_1" value="" class="variation-246-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$246</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$246.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_256748" rel="256748">
+<input type="hidden" name="price||ef3f86faaf35b02dfa05ffe8803b848d019ef1c3da5894590fd0ca8175b5cb15" id="fs_price_256748" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_256748" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_256748" />
+<input type="hidden" name="image||76e13d0bad9af06f4ecff2653bf5aa9563da85268c96b8c08d7ce6c9e0781ba7||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/1180_Santa_Rosa_Scholarships-Foxy.jpg" id="foxyshop_cart_product_image_256748" />
+<input type="hidden" name="url||fde0411dc0e113d120102c8e4077b500c27e16e84126c504b4e9d1d9d63e75ac" value="https://crosscatholic.org/products/1180-santa-rosa-children-scholarship/" id="fs_url_256748" />
+<input type="hidden" name="quantity_min||9b75709baf75ff921e94e6132d80451a995ab9525017f88ae76ae6de5cddecd2||open" value="0" id="fs_quantity_min_256748" />
+<input type="hidden" name="quantity_max||09959fec88072383fcc1b4a6af715a122b2e63a6d08a8ba7d4471f00c60a6bba||open" value="0" id="fs_quantity_max_256748" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_256748" />
+<input type="hidden" name="name||d1c087d535910cc6a546dfaf50748cca039054ee6fd836029f2b02badcd0f205" id="fs_name_256748" value="1180 - Santa Rosa Children Scholarship" />
+<input type="hidden" name="code||c87028e3fb9c5c3154c2dc42d3e0fc75e08eebf70088a6b570c5d46ede692285" id="fs_code_256748" value="WCPJ3372CES" />
+<div class="foxyshop_variations">
+<input type="text" name="price||215430aecce4af67ce92cc7be11882e33195f02a8d5af178362436f0a48624fc||open" id="WCPJ3372CES_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
