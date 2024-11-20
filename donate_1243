@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1243', function () {
+
+	$out = '<div class="flex-container">
+<!-- $138 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135058" rel="135058">
+<input type="hidden" name="price||6cf3f5703f6a3488a32bfc389dc13c65c0df621e9c0290d383ff2db30900e90e" id="fs_price_135058" value="138.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135058" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135058" />
+<input type="hidden" name="image||0f2e9a84189a07c807308240bfe45f8e968083017b8a2115c98acd4e2e621770||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1243-Foxy.jpg" id="foxyshop_cart_product_image_135058" />
+<input type="hidden" name="url||1208fd2111773125bb192239e10bb78f319e3ee6789c1879f1a1b10f04922a80" value="https://crosscatholic.org/products/1243-st-joseph-rescue-and-nutrition-center-4/" id="fs_url_135058" />
+<input type="hidden" name="quantity_min||2c5cbc8102ec81243d82a96aefd9e361181c08a337db3ad44e7e7de278dc720f||open" value="0" id="fs_quantity_min_135058" />
+<input type="hidden" name="quantity_max||c303cee99842aba2db876ddf05a938615c439f51cadbeebbef264b9bf6cdad7a||open" value="0" id="fs_quantity_max_135058" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135058" />
+<input type="hidden" name="name||e604c3563156b91fe075adaeaf42ffaa0c01f0d672d39df5c0b919a90c548141" id="fs_name_135058" value="St. Joseph Rescue and Nutrition Center $138 gift" />
+<input type="hidden" name="code||854bc6ce08c40148eee4659e1af25543a22692a7aea645dbd7e650e443841d8a" id="fs_code_135058" value="WCPJ1243SJRN" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$138_donation||b0ca8837009589e9403363e0700d7373bb30f0a680d6d0eeb94bc6c567ab56d7" id="WCPJ1243SJRN_1" value="" class="variation-138-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$138</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$138.00</span></div></div></form>
+<!-- $276 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135060" rel="135060">
+<input type="hidden" name="price||1c33d2b96ee23c4cdf1e6072d66be534bc1a3888d24c269fe6591444a02bbfcb" id="fs_price_135060" value="276.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135060" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135060" />
+<input type="hidden" name="image||0f2e9a84189a07c807308240bfe45f8e968083017b8a2115c98acd4e2e621770||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1243-Foxy.jpg" id="foxyshop_cart_product_image_135060" />
+<input type="hidden" name="url||ff63af22362714125efa67f47ea43d4ad7cc3ea6bb94695f19ee9fdbaa730d3a" value="https://crosscatholic.org/products/1243-st-joseph-rescue-and-nutrition-center-3/" id="fs_url_135060" />
+<input type="hidden" name="quantity_min||2c5cbc8102ec81243d82a96aefd9e361181c08a337db3ad44e7e7de278dc720f||open" value="0" id="fs_quantity_min_135060" />
+<input type="hidden" name="quantity_max||c303cee99842aba2db876ddf05a938615c439f51cadbeebbef264b9bf6cdad7a||open" value="0" id="fs_quantity_max_135060" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135060" />
+<input type="hidden" name="name||1772fec4e4f76f4e3417db22d5286b81f52cd82199594a5590db73354a182c0c" id="fs_name_135060" value="1243 – St. Joseph Rescue and Nutrition Center $276 gift" />
+<input type="hidden" name="code||854bc6ce08c40148eee4659e1af25543a22692a7aea645dbd7e650e443841d8a" id="fs_code_135060" value="WCPJ1243SJRN" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$276_donation||7dadb800ee31dfc072b736fb9c4057580dd7d8e95ef7b6b82a8e630b4adea6ff" id="WCPJ1243SJRN_1" value="" class="variation-276-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$276</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$276.00</span></div></div></form>
+<!-- $552 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135061" rel="135061">
+<input type="hidden" name="price||47f7fb20f864d32fc27d817dd13ac5dc7225a0c71841347036c1a176535527f4" id="fs_price_135061" value="552.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135061" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135061" />
+<input type="hidden" name="image||0f2e9a84189a07c807308240bfe45f8e968083017b8a2115c98acd4e2e621770||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1243-Foxy.jpg" id="foxyshop_cart_product_image_135061" />
+<input type="hidden" name="url||dd96ebaca57a9e093cfd99152c2108714ea282b6d4ce02fd63c4fc47ef4b4cf1" value="https://crosscatholic.org/products/1243-st-joseph-rescue-and-nutrition-center-2/" id="fs_url_135061" />
+<input type="hidden" name="quantity_min||2c5cbc8102ec81243d82a96aefd9e361181c08a337db3ad44e7e7de278dc720f||open" value="0" id="fs_quantity_min_135061" />
+<input type="hidden" name="quantity_max||c303cee99842aba2db876ddf05a938615c439f51cadbeebbef264b9bf6cdad7a||open" value="0" id="fs_quantity_max_135061" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135061" />
+<input type="hidden" name="name||54fa7f4a10adcdf0fd097ce8c808e87aa618fe027db3e400f1ecaec08e3d40cc" id="fs_name_135061" value="1243 – St. Joseph Rescue and Nutrition Center $552 gift" />
+<input type="hidden" name="code||854bc6ce08c40148eee4659e1af25543a22692a7aea645dbd7e650e443841d8a" id="fs_code_135061" value="WCPJ1243SJRN" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$552_donation||a1f2d52d8f3a8ffcbd774aeba76730244421b41678d4ed44e7d0cfd28fd06762" id="WCPJ1243SJRN_1" value="" class="variation-552-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$552</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$552.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_135059" rel="135059">
+<input type="hidden" name="price||efcd769984a752b73c0784564231d09534ec4596faed7e1bd68d18131352de12" id="fs_price_135059" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_135059" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_135059" />
+<input type="hidden" name="image||0f2e9a84189a07c807308240bfe45f8e968083017b8a2115c98acd4e2e621770||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1243-Foxy.jpg" id="foxyshop_cart_product_image_135059" />
+<input type="hidden" name="url||47dfc6cb70638dd018ae0beaf819755c4166b3824fd3def91314737d222ef51d" value="https://crosscatholic.org/products/1243-st-joseph-rescue-and-nutrition-center/" id="fs_url_135059" />
+<input type="hidden" name="quantity_min||2c5cbc8102ec81243d82a96aefd9e361181c08a337db3ad44e7e7de278dc720f||open" value="0" id="fs_quantity_min_135059" />
+<input type="hidden" name="quantity_max||c303cee99842aba2db876ddf05a938615c439f51cadbeebbef264b9bf6cdad7a||open" value="0" id="fs_quantity_max_135059" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_135059" />
+<input type="hidden" name="name||dc362494d10c702b0fe5821a7a6b24b231ed1cc33c2ada5b827736a272d194ac" id="fs_name_135059" value="1243 – St. Joseph Rescue and Nutrition Center" />
+<input type="hidden" name="code||854bc6ce08c40148eee4659e1af25543a22692a7aea645dbd7e650e443841d8a" id="fs_code_135059" value="WCPJ1243SJRN" />
+<div class="foxyshop_variations">
+<input type="text" name="price||4df9bfe116ae7a1cdb9ce888176f2e78e5d69808f173ce2a2a5be1c2bc8ab170||open" id="WCPJ1243SJRN_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
