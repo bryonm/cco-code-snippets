@@ -1,73 +1,69 @@
 add_shortcode( 'donate_1183', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37371" rel="37371">
-<input type="hidden" name="price||fff9ff3c355f5a4861f1dfb2b359f1847b2ec4ecc12973f1b4009cc70cb9b0b6" id="fs_price_37371" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37371" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37371" />
-<input type="hidden" name="image||8186437ee6b89b79d67a428df8672559a03bbb585dd6c9f9c92d65ac77ab53de||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/1183-foxy-thumb_1.jpg" id="foxyshop_cart_product_image_37371" />
-<input type="hidden" name="url||a1e2341dcc88f67ee5a897ef64aec077b443d9f080bc504a73786982d9af54ec" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace/" id="fs_url_37371" />
-<input type="hidden" name="quantity_min||96f5cd5179decd5ffb619929b1e31487295042403452facfaafc1ff4eedbffb5||open" value="0" id="fs_quantity_min_37371" />
-<input type="hidden" name="quantity_max||f3851cd2f5f3c55e8579bec9ebb7c0ddcb75e1b7e1e3b9d7efbd83c154178487||open" value="0" id="fs_quantity_max_37371" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37371" />
-<input type="hidden" name="name||228b1f4bf72ea6a8b3229ed381e4629121a8b61165dfa795709796370a08065b" id="fs_name_37371" value="1183 - Caminando Por La Paz (Walking for Peace) - $25 donation" />
-<input type="hidden" name="code||a3fca437601ae2700be49fb1c1d7b1539035ce56f45798790639d713850adab0" id="fs_code_37371" value="WCPROJ1183" />
-<div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||36cd93a4222244a94406a3a01f1f18188cbd0c2316c88e6bd8a4405bbf211181" id="WCPROJ1183_1" value="" class="variation-25-donation" />
-</div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
-<!-- $50 BUTTON -->
+<!-- $71 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37377" rel="37377">
-<input type="hidden" name="price||2c7e115a527fbe800a3ada5a1d6a1188191b85c74200f48e8218c769f620e358" id="fs_price_37377" value="50.00" />
+<input type="hidden" name="price||cfa3cbe79aa1f40f1461dcff85760faa0b59a97a870cdcb70fb7a310d36db4f5" id="fs_price_37377" value="71.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37377" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37377" />
-<input type="hidden" name="image||8186437ee6b89b79d67a428df8672559a03bbb585dd6c9f9c92d65ac77ab53de||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/1183-foxy-thumb_2.jpg" id="foxyshop_cart_product_image_37377" />
-<input type="hidden" name="url||d5a2d0c0caae34b5db8acdbf34c3a7398eafa86dc05dac3746c98cc1e010032a" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace-3/" id="fs_url_37377" />
-<input type="hidden" name="quantity_min||96f5cd5179decd5ffb619929b1e31487295042403452facfaafc1ff4eedbffb5||open" value="0" id="fs_quantity_min_37377" />
-<input type="hidden" name="quantity_max||f3851cd2f5f3c55e8579bec9ebb7c0ddcb75e1b7e1e3b9d7efbd83c154178487||open" value="0" id="fs_quantity_max_37377" />
+<input type="hidden" name="image||e804c0d651b90d50bad01c1c047884ea47b25597b9fe90027be58364cfc2826d||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1183-Foxy.jpg" id="foxyshop_cart_product_image_37377" />
+<input type="hidden" name="url||4b09b1f40a98dbbc9a98d8f5f204c833bd05be0d2bc21dc31c11cc8ff9b54933" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace-3/" id="fs_url_37377" />
+<input type="hidden" name="quantity_min||514db2024278905254b8ef179e5d6da100a4c12029c71afa46921b451c3c35a3||open" value="0" id="fs_quantity_min_37377" />
+<input type="hidden" name="quantity_max||09c88574ba5908081b6c0671d7824c9accd60861c13fe421e2c39d102710d2bf||open" value="0" id="fs_quantity_max_37377" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37377" />
-<input type="hidden" name="name||2046ad37948d5a8ec8ac3cb7026e873b7b5b9cbeb3efe86ec5023c996a0fb9b8" id="fs_name_37377" value="1183 - Caminando Por La Paz (Walking for Peace) - $50 donation" />
-<input type="hidden" name="code||a3fca437601ae2700be49fb1c1d7b1539035ce56f45798790639d713850adab0" id="fs_code_37377" value="WCPROJ1183" />
+<input type="hidden" name="name||a723320363ac0e00c45b8b0e5f0b95d2762bbd3dc23a9fc855c00d3ca29f6be2" id="fs_name_37377" value="1183 - Caminando Por La Paz (Walking for Peace) $71 gift" />
+<input type="hidden" name="code||468c7fb93962aa5395af610b7fa4a4f0d96d56ac4ca520d966c6f76bcfa97456" id="fs_code_37377" value="WCPJ1183MCE" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||a4ddd5e2e5fec80450145769b8844e0cfa7e67581bc4f3ed7f0ecea67224aa4e" id="WCPROJ1183_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$71_donation||ae7fec88992767829f161dc0190aaf0b3203763e12220b47612fd80e0e1b4a43" id="WCPJ1183MCE_1" value="" class="variation-71-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
-<!-- $100 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$71</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$71.00</span></div></div></form>
+<!-- $142 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37380" rel="37380">
-<input type="hidden" name="price||b28513b03d9f799313fd5656c891097b96bf1ac912e84a4545661a6d722f3386" id="fs_price_37380" value="100.00" />
+<input type="hidden" name="price||9507c966433f04e7fdacf7ffa652fcda507d9a8833e29fc4ddf8b95b1d9039d3" id="fs_price_37380" value="142.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37380" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37380" />
-<input type="hidden" name="image||8186437ee6b89b79d67a428df8672559a03bbb585dd6c9f9c92d65ac77ab53de||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/1183-foxy-thumb_3.jpg" id="foxyshop_cart_product_image_37380" />
-<input type="hidden" name="url||da242bcd6cb8a00d94d8030f0c8812e4fe83463f6201a4213f6c68695eb59d26" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace-4/" id="fs_url_37380" />
-<input type="hidden" name="quantity_min||96f5cd5179decd5ffb619929b1e31487295042403452facfaafc1ff4eedbffb5||open" value="0" id="fs_quantity_min_37380" />
-<input type="hidden" name="quantity_max||f3851cd2f5f3c55e8579bec9ebb7c0ddcb75e1b7e1e3b9d7efbd83c154178487||open" value="0" id="fs_quantity_max_37380" />
+<input type="hidden" name="image||e804c0d651b90d50bad01c1c047884ea47b25597b9fe90027be58364cfc2826d||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1183-Foxy.jpg" id="foxyshop_cart_product_image_37380" />
+<input type="hidden" name="url||3832966068509393ff5057582ed8f5cc9935a9ccfbd730943211ccfc646d80cf" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace-4/" id="fs_url_37380" />
+<input type="hidden" name="quantity_min||514db2024278905254b8ef179e5d6da100a4c12029c71afa46921b451c3c35a3||open" value="0" id="fs_quantity_min_37380" />
+<input type="hidden" name="quantity_max||09c88574ba5908081b6c0671d7824c9accd60861c13fe421e2c39d102710d2bf||open" value="0" id="fs_quantity_max_37380" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37380" />
-<input type="hidden" name="name||8965f1eaaefdf728118a19fed7344d9aa57670d54b908cea46d759c554276c45" id="fs_name_37380" value="1183 - Caminando Por La Paz (Walking for Peace) - $100 donation" />
-<input type="hidden" name="code||a3fca437601ae2700be49fb1c1d7b1539035ce56f45798790639d713850adab0" id="fs_code_37380" value="WCPROJ1183" />
+<input type="hidden" name="name||3f3b1a53cbdf2c2b4b4673e27f22d51705489934fba0cfc2cfe6827864e7ca87" id="fs_name_37380" value="1183 - Caminando Por La Paz (Walking for Peace) $142 gift" />
+<input type="hidden" name="code||468c7fb93962aa5395af610b7fa4a4f0d96d56ac4ca520d966c6f76bcfa97456" id="fs_code_37380" value="WCPJ1183MCE" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||d9bcdf2247f13dd299f7dce5b08ea5efa7d2c43835f4a2a0a2f9e2403243f322" id="WCPROJ1183_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$142_donation||c4635260a3528ea1506a05c04a8c53b7b5f3b1388f92b06f4aee00189d6229f6" id="WCPJ1183MCE_1" value="" class="variation-142-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$142</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$142.00</span></div></div></form>
+<!-- $858 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37371" rel="37371">
+<input type="hidden" name="price||392ef3748f7c3f88dde544a953b203858a32306a470ee77f2d6983cb5d2ad87c" id="fs_price_37371" value="858.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37371" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37371" />
+<input type="hidden" name="image||e804c0d651b90d50bad01c1c047884ea47b25597b9fe90027be58364cfc2826d||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1183-Foxy.jpg" id="foxyshop_cart_product_image_37371" />
+<input type="hidden" name="url||d06abc3c4b43e41817ac561b43b9263de6d5d529ffbffdc3cef6f198e3644355" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace/" id="fs_url_37371" />
+<input type="hidden" name="quantity_min||514db2024278905254b8ef179e5d6da100a4c12029c71afa46921b451c3c35a3||open" value="0" id="fs_quantity_min_37371" />
+<input type="hidden" name="quantity_max||09c88574ba5908081b6c0671d7824c9accd60861c13fe421e2c39d102710d2bf||open" value="0" id="fs_quantity_max_37371" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37371" />
+<input type="hidden" name="name||3f3fa46be119250d7e8b9093309acccd4c85e75df7fdbeba5a95c57ee18289e7" id="fs_name_37371" value="1183 - Caminando Por La Paz (Walking for Peace) $858 gift" />
+<input type="hidden" name="code||468c7fb93962aa5395af610b7fa4a4f0d96d56ac4ca520d966c6f76bcfa97456" id="fs_code_37371" value="WCPJ1183MCE" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$858_donation||268ef78eba8b2f6b1d81a5eb8d482126814855d121d1aa95cf91a135f800d70a" id="WCPJ1183MCE_1" value="" class="variation-858-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$858</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$858.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37374" rel="37374">
-<input type="hidden" name="price||0ebb97a451e69370d7e81072c89b219d938b159cb0a17e95a5da89911e5594cd" id="fs_price_37374" value="0.00" />
+<input type="hidden" name="price||11c55f70530407f8b8a64fa7e6909154a91da8d74e8351566129dbb07b45d9b0" id="fs_price_37374" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37374" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37374" />
-<input type="hidden" name="image||8186437ee6b89b79d67a428df8672559a03bbb585dd6c9f9c92d65ac77ab53de||open" value="https://crosscatholic.org/wp-content/uploads/2022/08/1183-foxy-thumb_4.jpg" id="foxyshop_cart_product_image_37374" />
-<input type="hidden" name="url||3c0b6e1985bbf4c3f9f934e1d997b8a7aeee2bef955f3d2714c256778d66b1b7" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace-2/" id="fs_url_37374" />
-<input type="hidden" name="quantity_min||96f5cd5179decd5ffb619929b1e31487295042403452facfaafc1ff4eedbffb5||open" value="0" id="fs_quantity_min_37374" />
-<input type="hidden" name="quantity_max||f3851cd2f5f3c55e8579bec9ebb7c0ddcb75e1b7e1e3b9d7efbd83c154178487||open" value="0" id="fs_quantity_max_37374" />
+<input type="hidden" name="image||e804c0d651b90d50bad01c1c047884ea47b25597b9fe90027be58364cfc2826d||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1183-Foxy.jpg" id="foxyshop_cart_product_image_37374" />
+<input type="hidden" name="url||1ef74c67a4eddf33efd4244911456179be74ef72d1e33d8732b595d04bb9f978" value="https://crosscatholic.org/products/1183-caminando-por-la-paz-walking-for-peace-2/" id="fs_url_37374" />
+<input type="hidden" name="quantity_min||514db2024278905254b8ef179e5d6da100a4c12029c71afa46921b451c3c35a3||open" value="0" id="fs_quantity_min_37374" />
+<input type="hidden" name="quantity_max||09c88574ba5908081b6c0671d7824c9accd60861c13fe421e2c39d102710d2bf||open" value="0" id="fs_quantity_max_37374" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37374" />
-<input type="hidden" name="name||368e19fb23ab1d444721bb91889f1f6ea48ca47c0ccb039fa4292b14c9e6d53b" id="fs_name_37374" value="1183 - Caminando Por La Paz (Walking for Peace)" />
-<input type="hidden" name="code||a3fca437601ae2700be49fb1c1d7b1539035ce56f45798790639d713850adab0" id="fs_code_37374" value="WCPROJ1183" />
+<input type="hidden" name="name||334df53d20d2db3edbac132c35a6f3af073fae5b038a11742b3d15b60dba5dc3" id="fs_name_37374" value="1183 - Caminando Por La Paz (Walking for Peace)" />
+<input type="hidden" name="code||468c7fb93962aa5395af610b7fa4a4f0d96d56ac4ca520d966c6f76bcfa97456" id="fs_code_37374" value="WCPJ1183MCE" />
 <div class="foxyshop_variations">
-<input type="text" name="price||f7535e8ddd8fb712943267b031e2de45c356f0b510418d34715b9d7475f58a8b||open" id="WCPROJ1183_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||1e2f510c1c50a224e3be9babdf9db6a0f300289d9bf8ac4e42c3b43cad5611ea||open" id="WCPJ1183MCE_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
