@@ -1,74 +1,69 @@
 add_shortcode( 'donate_1194', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
+<!-- $429 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37383" rel="37383">
-<input type="hidden" name="price||340e8e5dd3c6b5039b715d42c78aae83d75259ee692904441eefd94797b24c7e" id="fs_price_37383" value="25.00" />
+<input type="hidden" name="price||1b3d682ce489d04e728435a4e052f4186e7fff533e888e24e005e81ee0c838da" id="fs_price_37383" value="429.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37383" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37383" />
-<input type="hidden" name="image||2b851e677aaa7f2b40049e97a431001fe3140e2fd9c1487e08f120cdccb535b4||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1194-thumb.jpg" id="foxyshop_cart_product_image_37383" />
-<input type="hidden" name="url||042d2f8fd150991c886f8ee5c1bd3f00f2b7793bec6a44ebd5718085b005cfe0" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students/" id="fs_url_37383" />
-<input type="hidden" name="quantity_min||2bf0746ea52db2ab63a2b69998434558d2d341ee1bf2df4e4ecd97f28e5e7c3c||open" value="0" id="fs_quantity_min_37383" />
-<input type="hidden" name="quantity_max||83c350d346a7d85ec696b3d99ef9dd3149eb692270002141e7073d0762d644f0||open" value="0" id="fs_quantity_max_37383" />
+<input type="hidden" name="image||e41fa823499ece785319fc691e423406499a869f482e6981780ad7ab5bc77599||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1194-Foxy.jpg" id="foxyshop_cart_product_image_37383" />
+<input type="hidden" name="url||6e058355353dc86926240f93c291141c66102af6e12eec4b2fae223896d5f992" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students/" id="fs_url_37383" />
+<input type="hidden" name="quantity_min||252aae87c175978ee5e57ca8216a7e2d5b49798c9449e4bd0822d6528149228e||open" value="0" id="fs_quantity_min_37383" />
+<input type="hidden" name="quantity_max||54dd2357e15caaf43c2234e643b72543c3b951fd07d5b5fa8e0cadbd39ba14a9||open" value="0" id="fs_quantity_max_37383" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37383" />
-<input type="hidden" name="name||588cc101fe7dbcd7c0676d45ad25865963e5ddc92c8731a4ed0bc71cf1cd3ea6" id="fs_name_37383" value="1194 – College Education for Poor, Rural Students" />
-<input type="hidden" name="code||c191d3632e887e2bc3445e90889a9c009957e3d56dd818dc514e0cdc110531fc" id="fs_code_37383" value="WCPROJ1194" />
+<input type="hidden" name="name||282a0741d44225ee1f4f8009efadacbc9a0fbb6704eb3be786233ece97105d38" id="fs_name_37383" value="1194 – College Education for Poor, Rural Students $429 gift" />
+<input type="hidden" name="code||fda45211b075f631b7626de76467c459d108983f29c640285025872f3ca6688f" id="fs_code_37383" value="MCWPJ1194COLL" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||5e6cbcf57464091d2a4c097e22595d2ccf7136c3f66feebfbaa2024d144761c6" id="WCPROJ1194_1" value="" class="variation-25-donation" />
+<input type="hidden" name="$429_donation||0661739d426c1d1bbb60a35bd08a2b929d48dec6d98543f5cea7ad573694fe85" id="MCWPJ1194COLL_1" value="" class="variation-429-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
-<!-- $50 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$429</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$429.00</span></div></div></form>
+<!-- $857 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37392" rel="37392">
-<input type="hidden" name="price||735e8b592a2d7b98ae614a9601fe9c68f8f366cf9d0bfb40d4a760ef769c958b" id="fs_price_37392" value="50.00" />
+<input type="hidden" name="price||b16702032f52a76f843ee54504998e5d845ce89d6feaa146a887ce8fd929f10b" id="fs_price_37392" value="857.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37392" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37392" />
-<input type="hidden" name="image||2b851e677aaa7f2b40049e97a431001fe3140e2fd9c1487e08f120cdccb535b4||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1194-thumb_2.jpg" id="foxyshop_cart_product_image_37392" />
-<input type="hidden" name="url||c379347c7cad7f6d9e05f3a002c5f0c01c4613fc5c4136352234bd363af4921e" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students-3/" id="fs_url_37392" />
-<input type="hidden" name="quantity_min||2bf0746ea52db2ab63a2b69998434558d2d341ee1bf2df4e4ecd97f28e5e7c3c||open" value="0" id="fs_quantity_min_37392" />
-<input type="hidden" name="quantity_max||83c350d346a7d85ec696b3d99ef9dd3149eb692270002141e7073d0762d644f0||open" value="0" id="fs_quantity_max_37392" />
+<input type="hidden" name="image||e41fa823499ece785319fc691e423406499a869f482e6981780ad7ab5bc77599||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1194-Foxy.jpg" id="foxyshop_cart_product_image_37392" />
+<input type="hidden" name="url||bd0a8ff0525221e95d97f3fc7c90a5a84f054ca3f4d51543898aa86f0f178a40" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students-3/" id="fs_url_37392" />
+<input type="hidden" name="quantity_min||252aae87c175978ee5e57ca8216a7e2d5b49798c9449e4bd0822d6528149228e||open" value="0" id="fs_quantity_min_37392" />
+<input type="hidden" name="quantity_max||54dd2357e15caaf43c2234e643b72543c3b951fd07d5b5fa8e0cadbd39ba14a9||open" value="0" id="fs_quantity_max_37392" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37392" />
-<input type="hidden" name="name||588cc101fe7dbcd7c0676d45ad25865963e5ddc92c8731a4ed0bc71cf1cd3ea6" id="fs_name_37392" value="1194 – College Education for Poor, Rural Students" />
-<input type="hidden" name="code||c191d3632e887e2bc3445e90889a9c009957e3d56dd818dc514e0cdc110531fc" id="fs_code_37392" value="WCPROJ1194" />
+<input type="hidden" name="name||7e47d0797c5a2394ccc743aa01ab41410a129a54bcc1ede914b03c9946bc6305" id="fs_name_37392" value="1194 – College Education for Poor, Rural Students $857 gift" />
+<input type="hidden" name="code||fda45211b075f631b7626de76467c459d108983f29c640285025872f3ca6688f" id="fs_code_37392" value="MCWPJ1194COLL" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||206006a2387acc8a4b4bc635e5c1058e4047a42059222f449aa65230c65cef85" id="WCPROJ1194_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$857_donation||ad0807e70c5b39ae95d5b56c39dd1f71e727ff63e0aa7df11382d6e6e5c7ee85" id="MCWPJ1194COLL_1" value="" class="variation-857-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
-<!-- $100 BUTTON -->
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$857</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$857.00</span></div></div></form>
+<!-- $1,714 BUTTON -->
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37396" rel="37396">
-<input type="hidden" name="price||5895d0c8b03d2164e91a2bf598a527c1271ad318b026fcca9985e78b31552624" id="fs_price_37396" value="100.00" />
+<input type="hidden" name="price||e1c1e12416a6d63884d50db7d9e949a0e46c2b172a44eac6b89ce4d18ea29917" id="fs_price_37396" value="1714.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37396" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37396" />
-<input type="hidden" name="image||2b851e677aaa7f2b40049e97a431001fe3140e2fd9c1487e08f120cdccb535b4||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1194-thumb_3.jpg" id="foxyshop_cart_product_image_37396" />
-<input type="hidden" name="url||032b19d5abcedba3bb82f6cbe94c2f3f6089dd636fdb84745c16c6bbd0c96b6b" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students-4/" id="fs_url_37396" />
-<input type="hidden" name="quantity_min||2bf0746ea52db2ab63a2b69998434558d2d341ee1bf2df4e4ecd97f28e5e7c3c||open" value="0" id="fs_quantity_min_37396" />
-<input type="hidden" name="quantity_max||83c350d346a7d85ec696b3d99ef9dd3149eb692270002141e7073d0762d644f0||open" value="0" id="fs_quantity_max_37396" />
+<input type="hidden" name="image||e41fa823499ece785319fc691e423406499a869f482e6981780ad7ab5bc77599||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1194-Foxy.jpg" id="foxyshop_cart_product_image_37396" />
+<input type="hidden" name="url||f4e07e23676b8f5a8ffcce443d37d4c2b374e5692ea603765b634a067af9c895" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students-4/" id="fs_url_37396" />
+<input type="hidden" name="quantity_min||252aae87c175978ee5e57ca8216a7e2d5b49798c9449e4bd0822d6528149228e||open" value="0" id="fs_quantity_min_37396" />
+<input type="hidden" name="quantity_max||54dd2357e15caaf43c2234e643b72543c3b951fd07d5b5fa8e0cadbd39ba14a9||open" value="0" id="fs_quantity_max_37396" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37396" />
-<input type="hidden" name="name||588cc101fe7dbcd7c0676d45ad25865963e5ddc92c8731a4ed0bc71cf1cd3ea6" id="fs_name_37396" value="1194 – College Education for Poor, Rural Students" />
-<input type="hidden" name="code||c191d3632e887e2bc3445e90889a9c009957e3d56dd818dc514e0cdc110531fc" id="fs_code_37396" value="WCPROJ1194" />
+<input type="hidden" name="name||e446ba9c71b2212cc4531ccd4f5a5b8e02528d478db75ab9c094ecc805615338" id="fs_name_37396" value="1194 – College Education for Poor, Rural Students $1,714 gift" />
+<input type="hidden" name="code||fda45211b075f631b7626de76467c459d108983f29c640285025872f3ca6688f" id="fs_code_37396" value="MCWPJ1194COLL" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||33ed105ae78683fde6c37b8cd065267b6102127cb57382270d11bb1bd7649def" id="WCPROJ1194_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$1714_donation||9523f23d67f682090181fb8549d5eb3743e040fe7166098a10a96679248ed8a2" id="MCWPJ1194COLL_1" value="" class="variation-1714-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$1,714</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$1,714.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
-
 <form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37387" rel="37387">
-<input type="hidden" name="price||9f2895960fda60dec7d2a81a512dfd690627ed6929c33cdd7160643364234eb3" id="fs_price_37387" value="0.00" />
+<input type="hidden" name="price||4138eff25f80e3f474d9f206078e8af334206c6fa7cbc3cadcdb75b1e4c65174" id="fs_price_37387" value="0.00" />
 <input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37387" />
 <input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37387" />
-<input type="hidden" name="image||2b851e677aaa7f2b40049e97a431001fe3140e2fd9c1487e08f120cdccb535b4||open" value="https://crosscatholic.org/wp-content/uploads/2020/09/1194-thumb_1.jpg" id="foxyshop_cart_product_image_37387" />
-<input type="hidden" name="url||d5a06195c611c51f8bcb70427d83880534477a744a2777ae88903c5f0fd317a0" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students-2/" id="fs_url_37387" />
-<input type="hidden" name="quantity_min||2bf0746ea52db2ab63a2b69998434558d2d341ee1bf2df4e4ecd97f28e5e7c3c||open" value="0" id="fs_quantity_min_37387" />
-<input type="hidden" name="quantity_max||83c350d346a7d85ec696b3d99ef9dd3149eb692270002141e7073d0762d644f0||open" value="0" id="fs_quantity_max_37387" />
+<input type="hidden" name="image||e41fa823499ece785319fc691e423406499a869f482e6981780ad7ab5bc77599||open" value="https://crosscatholic.org/wp-content/uploads/2024/06/Project-img-1194-Foxy.jpg" id="foxyshop_cart_product_image_37387" />
+<input type="hidden" name="url||41e41873e5da6b9951d0cd75bcac4e774f425403994d14ca0f69f45898f881c1" value="https://crosscatholic.org/products/1194-college-education-for-poor-rural-students-2/" id="fs_url_37387" />
+<input type="hidden" name="quantity_min||252aae87c175978ee5e57ca8216a7e2d5b49798c9449e4bd0822d6528149228e||open" value="0" id="fs_quantity_min_37387" />
+<input type="hidden" name="quantity_max||54dd2357e15caaf43c2234e643b72543c3b951fd07d5b5fa8e0cadbd39ba14a9||open" value="0" id="fs_quantity_max_37387" />
 <input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37387" />
-<input type="hidden" name="name||588cc101fe7dbcd7c0676d45ad25865963e5ddc92c8731a4ed0bc71cf1cd3ea6" id="fs_name_37387" value="1194 – College Education for Poor, Rural Students" />
-<input type="hidden" name="code||c191d3632e887e2bc3445e90889a9c009957e3d56dd818dc514e0cdc110531fc" id="fs_code_37387" value="WCPROJ1194" />
+<input type="hidden" name="name||4beaa03e3664a0dc049b1d573d889ca82b4f92fd75c08e45b84dace307a83ec1" id="fs_name_37387" value="1194 – College Education for Poor, Rural Students" />
+<input type="hidden" name="code||fda45211b075f631b7626de76467c459d108983f29c640285025872f3ca6688f" id="fs_code_37387" value="MCWPJ1194COLL" />
 <div class="foxyshop_variations">
-<input type="text" name="price||6e205f1db7dde94efc9046eb5ed11eebfb69c21c236caee6c01b76b538dcee66||open" id="WCPROJ1194_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||b1528fef094bbe5b2b13d41c221d5733e3b8aadc5075a54e3dbb34b84f2188f4||open" id="MCWPJ1194COLL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
