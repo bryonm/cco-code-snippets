@@ -1,74 +1,69 @@
 add_shortcode( 'donate_1260', function () {
 
 	$out = '<div class="flex-container">
-<!-- $25 BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37399" rel="37399">
-<input type="hidden" name="price||bcafeb3871ecc09b4ba16e3947719548c10bf33e5d5f2a0eb515987d5f18fb8c" id="fs_price_37399" value="25.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37399" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37399" />
-<input type="hidden" name="image||b42baf58b037b484f00ba1a27bce17beb66e3a2b7af76489af18e63e62a277ce||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1260-foxy-thumb.jpg" id="foxyshop_cart_product_image_37399" />
-<input type="hidden" name="url||f33e54f2ee544fb5c773e1378e75318227c6d807e86132c88a14cb949a95b5c9" value="https://crosscatholic.org/products/1260-friends-for-health-and-life-vitafood/" id="fs_url_37399" />
-<input type="hidden" name="quantity_min||2d4fad81e9adb2a5157ed07636f6f199f24bf1a9f364478dc62f10fdbd20b780||open" value="0" id="fs_quantity_min_37399" />
-<input type="hidden" name="quantity_max||cd296d6322c4ce54075a2568f812401c9fa7f15a9cac6ca50e071028c072ba91||open" value="0" id="fs_quantity_max_37399" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37399" />
-<input type="hidden" name="name||d82c5a16d1904cc9372316f262e313b715f5944d07f816baa1434a24b6168f6f" id="fs_name_37399" value="1260 – Friends for Health and Life – Vitafood" />
-<input type="hidden" name="code||70107efd5d1f167ef2c9db65700da530b1e31bee985d6ed76eafb7ac7810cf14" id="fs_code_37399" value="WCPROJ1260" />
+<!-- $70 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265701" rel="265701">
+<input type="hidden" name="price||5ffed94da5d5174804d8c75a0d6b1ebf60bcc4369d841886d1d67384b4ba77b5" id="fs_price_265701" value="70.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265701" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265701" />
+<input type="hidden" name="image||d9682223beea35d7014a7bc5ac04c18676a90d4161b5fe5ad5f4ef60d41d5180||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1260-Foxy.jpg" id="foxyshop_cart_product_image_265701" />
+<input type="hidden" name="url||64bfc88064dcc6820aa0e9ae077c7050d9a5b12eba02b9bb2432a3c421803106" value="https://crosscatholic.org/products/1260-friends-for-health-and-life-70-gift/" id="fs_url_265701" />
+<input type="hidden" name="quantity_min||8c0b90ba01768b3bc449a696043c4bcd396aa7608d50830814c85744b1d15081||open" value="0" id="fs_quantity_min_265701" />
+<input type="hidden" name="quantity_max||c3e5929089c4654bcff5a8f1ed17b72260a7f837ff661dac5dd26e19c1cf9457||open" value="0" id="fs_quantity_max_265701" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265701" />
+<input type="hidden" name="name||80ee9b0c45fbdba84076eb10c12bdbdf5e405b66cd8c2b0da590393c32d3b525" id="fs_name_265701" value="1260 - Friends for Health and Life $70 Gift" />
+<input type="hidden" name="code||ffb30a2846d08733e8331901ee474e527170dc5de79ee675217ebed75db17bb9" id="fs_code_265701" value="WCPJ3669FCV" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$25_donation||06d8665c068ccaf6a398a9b6fba46693cad715c6745069cf88744383ef6c0e1e" id="WCPROJ1260_1" value="" class="variation-25-donation" />
+<input type="hidden" name="$70_donation||34cc578e0611479990ce6b4c0cecfc1121dd4f2fb8c2a9c42f8cd59d93444b44" id="WCPJ3669FCV_1" value="" class="variation-70-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$25</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$25.00</span></div></div></form>
-  
-<!-- $50 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37405" rel="37405">
-<input type="hidden" name="price||a0c8f1219a1e4ccf14d69c168edbffa6b5fccc519776319b525c2ac07fb20d79" id="fs_price_37405" value="50.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37405" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37405" />
-<input type="hidden" name="image||b42baf58b037b484f00ba1a27bce17beb66e3a2b7af76489af18e63e62a277ce||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1260-foxy-thumb.jpg" id="foxyshop_cart_product_image_37405" />
-<input type="hidden" name="url||233fa2210c3f692d5ff357ced904537c6086f29dfec7691aba1f3747505e55f3" value="https://crosscatholic.org/products/1260-friends-for-health-and-life-vitafood-3/" id="fs_url_37405" />
-<input type="hidden" name="quantity_min||2d4fad81e9adb2a5157ed07636f6f199f24bf1a9f364478dc62f10fdbd20b780||open" value="0" id="fs_quantity_min_37405" />
-<input type="hidden" name="quantity_max||cd296d6322c4ce54075a2568f812401c9fa7f15a9cac6ca50e071028c072ba91||open" value="0" id="fs_quantity_max_37405" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37405" />
-<input type="hidden" name="name||d82c5a16d1904cc9372316f262e313b715f5944d07f816baa1434a24b6168f6f" id="fs_name_37405" value="1260 – Friends for Health and Life – Vitafood" />
-<input type="hidden" name="code||70107efd5d1f167ef2c9db65700da530b1e31bee985d6ed76eafb7ac7810cf14" id="fs_code_37405" value="WCPROJ1260" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$70</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$70.00</span></div></div></form>
+<!-- $140 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265702" rel="265702">
+<input type="hidden" name="price||e37577e0b33798162b0187f5e87fd4b3c891c9c05e4660faac6bd63d0a44f7dc" id="fs_price_265702" value="140.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265702" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265702" />
+<input type="hidden" name="image||d9682223beea35d7014a7bc5ac04c18676a90d4161b5fe5ad5f4ef60d41d5180||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1260-Foxy.jpg" id="foxyshop_cart_product_image_265702" />
+<input type="hidden" name="url||97376e11bdae953bd23e2da768c3164a4fd593bfbe8eb6eb8a3a83a86e90803e" value="https://crosscatholic.org/products/1260-friends-for-health-and-life-140-gift/" id="fs_url_265702" />
+<input type="hidden" name="quantity_min||8c0b90ba01768b3bc449a696043c4bcd396aa7608d50830814c85744b1d15081||open" value="0" id="fs_quantity_min_265702" />
+<input type="hidden" name="quantity_max||c3e5929089c4654bcff5a8f1ed17b72260a7f837ff661dac5dd26e19c1cf9457||open" value="0" id="fs_quantity_max_265702" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265702" />
+<input type="hidden" name="name||484d23ab7b392714f085bf7a811cef5d0ead3a2f9f2d97d439c525a131ecc23e" id="fs_name_265702" value="1260 - Friends for Health and Life $140 Gift" />
+<input type="hidden" name="code||ffb30a2846d08733e8331901ee474e527170dc5de79ee675217ebed75db17bb9" id="fs_code_265702" value="WCPJ3669FCV" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$50_donation||1c54b801fcbd062dcf20365cc39801de65644a0de8044e119a3410822f995775" id="WCPROJ1260_1" value="" class="variation-50-donation" />
+<input type="hidden" name="$140_donation||6908d5d74e05e41414cfbb78a6220eda14423c2c7af1c6da45d655cea080260d" id="WCPJ3669FCV_1" value="" class="variation-140-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
-  
-<!-- $100 BUTTON -->
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37408" rel="37408">
-<input type="hidden" name="price||e668309c57ab12dc4301b0c14840f02b37a7a356de04b5ee3ea8e826e61c49a7" id="fs_price_37408" value="100.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37408" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37408" />
-<input type="hidden" name="image||b42baf58b037b484f00ba1a27bce17beb66e3a2b7af76489af18e63e62a277ce||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1260-foxy-thumb.jpg" id="foxyshop_cart_product_image_37408" />
-<input type="hidden" name="url||5de6b2d2596b24390bbdbc0b05323d4f1d767a9244567e6a39e942c609f5069e" value="https://crosscatholic.org/products/1260-friends-for-health-and-life-vitafood-4/" id="fs_url_37408" />
-<input type="hidden" name="quantity_min||2d4fad81e9adb2a5157ed07636f6f199f24bf1a9f364478dc62f10fdbd20b780||open" value="0" id="fs_quantity_min_37408" />
-<input type="hidden" name="quantity_max||cd296d6322c4ce54075a2568f812401c9fa7f15a9cac6ca50e071028c072ba91||open" value="0" id="fs_quantity_max_37408" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37408" />
-<input type="hidden" name="name||d82c5a16d1904cc9372316f262e313b715f5944d07f816baa1434a24b6168f6f" id="fs_name_37408" value="1260 – Friends for Health and Life – Vitafood" />
-<input type="hidden" name="code||70107efd5d1f167ef2c9db65700da530b1e31bee985d6ed76eafb7ac7810cf14" id="fs_code_37408" value="WCPROJ1260" />
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$140</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$140.00</span></div></div></form>
+<!-- $210 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265703" rel="265703">
+<input type="hidden" name="price||e6a45c3cbeb04d8bc63c7959e06fea6f4131de9ba8cad76700ca89791ca1da0e" id="fs_price_265703" value="210.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265703" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265703" />
+<input type="hidden" name="image||d9682223beea35d7014a7bc5ac04c18676a90d4161b5fe5ad5f4ef60d41d5180||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1260-Foxy.jpg" id="foxyshop_cart_product_image_265703" />
+<input type="hidden" name="url||5c0f2eb79d7d08a990ab0cc0ecde5059fc20185ee120b7e4eff326cca48b9103" value="https://crosscatholic.org/products/1260-friends-for-health-and-life-210-gift/" id="fs_url_265703" />
+<input type="hidden" name="quantity_min||8c0b90ba01768b3bc449a696043c4bcd396aa7608d50830814c85744b1d15081||open" value="0" id="fs_quantity_min_265703" />
+<input type="hidden" name="quantity_max||c3e5929089c4654bcff5a8f1ed17b72260a7f837ff661dac5dd26e19c1cf9457||open" value="0" id="fs_quantity_max_265703" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265703" />
+<input type="hidden" name="name||14b559b1a29f3ab732832fbf477f67770725e3640ecc189fa44e944a1451f8e9" id="fs_name_265703" value="1260 - Friends for Health and Life $210 Gift" />
+<input type="hidden" name="code||ffb30a2846d08733e8331901ee474e527170dc5de79ee675217ebed75db17bb9" id="fs_code_265703" value="WCPJ3669FCV" />
 <div class="foxyshop_variations">
-<input type="hidden" name="$100_donation||f7b3020c7830e503ef06a65cd3e77ed629e09ddf48f87f6262a43bf6d5fb0cc9" id="WCPROJ1260_1" value="" class="variation-100-donation" />
+<input type="hidden" name="$210_donation||01cd9570f0d7e2d1f55a90d9cf8ebac28810a08cd0b280e8093b2e92b66f9715" id="WCPJ3669FCV_1" value="" class="variation-210-donation" />
 </div>
-<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$210</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$210.00</span></div></div></form>
 <div class="or-text">or</div>
-  
 <!-- OTHER BUTTON -->
-
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_37402" rel="37402">
-<input type="hidden" name="price||d52b593e0058172039a43eae271082d3ed687cc42c2b6d955fbb8f9fa77eddbc" id="fs_price_37402" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_37402" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_37402" />
-<input type="hidden" name="image||b42baf58b037b484f00ba1a27bce17beb66e3a2b7af76489af18e63e62a277ce||open" value="https://crosscatholic.org/wp-content/uploads/2022/07/1260-foxy-thumb.jpg" id="foxyshop_cart_product_image_37402" />
-<input type="hidden" name="url||b1c78d278d2d1e675c4d61980e4217dcf640966015fb440f7a4ef742a2d75570" value="https://crosscatholic.org/products/1260-friends-for-health-and-life-vitafood-2/" id="fs_url_37402" />
-<input type="hidden" name="quantity_min||2d4fad81e9adb2a5157ed07636f6f199f24bf1a9f364478dc62f10fdbd20b780||open" value="0" id="fs_quantity_min_37402" />
-<input type="hidden" name="quantity_max||cd296d6322c4ce54075a2568f812401c9fa7f15a9cac6ca50e071028c072ba91||open" value="0" id="fs_quantity_max_37402" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_37402" />
-<input type="hidden" name="name||d82c5a16d1904cc9372316f262e313b715f5944d07f816baa1434a24b6168f6f" id="fs_name_37402" value="1260 – Friends for Health and Life – Vitafood" />
-<input type="hidden" name="code||70107efd5d1f167ef2c9db65700da530b1e31bee985d6ed76eafb7ac7810cf14" id="fs_code_37402" value="WCPROJ1260" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265704" rel="265704">
+<input type="hidden" name="price||9e4d98957462001e10c13f57f12df64e65c50e40ba2894fd03f67263a494f6f5" id="fs_price_265704" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265704" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265704" />
+<input type="hidden" name="image||d9682223beea35d7014a7bc5ac04c18676a90d4161b5fe5ad5f4ef60d41d5180||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1260-Foxy.jpg" id="foxyshop_cart_product_image_265704" />
+<input type="hidden" name="url||a482df38c069386ae2a12fb657babd8f261224cb049ecaf73edabd3a5ae7802d" value="https://crosscatholic.org/products/1260-friends-for-health-and-life/" id="fs_url_265704" />
+<input type="hidden" name="quantity_min||8c0b90ba01768b3bc449a696043c4bcd396aa7608d50830814c85744b1d15081||open" value="0" id="fs_quantity_min_265704" />
+<input type="hidden" name="quantity_max||c3e5929089c4654bcff5a8f1ed17b72260a7f837ff661dac5dd26e19c1cf9457||open" value="0" id="fs_quantity_max_265704" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265704" />
+<input type="hidden" name="name||ca09118a7b5d889c7c6570bfc8e370729d173af6a12b755180f7130e5b86a36a" id="fs_name_265704" value="1260 - Friends for Health and Life" />
+<input type="hidden" name="code||ffb30a2846d08733e8331901ee474e527170dc5de79ee675217ebed75db17bb9" id="fs_code_265704" value="WCPJ3669FCV" />
 <div class="foxyshop_variations">
-<input type="text" name="price||bab46294b6bc798c8cdf12a4ae54f066a0c3c94b88980907bddeb493c9bb6c60||open" id="WCPROJ1260_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<input type="text" name="price||bb28b7983e219fa10cbd316b9b02046fb5b90dd944d9686de8e1098b94698b1b||open" id="WCPJ3669FCV_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
 <button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
 <div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>
