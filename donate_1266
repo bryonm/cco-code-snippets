@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1266', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255646" rel="255646">
+<input type="hidden" name="price||c7313025284d0853f66052c42cb5726b4e568ef382bae04dc01e005ea2840d60" id="fs_price_255646" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255646" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255646" />
+<input type="hidden" name="image||2986bf9136f6fc53ed7a3fa7da4629ee4e3849ee07929cf545b4db5340face00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1266-Foxy.jpg" id="foxyshop_cart_product_image_255646" />
+<input type="hidden" name="url||fdbe97777cda0663e38f9a50c988bc4fd7784995b1a194f1cdc0cb85f68a8bf2" value="https://crosscatholic.org/products/1266-las-mercedes-operations-50-gift/" id="fs_url_255646" />
+<input type="hidden" name="quantity_min||d069f76497089fbd79da06a5ee0a621430255297e99ddff3839891c250536c68||open" value="0" id="fs_quantity_min_255646" />
+<input type="hidden" name="quantity_max||7c61912c04688ac3e9cb0608ccfd1bf7902d03358821d28ef6631b59c34a68de||open" value="0" id="fs_quantity_max_255646" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255646" />
+<input type="hidden" name="name||c9fa9422f6dd7830cf27f0cd7b2996f42fcf8703d59dbfa2f241d535a3e8a75f" id="fs_name_255646" value="1266 - Las Mercedes Operations $50 gift" />
+<input type="hidden" name="code||11022a22066433ae75b8d3f2a1eb5554ace7c78f6bc4f74fcd6cc9852c1303ec" id="fs_code_255646" value="WCPJ1266MRC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||0ef3498434318485a4864f06b1d3ad9de71d2e1d123801846bbbd14de1822a21" id="WCPJ1266MRC_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255648" rel="255648">
+<input type="hidden" name="price||f9078b53ad42c73ef6cbeb744d2589fac25c1a0e782a5f67078017f7a4838475" id="fs_price_255648" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255648" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255648" />
+<input type="hidden" name="image||2986bf9136f6fc53ed7a3fa7da4629ee4e3849ee07929cf545b4db5340face00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1266-Foxy.jpg" id="foxyshop_cart_product_image_255648" />
+<input type="hidden" name="url||869d8b5499432370f5bcde3837f95d3b3c7e3b2404a0c1bd21919e07671ce838" value="https://crosscatholic.org/products/1266-las-mercedes-operations-100-gift/" id="fs_url_255648" />
+<input type="hidden" name="quantity_min||d069f76497089fbd79da06a5ee0a621430255297e99ddff3839891c250536c68||open" value="0" id="fs_quantity_min_255648" />
+<input type="hidden" name="quantity_max||7c61912c04688ac3e9cb0608ccfd1bf7902d03358821d28ef6631b59c34a68de||open" value="0" id="fs_quantity_max_255648" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255648" />
+<input type="hidden" name="name||27afbff26cb6d2f5531960d0cd704239d0da3f011879776b06856e5bdcedcd33" id="fs_name_255648" value="1266 - Las Mercedes Operations $100 gift" />
+<input type="hidden" name="code||11022a22066433ae75b8d3f2a1eb5554ace7c78f6bc4f74fcd6cc9852c1303ec" id="fs_code_255648" value="WCPJ1266MRC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||f30ac5247872b67be49a6990b682b6347ceb6c21f0749dcb2edc4f7fa6f47c08" id="WCPJ1266MRC_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255650" rel="255650">
+<input type="hidden" name="price||0e8af6c97451874edd04327bd2e9f87c56457553a8995a8f5bfdaed55d527ad5" id="fs_price_255650" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255650" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255650" />
+<input type="hidden" name="image||2986bf9136f6fc53ed7a3fa7da4629ee4e3849ee07929cf545b4db5340face00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1266-Foxy.jpg" id="foxyshop_cart_product_image_255650" />
+<input type="hidden" name="url||3d09bc169f65ecb9e229d3809a3dfbaee036cd8bc4648092ea11ab1485d0aaf9" value="https://crosscatholic.org/products/1266-las-mercedes-operations-250-gift/" id="fs_url_255650" />
+<input type="hidden" name="quantity_min||d069f76497089fbd79da06a5ee0a621430255297e99ddff3839891c250536c68||open" value="0" id="fs_quantity_min_255650" />
+<input type="hidden" name="quantity_max||7c61912c04688ac3e9cb0608ccfd1bf7902d03358821d28ef6631b59c34a68de||open" value="0" id="fs_quantity_max_255650" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255650" />
+<input type="hidden" name="name||69d0ed052aee1a3d57f0ff83f559d7741b70bd900d3e8cac0869d44287295668" id="fs_name_255650" value="1266 - Las Mercedes Operations $250 gift" />
+<input type="hidden" name="code||11022a22066433ae75b8d3f2a1eb5554ace7c78f6bc4f74fcd6cc9852c1303ec" id="fs_code_255650" value="WCPJ1266MRC" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||08cb0d8ea074ee8855db5aa21416101824daeb6bded45ba286229c042450794b" id="WCPJ1266MRC_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_255652" rel="255652">
+<input type="hidden" name="price||42617998f15fd0f7e278afa610c144ffb10e363790bc801a5e34caa524f42236" id="fs_price_255652" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_255652" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_255652" />
+<input type="hidden" name="image||2986bf9136f6fc53ed7a3fa7da4629ee4e3849ee07929cf545b4db5340face00||open" value="https://crosscatholic.org/wp-content/uploads/2024/07/Project-img-1266-Foxy.jpg" id="foxyshop_cart_product_image_255652" />
+<input type="hidden" name="url||fa27eafcf995b12cd20676176f041ba745fafa25f1e420f01c2a7fd344205a39" value="https://crosscatholic.org/products/1266-las-mercedes-operations/" id="fs_url_255652" />
+<input type="hidden" name="quantity_min||d069f76497089fbd79da06a5ee0a621430255297e99ddff3839891c250536c68||open" value="0" id="fs_quantity_min_255652" />
+<input type="hidden" name="quantity_max||7c61912c04688ac3e9cb0608ccfd1bf7902d03358821d28ef6631b59c34a68de||open" value="0" id="fs_quantity_max_255652" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_255652" />
+<input type="hidden" name="name||ff895ba6720c413f2763893f57a439a9c60677bd8a3bb42fa279782f2734f435" id="fs_name_255652" value="1266 - Las Mercedes Operations" />
+<input type="hidden" name="code||11022a22066433ae75b8d3f2a1eb5554ace7c78f6bc4f74fcd6cc9852c1303ec" id="fs_code_255652" value="WCPJ1266MRC" />
+<div class="foxyshop_variations">
+<input type="text" name="price||f15aabdba3c67bb594e20be335a0d99bbdbdf14d8202b4c39d32a318ec0502fe||open" id="WCPJ1266MRC_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
