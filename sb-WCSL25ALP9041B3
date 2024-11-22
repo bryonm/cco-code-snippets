@@ -1,0 +1,73 @@
+add_shortcode( 'sb-WCSL25ALP9041B3', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271227" rel="271227">
+<input type="hidden" name="price||cde739d3fdc50fc768c7f2d066be813fc44acbbb9f872aaac268f4761ff7070f" id="fs_price_271227" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271227" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271227" />
+<input type="hidden" name="image||f155edea48abd6c9672d19ff4bcbeb54d3fde624453d7499709d3a4bacc36373||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_271227" />
+<input type="hidden" name="url||ca1e6036fcd156a8f281fb4d66ac730120f4cd53bbac7da60210a84a913c8681" value="https://crosscatholic.org/products/dona-para-las-necesidades-de-agua-y-salud-50/" id="fs_url_271227" />
+<input type="hidden" name="quantity_min||58907264672cefd4247ea4e4e32892a9ccb3a5b1c7f595e245f565c57dff03ae||open" value="0" id="fs_quantity_min_271227" />
+<input type="hidden" name="quantity_max||e39c73bcc263f13f68d1a74ba8b7f15fe7cafa93a38b01bef45b9b573f313278||open" value="0" id="fs_quantity_max_271227" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271227" />
+<input type="hidden" name="name||0519fa23da85d1d022e18d3aba49a0d510ac514ef2958b8aa6fd32cd9171a77e" id="fs_name_271227" value="Dona para las Necesidades de Agua y Salud $50" />
+<input type="hidden" name="code||1c4e17b520e3a2ae7947f89e492cd1f4b9756ae483b37dc1bb70264d8f704a88" id="fs_code_271227" value="WCSL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||ff17701f61eef4b2352d62a022393ab18f6ab497b041566e494d93eecd57ce4c" id="WCSL25ALP9041B3_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271228" rel="271228">
+<input type="hidden" name="price||df4572271478db19f719abda26fda530ac812d2ddfb59e218e924209ef4ac914" id="fs_price_271228" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271228" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271228" />
+<input type="hidden" name="image||f155edea48abd6c9672d19ff4bcbeb54d3fde624453d7499709d3a4bacc36373||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_271228" />
+<input type="hidden" name="url||2c39547c01a7807038a610b27b93d024252cf3cebdb86a30493297cc1aea36b3" value="https://crosscatholic.org/products/dona-para-las-necesidades-de-agua-y-salud-100/" id="fs_url_271228" />
+<input type="hidden" name="quantity_min||58907264672cefd4247ea4e4e32892a9ccb3a5b1c7f595e245f565c57dff03ae||open" value="0" id="fs_quantity_min_271228" />
+<input type="hidden" name="quantity_max||e39c73bcc263f13f68d1a74ba8b7f15fe7cafa93a38b01bef45b9b573f313278||open" value="0" id="fs_quantity_max_271228" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271228" />
+<input type="hidden" name="name||4293bba03716ff2f55df02d17b8ee7b5d2b72cc5f758e2a12fc0b2415cb51664" id="fs_name_271228" value="Dona para las Necesidades de Agua y Salud $100" />
+<input type="hidden" name="code||1c4e17b520e3a2ae7947f89e492cd1f4b9756ae483b37dc1bb70264d8f704a88" id="fs_code_271228" value="WCSL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||e79336d82312adf5bdcaf1484032cb827f9a395f35aa9e21fcc255f7b19e51d2" id="WCSL25ALP9041B3_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271229" rel="271229">
+<input type="hidden" name="price||6b5cecfaf3dca3139a76c6ee6b9a3a93e51fd4a5ddd556de397c7a9f95ddecde" id="fs_price_271229" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271229" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271229" />
+<input type="hidden" name="image||f155edea48abd6c9672d19ff4bcbeb54d3fde624453d7499709d3a4bacc36373||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_271229" />
+<input type="hidden" name="url||71fa1735da4335f4b09a19c8027ec416671c2dac414a4c50b5778fc088ef6425" value="https://crosscatholic.org/products/dona-para-las-necesidades-de-agua-y-salud-250/" id="fs_url_271229" />
+<input type="hidden" name="quantity_min||58907264672cefd4247ea4e4e32892a9ccb3a5b1c7f595e245f565c57dff03ae||open" value="0" id="fs_quantity_min_271229" />
+<input type="hidden" name="quantity_max||e39c73bcc263f13f68d1a74ba8b7f15fe7cafa93a38b01bef45b9b573f313278||open" value="0" id="fs_quantity_max_271229" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271229" />
+<input type="hidden" name="name||b106e2b534ae1117102b84cc4b6ad94968020118719b8736c1f5f16eca572459" id="fs_name_271229" value="Dona para las Necesidades de Agua y Salud $250" />
+<input type="hidden" name="code||1c4e17b520e3a2ae7947f89e492cd1f4b9756ae483b37dc1bb70264d8f704a88" id="fs_code_271229" value="WCSL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||e876a9b7e69c9dcc3f649619a74fcdd912b40820b48552af210f731f8d7605c6" id="WCSL25ALP9041B3_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271230" rel="271230">
+<input type="hidden" name="price||e074a8306ec6063630f765302821ab7febcb04fb7183bc2dfa34c13edce7f8f7" id="fs_price_271230" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271230" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271230" />
+<input type="hidden" name="image||f155edea48abd6c9672d19ff4bcbeb54d3fde624453d7499709d3a4bacc36373||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/learn-about-germs-foxy-thumb.jpg" id="foxyshop_cart_product_image_271230" />
+<input type="hidden" name="url||8573578b6df1b9dec69fb6153aecd5062e17c883e8d68ad2fcf266c3f62e55a8" value="https://crosscatholic.org/products/dona-para-las-necesidades-de-agua-y-salud/" id="fs_url_271230" />
+<input type="hidden" name="quantity_min||58907264672cefd4247ea4e4e32892a9ccb3a5b1c7f595e245f565c57dff03ae||open" value="0" id="fs_quantity_min_271230" />
+<input type="hidden" name="quantity_max||e39c73bcc263f13f68d1a74ba8b7f15fe7cafa93a38b01bef45b9b573f313278||open" value="0" id="fs_quantity_max_271230" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271230" />
+<input type="hidden" name="name||5eb0ad20e3a7e3ba61c0446a2ecb8d15e973759602eebf6dcecdd4ee482a1f19" id="fs_name_271230" value="Dona para las Necesidades de Agua y Salud" />
+<input type="hidden" name="code||1c4e17b520e3a2ae7947f89e492cd1f4b9756ae483b37dc1bb70264d8f704a88" id="fs_code_271230" value="WCSL25ALP9041B3" />
+<div class="foxyshop_variations">
+<input type="text" name="price||114832a83d1c3720972340df865ddba7a535f5ca99b472f29f4003cb9f87383f||open" id="WCSL25ALP9041B3_1" value="" class="variation-price foxyshop_required" placeholder="$$"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
