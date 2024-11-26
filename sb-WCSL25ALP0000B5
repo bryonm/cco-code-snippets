@@ -1,0 +1,73 @@
+add_shortcode( 'sb-WCSL25ALP0000B5', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271569" rel="271569">
+<input type="hidden" name="price||2a4a93289d3db21294a288beaf80476ed9711211a4e628c10551bab0ff9325c0" id="fs_price_271569" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271569" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271569" />
+<input type="hidden" name="image||272051a0ee0277ab3fb9531f2449ea76734edb0da59651015ce77c3f19b54e2e||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/plant-a-marian-garden-foxy-thumb.jpg" id="foxyshop_cart_product_image_271569" />
+<input type="hidden" name="url||29682a1e0c2efa8bf94d3fd181e92abde5f1ae5ddd33d7f55815590a0b69dcbb" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-50-3/" id="fs_url_271569" />
+<input type="hidden" name="quantity_min||c83a6f7843caa6a7d707c009b1314af3f5aa5eaf3f0f56940cef3f2848ecbcf3||open" value="0" id="fs_quantity_min_271569" />
+<input type="hidden" name="quantity_max||eaf26afffe1a1519078787fe14b7e218a925bc493d66ac15cb35c05638651d82||open" value="0" id="fs_quantity_max_271569" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271569" />
+<input type="hidden" name="name||623089123a90d0c61aebec65560b5c10041a64b92e91c0df580ddc6efa5e13b9" id="fs_name_271569" value="Dona para las Necesidades Más Urgentes $50" />
+<input type="hidden" name="code||750343e778b9d3a65a9e0d8722a5ec6d43d8a87865271af50956b6959d69679f" id="fs_code_271569" value="WCSL25ALP0000B5" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||dd788150b76bffd28e57ebed34af119f7284fc1022b7d15ef914acd685bffd7a" id="WCSL25ALP0000B5_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271570" rel="271570">
+<input type="hidden" name="price||d17dd32af3a77bbd7cf4326d2c5caa23f1917f88cdb1d14967eed41ed4e6410e" id="fs_price_271570" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271570" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271570" />
+<input type="hidden" name="image||272051a0ee0277ab3fb9531f2449ea76734edb0da59651015ce77c3f19b54e2e||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/plant-a-marian-garden-foxy-thumb.jpg" id="foxyshop_cart_product_image_271570" />
+<input type="hidden" name="url||5e6c771ad8e057c4fcb5dd14e233215ee5cee5b41a066afeb43bdea54b956c16" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-100-3/" id="fs_url_271570" />
+<input type="hidden" name="quantity_min||c83a6f7843caa6a7d707c009b1314af3f5aa5eaf3f0f56940cef3f2848ecbcf3||open" value="0" id="fs_quantity_min_271570" />
+<input type="hidden" name="quantity_max||eaf26afffe1a1519078787fe14b7e218a925bc493d66ac15cb35c05638651d82||open" value="0" id="fs_quantity_max_271570" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271570" />
+<input type="hidden" name="name||b35bdd94fd478960a0ea17e79f9c5bf1cf48c8258840fec7943a69813d603232" id="fs_name_271570" value="Dona para las Necesidades Más Urgentes $100" />
+<input type="hidden" name="code||750343e778b9d3a65a9e0d8722a5ec6d43d8a87865271af50956b6959d69679f" id="fs_code_271570" value="WCSL25ALP0000B5" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||ee0952514ba8b5c5a2961bf7d28d45fccf68412aa15d0ac7c6cf9a1184f0bc51" id="WCSL25ALP0000B5_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271571" rel="271571">
+<input type="hidden" name="price||afd4cde1d097aa69fac5bd6ba92b063b96e330bb50976c0ed6753723666f5587" id="fs_price_271571" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271571" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271571" />
+<input type="hidden" name="image||272051a0ee0277ab3fb9531f2449ea76734edb0da59651015ce77c3f19b54e2e||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/plant-a-marian-garden-foxy-thumb.jpg" id="foxyshop_cart_product_image_271571" />
+<input type="hidden" name="url||4d0207920d5e79731177f24f6d387a96bf87b176f93e513aefa5c3336f39b1b3" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-250-3/" id="fs_url_271571" />
+<input type="hidden" name="quantity_min||c83a6f7843caa6a7d707c009b1314af3f5aa5eaf3f0f56940cef3f2848ecbcf3||open" value="0" id="fs_quantity_min_271571" />
+<input type="hidden" name="quantity_max||eaf26afffe1a1519078787fe14b7e218a925bc493d66ac15cb35c05638651d82||open" value="0" id="fs_quantity_max_271571" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271571" />
+<input type="hidden" name="name||5b6985e2ca44b571e8321c203c1a7badc4f9e0017997627702648c6b51786102" id="fs_name_271571" value="Dona para las Necesidades Más Urgentes $250" />
+<input type="hidden" name="code||750343e778b9d3a65a9e0d8722a5ec6d43d8a87865271af50956b6959d69679f" id="fs_code_271571" value="WCSL25ALP0000B5" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||5df3ddd3c0414c2bc24a7001185760004ee2e71a8f8e24855c309a4b9c6ba64b" id="WCSL25ALP0000B5_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271572" rel="271572">
+<input type="hidden" name="price||84971de849dbc8114c348f9d2a16fe47c775a4e65278e81d2f38b2a077612d01" id="fs_price_271572" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271572" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271572" />
+<input type="hidden" name="image||272051a0ee0277ab3fb9531f2449ea76734edb0da59651015ce77c3f19b54e2e||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/plant-a-marian-garden-foxy-thumb.jpg" id="foxyshop_cart_product_image_271572" />
+<input type="hidden" name="url||0f329a844a697c0c58ea0369f464014dd364b892eef087166c6a5f89a489daee" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-5/" id="fs_url_271572" />
+<input type="hidden" name="quantity_min||c83a6f7843caa6a7d707c009b1314af3f5aa5eaf3f0f56940cef3f2848ecbcf3||open" value="0" id="fs_quantity_min_271572" />
+<input type="hidden" name="quantity_max||eaf26afffe1a1519078787fe14b7e218a925bc493d66ac15cb35c05638651d82||open" value="0" id="fs_quantity_max_271572" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271572" />
+<input type="hidden" name="name||c0bebe32829b014e3d48d58bed996a0cc26f6281b78b8bf3981842c11fec2211" id="fs_name_271572" value="Dona para las Necesidades Más Urgentes" />
+<input type="hidden" name="code||750343e778b9d3a65a9e0d8722a5ec6d43d8a87865271af50956b6959d69679f" id="fs_code_271572" value="WCSL25ALP0000B5" />
+<div class="foxyshop_variations">
+<input type="text" name="price||974f85347bedee7f28f0a25ea7a462b04c08633718beeb3940d6da23bbc376e3||open" id="WCSL25ALP0000B5_1" value="" class="variation-price foxyshop_required" placeholder="$$"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
