@@ -1,0 +1,73 @@
+add_shortcode( 'sb-WCSL25ALP0000B4', function () {
+
+	$out = '<div class="flex-container">
+<!-- $50 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271476" rel="271476">
+<input type="hidden" name="price||9186f4870e997546702092f2f76e9fcad213ef82092595b6b50d9fa607cc748e" id="fs_price_271476" value="50.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271476" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271476" />
+<input type="hidden" name="image||cd5722d579e9d30e151503c32a696f0b54369a1ee26ca67633f5ede8322485ab||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/lent-vision-board-foxy-thumb.jpg" id="foxyshop_cart_product_image_271476" />
+<input type="hidden" name="url||436ae722a0353a86eefc1c435f414e439034d20324694167f718114ec949b52d" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-50-2/" id="fs_url_271476" />
+<input type="hidden" name="quantity_min||833791022be3a123917e65815d517d949d0cf13b23bf72b3ca3e59d187a9a183||open" value="0" id="fs_quantity_min_271476" />
+<input type="hidden" name="quantity_max||65820f3486b57f9df75ac2766eeae320a4433566e1e5a3fdf31c04e6979c1f67||open" value="0" id="fs_quantity_max_271476" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271476" />
+<input type="hidden" name="name||44c7db067f815e1f414962c5a7afbb38aa19c48269116d4f452467757ee15340" id="fs_name_271476" value="Dona para las Necesidades Más Urgentes $50" />
+<input type="hidden" name="code||ab6bc5de58520befd3f74956ef473ef7d9ce2e312df621c21201b6f9e1981831" id="fs_code_271476" value="WCSL25ALP0000B4" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$50_donation||13d9b096a84c87361bcaaa5f4293788736b672ff30fea5dbbd879b91c251eb3b" id="WCSL25ALP0000B4_1" value="" class="variation-50-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$50</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$50.00</span></div></div></form>
+<!-- $100 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271477" rel="271477">
+<input type="hidden" name="price||9b116aec8630ab2239a57aa98f9d70f4742b721ccc7f3ebd43d386a598b70234" id="fs_price_271477" value="100.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271477" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271477" />
+<input type="hidden" name="image||cd5722d579e9d30e151503c32a696f0b54369a1ee26ca67633f5ede8322485ab||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/lent-vision-board-foxy-thumb.jpg" id="foxyshop_cart_product_image_271477" />
+<input type="hidden" name="url||e66728e86d6812eb866eae44f450ab28b62a242d955b9e554444cef43e920c5c" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-100-2/" id="fs_url_271477" />
+<input type="hidden" name="quantity_min||833791022be3a123917e65815d517d949d0cf13b23bf72b3ca3e59d187a9a183||open" value="0" id="fs_quantity_min_271477" />
+<input type="hidden" name="quantity_max||65820f3486b57f9df75ac2766eeae320a4433566e1e5a3fdf31c04e6979c1f67||open" value="0" id="fs_quantity_max_271477" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271477" />
+<input type="hidden" name="name||4a102dd0305cab2c4b797261b28523ca47aff07ae87e18062e7acacba7b33745" id="fs_name_271477" value="Dona para las Necesidades Más Urgentes $100" />
+<input type="hidden" name="code||ab6bc5de58520befd3f74956ef473ef7d9ce2e312df621c21201b6f9e1981831" id="fs_code_271477" value="WCSL25ALP0000B4" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$100_donation||0dc3b2fdaa861974c57d60ea2ed912083fd8b9beb33fc60abbe802694ac23600" id="WCSL25ALP0000B4_1" value="" class="variation-100-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$100</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$100.00</span></div></div></form>
+<!-- $250 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271478" rel="271478">
+<input type="hidden" name="price||fb5bb5b48ffbcd8413789b4ea8a3428b6d6e131d0305191d0057864ef92c1d81" id="fs_price_271478" value="250.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271478" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271478" />
+<input type="hidden" name="image||cd5722d579e9d30e151503c32a696f0b54369a1ee26ca67633f5ede8322485ab||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/lent-vision-board-foxy-thumb.jpg" id="foxyshop_cart_product_image_271478" />
+<input type="hidden" name="url||e1d5e281f582f0f6c4dd9be80d0a7cba6bcd57dc29aee8482f8e239813c678e0" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-250-2/" id="fs_url_271478" />
+<input type="hidden" name="quantity_min||833791022be3a123917e65815d517d949d0cf13b23bf72b3ca3e59d187a9a183||open" value="0" id="fs_quantity_min_271478" />
+<input type="hidden" name="quantity_max||65820f3486b57f9df75ac2766eeae320a4433566e1e5a3fdf31c04e6979c1f67||open" value="0" id="fs_quantity_max_271478" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271478" />
+<input type="hidden" name="name||e29f334bc2e1dceffea4a490b5973bdd618affe99377841b6befa02969ef1b38" id="fs_name_271478" value="Dona para las Necesidades Más Urgentes $250" />
+<input type="hidden" name="code||ab6bc5de58520befd3f74956ef473ef7d9ce2e312df621c21201b6f9e1981831" id="fs_code_271478" value="WCSL25ALP0000B4" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$250_donation||19adeaf577c09e5505910c8d8031049492775bc348e33872a53c77be9270463b" id="WCSL25ALP0000B4_1" value="" class="variation-250-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$250</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$250.00</span></div></div></form>
+<div class="or-text">o</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_271479" rel="271479">
+<input type="hidden" name="price||276fc32a86470101ee786552a0bff5766797265cc07d5612c92cf578032094a0" id="fs_price_271479" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_271479" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_271479" />
+<input type="hidden" name="image||cd5722d579e9d30e151503c32a696f0b54369a1ee26ca67633f5ede8322485ab||open" value="https://crosscatholic.org/wp-content/uploads/2024/11/lent-vision-board-foxy-thumb.jpg" id="foxyshop_cart_product_image_271479" />
+<input type="hidden" name="url||8d2ca0fffac48ab5740eb6abfe9ce6f1db794c26283c73b3daae00afa3f11ea0" value="https://crosscatholic.org/products/dona-para-las-necesidades-mas-urgentes-4/" id="fs_url_271479" />
+<input type="hidden" name="quantity_min||833791022be3a123917e65815d517d949d0cf13b23bf72b3ca3e59d187a9a183||open" value="0" id="fs_quantity_min_271479" />
+<input type="hidden" name="quantity_max||65820f3486b57f9df75ac2766eeae320a4433566e1e5a3fdf31c04e6979c1f67||open" value="0" id="fs_quantity_max_271479" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_271479" />
+<input type="hidden" name="name||9c0fe575289393677c6813ab6801393a6aecc36e5ed0bd690e16243a8b8147a9" id="fs_name_271479" value="Dona para las Necesidades Más Urgentes" />
+<input type="hidden" name="code||ab6bc5de58520befd3f74956ef473ef7d9ce2e312df621c21201b6f9e1981831" id="fs_code_271479" value="WCSL25ALP0000B4" />
+<div class="foxyshop_variations">
+<input type="text" name="price||b60da8c709d9f7dd9c8e41b61abc15a952fac1e45c1f125253ec6d8ebe0b41a3||open" id="WCSL25ALP0000B4_1" value="" class="variation-price foxyshop_required" placeholder="$$"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">done</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
