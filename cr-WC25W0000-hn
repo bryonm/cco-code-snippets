@@ -1,0 +1,38 @@
+add_shortcode( 'cr-WC25W0000-hn', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_270897" rel="270897">
+<input type="hidden" name="price||863190e5ad98e6bf3cc10a114a7cfe0bff856fae3f06ebd34d0ec579a5d2961f" id="fs_price_270897" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_270897" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_270897" />
+<input type="hidden" name="image||3d6bff6a10417cb66fa2b798204f55e24232b054dffb2827e015f3b2d283f973||open" value="https://crosscatholic.org/wp-content/uploads/2024/12/help-now-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_270897" />
+<input type="hidden" name="url||709bba03041904517740af8c45a380acf9c4f87da9e9e48be45ff3829db9789e" value="https://crosscatholic.org/products/donate-to-greatest-needs-13/" id="fs_url_270897" />
+<input type="hidden" name="quantity_min||03a580e74dd7db5a3e9abaaa0aaa4e33316817eae7751bfa52210d69fc8afba1||open" value="0" id="fs_quantity_min_270897" />
+<input type="hidden" name="quantity_max||4661a5ba1ed3e7a6c7ab380101045de0e1295b08dce27f39a0c9c0ed016cc1e8||open" value="0" id="fs_quantity_max_270897" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_270897" />
+<input type="hidden" name="sub_frequency||667b8b842d43acd2e7133f8b088f898b9a13ddf71f31a290ebcbd92a2bc7bcee||open" id="fs_sub_frequency_270897" value="" />
+<input type="hidden" name="name||3e141c77fd23a5c4b37dd558969dabb48661a425063efe4d1ed88d969cab79ec" id="fs_name_270897" value="Donate to Greatest Needs" />
+<input type="hidden" name="code||bab420accfecb76a7e0444f1dd1e39c471e8c2935565b98bdcaedc92d72ff618" id="fs_code_270897" value="WC25W0000" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC25W0000_1" class="variation-donation">
+<option value="$50{p:50}||38714eeb859ae864eaeb95c702ebf3abedcd12e15eb2898618bdb1f5d9cad1a0" priceset="5000">$50</option>
+<option value="$100{p:100}||af7cd20cfdf34f6f7a523af5decfa3fbc12c06d8ade31d0bb5f0a367fc0743a6" priceset="10000">$100</option>
+<option value="$150{p:150}||1ade72490638a4cb00e4f21528dbc5d91dcfa542d5939cbae78d28764f58bdec" priceset="15000">$150</option>
+<option value="$200{p:200}||68235d280580b9556091f9890d26769bdddda0af5aeda36a49ce9a26a68fb3b5" priceset="20000">$200</option>
+<option value="Other{dkey:custom-price}||a1565a113241d3914d62f4f5a6fdef0089dad63c38a21a84281ff5fc7b844ec7" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC25W0000_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||9933875bb2e4162de4cfeea367dd84b6af9279f656e8c71eefd61af5515c887f||open" id="WC25W0000_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||1fa7d2fef493e0edb1c0882d6206a9bdc2f6b9882e8134122f7ecf98485ad469" id="WC25W0000_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC25W0000_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||be7da3b621d60ba7b4eface529001c957bb88d6bf3eb0e4658f09e570970fb90" id="WC25W0000_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC25W0000_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
