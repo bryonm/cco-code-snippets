@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1446c', function () {
+
+	$out = '<div class="flex-container">
+<!-- $33 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261443" rel="261443">
+<input type="hidden" name="price||9193bc841ddbe67081950bcefa6b0ec4f9cfc85fd469737ca822d3bd4e2ba95e" id="fs_price_261443" value="33.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261443" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261443" />
+<input type="hidden" name="image||b3314dfc0b786b5db6657dae5751a004cfad5825576559760ca7de4bd9ee3ad7||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1446-children-vitamins-Foxy.jpg" id="foxyshop_cart_product_image_261443" />
+<input type="hidden" name="url||c422dcc0c4232eff7fd59861c9c4a4a8ed33fbf54ffc2d94bdbc738144647801" value="https://crosscatholic.org/products/1446-good-samaritan-hospital-33-gift-2/" id="fs_url_261443" />
+<input type="hidden" name="quantity_min||58009102a35b7a3b534b665e850d777c2d7883119efe026ff30524a501cf9830||open" value="0" id="fs_quantity_min_261443" />
+<input type="hidden" name="quantity_max||7a95764d241339d7777eee91ff4e33f3799a30d1688a0255d76f2dd65898f9d5||open" value="0" id="fs_quantity_max_261443" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261443" />
+<input type="hidden" name="name||854c47ece635261c24f3e643c7b3146df26fb6f43969c05864252fbdd07356dd" id="fs_name_261443" value="1446 - Good Samaritan Hospital $33 gift" />
+<input type="hidden" name="code||688d7d0fbdfd66ef8c48094be127bab35d5050c0c3448a7626d221d00fba464c" id="fs_code_261443" value="WCPJ3671CV" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$33_donation||4a7de7038a12db02562eedd97ca45d3063d677d8d6c456c6c63d6dfa47a0d241" id="WCPJ3671CV_1" value="" class="variation-33-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$33</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$33.00</span></div></div></form>
+<!-- $66 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261444" rel="261444">
+<input type="hidden" name="price||9cfebf926ae387c993c710b214d1a092e3b75bf36ec77a5018bc90e739fd6f19" id="fs_price_261444" value="66.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261444" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261444" />
+<input type="hidden" name="image||b3314dfc0b786b5db6657dae5751a004cfad5825576559760ca7de4bd9ee3ad7||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1446-children-vitamins-Foxy.jpg" id="foxyshop_cart_product_image_261444" />
+<input type="hidden" name="url||5fee7c959028e2bf42045dcc5c7e6e338d5153bfdda1347d08d6290e3af76d95" value="https://crosscatholic.org/products/1446-good-samaritan-hospital-66-gift-2/" id="fs_url_261444" />
+<input type="hidden" name="quantity_min||58009102a35b7a3b534b665e850d777c2d7883119efe026ff30524a501cf9830||open" value="0" id="fs_quantity_min_261444" />
+<input type="hidden" name="quantity_max||7a95764d241339d7777eee91ff4e33f3799a30d1688a0255d76f2dd65898f9d5||open" value="0" id="fs_quantity_max_261444" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261444" />
+<input type="hidden" name="name||52726fd5309960c42e3ca175bf7db287aebac50852a9dba3d8c449e0bdda6ced" id="fs_name_261444" value="1446 - Good Samaritan Hospital $66 gift" />
+<input type="hidden" name="code||688d7d0fbdfd66ef8c48094be127bab35d5050c0c3448a7626d221d00fba464c" id="fs_code_261444" value="WCPJ3671CV" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$66_donation||fd1403c6a54e5c345e365c042080c3eb963deb889c479a07eb959f5a02e8edd5" id="WCPJ3671CV_1" value="" class="variation-66-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$66</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$66.00</span></div></div></form>
+<!-- $99 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261445" rel="261445">
+<input type="hidden" name="price||cdc7e1e98cc8fc11a670accabfd0b860cf20de5181a5c51185deb39253d32696" id="fs_price_261445" value="99.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261445" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261445" />
+<input type="hidden" name="image||b3314dfc0b786b5db6657dae5751a004cfad5825576559760ca7de4bd9ee3ad7||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1446-children-vitamins-Foxy.jpg" id="foxyshop_cart_product_image_261445" />
+<input type="hidden" name="url||e6a2a03ae4987d4b78d834cbf1318e0ca5a71a342ef6d7ebd10e67e5457fdd72" value="https://crosscatholic.org/products/1446-good-samaritan-hospital-99-gift-2/" id="fs_url_261445" />
+<input type="hidden" name="quantity_min||58009102a35b7a3b534b665e850d777c2d7883119efe026ff30524a501cf9830||open" value="0" id="fs_quantity_min_261445" />
+<input type="hidden" name="quantity_max||7a95764d241339d7777eee91ff4e33f3799a30d1688a0255d76f2dd65898f9d5||open" value="0" id="fs_quantity_max_261445" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261445" />
+<input type="hidden" name="name||69845601b453596f3aa5bfc041cafb3e485643e56bb067be727dc23f171b2829" id="fs_name_261445" value="1446 - Good Samaritan Hospital $99 gift" />
+<input type="hidden" name="code||688d7d0fbdfd66ef8c48094be127bab35d5050c0c3448a7626d221d00fba464c" id="fs_code_261445" value="WCPJ3671CV" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$99_donation||54d28c6523994ba34afb9819a6c2c33dad4404d270812fd8e5c7d4cda3c736b5" id="WCPJ3671CV_1" value="" class="variation-99-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$99</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$99.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261446" rel="261446">
+<input type="hidden" name="price||40e6759a5c0b0a8a9a1caa807471c5cc1a1a406fe84260f66b258453e64930e0" id="fs_price_261446" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261446" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261446" />
+<input type="hidden" name="image||b3314dfc0b786b5db6657dae5751a004cfad5825576559760ca7de4bd9ee3ad7||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-1446-children-vitamins-Foxy.jpg" id="foxyshop_cart_product_image_261446" />
+<input type="hidden" name="url||2bca84156b1d10a25bf1b630081d8bf5a74e3a7752c52ad1b3e73110b66c31ff" value="https://crosscatholic.org/products/1446-good-samaritan-hospital-3/" id="fs_url_261446" />
+<input type="hidden" name="quantity_min||58009102a35b7a3b534b665e850d777c2d7883119efe026ff30524a501cf9830||open" value="0" id="fs_quantity_min_261446" />
+<input type="hidden" name="quantity_max||7a95764d241339d7777eee91ff4e33f3799a30d1688a0255d76f2dd65898f9d5||open" value="0" id="fs_quantity_max_261446" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261446" />
+<input type="hidden" name="name||0836ffffa7715cff6ea4a407c52004bc4aeaa61c9c026b35219042da41780566" id="fs_name_261446" value="1446 - Good Samaritan Hospital" />
+<input type="hidden" name="code||688d7d0fbdfd66ef8c48094be127bab35d5050c0c3448a7626d221d00fba464c" id="fs_code_261446" value="WCPJ3671CV" />
+<div class="foxyshop_variations">
+<input type="text" name="price||490264527e7946955af7b0cee2b489f75f156e8c9b63042dcc5d72b7d10cea1d||open" id="WCPJ3671CV_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
