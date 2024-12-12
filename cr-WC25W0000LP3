@@ -1,0 +1,38 @@
+add_shortcode( 'cr-WC25W0000LP3', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_272925" rel="272925">
+<input type="hidden" name="price||e0e09e9af0ed7595f1fb42cb0b67a2154b828b444f3a696fcdcdde5656ae59ad" id="fs_price_272925" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_272925" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_272925" />
+<input type="hidden" name="image||be655c9d68164ba05820d188a147418f22b0c752d1542ced4fa0f45f66153380||open" value="https://crosscatholic.org/wp-content/uploads/2024/12/help-now-foxy-thumb-b.jpg" id="foxyshop_cart_product_image_272925" />
+<input type="hidden" name="url||e283405332c8681d3d8a757be138d8fa54ed8b1fbfa33cacc12f71ebe7db2b96" value="https://crosscatholic.org/products/donate-to-greatest-needs-14/" id="fs_url_272925" />
+<input type="hidden" name="quantity_min||5d3c3de9885e9bde93c546a3a9ef812dd87ee9037bb77bfe8b1026e55fdc7acf||open" value="0" id="fs_quantity_min_272925" />
+<input type="hidden" name="quantity_max||90c6ee920be43b5378af921117f4c1a48a402408703bc20a4226d88a596c961c||open" value="0" id="fs_quantity_max_272925" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_272925" />
+<input type="hidden" name="sub_frequency||f4b24c71db7dbab01b05d22e821206f1fd5146682bf7326ad07a78eb3b6f0ca1||open" id="fs_sub_frequency_272925" value="" />
+<input type="hidden" name="name||bbe50d3faaca0daeb5d078bccb4a5ee8db674de09f073dc6cb59f8bc0104d593" id="fs_name_272925" value="Donate to Greatest Needs" />
+<input type="hidden" name="code||1d18e18b143d79d3b58e5fa549399497995dfbe11ee8772330c6d6a206689544" id="fs_code_272925" value="WC25W0000LP3" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC25W0000LP3_1" class="variation-donation">
+<option value="$25{p:25}||745f40a7f25e01923d03e14165a5791536bd3da511483fb585929fc173d28fbe" priceset="2500">$25</option>
+<option selected value="$50{p:50}||ea0853a77f305a34767804ca7a0c43c36c517ff023151c3b419cc5ac1d23a401" priceset="5000">$50</option>
+<option value="$75{p:75}||f7fe2e6f9c333c99d5442e78e79aef683f5f69f5d966beb3b5b9dedf2faacf25" priceset="7500">$75</option>
+<option value="$100{p:100}||e9008225b52cf5b1ea528df32c3d26ce2b72a914cb784ad5e308440805f0097d" priceset="10000">$100</option>
+<option value="Other{dkey:custom-price}||d472f1c40d8d17651254b17e99aa997164d32b0d070cef9325dbb9a3314da04d" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC25W0000LP3_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||4dd480bb0a5c281fe42b0820d9587b03dfcdb562e067a3e70d8b84d7a31bf300||open" id="WC25W0000LP3_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||1d74573d3d9c2d5149af89714c616cde74111292c6f7cb72fabb603834dace98" id="WC25W0000LP3_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC25W0000LP3_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every month (on the 25th){fr:1m|c+MOT}||47f76600a6f36c22332a4f244326cffea4777ebdf2f7c722d13bc58144eab582" id="WC25W0000LP3_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC25W0000LP3_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
