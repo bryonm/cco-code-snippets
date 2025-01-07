@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3131_ma', function () {
+
+	$out = '<div class="flex-container">
+<!-- $23 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265726" rel="265726">
+<input type="hidden" name="price||657c59d8b51a240748d7d1a07a38a8816e48da2b2b9b2a9712fc7a6729fcc884" id="fs_price_265726" value="23.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265726" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265726" />
+<input type="hidden" name="image||438d26e3394b6fb00bafa74e208d07aabdfb7d9bcb3409d50f58b43ee5e4b860||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3131-Mobility-Ads-Foxy.jpg" id="foxyshop_cart_product_image_265726" />
+<input type="hidden" name="url||0d589dbbc1eaacf0e65b18cf01c1614541fac724c178eddee70986b5065cb32b" value="https://crosscatholic.org/products/3131-mobility-aids-23-gift/" id="fs_url_265726" />
+<input type="hidden" name="quantity_min||6db09a1e2544e4fd039656886e94af5da38af9877b883acc5d833c09caa14ec3||open" value="0" id="fs_quantity_min_265726" />
+<input type="hidden" name="quantity_max||c5465c1941be81e29f60aab504612af9366ddbe0985a52ae80d810edf5edf06b||open" value="0" id="fs_quantity_max_265726" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265726" />
+<input type="hidden" name="name||24f06b2dd418df934900205c5dcf6ab349631b57b41305194c4d7154cbf11ce5" id="fs_name_265726" value="3131 - Mobility Aids $23 Gift" />
+<input type="hidden" name="code||d9978ddd554123cccda2f6df7aa5ba3de2135314a7ed59565d12ed5bad16f2ad" id="fs_code_265726" value="WCPJ9041LPMA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$23_donation||53aafc9212939a7663e4ad548472d84aac32c55fe35fb814e3d792450d58e050" id="WCPJ9041LPMA_1" value="" class="variation-23-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$23</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$23.00</span></div></div></form>
+<!-- $46 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265727" rel="265727">
+<input type="hidden" name="price||323b8eee050c2e9f1cc654677364d60cfadaa3e96003ec0c8c8e50dc0bf4e667" id="fs_price_265727" value="46.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265727" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265727" />
+<input type="hidden" name="image||438d26e3394b6fb00bafa74e208d07aabdfb7d9bcb3409d50f58b43ee5e4b860||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3131-Mobility-Ads-Foxy.jpg" id="foxyshop_cart_product_image_265727" />
+<input type="hidden" name="url||394fe2f004c07408b6d8bcbc5d90a6f1d9e45b2343fb8eb16299ef0d2015ef76" value="https://crosscatholic.org/products/3131-mobility-aids-46-gift/" id="fs_url_265727" />
+<input type="hidden" name="quantity_min||6db09a1e2544e4fd039656886e94af5da38af9877b883acc5d833c09caa14ec3||open" value="0" id="fs_quantity_min_265727" />
+<input type="hidden" name="quantity_max||c5465c1941be81e29f60aab504612af9366ddbe0985a52ae80d810edf5edf06b||open" value="0" id="fs_quantity_max_265727" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265727" />
+<input type="hidden" name="name||379a2b3dfe112f1ad0172710dfa56009a10417fd101f3f93824c08db8f9ed136" id="fs_name_265727" value="3131 - Mobility Aids $46 Gift" />
+<input type="hidden" name="code||d9978ddd554123cccda2f6df7aa5ba3de2135314a7ed59565d12ed5bad16f2ad" id="fs_code_265727" value="WCPJ9041LPMA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$46_donation||2671206af23bf630131c0a87000c26f2b750d7cba4ccc6584c6e0d593e541e58" id="WCPJ9041LPMA_1" value="" class="variation-46-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$46</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$46.00</span></div></div></form>
+<!-- $69 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265728" rel="265728">
+<input type="hidden" name="price||cf2a9a757766c9c6bf514a27b9619a033c7810ba265bacd9315d9398321da0bc" id="fs_price_265728" value="69.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265728" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265728" />
+<input type="hidden" name="image||438d26e3394b6fb00bafa74e208d07aabdfb7d9bcb3409d50f58b43ee5e4b860||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3131-Mobility-Ads-Foxy.jpg" id="foxyshop_cart_product_image_265728" />
+<input type="hidden" name="url||6352fba7f5b59c86731e6c5ab7d38de2cc6268d1369b20e44ad41447c1d4a2fa" value="https://crosscatholic.org/products/3131-mobility-aids-69-gift/" id="fs_url_265728" />
+<input type="hidden" name="quantity_min||6db09a1e2544e4fd039656886e94af5da38af9877b883acc5d833c09caa14ec3||open" value="0" id="fs_quantity_min_265728" />
+<input type="hidden" name="quantity_max||c5465c1941be81e29f60aab504612af9366ddbe0985a52ae80d810edf5edf06b||open" value="0" id="fs_quantity_max_265728" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265728" />
+<input type="hidden" name="name||dd834c194391e61426e88eec3b05fae1b6fb5f732eb4c6b5b54d7623349dd69a" id="fs_name_265728" value="3131 - Mobility Aids $69 Gift" />
+<input type="hidden" name="code||d9978ddd554123cccda2f6df7aa5ba3de2135314a7ed59565d12ed5bad16f2ad" id="fs_code_265728" value="WCPJ9041LPMA" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$69_donation||fcab5363104794f74c86e02ca9a1962095ca4e13391ea649ab6c0705c90285c1" id="WCPJ9041LPMA_1" value="" class="variation-69-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$69</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$69.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_265729" rel="265729">
+<input type="hidden" name="price||41c1167fa994b274239c419369321589b7cad226115a5341294b9c7a3fa2316d" id="fs_price_265729" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_265729" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_265729" />
+<input type="hidden" name="image||438d26e3394b6fb00bafa74e208d07aabdfb7d9bcb3409d50f58b43ee5e4b860||open" value="https://crosscatholic.org/wp-content/uploads/2024/09/Project-img-3131-Mobility-Ads-Foxy.jpg" id="foxyshop_cart_product_image_265729" />
+<input type="hidden" name="url||bcf240c50d448c3aa0ab5710cede323114b21454ac0234f2f5874da3680c3512" value="https://crosscatholic.org/products/3131-mobility-aids/" id="fs_url_265729" />
+<input type="hidden" name="quantity_min||6db09a1e2544e4fd039656886e94af5da38af9877b883acc5d833c09caa14ec3||open" value="0" id="fs_quantity_min_265729" />
+<input type="hidden" name="quantity_max||c5465c1941be81e29f60aab504612af9366ddbe0985a52ae80d810edf5edf06b||open" value="0" id="fs_quantity_max_265729" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_265729" />
+<input type="hidden" name="name||b6daaef0119300640936fde643925d86d2cc0f14cc0f22172f943e363f31848c" id="fs_name_265729" value="3131 - Mobility Aids" />
+<input type="hidden" name="code||d9978ddd554123cccda2f6df7aa5ba3de2135314a7ed59565d12ed5bad16f2ad" id="fs_code_265729" value="WCPJ9041LPMA" />
+<div class="foxyshop_variations">
+<input type="text" name="price||943a43717f3db3cdf38a24d154c9ed4ef57c3d2d89f6f8a2e9e3ef4a19e85907||open" id="WCPJ9041LPMA_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
