@@ -1,0 +1,33 @@
+add_shortcode( 'sp-pcs-UCSL25W3667', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275024" rel="275024">
+<input type="hidden" name="price||48cfff6aa8b8c4750747e25a066e735f631553dba1d576ede09307179232327a" id="fs_price_275024" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275024" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275024" />
+<input type="hidden" name="image||d0e53feb9e7b2475b4d6f385d04f7a84a6978944eef376e1b5b1e555b4cb666d||open" value="https://crosscatholic.org/wp-content/uploads/2024/10/water-for-life-foxy-thumb-1.jpg" id="foxyshop_cart_product_image_275024" />
+<input type="hidden" name="url||ac71ee9e66263900cd271b3ebad7c9445b4508b32ee625ddd5622ab1b03ae995" value="https://crosscatholic.org/products/agua-pura-para-los-necesitados-donacion-10/" id="fs_url_275024" />
+<input type="hidden" name="quantity_min||15fd154a0ff125a98fa7a91b24dc07df4eaf878f334128642ca8aee628c08e7a||open" value="0" id="fs_quantity_min_275024" />
+<input type="hidden" name="quantity_max||ebb7134a63a7a082a4d6d00e4be53691dbd66c4e57c924692293062b11273fa1||open" value="0" id="fs_quantity_max_275024" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275024" />
+<input type="hidden" name="sub_frequency||4754fbb8e44d35d440f3d318d278d5b1ad082e69ff70f65f5328743b62898ad4||open" id="fs_sub_frequency_275024" value="" />
+<input type="hidden" name="name||fa5f8b8bd1fa4a60755b4f3f8f8b7ba86bed88454821cd66d066087ecdb2a2bc" id="fs_name_275024" value="Agua Pura para los Necesitados donación" />
+<input type="hidden" name="code||a01dec77fe2c2a880422479674d54a5371940b63c9ab21ef5d285e9eb94faadc" id="fs_code_275024" value="UCSL25W3667" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCSL25W3667_1" class="variation-donation">
+<option value="$42 bendicen a dos personas con agua{p:42}||a0045b91d4c69f062cf992d99b900e7d1b9ffe49649ed5e6636a477db0564aa5" priceset="4200">$42 bendicen a dos personas con agua</option>
+<option value="$63 bendicen a tres personas con agua{p:63}||6949bad38a21533c93af6922d8751283674f8eb742325d951be8036c3e172afc" priceset="6300">$63 bendicen a tres personas con agua</option>
+<option value="$105 bendicen a cinco personas con agua{p:105}||f32270ef8b29b0cd6aeda630d8afd9352f176e7329b0ff74955d9679b0b57595" priceset="10500">$105 bendicen a cinco personas con agua</option>
+<option value="$147 bendicen a siete personas con agua{p:147}||fbe2095ca7e7dbc15b17afeecd36ae5477d82b1372e1b4a6eefc54a27a92a7d7" priceset="14700">$147 bendicen a siete personas con agua</option>
+<option value="Otro monto{dkey:custom-price}||244336ee655029994bccfee80e1488cf69e9cf649d487a576a5ff1bbc6958183" displaykey="custom-price">Otro monto</option>
+</select>
+<div class="clr"></div>
+<label for="UCSL25W3667_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||0ac8494d304640bd5b831c588153b627d507d9e195e65c4e2dfbcbee323ec7a2||open" id="UCSL25W3667_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
+<div class="clr"></div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">DONE</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></form>
+</div>';
+
+	return $out;
+} );
