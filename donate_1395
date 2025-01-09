@@ -1,0 +1,73 @@
+add_shortcode( 'donate_1395', function () {
+
+	$out = '<div class="flex-container">
+<!-- $84 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275370" rel="275370">
+<input type="hidden" name="price||e9ec585e3220e9a9880e93ebf6b353b7023834e8534e00674bb9422f9e82d30d" id="fs_price_275370" value="84.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275370" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275370" />
+<input type="hidden" name="image||ed5926933cf7e0ff2f646b3737d42120c428e8698fc5389dcb761d6ee8bbbf58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-1395-Foxy.jpg" id="foxyshop_cart_product_image_275370" />
+<input type="hidden" name="url||0be735796f2b845e7c535d9ddea401bbacbdc171bf939c4778844387e3440dc6" value="https://crosscatholic.org/products/1395-st-peters-kinder-lodwar-84-gift/" id="fs_url_275370" />
+<input type="hidden" name="quantity_min||1730563925c79128ea16abda28d07d435f365a1ab2c5bd53c8b783e1986d70f2||open" value="0" id="fs_quantity_min_275370" />
+<input type="hidden" name="quantity_max||52e9340836f46c0cf4ac63ca624eb68268d52ca00207d5a5d1f96cb9a1dc253f||open" value="0" id="fs_quantity_max_275370" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275370" />
+<input type="hidden" name="name||514d74d3b123cf5d670e756ffb6a5de7856f5ef3ba032fe7d038329c142c4048" id="fs_name_275370" value="1395 - St. Peters Kinder Lodwar $84 gift" />
+<input type="hidden" name="code||0829dd6fa6b6c77e75f057c0c684be038cd449b0102fb6ef8eee68fff3d1f1e5" id="fs_code_275370" value="WCPJ1395SPKL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$84_donation||78e995718caad256370419077a1b1313f8a64276ccd46bc2323f5ebc4d89cf73" id="WCPJ1395SPKL_1" value="" class="variation-84-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$84</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$84.00</span></div></div></form>
+<!-- $168 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275371" rel="275371">
+<input type="hidden" name="price||621485dbb8007b88595a00b3937759ad288d9a6fdaa44c6510fc44f1691510d0" id="fs_price_275371" value="168.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275371" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275371" />
+<input type="hidden" name="image||ed5926933cf7e0ff2f646b3737d42120c428e8698fc5389dcb761d6ee8bbbf58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-1395-Foxy.jpg" id="foxyshop_cart_product_image_275371" />
+<input type="hidden" name="url||a475871944d423af881f8136c01d3baf3a4cad0c3b10dd2b1f3647477aac7b4c" value="https://crosscatholic.org/products/1395-st-peters-kinder-lodwar-168-gift/" id="fs_url_275371" />
+<input type="hidden" name="quantity_min||1730563925c79128ea16abda28d07d435f365a1ab2c5bd53c8b783e1986d70f2||open" value="0" id="fs_quantity_min_275371" />
+<input type="hidden" name="quantity_max||52e9340836f46c0cf4ac63ca624eb68268d52ca00207d5a5d1f96cb9a1dc253f||open" value="0" id="fs_quantity_max_275371" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275371" />
+<input type="hidden" name="name||1f2182c995d7f2588ad2ec68f4065b6aac90bda41682907fd2cf729f483289f5" id="fs_name_275371" value="1395 - St. Peters Kinder Lodwar $168 gift" />
+<input type="hidden" name="code||0829dd6fa6b6c77e75f057c0c684be038cd449b0102fb6ef8eee68fff3d1f1e5" id="fs_code_275371" value="WCPJ1395SPKL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$168_donation||82f2fda004e1ca084f566cd20169ff47e8457812e7e2d410a72c6a3df8e65eba" id="WCPJ1395SPKL_1" value="" class="variation-168-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$168</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$168.00</span></div></div></form>
+<!-- $252 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275372" rel="275372">
+<input type="hidden" name="price||4ff1a7b188416d8ffc4b5f840d36fedb6c5593e8a05ba4b6cbb9bb68358bea93" id="fs_price_275372" value="252.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275372" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275372" />
+<input type="hidden" name="image||ed5926933cf7e0ff2f646b3737d42120c428e8698fc5389dcb761d6ee8bbbf58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-1395-Foxy.jpg" id="foxyshop_cart_product_image_275372" />
+<input type="hidden" name="url||8b97b5eabced80a6580c19514b40d900b47ea2697bf7146e5dc9317aa0b87c69" value="https://crosscatholic.org/products/1395-st-peters-kinder-lodwar-252-gift/" id="fs_url_275372" />
+<input type="hidden" name="quantity_min||1730563925c79128ea16abda28d07d435f365a1ab2c5bd53c8b783e1986d70f2||open" value="0" id="fs_quantity_min_275372" />
+<input type="hidden" name="quantity_max||52e9340836f46c0cf4ac63ca624eb68268d52ca00207d5a5d1f96cb9a1dc253f||open" value="0" id="fs_quantity_max_275372" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275372" />
+<input type="hidden" name="name||bc77c349128af0fd9c1a8e93c8d691827315ebf2d47a3b2d39ca16ea2d3d8711" id="fs_name_275372" value="1395 - St. Peters Kinder Lodwar $252 gift" />
+<input type="hidden" name="code||0829dd6fa6b6c77e75f057c0c684be038cd449b0102fb6ef8eee68fff3d1f1e5" id="fs_code_275372" value="WCPJ1395SPKL" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$252_donation||2bd1b6c04fa5f007b25f6f131111a06759b2e63eca7faab219a72e3c677e590c" id="WCPJ1395SPKL_1" value="" class="variation-252-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$252</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$252.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275373" rel="275373">
+<input type="hidden" name="price||59c58e66e69e919918548186d53af14f19e4b892c724666b6d87919920625503" id="fs_price_275373" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275373" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275373" />
+<input type="hidden" name="image||ed5926933cf7e0ff2f646b3737d42120c428e8698fc5389dcb761d6ee8bbbf58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-1395-Foxy.jpg" id="foxyshop_cart_product_image_275373" />
+<input type="hidden" name="url||9d808bf5521ff84a5f4551cafe8a6dba1c8c6bd3fb0373c3b5176fb98636595a" value="https://crosscatholic.org/products/1395-st-peters-kinder-lodwar/" id="fs_url_275373" />
+<input type="hidden" name="quantity_min||1730563925c79128ea16abda28d07d435f365a1ab2c5bd53c8b783e1986d70f2||open" value="0" id="fs_quantity_min_275373" />
+<input type="hidden" name="quantity_max||52e9340836f46c0cf4ac63ca624eb68268d52ca00207d5a5d1f96cb9a1dc253f||open" value="0" id="fs_quantity_max_275373" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275373" />
+<input type="hidden" name="name||cfd1955d4022ce4763b5e6dabb539355a30cafaa17ab9bfdfe300caa13dad1fe" id="fs_name_275373" value="1395 - St. Peters Kinder Lodwar" />
+<input type="hidden" name="code||0829dd6fa6b6c77e75f057c0c684be038cd449b0102fb6ef8eee68fff3d1f1e5" id="fs_code_275373" value="WCPJ1395SPKL" />
+<div class="foxyshop_variations">
+<input type="text" name="price||86c8be114019bbb3c906ed7ce5083028cdb9bbb638954fcfc3b04c280f70297f||open" id="WCPJ1395SPKL_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
