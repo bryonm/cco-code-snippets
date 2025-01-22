@@ -1,0 +1,73 @@
+add_shortcode( 'eb-WCCC24BLOG9021B11', function () {
+
+	$out = '<div class="flex-container">
+<!-- $75 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261571" rel="261571">
+<input type="hidden" name="price||5fe811303c7e4de1d548a5ec8081f28c76b14a6bfb0d96786e3c4142fc2b0c7f" id="fs_price_261571" value="75.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261571" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261571" />
+<input type="hidden" name="image||8c7852c76758b553ab8c15b32da1bfe95e75aa3a8a14f6a2e360a35ed55bdc6d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9001-Vitafood-foxy-thumb-38.jpg" id="foxyshop_cart_product_image_261571" />
+<input type="hidden" name="url||846cb0b7620b6799bf8032a3fa35229a43cd7bd103dba6c2cd81d8923e96515a" value="https://crosscatholic.org/products/donate-to-vitafood-75-gift/" id="fs_url_261571" />
+<input type="hidden" name="quantity_min||d8a536128c76fd2f86cd0a1c26db4d18005c4e5131b0ce13edef2ab17abecb99||open" value="0" id="fs_quantity_min_261571" />
+<input type="hidden" name="quantity_max||e0d5680140785a68364842997e496cc7c7846be4a0780d91400041081b075df7||open" value="0" id="fs_quantity_max_261571" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261571" />
+<input type="hidden" name="name||7c61a78e3d4d102f2d1ba32c57074d8e6a68c815c2e94ea01ea11979842ee393" id="fs_name_261571" value="Donate to Vitafood $75 Gift" />
+<input type="hidden" name="code||06f925dcfa8712af62fb1b71af06062194e627dcca6b3187cde66cd44445cf66" id="fs_code_261571" value="WCCC24BLOG9021B11" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$75_donation||8847691bed05d22238513e64e8c7bb81150165cb0630aea73ee633e12c873453" id="WCCC24BLOG9021B11_1" value="" class="variation-75-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$75</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$75.00</span></div></div></form>
+<!-- $150 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261572" rel="261572">
+<input type="hidden" name="price||051afe77b9ff2e63bada7bafff9003dfa869c819cf3f7574d6807b2ad9bcc6eb" id="fs_price_261572" value="150.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261572" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261572" />
+<input type="hidden" name="image||8c7852c76758b553ab8c15b32da1bfe95e75aa3a8a14f6a2e360a35ed55bdc6d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9001-Vitafood-foxy-thumb-38.jpg" id="foxyshop_cart_product_image_261572" />
+<input type="hidden" name="url||a3893d28306bbe5c39398a56d1b61175657526ae508ae9ec464cc00951dfb812" value="https://crosscatholic.org/products/donate-to-vitafood-150-gift/" id="fs_url_261572" />
+<input type="hidden" name="quantity_min||d8a536128c76fd2f86cd0a1c26db4d18005c4e5131b0ce13edef2ab17abecb99||open" value="0" id="fs_quantity_min_261572" />
+<input type="hidden" name="quantity_max||e0d5680140785a68364842997e496cc7c7846be4a0780d91400041081b075df7||open" value="0" id="fs_quantity_max_261572" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261572" />
+<input type="hidden" name="name||2e42779424a04823421945fc480ef532be04c248975bcaf5524d37299d2543b7" id="fs_name_261572" value="Donate to Vitafood $150 Gift" />
+<input type="hidden" name="code||06f925dcfa8712af62fb1b71af06062194e627dcca6b3187cde66cd44445cf66" id="fs_code_261572" value="WCCC24BLOG9021B11" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$150_donation||6e1f7552cf5253b709ef574f65b9509eaa54bec4db9316550df3d9d128081ac5" id="WCCC24BLOG9021B11_1" value="" class="variation-150-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$150</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$150.00</span></div></div></form>
+<!-- $300 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261573" rel="261573">
+<input type="hidden" name="price||99c2ead537db5fe9d36214d9af7f7367a020c87b67fc5d7c048a4f8f1189faee" id="fs_price_261573" value="300.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261573" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261573" />
+<input type="hidden" name="image||8c7852c76758b553ab8c15b32da1bfe95e75aa3a8a14f6a2e360a35ed55bdc6d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9001-Vitafood-foxy-thumb-38.jpg" id="foxyshop_cart_product_image_261573" />
+<input type="hidden" name="url||1fd97d9c0a015578b01d2194b489641822b70a3c2a460ace3055a74d4bb3a2d1" value="https://crosscatholic.org/products/donate-to-vitafood-300-gift/" id="fs_url_261573" />
+<input type="hidden" name="quantity_min||d8a536128c76fd2f86cd0a1c26db4d18005c4e5131b0ce13edef2ab17abecb99||open" value="0" id="fs_quantity_min_261573" />
+<input type="hidden" name="quantity_max||e0d5680140785a68364842997e496cc7c7846be4a0780d91400041081b075df7||open" value="0" id="fs_quantity_max_261573" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261573" />
+<input type="hidden" name="name||0ac11c02f09d747841ee83c18fb7ecf2d4d0e1e5500082f06014808fcfbf5100" id="fs_name_261573" value="Donate to Vitafood $300 Gift" />
+<input type="hidden" name="code||06f925dcfa8712af62fb1b71af06062194e627dcca6b3187cde66cd44445cf66" id="fs_code_261573" value="WCCC24BLOG9021B11" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$300_donation||d78a1171d9c37b67f2f5c4fed84c813c3f38e97bf05d7363f12a9d6993b97fdb" id="WCCC24BLOG9021B11_1" value="" class="variation-300-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$300</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$300.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_261574" rel="261574">
+<input type="hidden" name="price||84f9e865efaa062a8848c9c8a27050e8bf975de98bbc0638819e01207c856bb5" id="fs_price_261574" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_261574" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_261574" />
+<input type="hidden" name="image||8c7852c76758b553ab8c15b32da1bfe95e75aa3a8a14f6a2e360a35ed55bdc6d||open" value="https://crosscatholic.org/wp-content/uploads/2022/09/9001-Vitafood-foxy-thumb-38.jpg" id="foxyshop_cart_product_image_261574" />
+<input type="hidden" name="url||d710282a70ae504193d16f92b448f5718c2953733b3766eec3f9f60fab3ab3b8" value="https://crosscatholic.org/products/donate-to-vitafood-3/" id="fs_url_261574" />
+<input type="hidden" name="quantity_min||d8a536128c76fd2f86cd0a1c26db4d18005c4e5131b0ce13edef2ab17abecb99||open" value="0" id="fs_quantity_min_261574" />
+<input type="hidden" name="quantity_max||e0d5680140785a68364842997e496cc7c7846be4a0780d91400041081b075df7||open" value="0" id="fs_quantity_max_261574" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_261574" />
+<input type="hidden" name="name||62f8db114647416fe1d3785b1d2974210680f583def3690f0b56dc4176569021" id="fs_name_261574" value="Donate to Vitafood" />
+<input type="hidden" name="code||06f925dcfa8712af62fb1b71af06062194e627dcca6b3187cde66cd44445cf66" id="fs_code_261574" value="WCCC24BLOG9021B11" />
+<div class="foxyshop_variations">
+<input type="text" name="price||556bde49ea11f16200026fd1af205798e291c5313b36d0ef1e30ece8c9590f8d||open" id="WCCC24BLOG9021B11_1" value="" class="variation-price foxyshop_required" required style="font-size:14px;" placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
