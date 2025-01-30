@@ -1,0 +1,73 @@
+add_shortcode( 'donate_3663', function () {
+
+	$out = '<div class="flex-container">
+<!-- $134 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275465" rel="275465">
+<input type="hidden" name="price||10e4f7478fdd75f8015c9f6366f402c9251a337ae5b946b1891a734b186db333" id="fs_price_275465" value="134.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275465" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275465" />
+<input type="hidden" name="image||39df65181085a98240bba1375054eaf8a0c76b6553d4720068d50bf1097f3a58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-3663-Foxy.jpg" id="foxyshop_cart_product_image_275465" />
+<input type="hidden" name="url||9f83f2b4f3a3ff973a6f9c74760e404e6759fcd3cb2f1224f7c4037f2aeb7774" value="https://crosscatholic.org/products/3663-sinag-tala-scholarships-134-gift/" id="fs_url_275465" />
+<input type="hidden" name="quantity_min||7dfef1a3680a56d622c875c3765b0a4e5f5483a1ec7cf0ca257af5399f73d25f||open" value="0" id="fs_quantity_min_275465" />
+<input type="hidden" name="quantity_max||6de7b63420db3788124265d962155016dba7862b8a8aa64b3dea30ef0e7b451b||open" value="0" id="fs_quantity_max_275465" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275465" />
+<input type="hidden" name="name||8231fa19589ab7b2d7226d4b6f2ee6e6aeafc614cff74175ce1198396c63baa0" id="fs_name_275465" value="3663 - Sinag Tala Scholarships $134 gift" />
+<input type="hidden" name="code||e135754215a8e3e214fac7a71c5d169964e2fd0a9d698ce541e11bb28d19d72f" id="fs_code_275465" value="WCPJ3663ETYT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$134_donation||f1b349f7a0da1b0029a15ffd7ef975815a330302f0203759a10eddb7836cab2a" id="WCPJ3663ETYT_1" value="" class="variation-134-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$134</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$134.00</span></div></div></form>
+<!-- $267 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275466" rel="275466">
+<input type="hidden" name="price||6f4d3ba37f729ceebbc809047fb61d343e7516de384d9b5dc18b8219f30536cd" id="fs_price_275466" value="267.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275466" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275466" />
+<input type="hidden" name="image||39df65181085a98240bba1375054eaf8a0c76b6553d4720068d50bf1097f3a58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-3663-Foxy.jpg" id="foxyshop_cart_product_image_275466" />
+<input type="hidden" name="url||fe5b82e5b349c950a574426282d3b51806e4a1e91c57334bcdd6d6a0c5ec1146" value="https://crosscatholic.org/products/3663-sinag-tala-scholarships-267-gift/" id="fs_url_275466" />
+<input type="hidden" name="quantity_min||7dfef1a3680a56d622c875c3765b0a4e5f5483a1ec7cf0ca257af5399f73d25f||open" value="0" id="fs_quantity_min_275466" />
+<input type="hidden" name="quantity_max||6de7b63420db3788124265d962155016dba7862b8a8aa64b3dea30ef0e7b451b||open" value="0" id="fs_quantity_max_275466" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275466" />
+<input type="hidden" name="name||c770761b4ebd94fe81d2998cbc3facb87df459a056a1cf2bd586697282fbc7e3" id="fs_name_275466" value="3663 - Sinag Tala Scholarships $267 gift" />
+<input type="hidden" name="code||e135754215a8e3e214fac7a71c5d169964e2fd0a9d698ce541e11bb28d19d72f" id="fs_code_275466" value="WCPJ3663ETYT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$267_donation||50564aabcc0b929aa8c3f6412cc63d2c8e3fd18fc8904f2045dc6af6859eba04" id="WCPJ3663ETYT_1" value="" class="variation-267-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$267</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$267.00</span></div></div></form>
+<!-- $534 BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275467" rel="275467">
+<input type="hidden" name="price||15fd7004907bb987daad1e0e24403a96ad5659b8568df0bd7f21c67e08cc1047" id="fs_price_275467" value="534.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275467" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275467" />
+<input type="hidden" name="image||39df65181085a98240bba1375054eaf8a0c76b6553d4720068d50bf1097f3a58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-3663-Foxy.jpg" id="foxyshop_cart_product_image_275467" />
+<input type="hidden" name="url||33d8fe7547330b796273cd8b5706833611a681cdf3b0d2feb99997d756254d44" value="https://crosscatholic.org/products/3663-sinag-tala-scholarships-534-gift/" id="fs_url_275467" />
+<input type="hidden" name="quantity_min||7dfef1a3680a56d622c875c3765b0a4e5f5483a1ec7cf0ca257af5399f73d25f||open" value="0" id="fs_quantity_min_275467" />
+<input type="hidden" name="quantity_max||6de7b63420db3788124265d962155016dba7862b8a8aa64b3dea30ef0e7b451b||open" value="0" id="fs_quantity_max_275467" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275467" />
+<input type="hidden" name="name||65483188fbf9da7a6c961535825a584d0911cc748f7679fd592ead76d9d78ebf" id="fs_name_275467" value="3663 - Sinag Tala Scholarships $534 gift" />
+<input type="hidden" name="code||e135754215a8e3e214fac7a71c5d169964e2fd0a9d698ce541e11bb28d19d72f" id="fs_code_275467" value="WCPJ3663ETYT" />
+<div class="foxyshop_variations">
+<input type="hidden" name="$534_donation||f4e1d2e8e03aecefeed909aeaac3385abe2d07b9bf187b5a799ff71349c4c416" id="WCPJ3663ETYT_1" value="" class="variation-534-donation" />
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">$534</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_oldprice">$0.00</span><span class="foxyshop_currentprice foxyshop_saleprice">$534.00</span></div></div></form>
+<div class="or-text">or</div>
+<!-- OTHER BUTTON -->
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_275468" rel="275468">
+<input type="hidden" name="price||73c64b8bb8f70b5dd856e188564bd9deb0d278b728d39ab770195771dfa2eb44" id="fs_price_275468" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_275468" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_275468" />
+<input type="hidden" name="image||39df65181085a98240bba1375054eaf8a0c76b6553d4720068d50bf1097f3a58||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Project-img-3663-Foxy.jpg" id="foxyshop_cart_product_image_275468" />
+<input type="hidden" name="url||b478ec3847d6e48b9d4f31f1344feaec3bb798e7ab92c74e74dd13b8099de550" value="https://crosscatholic.org/products/3663-sinag-tala-scholarships/" id="fs_url_275468" />
+<input type="hidden" name="quantity_min||7dfef1a3680a56d622c875c3765b0a4e5f5483a1ec7cf0ca257af5399f73d25f||open" value="0" id="fs_quantity_min_275468" />
+<input type="hidden" name="quantity_max||6de7b63420db3788124265d962155016dba7862b8a8aa64b3dea30ef0e7b451b||open" value="0" id="fs_quantity_max_275468" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_275468" />
+<input type="hidden" name="name||62f0354dea9fcdcd7d80f815e3364fd30a850c0c4d6dd6681eb72069cba61eb3" id="fs_name_275468" value="3663 - Sinag Tala Scholarships" />
+<input type="hidden" name="code||e135754215a8e3e214fac7a71c5d169964e2fd0a9d698ce541e11bb28d19d72f" id="fs_code_275468" value="WCPJ3663ETYT" />
+<div class="foxyshop_variations">
+<input type="text" name="price||04fc1966fa8b46b9bee47530f86da1415bc912f66c5c8c7700ddf7db9ff1d582||open" id="WCPJ3663ETYT_1" value="" class="variation-price foxyshop_required" required placeholder="$ amount"/>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="other_foxyshop_button">donate</button>
+<div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>
+</div>';
+
+	return $out;
+} );
