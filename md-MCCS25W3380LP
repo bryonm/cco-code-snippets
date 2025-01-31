@@ -1,0 +1,32 @@
+add_shortcode( 'md-MCCS25W3380LP', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_274887" rel="274887">
+<input type="hidden" name="price||474e7758c286e8102ce0157ad487b8ec021f193671235ee5b8ff74df332ab9a9" id="fs_price_274887" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_274887" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_274887" />
+<input type="hidden" name="image||7effcf3ac438e588e09186305e914c9092210580978cbcad0fe83e64d7099829||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/MD-Amigos-LP-foxy-thumb.jpg" id="foxyshop_cart_product_image_274887" />
+<input type="hidden" name="url||aef4f64e14d869fb5d286c4403edb976b7c880943d7c1af740dac75969f93d61" value="https://crosscatholic.org/products/donate-to-clean-water-microenterprise-and-education/" id="fs_url_274887" />
+<input type="hidden" name="quantity_min||05b19a186098268c80466ba7505cbfc08cf08fd99e22c159e38ed165716ec72e||open" value="0" id="fs_quantity_min_274887" />
+<input type="hidden" name="quantity_max||98672b12c201254cc908ee831e72691ffc6f59f3e1094527f7c7db1b6bf3bf71||open" value="0" id="fs_quantity_max_274887" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_274887" />
+<input type="hidden" name="name||e62bea096e15dc75c773964c7ea1b495d3d79c17dd3cea98441d767b38cc325a" id="fs_name_274887" value="Donate to Clean Water, Microenterprise and Education" />
+<input type="hidden" name="code||7737777163f17dd3147f20c1c53909a0c9a367dcc00626023e80af2200378dc1" id="fs_code_274887" value="MCCS25W3380LP" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCS25W3380LP_1" class="variation-donation">
+<option value="$10,224 - clean-air kitchens for 18 families{p:10224}||84bc8b972e0c523c696586b57046cb3b5fbf30723e3e59c780db7ccad46da45c" priceset="1022400">$10,224 - clean-air kitchens for 18 families</option>
+<option selected value="$5,158 - clean water for 24 people{p:5158}||af95caa993ff84b28cdfa818ec6a7ba8fc52eaf732772c4be27b89d3b287b537" priceset="515800">$5,158 - clean water for 24 people</option>
+<option value="$2,826 - microenterprise for 6 families{p:2826}||7878c47ceba9cba84ed67708e54fada62e73e849d893b3bb320bbfe54a01ce37" priceset="282600">$2,826 - microenterprise for 6 families</option>
+<option value="$1,040 - education support for 20 students{p:1040}||36976a635edccdf2b1f3601a0f39b60bc894debf895c4ac4df0fcb6b314cc1fe" priceset="104000">$1,040 - education support for 20 students</option>
+<option value="Other{dkey:custom-price}||b7d53854e5e6a353e749eeb2adfd52506161a243bf625780f518b5a0bf41e090" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCS25W3380LP_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||358a73b205a4b830123ec107eb795162607c35d3d644a57841d84425322713ef||open" id="MCCS25W3380LP_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
