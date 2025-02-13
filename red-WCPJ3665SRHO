@@ -1,0 +1,31 @@
+add_shortcode( 'red-WCPJ3665SRHO', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_277714" rel="277714">
+<input type="hidden" name="price||5d578e843c45dce5444c1bad1156ef3065ccc67dc725bc2d761e321f60557d2f" id="fs_price_277714" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_277714" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_277714" />
+<input type="hidden" name="image||148c6b9418584b56171daa87b8e7b5e15b906cdf0160a107bf80ed344e2bfd65||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/Guatemala-campaign-foxy-thumb.jpg" id="foxyshop_cart_product_image_277714" />
+<input type="hidden" name="url||204f2f7c1353a0805df722fb460a2ff342c84737d57e7b40f72b5ad6456b022e" value="https://crosscatholic.org/products/donate-to-build-a-home-8/" id="fs_url_277714" />
+<input type="hidden" name="quantity_min||8ce8275facd5b4a699d5395f613e38cced448b035cdd3b18d55dad0918316035||open" value="0" id="fs_quantity_min_277714" />
+<input type="hidden" name="quantity_max||cf47f3211a0dfcd3376ea03b1a93d90b50460dbef360de6b857bc3f4552785db||open" value="0" id="fs_quantity_max_277714" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_277714" />
+<input type="hidden" name="name||6ceade8caa92d7abe64f29c39925764745308a07dfc13455898d505012f9496a" id="fs_name_277714" value="Donate to Build a Home" />
+<input type="hidden" name="code||b22be8e364a80a4ac3d6085fb39c852b1f8725da0bc697874526ffe69e0fd970" id="fs_code_277714" value="WCPJ3665SRHO" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WCPJ3665SRHO_1" class="variation-donation">
+<option value="$92{p:92}||8d9850fef3bd0f794a4c16a7f276bfe8abf1c63853de43ca3c79f4e35f02c671" priceset="9200">$92</option>
+<option value="$926{p:926}||919fce6771894f7427f35c65822b2e1a70af52cdc7dda9d19c8ca4e655332ea1" priceset="92600">$926</option>
+<option value="$9,286{p:9286}||ee92dc6b954eefbf942a1ba630ea5f10b7c5b845d39b1e53bc191c37db4e0948" priceset="928600">$9,286</option>
+<option value="Other{dkey:custom-price}||81cf2778c9e1d9d52b2f24b742ee4154ee845e755831352ed08a004cb3a32c67" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WCPJ3665SRHO_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||37e96b68e26704fbe871b97ece6b316249c08d15d447f537241d26ba7fff1f4c||open" id="WCPJ3665SRHO_2" value="" class="variation-price foxyshop_required required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
