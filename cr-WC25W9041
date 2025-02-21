@@ -1,0 +1,38 @@
+add_shortcode( 'cr-WC25W9041', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_277988" rel="277988">
+<input type="hidden" name="price||f0c038e028a4aa987afa16bf21f04d2925f9476e904fc6797f14f4b10610198b" id="fs_price_277988" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_277988" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_277988" />
+<input type="hidden" name="image||0be2f235c6049653f89896edaeb1bd940f394832ff0fbc740e9f39f3b05ba226||open" value="https://crosscatholic.org/wp-content/uploads/2025/01/MD-WFL-LP-foxy-thumb.jpg" id="foxyshop_cart_product_image_277988" />
+<input type="hidden" name="url||c6318d9c5cf85e1cf59a025b35b2599932879ec291104380bcab1d464767aacb" value="https://crosscatholic.org/products/giving-water-to-those-in-need-16/" id="fs_url_277988" />
+<input type="hidden" name="quantity_min||198840a6908e38310fae43a7626fd3a94ee7e4cf55cbb312253782b48fb21f2f||open" value="0" id="fs_quantity_min_277988" />
+<input type="hidden" name="quantity_max||5d8cffe0c1fe5c8a1ff467c2b17dd688a4e4a9244f1557b1a2a0457d12ba0f80||open" value="0" id="fs_quantity_max_277988" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_277988" />
+<input type="hidden" name="sub_frequency||2449e7466dad7781803347b4acd09878741deb07e6e06f87d9a5915f1deeef70||open" id="fs_sub_frequency_277988" value="" />
+<input type="hidden" name="name||f7720fa5edd623cfe0ca45d28dbcb948f9832c1a2eb1b2a6543b505840891e1a" id="fs_name_277988" value="Giving Water to Those in Need" />
+<input type="hidden" name="code||e2fcf3df71bf69789bf5397d37f58e9773aaa391018a00ff61fc832910932e22" id="fs_code_277988" value="WC25W9041" />
+<div class="foxyshop_variations">
+<select name="Donation" id="WC25W9041_1" class="variation-donation">
+<option value="$46 blesses two people with water{p:46}||e95299e5f33887851357ddf458df1d88a1d924cbdad68ceda397467606f84fa6" priceset="4600">$46 blesses two people with water</option>
+<option selected value="$69 blesses three people with water{p:69}||2b74aaf8588924b629e8a11c6243e78f7b9c408d05bfbf62dc56bf41fd793e4a" priceset="6900">$69 blesses three people with water</option>
+<option value="$138 blesses six people with water{p:138}||6c23eac33f30ebf2bcc1660ed8c7b11b5956ec10edc85a34a03c8abb2040a7b6" priceset="13800">$138 blesses six people with water</option>
+<option value="$184 blesses eight people with water{p:184}||bbad2f76af8d15c62abe7ee60dceff23278759fcc46e73213da1ed028c54a0fd" priceset="18400">$184 blesses eight people with water</option>
+<option value="Other{dkey:custom-price}||e5cbdb47a711628df1332831684bb0af362cb4128d614c7ef404743fdc5e7931" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="WC25W9041_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||5735d65c170078bd73c8155f8f5634e124ed305c4add9e0b547a790c23310fe0||open" id="WC25W9041_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="One time{fr:}||0f70de5ffe8ad4c66a2b403ace34d401bb03b06ab9a8325ce8202e5d16f4b283" id="WC25W9041_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<label for="WC25W9041_3_0" class="variation-choose-one foxyshop_no_width">Once</label>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Every Month (on the 25th){fr:1m|c+MOT}||ec6b0960d0908b749bca15e6ae276784019b09a287031fb54a38f52e215819e6" id="WC25W9041_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<label for="WC25W9041_3_1" class="variation-choose-one foxyshop_no_width">Monthly</label>
+<div class="clr"></div></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
