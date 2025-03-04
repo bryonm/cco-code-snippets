@@ -1,0 +1,35 @@
+add_shortcode( 'md-UCNMG25W3721', function () {
+
+	$out = '<div class="donation_radio_btns">
+
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_278719" rel="278719">
+<input type="hidden" name="price||a697c350b2b83c6f1c8d04320dd6b5ba065c355e5d5364505f6981e8a2000f50" id="fs_price_278719" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_278719" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_278719" />
+<input type="hidden" name="image||2502f830e21e5fb215f5a980ccddfa19a1d449315c79b2f32df6e90bbf154879||open" value="https://crosscatholic.org/wp-content/uploads/2024/08/Guatemala-campaign-foxy-thumb.jpg" id="foxyshop_cart_product_image_278719" />
+<input type="hidden" name="url||f4ca053b285aae0a3441a19e8982616736584ab36ba8b7b55802d02294475bbf" value="https://crosscatholic.org/products/donate-to-build-a-home-9/" id="fs_url_278719" />
+<input type="hidden" name="quantity_min||7037ef179e657216ccaef613b8706284ea310da253926692583797062e36eae7||open" value="0" id="fs_quantity_min_278719" />
+<input type="hidden" name="quantity_max||04cecec73a1937c1230a36aadff7b1cb3897abb8798b0159b36a85d483ea40a7||open" value="0" id="fs_quantity_max_278719" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_278719" />
+<input type="hidden" name="name||4e571536d41dc536003467ef3ff128f6d146aec324489bf721aaeafaeb521be0" id="fs_name_278719" value="Donate to Build a Home" />
+<input type="hidden" name="code||1a079a306570849f8df07926f3de962f7c579b213d4c132f513897706d6c5fb4" id="fs_code_278719" value="UCNMG25W3721" />
+<div class="foxyshop_variations">
+<select name="Donation" id="UCNMG25W3721_1" class="variation-donation">
+<option value="$50 can help build a home {p:50}||3f464f1a848ec1718bfce23cda8ded628d0c38d6b102fdc63627f76da973e960" priceset="5000">$50 can help build a home</option>
+<option value="$100 can help build a home {p:100}||52eda485379668086c6d9fcf63a850beed667738c1416ba6713160fa90ecd1b3" priceset="10000">$100 can help build a home</option>
+<option value="$500 can help build a home {p:500}||49ea12d9d258b7b3713053d36e512ba89739a28890fd9272c882ec10c10aa502" priceset="50000">$500 can help build a home</option>
+<option value="$1,000 can help build a home {p:1000}||fafc5045701ece66d74a9684f529e511dd55c267368a758c3be1080ea1cb45a9" priceset="100000">$1,000 can help build a home</option>
+<option value="$2,500 can help build a home{p:2500}||09fce16854367c890dedf80af7b9db152d4af255001c9d15e13520f2b57c5652" priceset="250000">$2,500 can help build a home</option>
+<option value="Other{dkey:custom-price}||b8665aa5686298e34f78db9967d54a908fa0d0c9aafb8a73cb827c73fe153361" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="UCNMG25W3721_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||7ab603263a0c564ef6a83270c05a7b7a1cbbfb70a1ec2d53d5ebd7855d0119f1||open" id="UCNMG25W3721_2" value="" class="variation-price foxyshop_required required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
