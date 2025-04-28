@@ -1,38 +1,36 @@
-add_shortcode( 'sp-cr-WCS25W9001', function () {
+add_shortcode( 'sp-cr-WCS25W9001-comida', function () {
 
 	$out = '<div class="donation_radio_btns">
-<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_277676" rel="277676">
-<input type="hidden" name="price||341d98e140a928e68a8c6c0aef952228d300c2114b642b4c794130fa871e1f64" id="fs_price_277676" value="0.00" />
-<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_277676" />
-<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_277676" />
-<input type="hidden" name="image||4499c8f7f88c8e135efc0108c06b75a5553e7b3986a7d30b46026ed23715dd7c||open" value="https://crosscatholic.org/wp-content/uploads/2024/04/milk-powder-2025-foxy-thumb.jpg" id="foxyshop_cart_product_image_277676" />
-<input type="hidden" name="url||3fbc30436985523e9b73453ee6d6f4b76a13fc742b9128dcbd5e3e81fc3e4c58" value="https://crosscatholic.org/products/haz-una-donacion-hoy-y-brinda-leche-en-polvo-5/" id="fs_url_277676" />
-<input type="hidden" name="quantity_min||387b4d2c4eb95010f98cf2bebd1c8706804e9e6726fe248916c1ddcf5c903de9||open" value="0" id="fs_quantity_min_277676" />
-<input type="hidden" name="quantity_max||17989b637bb794ae60a9813c3311a0b2140d61931a3e83ec242b07c20c356dd4||open" value="0" id="fs_quantity_max_277676" />
-<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_277676" />
-<input type="hidden" name="sub_frequency||989b68af0b0b46c07f14f5339f1d72bcce0f0e857ec4c012d449bf0476a0e1e3||open" id="fs_sub_frequency_277676" value="" />
-<input type="hidden" name="name||afac2a3acb38015cdc889228b8aafc9e0883b7a1bb1e3ab5286731a2eefa8468" id="fs_name_277676" value="Haz una donación hoy y brinda leche en polvo" />
-<input type="hidden" name="code||b02d6684dd0137aba90edc98bca88be634b437d7939170f34d4d605fb0bcb20f" id="fs_code_277676" value="WCS25W9001" />
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_283374" rel="283374">
+<input type="hidden" name="price||341d98e140a928e68a8c6c0aef952228d300c2114b642b4c794130fa871e1f64" id="fs_price_283374" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_283374" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_283374" />
+<input type="hidden" name="image||4499c8f7f88c8e135efc0108c06b75a5553e7b3986a7d30b46026ed23715dd7c||open" value="https://crosscatholic.org/wp-content/uploads/2025/03/Core-MAY-LP-foxy-thumb.jpg" id="foxyshop_cart_product_image_283374" />
+<input type="hidden" name="url||edf7fe395bfdd3985695d9cc1385915185315a7e48102a01b2b6d9a9523f082e" value="https://crosscatholic.org/products/comida-sana-donacion-12/" id="fs_url_283374" />
+<input type="hidden" name="quantity_min||387b4d2c4eb95010f98cf2bebd1c8706804e9e6726fe248916c1ddcf5c903de9||open" value="0" id="fs_quantity_min_283374" />
+<input type="hidden" name="quantity_max||17989b637bb794ae60a9813c3311a0b2140d61931a3e83ec242b07c20c356dd4||open" value="0" id="fs_quantity_max_283374" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_283374" />
+<input type="hidden" name="sub_frequency||989b68af0b0b46c07f14f5339f1d72bcce0f0e857ec4c012d449bf0476a0e1e3||open" id="fs_sub_frequency_283374" value="" />
+<input type="hidden" name="name||c91e032be0fd827f3e538a1f3af5870777bfc02e67b0f9bcf76558f7ea6c0407" id="fs_name_283374" value="Comida sana donación" />
+<input type="hidden" name="code||b02d6684dd0137aba90edc98bca88be634b437d7939170f34d4d605fb0bcb20f" id="fs_code_283374" value="WCS25W9001" />
 <div class="foxyshop_variations">
 <select name="Donation" id="WCS25W9001_1" class="variation-donation">
-<option value="$28 pueden proporcionar 100 vasos de leche{p:28}||b806c7cfc20cf3dcea2735871b6268a17187c499bd7a17470ad1d95cfd516879" priceset="2800">$28 pueden proporcionar 100 vasos de leche</option>
-<option selected value="$56 pueden proporcionar 200 vasos de leche{p:56}||47623058f7023ff4823ea08fe94fff7fbad6a83525afabfb0d49e1adca67462a" priceset="5600">$56 pueden proporcionar 200 vasos de leche</option>
-<option value="$112 pueden proporcionar 400 vasos de leche{p:112}||bf97564ae4a1337df24b9bcacc3d7760d7533799111c02b78c00a0a588ee1ec5" priceset="11200">$112 pueden proporcionar 400 vasos de leche</option>
-<option value="$224 pueden proporcionar 800 vasos de leche{p:224}||b005e9311a5808db8c14d1b36883b8a88326ebdb438234583a693d1657982d11" priceset="22400">$224 pueden proporcionar 800 vasos de leche</option>
+<option value="$50 proporcionan 714 comidas{p:50}||4a4cde94a1f6272c23bad947c5ce0f69b41dfb7a70eee38d89ff7b9af33aea98" priceset="5000">$50 proporcionan 714 comidas</option>
+<option selected value="$70 proporcionan 1,000 comidas{p:700}||bb77aab0732da6c9d202ddae80d70682b763bcf2538bc5482a418a84dfe844be" priceset="70000">$70 proporcionan 1,000 comidas</option>
+<option value="$125 proporcionan 1,785 comidas{p:125}||7e5f79c142bee0cd226247c96b311d7cff2cb8b64839382082521b7baf742f89" priceset="12500">$125 proporcionan 1,785 comidas</option>
+<option value="$210 proporcionan 3,000 comidas{p:210}||e6c1efac06c0bdfae1de7a7e5b018a77d368e610450223d27c90ebef1b163d09" priceset="21000">$210 proporcionan 3,000 comidas</option>
 <option value="Otro{dkey:custom-price}||16e60e024ddf85dc61d80780386959723e9dd822a7f29a4080e81ca6b22779ef" displaykey="custom-price">Otro</option>
 </select>
 <div class="clr"></div>
-<label for="WCS25W9001_2" class="variation-price dkey" dkey="custom-price"></label>
+<label for="WCS25W9001_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
 <input type="text" name="price||490a4184b0ad62bacf21b5e2824483179c6184765bccea513c9a49112716bd58||open" id="WCS25W9001_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="$$"/>
 <div class="clr"></div>
-<div class="foxyshop_radio_wrapper">
-<div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||75a8b8a2b2ba0158564840316b7ce9c5b3d08faa6370223dd2eeabf47528b6fd" id="WCS25W9001_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
+<div class="foxyshop_radio_wrapper"><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Una sola vez{fr:}||75a8b8a2b2ba0158564840316b7ce9c5b3d08faa6370223dd2eeabf47528b6fd" id="WCS25W9001_3_0" class="variation-choose-one" checked="checked" subfrequency=""></div>
 <label for="WCS25W9001_3_0" class="variation-choose-one foxyshop_no_width">Una sola vez</label>
-<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="El 25 de cada mes{fr:1m|c+MOT}||760dc512a16995b70bf701f28c6ea6cdb71715db4619c93c17d9064692de2e0f" id="WCS25W9001_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
+<div class="clr"></div><div class="foxyshop_short_element_holder"><input type="radio" name="Choose_one:" value="Mensual (el 25 de cada mes){fr:1m|c+MOT}||953a21c58c4db07d4926cf7f05d1490bf3cba6427ce8419a79b114048b98301f" id="WCS25W9001_3_1" class="variation-choose-one" codeadd="MOT" subfrequency="1m"></div>
 <label for="WCS25W9001_3_1" class="variation-choose-one foxyshop_no_width">Mensual</label>
-<div class="clr"></div></div><div class="clr"></div>
+<div class="clr"></div></div>
 </div>
-
 <button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Done</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
 </div>';
 
