@@ -1,0 +1,32 @@
+add_shortcode( 'md-MCCM25W0000TLP', function () {
+
+	$out = '<div class="donation_radio_btns">
+<form action="https://crosscatholic1.foxycart.com/cart" method="post" accept-charset="utf-8" class="foxyshop_product" id="foxyshop_product_form_285192" rel="285192">
+<input type="hidden" name="price||d7ee03835a5f75b5114d5400f753053c8b1f5270b47144359666b28618c1def0" id="fs_price_285192" value="0.00" />
+<input type="hidden" name="x:originalprice" value="0.00" id="originalprice_285192" />
+<input type="hidden" name="x:l18n" value="$|.|,|1|0" id="foxyshop_l18n_285192" />
+<input type="hidden" name="image||1151406578e4d62f5311e02260bdd04ae76d33f2de6c41cf5e6645cfe5881f33||open" value="https://crosscatholic.org/wp-content/uploads/2025/05/MD-Midyear-LP-foxythumb.jpg" id="foxyshop_cart_product_image_285192" />
+<input type="hidden" name="url||393ce7a58438c398371697345f10af5d4a90b88d4407dff280689c4d97fbf555" value="https://crosscatholic.org/products/donate-to-greatest-need-7/" id="fs_url_285192" />
+<input type="hidden" name="quantity_min||a1b00fbaee81500defdc8de1eb680b264d5e227da4ef72ba6103c29998ffed6b||open" value="0" id="fs_quantity_min_285192" />
+<input type="hidden" name="quantity_max||76374064db70b363e54d20969d1b33382e67bf133f95a25422676763a0bc1e8e||open" value="0" id="fs_quantity_max_285192" />
+<input type="hidden" name="x:quantity_max" value="0" id="original_quantity_max_285192" />
+<input type="hidden" name="name||b270e771a55cf223a286696b30b7e782523a40178f0fc369f88266e51bae12fb" id="fs_name_285192" value="Donate to Greatest Need" />
+<input type="hidden" name="code||98f170573ab960a140f19df3089873a9cd70736692ca04f80f04381cf29c6a37" id="fs_code_285192" value="MCCM25W0000TLP" />
+<div class="foxyshop_variations">
+<select name="Donation" id="MCCM25W0000TLP_1" class="variation-donation">
+<option value="$5,315 can provide 75,929 meals to hungry children and families{p:5315}||d3648a67a4a813867c006f36927ce14c581536c5e2408821896a4910688c7270" priceset="531500">$5,315 can provide 75,929 meals to hungry children and families</option>
+<option selected value="$2,035 can help bring safe drinking water to 83 people{p:2035}||a4c2d06ba09bb6073234db1a69a039f9b8b679575c6261e7e2f76cce8527d368" priceset="203500">$2,035 can help bring safe drinking water to 83 people</option>
+<option value="$1,317 can provide 18,814 meals to hungry children and families{p:1317}||b0273db58983ee0fb917946bd985a77f88101d245ca5b214f5045a9f4ea697a3" priceset="131700">$1,317 can provide 18,814 meals to hungry children and families</option>
+<option value="$817 can help sponsor self-help projects to empower families{p:817}||d49bd30b5b14884dbd180ff588488c4f9226acd664cfd91580cd725989754ad1" priceset="81700">$817 can help sponsor self-help projects to empower families</option>
+<option value="Other{dkey:custom-price}||c4fa6407f914052b866c003cf9ec857b14d7f74c7abf0f1578e8ca01b9e89b7d" displaykey="custom-price">Other</option>
+</select>
+<div class="clr"></div>
+<label for="MCCM25W0000TLP_2" class="variation-price foxyshop_required dkey" dkey="custom-price"></label>
+<input type="text" name="price||c2162b2359673661e04169cbb397e502d114824980c4890d795370f124c2e9d1||open" id="MCCM25W0000TLP_2" value="" class="variation-price foxyshop_required dkey" dkey="custom-price" placeholder="Enter $ amount"/>
+<div class="clr"></div>
+</div>
+<button type="submit" name="x:productsubmit" id="productsubmit" class="foxyshop_button">Donate</button><div id="foxyshop_main_price"><div class="foxyshop_price"><span class="foxyshop_currentprice">$0.00</span></div></div></form>
+</div>';
+
+	return $out;
+} );
